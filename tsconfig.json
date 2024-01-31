@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "removeComments": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "allowImportingTsExtensions": true,
+    "module": "esNext",
+    "target": "esNext",
+    "lib": ["es6", "ESNext"],
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules"],
+  "ts-node": {
+    "esm": true
+  }
+}
