@@ -6,7 +6,7 @@ import cors from "cors";
 import "./env.ts";
 import { initializeConnection } from "./database.ts";
 
-import ApiRouter from "./src/routes/api.ts";
+import ApiRouter from "@routes/api.ts";
 
 const app = express();
 

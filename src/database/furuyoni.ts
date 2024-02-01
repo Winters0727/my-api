@@ -1,25 +1,25 @@
-import indexSchema from '../models/furuyoni/index.model.ts';
-import CharacterSchema from '../models/furuyoni/character.model.ts';
-import FaqSchema from '../models/furuyoni/faq.model.ts';
-import CardSchema from '../models/furuyoni/card.model.ts';
+import indexSchema from "@models/furuyoni/index.model.ts";
+import CharacterSchema from "@models/furuyoni/character.model.ts";
+import FaqSchema from "@models/furuyoni/faq.model.ts";
+import CardSchema from "@models/furuyoni/card.model.ts";
 
 export default {
-  name: 'furuyoni',
+  name: "furuyoni",
   collections: [
     {
-      name: 'index',
+      name: "index",
       schema: indexSchema,
     },
     {
-      name: 'character',
+      name: "character",
       schema: CharacterSchema,
     },
     {
-      name: 'card',
+      name: "card",
       schema: CardSchema,
     },
     {
-      name: 'faq',
+      name: "faq",
       schema: FaqSchema,
     },
   ],

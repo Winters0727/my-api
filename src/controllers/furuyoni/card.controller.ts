@@ -1,11 +1,11 @@
-import type { Request, Response } from 'express';
+import type { Request, Response } from "express";
 
-import { getCollection } from '../../../database.ts';
+import { getCollection } from "../../../database.ts";
 
-import type { Language } from '../../types/furuyoni/index.type.ts';
-import type { CharacterMode } from '../../types/furuyoni/character.type.ts';
+import type { Language } from "@customTypes/furuyoni/index.type.ts";
+import type { CharacterMode } from "@customTypes/furuyoni/character.type.ts";
 
-const DEFAULT_LANG = 'kor';
+const DEFAULT_LANG = "kor";
 
 const getCardByCode = async (req: Request, res: Response) => {
   try {
@@ -13,7 +13,7 @@ const getCardByCode = async (req: Request, res: Response) => {
     const charName = req.query.character as string | undefined;
     const lang = req.query.lang as Language | undefined;
 
-    const cardCollection = getCollection('furuyoni', 'card');
+    const cardCollection = getCollection("furuyoni", "card");
 
     if (charName) {
       const card = await cardCollection.findOne(
@@ -36,12 +36,12 @@ const getCardByCode = async (req: Request, res: Response) => {
             deployCount: 1,
             cost: 1,
           },
-        },
+        }
       );
 
       if (card)
         return res.status(200).json({
-          result: 'success',
+          result: "success",
           card,
         });
     } else {
@@ -64,23 +64,23 @@ const getCardByCode = async (req: Request, res: Response) => {
             deployCount: 1,
             cost: 1,
           },
-        },
+        }
       );
 
       if (card)
         return res.status(200).json({
-          result: 'success',
+          result: "success",
           card,
         });
     }
     return res.status(404).json({
-      result: 'fail',
-      error: 'Not found',
+      result: "fail",
+      error: "Not found",
     });
   } catch (err: any) {
     return res.status(500).json({
-      result: 'fail',
-      error: 'Internal Server Error',
+      result: "fail",
+      error: "Internal Server Error",
     });
   }
 };
@@ -91,12 +91,12 @@ const getCardsByCharName = async (req: Request, res: Response) => {
     const lang = req.query.lang as Language | undefined;
     const mode = req.query.mode as CharacterMode | undefined;
 
-    const cardCollection = getCollection('furuyoni', 'card');
+    const cardCollection = getCollection("furuyoni", "card");
 
     if (mode) {
-      const characterCollection = getCollection('furuyoni', 'character');
+      const characterCollection = getCollection("furuyoni", "character");
       const charData = await characterCollection.findOne({
-        'engData.name.O': { $eq: charName },
+        "engData.name.O": { $eq: charName },
       });
 
       const modeUpperCase = mode.toUpperCase();
@@ -131,7 +131,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
 
         if (cards)
           return res.status(200).json({
-            result: 'success',
+            result: "success",
             cards,
           });
       }
@@ -158,18 +158,18 @@ const getCardsByCharName = async (req: Request, res: Response) => {
 
       if (cards)
         return res.status(200).json({
-          result: 'success',
+          result: "success",
           cards,
         });
     }
     return res.status(404).json({
-      result: 'fail',
-      error: 'Not found',
+      result: "fail",
+      error: "Not found",
     });
   } catch (err: any) {
     return res.status(500).json({
-      result: 'fail',
-      error: 'Internal Server Error',
+      result: "fail",
+      error: "Internal Server Error",
     });
   }
 };

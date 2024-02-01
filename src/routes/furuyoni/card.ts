@@ -1,13 +1,13 @@
-import express from 'express';
+import express from "express";
 
 import {
   getCardByCode,
   getCardsByCharName,
-} from '../../controllers/furuyoni/card.controller.ts';
+} from "@controllers/furuyoni/card.controller.ts";
 
 const router = express.Router();
 
-router.get('/:code', getCardByCode);
-router.get('/character/:charName', getCardsByCharName);
+router.get("/:code", getCardByCode);
+router.get("/character/:charName", getCardsByCharName);
 
 export default router;

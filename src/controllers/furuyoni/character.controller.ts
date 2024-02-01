@@ -1,23 +1,23 @@
-import type { Request, Response } from 'express';
-import { WithoutId } from 'mongodb';
+import type { Request, Response } from "express";
+import { WithoutId } from "mongodb";
 
-import { getCollection } from '../../../database.ts';
+import { getCollection } from "../../../database.ts";
 
-import type { Language } from '../../types/furuyoni/index.type.ts';
+import type { Language } from "@customTypes/furuyoni/index.type.ts";
 import type {
   Character,
   CharacterMode,
-} from '../../types/furuyoni/character.type.ts';
+} from "@customTypes/furuyoni/character.type.ts";
 
-const DEFAULT_LANG = 'kor';
-const DEFAULT_MODE = 'O';
+const DEFAULT_LANG = "kor";
+const DEFAULT_MODE = "O";
 
 const getCharacterList = async (req: Request, res: Response) => {
   try {
     const lang = req.query.lang as Language | undefined;
     const mode = req.query.mode as CharacterMode | undefined;
 
-    const characterCollection = getCollection('furuyoni', 'character');
+    const characterCollection = getCollection("furuyoni", "character");
 
     const langProjectionCondition = `$${
       (lang && lang.toLowerCase()) || DEFAULT_LANG
@@ -36,14 +36,14 @@ const getCharacterList = async (req: Request, res: Response) => {
       .filter((name) => name);
 
     return res.status(200).json({
-      result: 'success',
+      result: "success",
       characters,
       length: characters.length,
     });
   } catch (err: any) {
     return res.status(500).json({
-      result: 'fail',
-      error: 'Internal Server Error',
+      result: "fail",
+      error: "Internal Server Error",
     });
   }
 };
@@ -53,7 +53,7 @@ const getCharacter = async (req: Request, res: Response) => {
     const { parameter } = req.params;
     const lang = req.query.lang as Language | undefined;
 
-    const characterCollection = getCollection('furuyoni', 'character');
+    const characterCollection = getCollection("furuyoni", "character");
 
     const character: WithoutId<Character> | null =
       await characterCollection.findOne<Character>(
@@ -65,7 +65,7 @@ const getCharacter = async (req: Request, res: Response) => {
               },
             },
             {
-              'engData.name.O': {
+              "engData.name.O": {
                 $eq: parameter.toLowerCase(),
               },
             },
@@ -83,24 +83,24 @@ const getCharacter = async (req: Request, res: Response) => {
             specialCards: 1,
             extraCards: 1,
           },
-        },
+        }
       );
 
     if (character) {
       return res.status(200).json({
-        result: 'success',
+        result: "success",
         character,
       });
     }
 
     return res.status(404).json({
-      result: 'fail',
-      error: 'Not found',
+      result: "fail",
+      error: "Not found",
     });
   } catch (err: any) {
     return res.status(500).json({
-      result: 'fail',
-      error: 'Internal Server Error',
+      result: "fail",
+      error: "Internal Server Error",
     });
   }
 };

@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "strict": true,
     "removeComments": true,
     "noImplicitThis": true,
@@ -12,10 +13,21 @@
     "module": "esNext",
     "target": "esNext",
     "lib": ["es6", "ESNext"],
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "outDir": "dist",
+    "paths": {
+      "@controllers/*": ["src/controllers/*"],
+      "@routes/*": ["src/routes/*"],
+      "@database/*": ["src/database/*"],
+      "@migration/*": ["src/migration/*"],
+      "@models/*": ["src/models/*"],
+      "@customTypes/*": ["src/types/*"]
+    }
   },
-  "exclude": ["node_modules"],
+  "include": ["app.ts", "database.ts", "env.ts", "src/**/*.ts"],
+  "exclude": ["node_modules", "dist"],
   "ts-node": {
-    "esm": true
+    "esm": true,
+    "require": ["tsconfig-paths/register"]
   }
 }

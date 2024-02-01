@@ -1,35 +1,35 @@
-export type CharacterMode = 'O' | 'A1' | 'A2' | 'AA1';
+export type CharacterMode = "O" | "A1" | "A2" | "AA1";
 
 export type CharacterCards = {
   [mode in CharacterMode]: string[];
 };
 
 export type CharacterName =
-  | 'akina'
-  | 'chikage'
-  | 'hagane'
-  | 'hatsumi'
-  | 'himika'
-  | 'honoka'
-  | 'kamuwi'
-  | 'kanawe'
-  | 'korunu'
-  | 'kururu'
-  | 'megumi'
-  | 'misora'
-  | 'mizuki'
-  | 'oboro'
-  | 'raira'
-  | 'renri'
-  | 'saine'
-  | 'shinra'
-  | 'shisui'
-  | 'thallya'
-  | 'tokoyo'
-  | 'utsuro'
-  | 'yatsuha'
-  | 'yukihi'
-  | 'yurina';
+  | "akina"
+  | "chikage"
+  | "hagane"
+  | "hatsumi"
+  | "himika"
+  | "honoka"
+  | "kamuwi"
+  | "kanawe"
+  | "korunu"
+  | "kururu"
+  | "megumi"
+  | "misora"
+  | "mizuki"
+  | "oboro"
+  | "raira"
+  | "renri"
+  | "saine"
+  | "shinra"
+  | "shisui"
+  | "thallya"
+  | "tokoyo"
+  | "utsuro"
+  | "yatsuha"
+  | "yukihi"
+  | "yurina";
 
 export interface CharacterData {
   name: {

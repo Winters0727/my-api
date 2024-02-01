@@ -1,11 +1,11 @@
-import { Document, MongoClient, ServerApiVersion } from 'mongodb';
+import { Document, MongoClient, ServerApiVersion } from "mongodb";
 
-import FuruyoniDatabase from './src/database/furuyoni.ts';
+import FuruyoniDatabase from "./src/database/furuyoni.ts";
 
-import { initializeMigration } from './src/migration/furuyoni/index.migration.ts';
+import { initializeMigration } from "@migration/furuyoni/index.migration.ts";
 
-import type { Db } from 'mongodb';
-import type { ModelSchema } from './src/types/model.type.ts';
+import type { Db } from "mongodb";
+import type { ModelSchema } from "@customTypes/model.type.ts";
 
 interface CustomCollection {
   name: string;
@@ -47,7 +47,7 @@ const createCollection = async (database: Db, name: string, schema: Document) =>
 const initializeCollection = async (
   database: Db,
   name: string,
-  schema: Document,
+  schema: Document
 ) => {
   const dbcollections = await database.collections();
   if (!dbcollections.some((document) => document.collectionName === name))
@@ -56,7 +56,7 @@ const initializeCollection = async (
 
 const initializeDatabase = async (
   name: string,
-  collections: CustomCollection[],
+  collections: CustomCollection[]
 ) => {
   const db = client.db(name);
 
@@ -69,13 +69,13 @@ const initializeDatabase = async (
 
 const initializeConnection = async () => {
   try {
-    console.log('Attempt to connect database...');
+    console.log("Attempt to connect database...");
 
     await client.connect();
 
-    console.log('Database connection is accomplished!');
+    console.log("Database connection is accomplished!");
 
-    console.log('Initializing collections...!');
+    console.log("Initializing collections...!");
 
     for (const { name, collections } of databaseList) {
       await initializeDatabase(name, collections);
@@ -83,7 +83,7 @@ const initializeConnection = async () => {
 
     await initializeMigration();
 
-    console.log('Initialization is completed!');
+    console.log("Initialization is completed!");
   } catch (err: any) {
     await client.close();
     console.error(err);
