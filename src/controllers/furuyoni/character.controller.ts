@@ -1,13 +1,13 @@
 import type { Request, Response } from "express";
 import { WithoutId } from "mongodb";
 
-import { getCollection } from "../../../database.ts";
+import { getCollection } from "../../../database.js";
 
-import type { Language } from "@customTypes/furuyoni/index.type.ts";
+import type { Language } from "@customTypes/furuyoni/index.type";
 import type {
   Character,
   CharacterMode,
-} from "@customTypes/furuyoni/character.type.ts";
+} from "@customTypes/furuyoni/character.type";
 
 const DEFAULT_LANG = "kor";
 const DEFAULT_MODE = "O";

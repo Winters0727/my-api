@@ -1,9 +1,9 @@
-import { getCollection } from '../../../database.ts';
+import { getCollection } from "../../../database.js";
 
-import IndexData from './index.json' assert { type: 'json' };
-import CharacterData from './character.json' assert { type: 'json' };
-import CardData from './card.json' assert { type: 'json' };
-import FaqData from './faq.json' assert { type: 'json' };
+import IndexData from "./index.json" assert { type: "json" };
+import CharacterData from "./character.json" assert { type: "json" };
+import CardData from "./card.json" assert { type: "json" };
+import FaqData from "./faq.json" assert { type: "json" };
 
 interface Migration {
   migrationData?: { data: any };
@@ -14,23 +14,23 @@ interface Migration {
 const MIGRATION_DATA: Migration[] = [
   {
     migrationData: IndexData,
-    dbName: 'furuyoni',
-    collectionName: 'index',
+    dbName: "furuyoni",
+    collectionName: "index",
   },
   {
     migrationData: CharacterData,
-    dbName: 'furuyoni',
-    collectionName: 'character',
+    dbName: "furuyoni",
+    collectionName: "character",
   },
   {
     migrationData: CardData,
-    dbName: 'furuyoni',
-    collectionName: 'card',
+    dbName: "furuyoni",
+    collectionName: "card",
   },
   {
     migrationData: FaqData,
-    dbName: 'furuyoni',
-    collectionName: 'faq',
+    dbName: "furuyoni",
+    collectionName: "faq",
   },
 ];
 
@@ -43,7 +43,7 @@ const migrateData = async (args: Migration) => {
 
   if (!testData && migrationData) {
     console.log(`${collectionName} data is empty.`);
-    console.log('Migrating data...');
+    console.log("Migrating data...");
 
     const { data } = migrationData;
 
@@ -56,7 +56,7 @@ const migrateData = async (args: Migration) => {
               ...datum,
               createdAt: currentTime,
               updatedAt: currentTime,
-            })),
+            }))
           )
         : await collection.insertOne({
             ...data[0],
@@ -69,7 +69,7 @@ const migrateData = async (args: Migration) => {
       console.log(myError.errInfo.details.schemaRulesNotSatisfied);
     }
 
-    console.log('Data migration is complete.');
+    console.log("Data migration is complete.");
   }
 };
 

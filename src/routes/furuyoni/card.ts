@@ -3,7 +3,7 @@ import express from "express";
 import {
   getCardByCode,
   getCardsByCharName,
-} from "@controllers/furuyoni/card.controller.ts";
+} from "../../controllers/furuyoni/card.controller.js";
 
 const router = express.Router();
 

@@ -1,10 +1,10 @@
-import type { Request, Response } from 'express';
+import type { Request, Response } from "express";
 
-import { getCollection } from '../../../database.ts';
+import { getCollection } from "../../../database.js";
 
 const FAQ_DEFAULT_COUNT = 20;
 
-const createSearchQuery = (query: Request['query']) => {
+const createSearchQuery = (query: Request["query"]) => {
   const { category, keyword } = query;
 
   if (category)
@@ -13,31 +13,31 @@ const createSearchQuery = (query: Request['query']) => {
         $match: category,
       },
       question: {
-        $regex: keyword || '',
+        $regex: keyword || "",
       },
     };
 
   return {
     question: {
-      $regex: keyword || '',
+      $regex: keyword || "",
     },
   };
 };
 
 const getCategories = async (req: Request, res: Response) => {
   try {
-    const faqCollection = getCollection('furuyoni', 'faq');
+    const faqCollection = getCollection("furuyoni", "faq");
 
-    const category = await faqCollection.distinct('category');
+    const category = await faqCollection.distinct("category");
 
     return res.status(200).json({
-      result: 'success',
+      result: "success",
       category,
     });
   } catch (err: any) {
     return res.status(500).json({
-      result: 'fail',
-      error: 'Internal Server Error',
+      result: "fail",
+      error: "Internal Server Error",
     });
   }
 };
@@ -46,7 +46,7 @@ const getFaqs = async (req: Request, res: Response) => {
   try {
     const { category, keyword } = req.query;
 
-    const faqCollection = getCollection('furuyoni', 'faq');
+    const faqCollection = getCollection("furuyoni", "faq");
 
     const findQuery = createSearchQuery({
       category,
@@ -70,14 +70,14 @@ const getFaqs = async (req: Request, res: Response) => {
             .toArray();
 
     return res.status(200).json({
-      result: 'success',
+      result: "success",
       faq,
       length: faq.length,
     });
   } catch (err: any) {
     return res.status(500).json({
-      result: 'fail',
-      error: 'Internal Server Error',
+      result: "fail",
+      error: "Internal Server Error",
     });
   }
 };

@@ -1,9 +1,9 @@
 import type { Request, Response } from "express";
 
-import { getCollection } from "../../../database.ts";
+import { getCollection } from "../../../database.js";
 
-import type { Language } from "@customTypes/furuyoni/index.type.ts";
-import type { CharacterMode } from "@customTypes/furuyoni/character.type.ts";
+import type { Language } from "@customTypes/furuyoni/index.type";
+import type { CharacterMode } from "@customTypes/furuyoni/character.type";
 
 const DEFAULT_LANG = "kor";
 

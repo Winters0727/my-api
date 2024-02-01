@@ -3,10 +3,10 @@ import session from "express-session";
 import bodyParser from "body-parser";
 import cors from "cors";
 
-import "./env.ts";
-import { initializeConnection } from "./database.ts";
+import "./env.js";
+import { initializeConnection } from "./database.js";
 
-import ApiRouter from "@routes/api.ts";
+import ApiRouter from "./src/routes/api.js";
 
 const app = express();
 

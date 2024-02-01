@@ -3,7 +3,7 @@ import express from "express";
 import {
   getCategories,
   getFaqs,
-} from "@controllers/furuyoni/faq.controller.ts";
+} from "../../controllers/furuyoni/faq.controller.js";
 
 const router = express.Router();
 

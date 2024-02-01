@@ -1,7 +1,7 @@
-import indexSchema from "@models/furuyoni/index.model.ts";
-import CharacterSchema from "@models/furuyoni/character.model.ts";
-import FaqSchema from "@models/furuyoni/faq.model.ts";
-import CardSchema from "@models/furuyoni/card.model.ts";
+import indexSchema from "../models/furuyoni/index.model.js";
+import CharacterSchema from "../models/furuyoni/character.model.js";
+import FaqSchema from "../models/furuyoni/faq.model.js";
+import CardSchema from "../models/furuyoni/card.model.js";
 
 export default {
   name: "furuyoni",

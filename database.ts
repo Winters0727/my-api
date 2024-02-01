@@ -1,11 +1,11 @@
 import { Document, MongoClient, ServerApiVersion } from "mongodb";
 
-import FuruyoniDatabase from "./src/database/furuyoni.ts";
+import FuruyoniDatabase from "./src/database/furuyoni.js";
 
-import { initializeMigration } from "@migration/furuyoni/index.migration.ts";
+import { initializeMigration } from "./src/migration/furuyoni/index.migration.js";
 
 import type { Db } from "mongodb";
-import type { ModelSchema } from "@customTypes/model.type.ts";
+import type { ModelSchema } from "./src/types/model.type";
 
 interface CustomCollection {
   name: string;

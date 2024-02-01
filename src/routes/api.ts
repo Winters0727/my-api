@@ -1,6 +1,6 @@
 import express from "express";
 
-import FuruyoniRouter from "./furuyoni/index.ts";
+import FuruyoniRouter from "./furuyoni/index.js";
 
 const router = express.Router();
 
