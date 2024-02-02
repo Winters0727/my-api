@@ -65,8 +65,18 @@ const getCharacter = async (req: Request, res: Response) => {
               },
             },
             {
+              "korData.name.O": {
+                $eq: parameter,
+              },
+            },
+            {
               "engData.name.O": {
                 $eq: parameter.toLowerCase(),
+              },
+            },
+            {
+              "jpnData.name.O": {
+                $eq: parameter,
               },
             },
           ],
