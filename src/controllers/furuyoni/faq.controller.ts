@@ -10,7 +10,7 @@ const createSearchQuery = (query: Request["query"]) => {
   if (category)
     return {
       category: {
-        $match: category,
+        $eq: category,
       },
       question: {
         $regex: keyword || "",
@@ -33,6 +33,7 @@ const getCategories = async (req: Request, res: Response) => {
     return res.status(200).json({
       result: "success",
       category,
+      length: category.length,
     });
   } catch (err: any) {
     return res.status(500).json({
@@ -53,28 +54,33 @@ const getFaqs = async (req: Request, res: Response) => {
       keyword,
     });
 
-    const faq =
-      category || keyword
-        ? await faqCollection
-            .find(findQuery)
-            .project({
-              _id: 0,
-            })
-            .toArray()
-        : await faqCollection
-            .find()
-            .project({
-              _id: 0,
-            })
-            .limit(FAQ_DEFAULT_COUNT)
-            .toArray();
+    if (category || keyword) {
+      const faq = await faqCollection
+        .find(findQuery)
+        .project({
+          _id: 0,
+          createdAt: 0,
+          updatedAt: 0,
+        })
+        .toArray();
 
-    return res.status(200).json({
-      result: "success",
-      faq,
-      length: faq.length,
+      if (faq.length > 0)
+        return res.status(200).json({
+          result: "success",
+          faq,
+          length: faq.length,
+        });
+      return res.status(404).json({
+        result: "fail",
+        error: "Not found",
+      });
+    }
+    return res.status(404).json({
+      result: "fail",
+      error: "Keyword/Category is missing",
     });
   } catch (err: any) {
+    console.log(err);
     return res.status(500).json({
       result: "fail",
       error: "Internal Server Error",
