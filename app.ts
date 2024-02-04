@@ -30,7 +30,7 @@ app.use(
 
 app.use(bodyParser.json());
 
-app.use("/api", ApiRouter);
+app.use("", ApiRouter);
 
 app.listen(
   process.env.PORT ? parseInt(process.env.PORT) : 3000,
