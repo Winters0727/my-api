@@ -2,7 +2,7 @@ import type { Request, Response } from "express";
 
 import { getCollection } from "../../../database.js";
 
-const FAQ_DEFAULT_COUNT = 20;
+const FAQ_MAX_COUNT = 20;
 
 const createSearchQuery = (query: Request["query"]) => {
   const { category, keyword } = query;
@@ -62,6 +62,7 @@ const getFaqs = async (req: Request, res: Response) => {
           createdAt: 0,
           updatedAt: 0,
         })
+        .limit(FAQ_MAX_COUNT)
         .toArray();
 
       if (faq.length > 0)
