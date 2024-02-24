@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "NODE_ENV=development nodemon --watch 'src/**/*.ts' --exec ts-node --project tsconfig.json -r tsconfig-paths/register \"app.ts\"",
+    "dev": "NODE_ENV=development nodemon --exec node --loader ts-node/esm app.ts",
     "prod": "NODE_ENV=production ts-node app.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.6.7",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv": "^16.1.4",
@@ -29,6 +30,7 @@
     "@types/express-session": "^1.17.10",
     "@types/node": "^20.3.1",
     "nodemon": "^2.0.22",
+    "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0"
   },
   "type": "module"
