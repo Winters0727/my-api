@@ -11,11 +11,7 @@ import ApiRouter from "./src/routes/api.js";
 const app = express();
 
 app.set("trust proxy", true);
-app.use(
-  cors({
-    credentials: true,
-  })
-);
+
 app.use(
   session({
     secret: process.env.SESSION_SECRET || "winters",
