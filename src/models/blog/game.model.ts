@@ -8,7 +8,7 @@ const gameSchema: ModelSchema = {
       description: "게임 id",
     },
     aggregated_rating: {
-      bsonType: "double",
+      bsonType: ["double", "int"],
       description: "게임 평점 평균",
     },
     artworks: {
@@ -24,7 +24,7 @@ const gameSchema: ModelSchema = {
       description: "게임 출시일",
     },
     rating: {
-      bsonType: "double",
+      bsonType: ["double", "int"],
       description: "게임 평점",
     },
     screenshots: {
@@ -32,7 +32,7 @@ const gameSchema: ModelSchema = {
       description: "게임",
     },
     total_rating: {
-      bsonType: "double",
+      bsonType: ["double", "int"],
       description: "게임 전체 평점",
     },
     videos: {

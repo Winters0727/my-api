@@ -145,6 +145,7 @@ const getGameData = async (req: Request, res: Response) => {
       const fetchedData = await fetchGameData(id);
       await gameCollection.insertOne({
         ...fetchedData,
+        aggregated_rating: fetchedData.aggregated_rating || -1,
         updatedAt: currentTime,
         createdAt: currentTime,
       });
@@ -159,6 +160,7 @@ const getGameData = async (req: Request, res: Response) => {
           {
             $set: {
               ...fetchedData,
+              aggregated_rating: fetchedData.aggregated_rating || -1,
               createdAt: game.createdAt,
               updatedAt: new Date(currentTime),
             },
@@ -184,7 +186,6 @@ const getGameData = async (req: Request, res: Response) => {
 
     return res.status(200).json({ data });
   } catch (err: any) {
-    console.log(err);
     return res.status(500).json({
       result: "fail",
       error: "Internal Server Error",
