@@ -1,6 +1,7 @@
 import { Document, MongoClient, ServerApiVersion } from "mongodb";
 
 import FuruyoniDatabase from "./src/database/furuyoni.js";
+import BlogDatabase from "./src/database/blog.js";
 
 import { initializeMigration } from "./src/migration/furuyoni/index.migration.js";
 
@@ -32,7 +33,7 @@ const client = new MongoClient(DATABASE_URL, {
 
 const database: Database = {};
 
-const databaseList: CustomDatabase[] = [FuruyoniDatabase];
+const databaseList: CustomDatabase[] = [BlogDatabase, FuruyoniDatabase];
 
 const getCollection = (dbName: string, name: string) =>
   database[dbName].collection(name);

@@ -1,9 +1,9 @@
 import express from "express";
 
-import { getTwitchAccessToken } from "../../controllers/blog/index.controller.js";
+import { getGameData } from "../../controllers/blog/game.controller.js";
 
 const router = express.Router();
 
-router.get("/twitch/token", getTwitchAccessToken);
+router.get("/game/:id", getGameData);
 
 export default router;
