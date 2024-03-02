@@ -6,7 +6,15 @@ import FuruyoniRouter from "./furuyoni/index.js";
 
 const router = express.Router();
 
-router.use("/blog", BlogRouter);
+router.use(
+  "/blog",
+  cors({
+    origin: process.env.BLOG_URL,
+    methods: ["GET"],
+    credentials: true,
+  }),
+  BlogRouter
+);
 router.use(
   "/furuyoni",
   cors({
