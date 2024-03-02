@@ -184,7 +184,7 @@ const getGameData = async (req: Request, res: Response) => {
       }
     );
 
-    return res.status(200).json({ data });
+    return res.status(200).json({ result: "success", data });
   } catch (err: any) {
     return res.status(500).json({
       result: "fail",
