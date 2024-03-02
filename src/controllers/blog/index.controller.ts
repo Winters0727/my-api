@@ -29,26 +29,27 @@ const getVisitData = async (req: Request, res: Response) => {
       );
     }
 
-    const preVisitorData = await visitCollection.findOne({ ip });
+    const visitorData = await visitCollection.findOne({ ip });
 
-    if (preVisitorData) {
-      const lastVisited = new Date(preVisitorData.lastVisited);
+    if (!visitorData) {
+      await visitCollection.insertOne({ ip, lastVisited: currentDate });
+      await indexCollection.findOneAndUpdate(
+        { page: "blog" },
+        { $inc: { today: 1, total: 1 } }
+      );
+    } else {
+      const lastVisited = new Date(visitorData.lastVisited);
 
       if (currentDate.getDate() !== lastVisited.getDate()) {
         await indexCollection.findOneAndUpdate(
           { page: "blog" },
           { $inc: { today: 1, total: 1 } }
         );
-        await visitCollection.findOneAndUpdate(
-          { ip },
-          { $set: { lastVisited: currentDate } }
-        );
       }
-    } else {
-      await visitCollection.insertOne({ ip, lastVisited: currentDate });
-      await indexCollection.findOneAndUpdate(
-        { page: "blog" },
-        { $inc: { today: 1, total: 1 } }
+
+      await visitCollection.findOneAndUpdate(
+        { ip },
+        { $set: { lastVisited: currentDate } }
       );
     }
 
