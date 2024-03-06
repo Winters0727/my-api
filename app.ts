@@ -1,7 +1,6 @@
 import express from "express";
 import session from "express-session";
 import bodyParser from "body-parser";
-import cors from "cors";
 
 import "./env.js";
 import { initializeConnection } from "./database.js";
