@@ -1,3 +1,5 @@
+const ORIGIN_IP = "127.0.0.1";
+
 const GAME_DATA_UPDATE_TERM = 365 * 24 * 60 * 60 * 1000;
 
-export { GAME_DATA_UPDATE_TERM };
+export { ORIGIN_IP, GAME_DATA_UPDATE_TERM };

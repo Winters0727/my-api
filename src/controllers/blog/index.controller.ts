@@ -1,5 +1,7 @@
 import { getCollection } from "../../../database.js";
 
+import { ORIGIN_IP } from "../../constant/index.js";
+
 import type { Request, Response } from "express";
 
 let prevDate = new Date();
@@ -29,7 +31,7 @@ const getVisitData = async (req: Request, res: Response) => {
       );
     }
 
-    if (ip !== "127.0.0.1") {
+    if (ip !== ORIGIN_IP) {
       const visitorData = await visitCollection.findOne({ ip });
 
       if (!visitorData) {
@@ -64,7 +66,6 @@ const getVisitData = async (req: Request, res: Response) => {
 
     return res.status(200).json({ result: "success", data });
   } catch (err: any) {
-    console.log(err);
     return res.status(500).json({
       result: "fail",
       error: "Internal Server Error",

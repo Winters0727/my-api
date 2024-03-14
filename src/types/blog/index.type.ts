@@ -77,3 +77,9 @@ export interface GameApiResponse {
   total_rating: number;
   videos?: ({ url: string } & Pick<Video, "name" | "video_id">)[];
 }
+
+export interface Post {
+  slug: string;
+  views: number;
+  likes: string[];
+}
