@@ -93,12 +93,13 @@ const fetchGameData = async (id: string) => {
     total_rating: resData.total_rating,
   };
 
-  data.artworks = resData.artworks.map((artwork) => ({
-    width: artwork.width,
-    height: artwork.height,
-    image_id: artwork.image_id,
-    url: convertImageSize(artwork.url, "1080p"),
-  }));
+  data.artworks =
+    resData.artworks?.map((artwork) => ({
+      width: artwork.width,
+      height: artwork.height,
+      image_id: artwork.image_id,
+      url: convertImageSize(artwork.url, "1080p"),
+    })) || [];
 
   data.cover = {
     width: resData.cover.width,
@@ -107,18 +108,20 @@ const fetchGameData = async (id: string) => {
     url: convertImageSize(resData.cover.url, "1080p"),
   };
 
-  data.screenshots = resData.screenshots.map((screenshot) => ({
-    width: screenshot.width,
-    height: screenshot.height,
-    image_id: screenshot.image_id,
-    url: convertImageSize(screenshot.url, "1080p"),
-  }));
+  data.screenshots =
+    resData.screenshots?.map((screenshot) => ({
+      width: screenshot.width,
+      height: screenshot.height,
+      image_id: screenshot.image_id,
+      url: convertImageSize(screenshot.url, "1080p"),
+    })) || [];
 
-  data.videos = resData.videos.map((video) => ({
-    name: video.name,
-    video_id: video.video_id,
-    url: `//youtube.com/watch?v=${video.video_id}`,
-  }));
+  data.videos =
+    resData.videos?.map((video) => ({
+      name: video.name,
+      video_id: video.video_id,
+      url: `//youtube.com/watch?v=${video.video_id}`,
+    })) || [];
 
   return data;
 };
