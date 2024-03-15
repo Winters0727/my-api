@@ -7,9 +7,13 @@ const visitSchema: ModelSchema = {
       bsonType: "string",
       description: "방문 페이지",
     },
-    id: {
+    ip: {
       bsonType: "string",
       description: "방문자 ip",
+    },
+    userAgent: {
+      bsonType: "string",
+      description: "방문자 user-agent",
     },
     lastVisited: {
       bsonType: "date",

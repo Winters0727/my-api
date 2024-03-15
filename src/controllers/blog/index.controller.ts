@@ -35,7 +35,11 @@ const getVisitData = async (req: Request, res: Response) => {
       const visitorData = await visitCollection.findOne({ ip });
 
       if (!visitorData) {
-        await visitCollection.insertOne({ ip, lastVisited: currentDate });
+        await visitCollection.insertOne({
+          ip,
+          lastVisited: currentDate,
+          userAgent: req.headers["user-agent"],
+        });
         await indexCollection.findOneAndUpdate(
           { page: "blog" },
           { $inc: { today: 1, total: 1 } }
@@ -52,7 +56,12 @@ const getVisitData = async (req: Request, res: Response) => {
 
         await visitCollection.findOneAndUpdate(
           { ip },
-          { $set: { lastVisited: currentDate } }
+          {
+            $set: {
+              lastVisited: currentDate,
+              userAgent: req.headers["user-agent"],
+            },
+          }
         );
       }
     }
