@@ -1,6 +1,8 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const postSchema: ModelSchema = {
+  title: "post",
+  required: ["slug", "views", "likes"],
   bsonType: "object",
   properties: {
     slug: {

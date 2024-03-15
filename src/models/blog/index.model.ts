@@ -1,6 +1,8 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const indexSchema: ModelSchema = {
+  title: "index",
+  required: ["page", "today", "total"],
   bsonType: "object",
   properties: {
     page: {

@@ -1,6 +1,8 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const visitSchema: ModelSchema = {
+  title: "visit",
+  required: ["page", "ip", "userAgent", "lastVisited"],
   bsonType: "object",
   properties: {
     page: {

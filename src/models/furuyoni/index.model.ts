@@ -1,6 +1,7 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const indexSchema: ModelSchema = {
+  title: "index",
   bsonType: "object",
   properties: {
     currentSeason: {

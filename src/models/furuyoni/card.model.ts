@@ -1,6 +1,7 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const CardSchema: ModelSchema = {
+  title: "card",
   bsonType: "object",
   properties: {
     fullCode: {

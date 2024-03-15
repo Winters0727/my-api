@@ -1,6 +1,7 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const characterSchema: ModelSchema = {
+  title: "character",
   bsonType: "object",
   properties: {
     code: {

@@ -1,6 +1,7 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const gameSchema: ModelSchema = {
+  title: "game",
   bsonType: "object",
   properties: {
     id: {

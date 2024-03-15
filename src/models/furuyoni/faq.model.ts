@@ -1,6 +1,7 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const faqSchema: ModelSchema = {
+  title: "faq",
   bsonType: "object",
   properties: {
     category: {

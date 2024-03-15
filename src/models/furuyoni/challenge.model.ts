@@ -1,6 +1,7 @@
 import type { ModelSchema } from "@customTypes/model.type";
 
 const ChallengeSchema: ModelSchema = {
+  title: "challenge",
   bsonType: "object",
   properties: {
     code: {

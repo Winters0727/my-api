@@ -15,6 +15,8 @@ export type Bson =
 
 export interface ModelSchema {
   bsonType: Bson;
+  title?: string;
+  required?: string[];
   properties: {
     [key: string]: {
       bsonType: Bson | Bson[];
