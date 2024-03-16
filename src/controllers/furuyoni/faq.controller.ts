@@ -81,7 +81,6 @@ const getFaqs = async (req: Request, res: Response) => {
       error: "Keyword/Category is missing",
     });
   } catch (err: any) {
-    console.log(err);
     return res.status(500).json({
       result: "fail",
       error: "Internal Server Error",
