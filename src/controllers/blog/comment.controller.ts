@@ -18,6 +18,9 @@ interface ResponseComment extends Omit<BaseResponseComment, "subComments"> {
   subComments: Comment[];
 }
 
+const maskingIp = (ip: string) =>
+  [...ip.split(".").slice(0, 2), "*", "*"].join(".");
+
 const postComment = async (req: Request, res: Response) => {
   try {
     const { slug } = req.params;
@@ -115,11 +118,13 @@ const getComments = async (req: Request, res: Response) => {
       .toArray();
 
     for (const comment of commentsData) {
-      comment.subComments = comment.subComments.map((subComment) =>
-        subComment.isDeleted
+      comment.ip = maskingIp(comment.ip);
+      comment.subComments = comment.subComments.map((subComment) => {
+        subComment.ip = maskingIp(subComment.ip);
+        return subComment.isDeleted
           ? { ...subComment, content: "삭제된 댓글입니다." }
-          : subComment
-      );
+          : subComment;
+      });
       comment.isDeleted
         ? data.push({ ...comment, content: "삭제된 댓글입니다." })
         : data.push(comment);
