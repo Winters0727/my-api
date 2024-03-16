@@ -26,7 +26,7 @@ const postComment = async (req: Request, res: Response) => {
 
     const commentCollection = getCollection("blog", "comment");
 
-    if (req.ip) {
+    if (req.ip && req.ip !== ORIGIN_IP) {
       const currentDate = new Date();
 
       const commentData: Partial<Comment> = {
@@ -100,7 +100,6 @@ const getComments = async (req: Request, res: Response) => {
               },
               {
                 $project: {
-                  _id: 0,
                   slug: 0,
                   password: 0,
                 },
@@ -110,7 +109,6 @@ const getComments = async (req: Request, res: Response) => {
         },
       ])
       .project<ResponseComment>({
-        _id: 0,
         slug: 0,
         password: 0,
       })
