@@ -1,3 +1,5 @@
+import type { ObjectId } from "mongodb";
+
 export interface TokenResponse {
   access_token: string;
   expires_in: number;
@@ -83,3 +85,37 @@ export interface Post {
   views: number;
   likes: string[];
 }
+
+export interface CommentPayload {
+  parentId?: ObjectId;
+  name: string;
+  type: "text" | "image";
+  content: string;
+  password: string;
+}
+
+export interface BaseComment {
+  parentId?: ObjectId;
+  slug: string;
+  name: string;
+  type: "text" | "image";
+  content: string;
+  password: string;
+  ip: string;
+  isDeleted: boolean;
+  isSubComment: boolean;
+  subComments?: ObjectId[];
+  createdAt: Date;
+  updatedAt: Date;
+}
+
+export interface DeleteCommentPayload {
+  password: string;
+}
+
+export interface DeletedComment extends BaseComment {
+  deletedBy: "Host" | "User";
+  deletedAt: Date;
+}
+
+export type Comment = BaseComment | DeletedComment;
