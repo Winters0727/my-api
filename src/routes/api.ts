@@ -10,7 +10,7 @@ router.use(
   "/blog",
   cors({
     origin: process.env.BLOG_URL,
-    methods: ["GET", "PUT"],
+    methods: ["POST", "GET", "PUT", "DELETE"],
     credentials: true,
   }),
   BlogRouter
