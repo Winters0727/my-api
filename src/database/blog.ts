@@ -3,6 +3,7 @@ import commentSchema from "../models/blog/comment.model.js";
 import postSchema from "../models/blog/post.model.js";
 import gameSchema from "../models/blog/game.model.js";
 import visitSchema from "../models/blog/visit.model.js";
+import iconSchema from "../models/blog/icon.model.js";
 
 export default {
   name: "blog",
@@ -26,6 +27,10 @@ export default {
     {
       name: "visit",
       schema: visitSchema,
+    },
+    {
+      name: "icon",
+      schema: iconSchema,
     },
   ],
 };

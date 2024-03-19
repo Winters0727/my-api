@@ -11,6 +11,7 @@ import {
   updatePostLikes,
 } from "../../controllers/blog/post.controller.js";
 import { getGameData } from "../../controllers/blog/game.controller.js";
+import { getIcons } from "../../controllers/blog/icon.controller.js";
 
 const router = express.Router();
 
@@ -20,6 +21,7 @@ router.get("/visit", getVisitData);
 router.get("/game/:id", getGameData);
 router.get("/post/:slug/comment", getComments);
 router.get("/post/:slug", getPostData);
+router.get("/icon", getIcons);
 
 router.put("/post/:slug/likes", updatePostLikes);
 
