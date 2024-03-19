@@ -25,6 +25,8 @@ app.use(
 
 app.use(bodyParser.json());
 
+app.use("/images", express.static("public/images"));
+
 app.use("", ApiRouter);
 
 app.listen(
