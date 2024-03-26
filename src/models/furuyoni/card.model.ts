@@ -40,13 +40,9 @@ const CardSchema: ModelSchema = {
       bsonType: "string",
       description: "공격패 적정거리",
     },
-    shieldDamage: {
+    damage: {
       bsonType: "string",
-      description: "공격패 오라 데미지",
-    },
-    hpDamage: {
-      bsonType: "string",
-      description: "공격패 라이프 데미지",
+      description: "공격패 데미지",
     },
     deployCount: {
       bsonType: "string",

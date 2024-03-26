@@ -25,7 +25,8 @@ app.use(
 
 app.use(bodyParser.json());
 
-app.use("/images", express.static("public/images"));
+app.use("/blog/images", express.static("public/blog/images"));
+app.use("/furuyoni/images", express.static("public/furuyoni/images"));
 
 app.use("", ApiRouter);
 

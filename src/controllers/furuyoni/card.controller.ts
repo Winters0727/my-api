@@ -32,6 +32,27 @@ const getCardByCode = async (req: Request, res: Response) => {
 
     const cardCollection = getCollection("furuyoni", "card");
 
+    const langQuery = (lang && lang.toLowerCase()) || DEFAULT_LANG;
+
+    const cardProjection = {
+      _id: 0,
+      fullCode: 1,
+      code: 1,
+      charName: 1,
+      name: `$${langQuery}Data.name`,
+      type: `$${langQuery}Data.type`,
+      subType: `$${langQuery}Data.subType`,
+      category: `$${langQuery}Data.category`,
+      description: `$${langQuery}Data.description`,
+      imagePath: `$${langQuery}Data.imagePath`,
+      relatedExtraCards: 1,
+      revisionCount1: 1,
+      distance: 1,
+      damage: 1,
+      deployCount: 1,
+      cost: 1,
+    };
+
     if (charName) {
       const card = await cardCollection.findOne(
         {
@@ -39,20 +60,7 @@ const getCardByCode = async (req: Request, res: Response) => {
           code: { $eq: code },
         },
         {
-          projection: {
-            _id: 0,
-            fullCode: 1,
-            code: 1,
-            charName: 1,
-            data: `$${(lang && lang.toLowerCase()) || DEFAULT_LANG}Data`,
-            relatedExtraCards: 1,
-            revisionCount1: 1,
-            distance: 1,
-            shieldDamage: 1,
-            hpDamage: 1,
-            deployCount: 1,
-            cost: 1,
-          },
+          projection: cardProjection,
         }
       );
 
@@ -67,20 +75,7 @@ const getCardByCode = async (req: Request, res: Response) => {
           fullCode: { $eq: code },
         },
         {
-          projection: {
-            _id: 0,
-            fullCode: 1,
-            code: 1,
-            charName: 1,
-            data: `$${(lang && lang.toLowerCase()) || DEFAULT_LANG}Data`,
-            relatedExtraCards: 1,
-            revisionCount1: 1,
-            distance: 1,
-            shieldDamage: 1,
-            hpDamage: 1,
-            deployCount: 1,
-            cost: 1,
-          },
+          projection: cardProjection,
         }
       );
 
@@ -131,6 +126,27 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       ],
     });
 
+    const langQuery = (lang && lang.toLowerCase()) || DEFAULT_LANG;
+
+    const cardProjection = {
+      _id: 0,
+      fullCode: 1,
+      code: 1,
+      charName: 1,
+      name: `$${langQuery}Data.name`,
+      type: `$${langQuery}Data.type`,
+      subType: `$${langQuery}Data.subType`,
+      category: `$${langQuery}Data.category`,
+      description: `$${langQuery}Data.description`,
+      imagePath: `$${langQuery}Data.imagePath`,
+      relatedExtraCards: 1,
+      revisionCount1: 1,
+      distance: 1,
+      damage: 1,
+      deployCount: 1,
+      cost: 1,
+    };
+
     if (charData) {
       if (mode) {
         const modeUpperCase = mode.toUpperCase();
@@ -150,18 +166,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
               ],
             })
             .project<Card>({
-              _id: 0,
-              fullCode: 1,
-              code: 1,
-              charName: 1,
-              data: `$${(lang && lang.toLowerCase()) || DEFAULT_LANG}Data`,
-              relatedExtraCards: 1,
-              revisionCount1: 1,
-              distance: 1,
-              shieldDamage: 1,
-              hpDamage: 1,
-              deployCount: 1,
-              cost: 1,
+              ...cardProjection,
             })
             .toArray();
 
@@ -182,18 +187,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
             charName: { $eq: charData.engData.name.O },
           })
           .project<Card>({
-            _id: 0,
-            fullCode: 1,
-            code: 1,
-            charName: 1,
-            data: `$${(lang && lang.toLowerCase()) || DEFAULT_LANG}Data`,
-            relatedExtraCards: 1,
-            revisionCount1: 1,
-            distance: 1,
-            shieldDamage: 1,
-            hpDamage: 1,
-            deployCount: 1,
-            cost: 1,
+            ...cardProjection,
           })
           .toArray();
 

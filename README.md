@@ -25,8 +25,7 @@
         charName: string; // 카드를 사용하는 캐릭터의 영어 이름
         relatedExtraCards: string[]; // 카드와 관련돤 추가패의 전체 코드 배열
         distance?: string; // 공격 카드의 적정거리
-        shieldDamage?: stirng; // 공격 카드의 오라 데미지
-        hpDamage?: string; // 공격 카드의 라이프 데미지
+        damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
         deployCount?: string; // 부여 카드의 봉납
         cost?: string; // 비장패의 비용입니다.
         data: {

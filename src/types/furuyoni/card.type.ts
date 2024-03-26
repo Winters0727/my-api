@@ -1,14 +1,22 @@
-import type { CharacterName } from './character.type';
+import type { CharacterName } from "./character.type";
 
-type CardType = 'action' | 'attack' | 'deployment';
-type CardSubType = 'reaction' | 'fullpower';
-type CardValue = 'X' | '-' | number;
+type KorCardType = "공격" | "부여" | "대응";
+type KorCardSubType = "대응" | "전력";
+type KorCardCategory = "통상패" | "비장패" | "추가패";
+
+type CardValue = "X" | "-" | number;
+
+type CardType = KorCardCategory;
+type CardSubType = KorCardSubType;
+type CardCategory = KorCardCategory;
 
 interface CardData {
   name: string;
   type: CardType;
   subType: CardSubType[];
+  imagePath: string;
   description: string;
+  category: CardCategory;
 }
 
 interface BaseCard {
@@ -24,12 +32,11 @@ interface BaseCard {
 
 export interface AttackCard extends BaseCard {
   distance: string;
-  shieldDamage: CardValue;
-  hpDamage: CardValue;
+  damage: string;
 }
 export interface ActionCard extends BaseCard {}
 export interface DeployCard extends BaseCard {
-  deployCount: 'X' | number;
+  deployCount: "X" | number;
 }
 
 export type NormalCard = AttackCard | ActionCard | DeployCard;

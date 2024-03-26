@@ -35,6 +35,9 @@ export interface CharacterData {
   name: {
     [mode in CharacterMode]: string;
   };
+  imagePath: {
+    [mode in CharacterMode]: string;
+  };
   abilityKeyword: string;
   abilityDescription: string;
   symbolWeapon: string;
