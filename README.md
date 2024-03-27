@@ -20,8 +20,9 @@
     type Card = {
         fullCode: string; // 카드의 전체 코드 (ex. NA-01-yurina-O-N-1)
         code: string; // 캐릭터 정보를 제외한 카드의 코드 (ex. O-N-1)
-        charName: string; // 카드를 사용하는 캐릭터의 영어 이름
+        character: string; // 카드를 사용하는 캐릭터의 영어 이름
         relatedExtraCards: string[]; // 카드와 관련돤 추가패의 전체 코드 배열
+        revisionCount: number; // 시즌이 바뀌면서 카드가 변경된 회수
         distance?: string; // 공격 카드의 적정거리
         damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
         deployCount?: string; // 부여 카드의 봉납
@@ -48,9 +49,9 @@
     }
     ```
 
-- GET('character/:charName?mode=mode&lang=lang'): 캐릭터별 카드 데이터를 불러옵니다.
+- GET('character/:character?mode=mode&lang=lang'): 캐릭터별 카드 데이터를 불러옵니다.
   - 파라미터
-    - `charName`: 캐릭터 이름입니다. 이름값은 한글, 영어, 일본어 모두 가능합니다.
+    - `character`: 캐릭터 이름입니다. 이름값은 한글, 영어, 일본어 모두 가능합니다.
   - 쿼리
     - `mode`: `O`, `A1`, `A2`, `AA1` 네가지 값을 가집니다.
     - `lang`: `kor`, `eng`, `jpn` 세가지 값을 가지며, 기본값은 `kor`입니다.
@@ -66,6 +67,52 @@
     ```
   - 404, 500
     ```{
+      result: "fail";
+      error: string;
+    }
+    ```
+
+#### 질의응답(`/history`)
+
+※ 영어, 일본어 데이터는 지원하지 않습니다.
+
+- GET('/'): 이전 시즌의 카드 데이터의 배배열을 불러옵니다.
+
+  - 쿼리
+
+    - `season`: 카드가 마지막으로 사용된 시즌입니다. 값은 `S#`로 현재 시즌은 S9입니다.
+    - `char`: 캐릭터의 이름입니다. 이름값은 영어만 가능합니다.
+
+  - 200
+
+    ```
+    type CardHistory = {
+        fullCode: string; // 카드의 전체 코드 (ex. NA-01-yurina-O-N-1)
+        code: string; // 캐릭터 정보를 제외한 카드의 코드 (ex. O-N-1)
+        character: string; // 카드를 사용하는 캐릭터의 영어 이름
+        season: string; // 카드가 마지막으로 사용된 시즌
+        distance?: string; // 공격 카드의 적정거리
+        damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
+        deployCount?: string; // 부여 카드의 봉납
+        cost?: string; // 비장패의 비용입니다.
+        name: string; // 카드의 이름
+        type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
+        subType: string; // 카드의 서브타입 (대응, 전력, 미정)
+        category: string; // 카드 종류 (통상패, 비장패, 추가패)
+        description: string; // 카드 설명
+        imagePath: string; // 카드 이미지 경로
+      };
+
+    {
+      result: "success";
+      history: CardHistory[],
+      length: number;
+    }
+    ```
+
+  - 404, 500
+    ```
+    {
       result: "fail";
       error: string;
     }

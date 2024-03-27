@@ -3,7 +3,7 @@
     {
       "fullCode": "NA-01-yurina-O-N-1",
       "code": "O-N-1",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "참",
         "type": "공격",
@@ -22,7 +22,7 @@
     {
       "fullCode": "NA-01-yurina-O-N-2",
       "code": "O-N-2",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "일섬",
         "type": "공격",
@@ -41,7 +41,7 @@
     {
       "fullCode": "NA-01-yurina-O-N-3",
       "code": "O-N-3",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "자루치기",
         "type": "공격",
@@ -60,7 +60,7 @@
     {
       "fullCode": "NA-01-yurina-O-N-4",
       "code": "O-N-4",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "거합",
         "type": "공격",
@@ -79,7 +79,7 @@
     {
       "fullCode": "NA-01-yurina-O-N-5",
       "code": "O-N-5",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "기백",
         "type": "행동",
@@ -96,7 +96,7 @@
     {
       "fullCode": "NA-01-yurina-O-N-6",
       "code": "O-N-6",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "압도",
         "type": "부여",
@@ -114,7 +114,7 @@
     {
       "fullCode": "NA-01-yurina-O-N-7",
       "code": "O-N-7",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "기염만장",
         "type": "부여",
@@ -132,7 +132,7 @@
     {
       "fullCode": "NA-01-yurina-O-S-1",
       "code": "O-S-1",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "달그림자 떨어지니",
         "type": "공격",
@@ -152,7 +152,7 @@
     {
       "fullCode": "NA-01-yurina-O-S-2",
       "code": "O-S-2",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "해안에 파랑 일며",
         "type": "공격",
@@ -172,7 +172,7 @@
     {
       "fullCode": "NA-01-yurina-O-S-3",
       "code": "O-S-3",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "쪽배에서 쉬노니",
         "type": "행동",
@@ -190,7 +190,7 @@
     {
       "fullCode": "NA-01-yurina-O-S-4",
       "code": "O-S-4",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "아마네 유리나의 저력",
         "type": "공격",
@@ -210,7 +210,7 @@
     {
       "fullCode": "NA-01-yurina-A1-N-1",
       "code": "A1-N-1",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "난타",
         "type": "공격",
@@ -229,7 +229,7 @@
     {
       "fullCode": "NA-01-yurina-A1-N-6",
       "code": "A1-N-6",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "콩알탄",
         "type": "부여",
@@ -247,12 +247,12 @@
     {
       "fullCode": "NA-01-yurina-A1-S-2",
       "code": "A1-S-2",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "불완전 해안에 파랑 일며",
         "type": "공격",
         "subType": "대응",
-        "description": "【공격후】 대응한 《공격》은 -3/+0 된다.",
+        "description": "종단\r\n【공격후】 대응한 《공격》은 -3/+0 된다.",
         "imagePath": "/furuyoni/images/card/kor/01-A1-S-2.jpg",
         "category": "비장패"
       },
@@ -267,7 +267,7 @@
     {
       "fullCode": "NA-01-yurina-A2-N-3",
       "code": "A2-N-3",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "문답",
         "type": "공격",
@@ -286,7 +286,7 @@
     {
       "fullCode": "NA-01-yurina-A2-N-7",
       "code": "A2-N-7",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "아훔",
         "type": "부여",
@@ -304,7 +304,7 @@
     {
       "fullCode": "NA-01-yurina-A2-S-1",
       "code": "A2-S-1",
-      "charName": "yurina",
+      "character": "yurina",
       "korData": {
         "name": "신좌에 건네며",
         "type": "공격",
@@ -324,7 +324,7 @@
     {
       "fullCode": "NA-02-saine-O-N-1",
       "code": "O-N-1",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "팔방 휘두르기",
         "type": "공격",
@@ -336,14 +336,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 1,
+      "revisionCount": 2,
       "distance": "4-5",
       "damage": "2/1"
     },
     {
       "fullCode": "NA-02-saine-O-N-2",
       "code": "O-N-2",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "후려베기",
         "type": "공격",
@@ -362,7 +362,7 @@
     {
       "fullCode": "NA-02-saine-O-N-3",
       "code": "O-N-3",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "무게추",
         "type": "공격",
@@ -381,7 +381,7 @@
     {
       "fullCode": "NA-02-saine-O-N-4",
       "code": "O-N-4",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "간파",
         "type": "행동",
@@ -398,7 +398,7 @@
     {
       "fullCode": "NA-02-saine-O-N-5",
       "code": "O-N-5",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "권역",
         "type": "부여",
@@ -416,7 +416,7 @@
     {
       "fullCode": "NA-02-saine-O-N-6",
       "code": "O-N-6",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "충음정",
         "type": "부여",
@@ -434,7 +434,7 @@
     {
       "fullCode": "NA-02-saine-O-N-7",
       "code": "O-N-7",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "무음벽",
         "type": "부여",
@@ -452,7 +452,7 @@
     {
       "fullCode": "NA-02-saine-O-S-1",
       "code": "O-S-1",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "율동호극",
         "type": "행동",
@@ -470,7 +470,7 @@
     {
       "fullCode": "NA-02-saine-O-S-2",
       "code": "O-S-2",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "향명공진",
         "type": "행동",
@@ -488,7 +488,7 @@
     {
       "fullCode": "NA-02-saine-O-S-3",
       "code": "O-S-3",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "음무쇄빙",
         "type": "공격",
@@ -508,7 +508,7 @@
     {
       "fullCode": "NA-02-saine-O-S-4",
       "code": "O-S-4",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "히사메 사이네의 최후의 종극",
         "type": "공격",
@@ -520,15 +520,15 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "1-5",
       "damage": "5/5",
-      "cost": "4"
+      "cost": "5"
     },
     {
       "fullCode": "NA-02-saine-A1-N-1",
       "code": "A1-N-1",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "합주",
         "type": "공격",
@@ -547,7 +547,7 @@
     {
       "fullCode": "NA-02-saine-A1-N-6",
       "code": "A1-N-6",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "반주",
         "type": "부여",
@@ -559,31 +559,31 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "3"
     },
     {
       "fullCode": "NA-02-saine-A1-S-2",
       "code": "A1-S-2",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "이중주: 탄주빙명",
         "type": "행동",
         "subType": "",
-        "description": "【상시】 팔상 - 당신의 오라가 1 이하라면, 이 카드의 소모값은 1 감소한다.\r\n이번 턴 동안, 당신은 《공격》을 수행할 수 없다.\r\n【사용됨】 당신의 다른 여신에 의한 《공격》은 +0/-1 된다.\r\n즉재기: 당신이 《공격》에 의해 라이프에 데미지를 1 이상 받는다.",
+        "description": "【상시】 팔상 - 당신의 오라가 1 이하라면, 이 카드의 소모값은 1 감소한다.\r\n이번 턴 동안, 당신은 《공격》을 수행할 수 없다.\r\n【사용됨】 당신의 다른 여신에 의한 《공격》은 +0/+1 된다.\r\n즉재기: 당신이 《공격》에 의해 라이프에 데미지를 1 이상 받는다.",
         "imagePath": "/furuyoni/images/card/kor/02-A1-S-2.jpg",
         "category": "비장패"
       },
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "cost": "2"
     },
     {
       "fullCode": "NA-02-saine-A2-N-2",
       "code": "A2-N-2",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "등 베기",
         "type": "공격",
@@ -602,7 +602,7 @@
     {
       "fullCode": "NA-02-saine-A2-N-7",
       "code": "A2-N-7",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "유향벽",
         "type": "부여",
@@ -614,13 +614,13 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "2"
     },
     {
       "fullCode": "NA-02-saine-A2-S-3",
       "code": "A2-S-3",
-      "charName": "saine",
+      "character": "saine",
       "korData": {
         "name": "절창절화",
         "type": "공격",
@@ -640,7 +640,7 @@
     {
       "fullCode": "NA-03-himika-O-N-1",
       "code": "O-N-1",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "슛",
         "type": "공격",
@@ -659,7 +659,7 @@
     {
       "fullCode": "NA-03-himika-O-N-2",
       "code": "O-N-2",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "래피드 파이어",
         "type": "공격",
@@ -671,14 +671,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "6-8",
       "damage": "2/1"
     },
     {
       "fullCode": "NA-03-himika-O-N-3",
       "code": "O-N-3",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "매그넘 캐논",
         "type": "공격",
@@ -697,7 +697,7 @@
     {
       "fullCode": "NA-03-himika-O-N-4",
       "code": "O-N-4",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "풀 버스트",
         "type": "공격",
@@ -716,7 +716,7 @@
     {
       "fullCode": "NA-03-himika-O-N-5",
       "code": "O-N-5",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "백스텝",
         "type": "행동",
@@ -733,7 +733,7 @@
     {
       "fullCode": "NA-03-himika-O-N-6",
       "code": "O-N-6",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "백드래프트",
         "type": "행동",
@@ -750,7 +750,7 @@
     {
       "fullCode": "NA-03-himika-O-N-7",
       "code": "O-N-7",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "스모크",
         "type": "부여",
@@ -768,7 +768,7 @@
     {
       "fullCode": "NA-03-himika-O-S-1",
       "code": "O-S-1",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "레드 불릿",
         "type": "공격",
@@ -788,7 +788,7 @@
     {
       "fullCode": "NA-03-himika-O-S-2",
       "code": "O-S-2",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "크림슨 제로",
         "type": "공격",
@@ -808,7 +808,7 @@
     {
       "fullCode": "NA-03-himika-O-S-3",
       "code": "O-S-3",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "스칼렛 이매진",
         "type": "행동",
@@ -826,7 +826,7 @@
     {
       "fullCode": "NA-03-himika-O-S-4",
       "code": "O-S-4",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "버밀리온 필드",
         "type": "행동",
@@ -844,7 +844,7 @@
     {
       "fullCode": "NA-03-himika-A1-N-2",
       "code": "A1-N-2",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "화염류",
         "type": "공격",
@@ -863,7 +863,7 @@
     {
       "fullCode": "NA-03-himika-A1-N-5",
       "code": "A1-N-5",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "살의",
         "type": "행동",
@@ -880,7 +880,7 @@
     {
       "fullCode": "NA-03-himika-A1-S-2",
       "code": "A1-S-2",
-      "charName": "himika",
+      "character": "himika",
       "korData": {
         "name": "염천 · 진홍의 히미카",
         "type": "공격",
@@ -892,7 +892,7 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "0-7",
       "damage": "X/X",
       "cost": "5"
@@ -900,7 +900,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-N-1",
       "code": "O-N-1",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "빗어내리기",
         "type": "공격",
@@ -919,7 +919,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-N-2",
       "code": "O-N-2",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "우아한 타격",
         "type": "공격",
@@ -938,7 +938,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-N-3",
       "code": "O-N-3",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "날뛰는 토끼",
         "type": "행동",
@@ -955,7 +955,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-N-4",
       "code": "O-N-4",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "시의 춤",
         "type": "행동",
@@ -972,7 +972,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-N-5",
       "code": "O-N-5",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "부채 뒤집기",
         "type": "행동",
@@ -989,7 +989,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-N-6",
       "code": "O-N-6",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "바람의 무대",
         "type": "부여",
@@ -1007,7 +1007,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-N-7",
       "code": "O-N-7",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "맑음의 무대",
         "type": "부여",
@@ -1019,13 +1019,13 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 2,
       "deployCount": "2"
     },
     {
       "fullCode": "NA-04-tokoyo-O-S-1",
       "code": "O-S-1",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "영원의 꽃",
         "type": "공격",
@@ -1045,7 +1045,7 @@
     {
       "fullCode": "NA-04-tokoyo-O-S-2",
       "code": "O-S-2",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "천년의 새",
         "type": "공격",
@@ -1065,27 +1065,27 @@
     {
       "fullCode": "NA-04-tokoyo-O-S-3",
       "code": "O-S-3",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "무궁의 바람",
         "type": "공격",
         "subType": "",
-        "description": "【공격후】 상대는 손패에서 《공격》이 아닌 카드를 1장 버림패로 만든다. 그렇게 할 수 없는 경우, 상대는 손패를 공개한다.\r\n재기: 경지 - 당신의 집중력이 2이다.",
+        "description": "대응불가\r\n【공격후】 상대는 손패에서 《공격》이 아닌 카드를 1장 버림패로 만든다. 그렇게 할 수 없는 경우, 상대는 손패를 공개한다.\r\n재기: 경지 - 당신의 집중력이 2이다.",
         "imagePath": "/furuyoni/images/card/kor/04-O-S-3.jpg",
         "category": "비장패"
       },
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
-      "distance": "4-8",
+      "revisionCount": 1,
+      "distance": "3-8",
       "damage": "1/1",
       "cost": "1"
     },
     {
       "fullCode": "NA-04-tokoyo-O-S-4",
       "code": "O-S-4",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "상세의 달",
         "type": "행동",
@@ -1103,7 +1103,7 @@
     {
       "fullCode": "NA-04-tokoyo-A1-N-1",
       "code": "A1-N-1",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "흐르는 연주",
         "type": "공격",
@@ -1115,14 +1115,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "5",
       "damage": "-/1"
     },
     {
       "fullCode": "NA-04-tokoyo-A1-N-4",
       "code": "A1-N-4",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "합주",
         "type": "공격",
@@ -1141,7 +1141,7 @@
     {
       "fullCode": "NA-04-tokoyo-A1-S-3",
       "code": "A1-S-3",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "이중주: 취탄양명",
         "type": "행동",
@@ -1159,7 +1159,7 @@
     {
       "fullCode": "NA-04-tokoyo-A2-N-2",
       "code": "A2-N-2",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "두려움 스치기",
         "type": "공격",
@@ -1178,7 +1178,7 @@
     {
       "fullCode": "NA-04-tokoyo-A2-S-2",
       "code": "A2-S-2",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "유구의 눈",
         "type": "공격",
@@ -1198,7 +1198,7 @@
     {
       "fullCode": "NA-04-tokoyo-A2-S-3",
       "code": "A2-S-3",
-      "charName": "tokoyo",
+      "character": "tokoyo",
       "korData": {
         "name": "허무에 물든 여덟겹 벚꽃",
         "type": "행동",
@@ -1216,7 +1216,7 @@
     {
       "fullCode": "NA-05-oboro-O-N-1",
       "code": "O-N-1",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "철사",
         "type": "공격",
@@ -1235,7 +1235,7 @@
     {
       "fullCode": "NA-05-oboro-O-N-2",
       "code": "O-N-2",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "그림자 마름",
         "type": "공격",
@@ -1254,7 +1254,7 @@
     {
       "fullCode": "NA-05-oboro-O-N-3",
       "code": "O-N-3",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "참격난무",
         "type": "공격",
@@ -1273,7 +1273,7 @@
     {
       "fullCode": "NA-05-oboro-O-N-4",
       "code": "O-N-4",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "닌자걸음",
         "type": "행동",
@@ -1290,7 +1290,7 @@
     {
       "fullCode": "NA-05-oboro-O-N-5",
       "code": "O-N-5",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "유도",
         "type": "행동",
@@ -1307,7 +1307,7 @@
     {
       "fullCode": "NA-05-oboro-O-N-6",
       "code": "O-N-6",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "분신술",
         "type": "행동",
@@ -1324,7 +1324,7 @@
     {
       "fullCode": "NA-05-oboro-O-N-7",
       "code": "O-N-7",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "생체활성",
         "type": "부여",
@@ -1342,7 +1342,7 @@
     {
       "fullCode": "NA-05-oboro-O-S-1",
       "code": "O-S-1",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "쿠마스케",
         "type": "공격",
@@ -1362,7 +1362,7 @@
     {
       "fullCode": "NA-05-oboro-O-S-2",
       "code": "O-S-2",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "토비카게",
         "type": "행동",
@@ -1374,13 +1374,13 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "cost": "4"
     },
     {
       "fullCode": "NA-05-oboro-O-S-3",
       "code": "O-S-3",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "우로우오",
         "type": "부여",
@@ -1399,7 +1399,7 @@
     {
       "fullCode": "NA-05-oboro-O-S-4",
       "code": "O-S-4",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "미카즈라",
         "type": "공격",
@@ -1419,7 +1419,7 @@
     {
       "fullCode": "NA-05-oboro-A1-N-2",
       "code": "A1-N-2",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "수리검",
         "type": "공격",
@@ -1438,7 +1438,7 @@
     {
       "fullCode": "NA-05-oboro-A1-N-3",
       "code": "A1-N-3",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "기습",
         "type": "공격",
@@ -1457,7 +1457,7 @@
     {
       "fullCode": "NA-05-oboro-A1-S-4",
       "code": "A1-S-4",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "신대의 가지",
         "type": "행동",
@@ -1475,7 +1475,7 @@
     {
       "fullCode": "NA-05-oboro-A1-S-4-Ex1",
       "code": "A1-S-4-Ex1",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "최후의 결정",
         "type": "행동",
@@ -1493,7 +1493,7 @@
     {
       "fullCode": "NA-05-oboro-A2-N-1",
       "code": "A2-N-1",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "홀로그램 쿠나이",
         "type": "공격",
@@ -1512,7 +1512,7 @@
     {
       "fullCode": "NA-05-oboro-A2-S-1",
       "code": "A2-S-1",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "기가스케",
         "type": "공격",
@@ -1532,7 +1532,7 @@
     {
       "fullCode": "NA-05-oboro-A2-S-3",
       "code": "A2-S-3",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "흐릿한 문서 · 전자신섭",
         "type": "행동",
@@ -1550,7 +1550,7 @@
     {
       "fullCode": "NA-05-oboro-A2-MP-1",
       "code": "A2-MP-1",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "메인 파츠 X",
         "type": "공격",
@@ -1569,7 +1569,7 @@
     {
       "fullCode": "NA-05-oboro-A2-MP-2",
       "code": "A2-MP-2",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "메인 파츠 Y",
         "type": "공격",
@@ -1588,7 +1588,7 @@
     {
       "fullCode": "NA-05-oboro-A2-MP-3",
       "code": "A2-MP-3",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "메인 파츠 Z",
         "type": "공격",
@@ -1607,7 +1607,7 @@
     {
       "fullCode": "NA-05-oboro-A2-CP-1",
       "code": "A2-CP-1",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "커스텀 파츠 A",
         "type": "일반",
@@ -1624,7 +1624,7 @@
     {
       "fullCode": "NA-05-oboro-A2-CP-2",
       "code": "A2-CP-2",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "커스텀 파츠 B",
         "type": "일반",
@@ -1641,7 +1641,7 @@
     {
       "fullCode": "NA-05-oboro-A2-CP-3",
       "code": "A2-CP-3",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "커스텀 파츠 C",
         "type": "일반",
@@ -1658,7 +1658,7 @@
     {
       "fullCode": "NA-05-oboro-A2-CP-4",
       "code": "A2-CP-4",
-      "charName": "oboro",
+      "character": "oboro",
       "korData": {
         "name": "커스텀 파츠 D",
         "type": "일반",
@@ -1675,7 +1675,7 @@
     {
       "fullCode": "NA-06-yukihi-O-N-1",
       "code": "O-N-1",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "숨긴 바늘 / 머금은 바늘",
         "type": "공격",
@@ -1694,26 +1694,26 @@
     {
       "fullCode": "NA-06-yukihi-O-N-2",
       "code": "O-N-2",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "숨긴 불꽃 / 손뼉치기",
         "type": "공격",
         "subType": "",
-        "description": "🌂【공격후】 이 카드를 손패로 되돌리고, 우산의 개폐를 수행한다.",
+        "description": "🌂【공격후】 우산의 개폐를 수행해도 된다. ☔【공격후】 우산의 개폐를 수행해도 된다.",
         "imagePath": "/furuyoni/images/card/kor/06-O-N-2.jpg",
         "category": "통상패"
       },
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "🌂5-6 ☔0-2",
       "damage": "🌂1 ☔1/🌂1 ☔1"
     },
     {
       "fullCode": "NA-06-yukihi-O-N-3",
       "code": "O-N-3",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "떨쳐내기 / 끌어당기기",
         "type": "공격",
@@ -1732,7 +1732,7 @@
     {
       "fullCode": "NA-06-yukihi-O-N-4",
       "code": "O-N-4",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "휘두르기 / 푹 찌르기",
         "type": "공격",
@@ -1751,7 +1751,7 @@
     {
       "fullCode": "NA-06-yukihi-O-N-5",
       "code": "O-N-5",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "우산 돌리기",
         "type": "행동",
@@ -1768,7 +1768,7 @@
     {
       "fullCode": "NA-06-yukihi-O-N-6",
       "code": "O-N-6",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "뒷걸음질 / 파고들기",
         "type": "행동",
@@ -1785,7 +1785,7 @@
     {
       "fullCode": "NA-06-yukihi-O-N-7",
       "code": "O-N-7",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "인연 맺기",
         "type": "부여",
@@ -1803,7 +1803,7 @@
     {
       "fullCode": "NA-06-yukihi-O-S-1",
       "code": "O-S-1",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "흩날리는 눈꽃",
         "type": "공격",
@@ -1823,7 +1823,7 @@
     {
       "fullCode": "NA-06-yukihi-O-S-2",
       "code": "O-S-2",
-      "charName": "yikihi",
+      "character": "yikihi",
       "korData": {
         "name": "일렁이는 등불",
         "type": "공격",
@@ -1843,7 +1843,7 @@
     {
       "fullCode": "NA-06-yukihi-O-S-3",
       "code": "O-S-3",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "질척이는 속내",
         "type": "부여",
@@ -1862,7 +1862,7 @@
     {
       "fullCode": "NA-06-yukihi-O-S-4",
       "code": "O-S-4",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "빙글도는 몸짓",
         "type": "행동",
@@ -1880,7 +1880,7 @@
     {
       "fullCode": "NA-06-yukihi-A1-N-2",
       "code": "A1-N-2",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "조력하기 / 위협하기",
         "type": "공격",
@@ -1899,7 +1899,7 @@
     {
       "fullCode": "NA-06-yukihi-A1-N-4",
       "code": "A1-N-4",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "씨실 / 날실",
         "type": "공격",
@@ -1918,7 +1918,7 @@
     {
       "fullCode": "NA-06-yukihi-A1-S-2",
       "code": "A1-S-2",
-      "charName": "yukihi",
+      "character": "yukihi",
       "korData": {
         "name": "살랑이는 옷깃",
         "type": "부여",
@@ -1937,7 +1937,7 @@
     {
       "fullCode": "NA-07-shinra-O-N-1",
       "code": "O-N-1",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "입론",
         "type": "공격",
@@ -1956,7 +1956,7 @@
     {
       "fullCode": "NA-07-shinra-O-N-2",
       "code": "O-N-2",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "반론",
         "type": "공격",
@@ -1975,7 +1975,7 @@
     {
       "fullCode": "NA-07-shinra-O-N-3",
       "code": "O-N-3",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "궤변",
         "type": "공격",
@@ -1994,7 +1994,7 @@
     {
       "fullCode": "NA-07-shinra-O-N-4",
       "code": "O-N-4",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "인용",
         "type": "행동",
@@ -2011,7 +2011,7 @@
     {
       "fullCode": "NA-07-shinra-O-N-5",
       "code": "O-N-5",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "선동",
         "type": "행동",
@@ -2028,7 +2028,7 @@
     {
       "fullCode": "NA-07-shinra-O-N-6",
       "code": "O-N-6",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "장담",
         "type": "부여",
@@ -2040,13 +2040,13 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "2"
     },
     {
       "fullCode": "NA-07-shinra-O-N-7",
       "code": "O-N-7",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "논파",
         "type": "부여",
@@ -2064,12 +2064,12 @@
     {
       "fullCode": "NA-07-shinra-O-S-1",
       "code": "O-S-1",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "완전논파",
         "type": "행동",
         "subType": "",
-        "description": "상대의 버림패에 있는 카드를 1장 선택하고, 이 카드 아래에 봉인한다.",
+        "description": "상대의 버림패에 있는 카드를 1장 선택하고, 이 카드 아래에 봉인한다.\r\n(봉인된 카드는 게임 도중 되돌아오지 않는다.)",
         "imagePath": "/furuyoni/images/card/kor/07-O-S-1.jpg",
         "category": "비장패"
       },
@@ -2082,7 +2082,7 @@
     {
       "fullCode": "NA-07-shinra-O-S-2",
       "code": "O-S-2",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "일절이해",
         "type": "행동",
@@ -2100,7 +2100,7 @@
     {
       "fullCode": "NA-07-shinra-O-S-3",
       "code": "O-S-3",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "천지반박",
         "type": "부여",
@@ -2119,7 +2119,7 @@
     {
       "fullCode": "NA-07-shinra-O-S-4",
       "code": "O-S-4",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "삼라판증",
         "type": "부여",
@@ -2138,7 +2138,7 @@
     {
       "fullCode": "NA-07-shinra-A1-N-2",
       "code": "A1-N-2",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "진언",
         "type": "행동",
@@ -2155,25 +2155,25 @@
     {
       "fullCode": "NA-07-shinra-A1-N-7",
       "code": "A1-N-7",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "사도",
         "type": "부여",
         "subType": "전력",
-        "description": "【전개시】 집중력을 1 지불하면서 계략을 준비해도 된다.\r\n【전개시/파기시】 계략을 실행하고, 다음번 계략을 준비한다.\r\n(신산) 공격 「적정거리 1,3,5, 2/2, 불가피, 【공격후】 상대는 손패에서 1장을 선택하고, 선택한 카드를 패산 아래에 놓는다」을 수행한다.\r\n(귀모) 공격 「적정거리 0,2,4, 2/2, 불가피, 【공격후】 상대의 패산 위에서 1장을 버림패로 만들고, 1장을 덮음패로 만든다」을 수행한다. ",
+        "description": "【전개시】 집중력을 1 지불하면서 계략을 준비해도 된다.\r\n【전개시/파기시】 계략을 실행하고, 다음번 계략을 준비한다.\r\n(신산) 공격 「적정거리 1,3,5, 2/2, 불가피, 【공격후】 상대는 손패에서 1장을 선택하고, 선택한 카드를 패산 아래에 놓는다」을 수행한다.\r\n(귀모) 공격 「적정거리 0,2,4, 2/2, 불가피, 【공격후】 상대의 패산 위에서 1장을 버림패로 만들고, 1장을 덮음패로 만든다」을 수행한다.",
         "imagePath": "/furuyoni/images/card/kor/07-A1-N-7.jpg",
         "category": "통상패"
       },
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "2"
     },
     {
       "fullCode": "NA-07-shinra-A1-S-3",
       "code": "A1-S-3",
-      "charName": "shinra",
+      "character": "shinra",
       "korData": {
         "name": "전지경전",
         "type": "공격",
@@ -2193,7 +2193,7 @@
     {
       "fullCode": "NA-08-hagane-O-N-1",
       "code": "O-N-1",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "원심격",
         "type": "공격",
@@ -2212,7 +2212,7 @@
     {
       "fullCode": "NA-08-hagane-O-N-2",
       "code": "O-N-2",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "사풍진",
         "type": "공격",
@@ -2231,7 +2231,7 @@
     {
       "fullCode": "NA-08-hagane-O-N-3",
       "code": "O-N-3",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "대지 부수기",
         "type": "공격",
@@ -2250,7 +2250,7 @@
     {
       "fullCode": "NA-08-hagane-O-N-4",
       "code": "O-N-4",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "초반동",
         "type": "행동",
@@ -2267,7 +2267,7 @@
     {
       "fullCode": "NA-08-hagane-O-N-5",
       "code": "O-N-5",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "원무련",
         "type": "행동",
@@ -2284,7 +2284,7 @@
     {
       "fullCode": "NA-08-hagane-O-N-6",
       "code": "O-N-6",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "종 울리기",
         "type": "행동",
@@ -2301,12 +2301,12 @@
     {
       "fullCode": "NA-08-hagane-O-N-7",
       "code": "O-N-7",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "인력장",
         "type": "부여",
         "subType": "",
-        "description": "전력화: 【상시】 이 카드의 화살표로 이동하는 벚꽃결정이 1개 많아진다.\r\n【전개시】 간격 → 자신 오라(1)\r\n【전개중】 달인의 간격이 1 감소한다.",
+        "description": "전력화: 【상시】 이 카드의 화살표로 이동하는 벚꽃결정이 1개 많아진다.\r\n【전개시】 간격 → 자신 오라 (1)\r\n【전개중】 달인의 간격이 1 감소한다.",
         "imagePath": "/furuyoni/images/card/kor/08-O-N-7.jpg",
         "category": "통상패"
       },
@@ -2319,7 +2319,7 @@
     {
       "fullCode": "NA-08-hagane-O-S-1",
       "code": "O-S-1",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "대천공 크래시",
         "type": "공격",
@@ -2331,7 +2331,7 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "0-10",
       "damage": "X/Y",
       "cost": "4"
@@ -2339,7 +2339,7 @@
     {
       "fullCode": "NA-08-hagane-O-S-2",
       "code": "O-S-2",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "대파종 메갈로벨",
         "type": "행동",
@@ -2357,7 +2357,7 @@
     {
       "fullCode": "NA-08-hagane-O-S-3",
       "code": "O-S-3",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "대중력 어트랙트",
         "type": "행동",
@@ -2375,7 +2375,7 @@
     {
       "fullCode": "NA-08-hagane-O-S-4",
       "code": "O-S-4",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "대산맥 리스펙트",
         "type": "행동",
@@ -2393,7 +2393,7 @@
     {
       "fullCode": "NA-08-hagane-A1-N-1",
       "code": "A1-N-1",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "화롯불",
         "type": "행동",
@@ -2410,7 +2410,7 @@
     {
       "fullCode": "NA-08-hagane-A1-N-2",
       "code": "A1-N-2",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "선회기",
         "type": "행동",
@@ -2427,7 +2427,7 @@
     {
       "fullCode": "NA-08-hagane-A1-S-1",
       "code": "A1-S-1",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "대연성 마테리얼",
         "type": "행동",
@@ -2445,7 +2445,7 @@
     {
       "fullCode": "NA-08-hagane-A1-S-1-Ex1",
       "code": "A1-S-1-Ex1",
-      "charName": "hagane",
+      "character": "hagane",
       "korData": {
         "name": "연성공격",
         "type": "미정",
@@ -2462,7 +2462,7 @@
     {
       "fullCode": "NA-09-chikage-O-N-1",
       "code": "O-N-1",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "쿠나이 던지기",
         "type": "공격",
@@ -2481,7 +2481,7 @@
     {
       "fullCode": "NA-09-chikage-O-N-2",
       "code": "O-N-2",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "독침",
         "type": "공격",
@@ -2504,7 +2504,7 @@
     {
       "fullCode": "NA-09-chikage-O-N-3",
       "code": "O-N-3",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "둔술",
         "type": "공격",
@@ -2523,7 +2523,7 @@
     {
       "fullCode": "NA-09-chikage-O-N-4",
       "code": "O-N-4",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "암기",
         "type": "공격",
@@ -2542,7 +2542,7 @@
     {
       "fullCode": "NA-09-chikage-O-N-5",
       "code": "O-N-5",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "독 안개",
         "type": "행동",
@@ -2563,7 +2563,7 @@
     {
       "fullCode": "NA-09-chikage-O-N-6",
       "code": "O-N-6",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "까치발 걸음",
         "type": "부여",
@@ -2581,7 +2581,7 @@
     {
       "fullCode": "NA-09-chikage-O-N-7",
       "code": "O-N-7",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "진흙탕",
         "type": "부여",
@@ -2599,7 +2599,7 @@
     {
       "fullCode": "NA-09-chikage-O-S-1",
       "code": "O-S-1",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "멸등의 영혼독",
         "type": "행동",
@@ -2617,7 +2617,7 @@
     {
       "fullCode": "NA-09-chikage-O-S-2",
       "code": "O-S-2",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "반기의 얽힌독",
         "type": "부여",
@@ -2636,7 +2636,7 @@
     {
       "fullCode": "NA-09-chikage-O-S-3",
       "code": "O-S-3",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "윤회의 안개독",
         "type": "공격",
@@ -2656,7 +2656,7 @@
     {
       "fullCode": "NA-09-chikage-O-S-4",
       "code": "O-S-4",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "야미쿠라 치카게가 사는 길",
         "type": "부여",
@@ -2675,7 +2675,7 @@
     {
       "fullCode": "NA-09-chikage-O-P-1",
       "code": "O-P-1",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "마비독",
         "type": "행동",
@@ -2692,7 +2692,7 @@
     {
       "fullCode": "NA-09-chikage-O-P-2",
       "code": "O-P-2",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "환각독",
         "type": "행동",
@@ -2709,7 +2709,7 @@
     {
       "fullCode": "NA-09-chikage-O-P-3",
       "code": "O-P-3",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "이완독",
         "type": "부여",
@@ -2727,7 +2727,7 @@
     {
       "fullCode": "NA-09-chikage-O-P-4",
       "code": "O-P-4",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "멸등독",
         "type": "행동",
@@ -2744,7 +2744,7 @@
     {
       "fullCode": "NA-09-chikage-A1-N-5",
       "code": "A1-N-5",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "속임수 우산",
         "type": "공격",
@@ -2763,7 +2763,7 @@
     {
       "fullCode": "NA-09-chikage-A1-N-6",
       "code": "A1-N-6",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "분투",
         "type": "행동",
@@ -2780,7 +2780,7 @@
     {
       "fullCode": "NA-09-chikage-A1-S-4",
       "code": "A1-S-4",
-      "charName": "chikage",
+      "character": "chikage",
       "korData": {
         "name": "잔재의 인연독",
         "type": "공격",
@@ -2800,7 +2800,7 @@
     {
       "fullCode": "NA-10-kururu-O-N-1",
       "code": "O-N-1",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "엘레키텔",
         "type": "행동",
@@ -2817,7 +2817,7 @@
     {
       "fullCode": "NA-10-kururu-O-N-2",
       "code": "O-N-2",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "액셀러~",
         "type": "행동",
@@ -2834,7 +2834,7 @@
     {
       "fullCode": "NA-10-kururu-O-N-3",
       "code": "O-N-3",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "쿠루룽~",
         "type": "행동",
@@ -2851,7 +2851,7 @@
     {
       "fullCode": "NA-10-kururu-O-N-4",
       "code": "O-N-4",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "토네~이도",
         "type": "행동",
@@ -2868,7 +2868,7 @@
     {
       "fullCode": "NA-10-kururu-O-N-5",
       "code": "O-N-5",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "리게이너~",
         "type": "행동",
@@ -2885,7 +2885,7 @@
     {
       "fullCode": "NA-10-kururu-O-N-6",
       "code": "O-N-6",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "모듀르~",
         "type": "부여",
@@ -2903,7 +2903,7 @@
     {
       "fullCode": "NA-10-kururu-O-N-7",
       "code": "O-N-7",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "리플렉터",
         "type": "부여",
@@ -2921,7 +2921,7 @@
     {
       "fullCode": "NA-10-kururu-O-S-1",
       "code": "O-S-1",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "드레~인 데빌",
         "type": "행동",
@@ -2939,7 +2939,7 @@
     {
       "fullCode": "NA-10-kururu-O-S-2",
       "code": "O-S-2",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "빅 골~렘",
         "type": "행동",
@@ -2957,25 +2957,25 @@
     {
       "fullCode": "NA-10-kururu-O-S-3",
       "code": "O-S-3",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "인더스트리아",
         "type": "행동",
         "subType": "",
-        "description": "이 카드가 당신의 카드이고, 이 카드 아래에 카드가 봉인되어 있지 않다면, 손패 또는 버림패에서 《부여》가 아닌 카드를 1장 선택하고, 이 카드 아래에 앞면으로 봉인해도 된다.\r\n당신의 추가패에서 「듀~플리기어」를 1장 패산 아래에 놓는다.\r\n즉재기: 당신이 패산을 재구성한다.",
+        "description": "이 카드가 당신의 카드이고, 이 카드 아래에 카드가 봉인되어 있지 않다면, 손패 또는 버림패에서 《부여》가 아닌 카드를 1장 선택하고, 이 카드 아래에 앞면으로 봉인해도 된다.\r\n당신의 추가패에서 「듀~플리기어」를 1장 패산 아래에 놓는다. (합계 최대 3장까지)\r\n즉재기: 당신이 패산을 재구성한다.\r\n(재구성 후에 미사용 상태로 되돌린다).",
         "imagePath": "/furuyoni/images/card/kor/10-O-S-3.jpg",
         "category": "비장패"
       },
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": ["NA-10-kururu-O-S-3-Ex1"],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "cost": "1"
     },
     {
       "fullCode": "NA-10-kururu-O-S-3-Ex1",
       "code": "O-S-3-Ex1",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "듀~플리기어",
         "type": "미정",
@@ -2992,7 +2992,7 @@
     {
       "fullCode": "NA-10-kururu-O-S-4",
       "code": "O-S-4",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "신섭장치: 쿠루루식",
         "type": "행동",
@@ -3010,7 +3010,7 @@
     {
       "fullCode": "NA-10-kururu-A1-N-1",
       "code": "A1-N-1",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "애널라이즈",
         "type": "행동",
@@ -3027,7 +3027,7 @@
     {
       "fullCode": "NA-10-kururu-A1-N-3",
       "code": "A1-N-3",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "다우징",
         "type": "행동",
@@ -3044,7 +3044,7 @@
     {
       "fullCode": "NA-10-kururu-A1-S-3",
       "code": "A1-S-3",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "라스트 리서~치",
         "type": "행동",
@@ -3062,7 +3062,7 @@
     {
       "fullCode": "NA-10-kururu-A1-S-3-Ex1",
       "code": "A1-S-3-Ex1",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "그랑 걸리버~",
         "type": "행동",
@@ -3080,7 +3080,7 @@
     {
       "fullCode": "NA-10-kururu-A2-N-1",
       "code": "A2-N-1",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "블래스터~",
         "type": "공격",
@@ -3099,7 +3099,7 @@
     {
       "fullCode": "NA-10-kururu-A2-N-2",
       "code": "A2-N-2",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "레~일건",
         "type": "공격",
@@ -3118,7 +3118,7 @@
     {
       "fullCode": "NA-10-kururu-A2-S-4",
       "code": "A2-S-4",
-      "charName": "kururu",
+      "character": "kururu",
       "korData": {
         "name": "커넥트 다이브",
         "type": "행동",
@@ -3136,7 +3136,7 @@
     {
       "fullCode": "NA-11-thallya-O-N-1",
       "code": "O-N-1",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Burning Steam",
         "type": "공격",
@@ -3155,7 +3155,7 @@
     {
       "fullCode": "NA-11-thallya-O-N-2",
       "code": "O-N-2",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Waving Edge",
         "type": "공격",
@@ -3174,9 +3174,9 @@
     {
       "fullCode": "NA-11-thallya-O-N-3",
       "code": "O-N-3",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
-        "name": "Shield Charge",
+        "name": "Shield characterge",
         "type": "공격",
         "subType": "",
         "description": "연소\r\n【상시】 이 《공격》의 데미지로 이동하는 벚꽃결정은 더스트나 플레어가 아니라 간격으로 이동시킨다.",
@@ -3193,7 +3193,7 @@
     {
       "fullCode": "NA-11-thallya-O-N-4",
       "code": "O-N-4",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Steam Cannon",
         "type": "공격",
@@ -3212,7 +3212,7 @@
     {
       "fullCode": "NA-11-thallya-O-N-5",
       "code": "O-N-5",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Stunt",
         "type": "행동",
@@ -3229,7 +3229,7 @@
     {
       "fullCode": "NA-11-thallya-O-N-6",
       "code": "O-N-6",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Roaring",
         "type": "행동",
@@ -3246,7 +3246,7 @@
     {
       "fullCode": "NA-11-thallya-O-N-7",
       "code": "O-N-7",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Turbo Switch",
         "type": "행동",
@@ -3263,7 +3263,7 @@
     {
       "fullCode": "NA-11-thallya-O-S-1",
       "code": "O-S-1",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Alpha-Edge",
         "type": "공격",
@@ -3283,7 +3283,7 @@
     {
       "fullCode": "NA-11-thallya-O-S-2",
       "code": "O-S-2",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Omega-Burst",
         "type": "행동",
@@ -3301,7 +3301,7 @@
     {
       "fullCode": "NA-11-thallya-O-S-3",
       "code": "O-S-3",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Thallya's Masterpiece",
         "type": "행동",
@@ -3319,7 +3319,7 @@
     {
       "fullCode": "NA-11-thallya-O-S-4",
       "code": "O-S-4",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Julia's BlackBox",
         "type": "행동",
@@ -3337,7 +3337,7 @@
     {
       "fullCode": "NA-11-thallya-O-TF-1",
       "code": "O-TF-1",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Form: YAKSHA",
         "type": "일반",
@@ -3354,7 +3354,7 @@
     {
       "fullCode": "NA-11-thallya-O-TF-2",
       "code": "O-TF-2",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Form: NAGA",
         "type": "일반",
@@ -3371,7 +3371,7 @@
     {
       "fullCode": "NA-11-thallya-O-TF-3",
       "code": "O-TF-3",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Form: GARUDA",
         "type": "일반",
@@ -3388,7 +3388,7 @@
     {
       "fullCode": "NA-11-thallya-A1-N-5",
       "code": "A1-N-5",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Quick Change",
         "type": "부여",
@@ -3406,7 +3406,7 @@
     {
       "fullCode": "NA-11-thallya-A1-S-1",
       "code": "A1-S-1",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "BlackBox NEO",
         "type": "행동",
@@ -3424,7 +3424,7 @@
     {
       "fullCode": "NA-11-thallya-A1-S-2",
       "code": "A1-S-2",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "OMNIS-Blaster",
         "type": "공격",
@@ -3444,7 +3444,7 @@
     {
       "fullCode": "NA-11-thallya-A1-TF-1",
       "code": "A1-TF-1",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Form: KINNARI",
         "type": "일반",
@@ -3461,7 +3461,7 @@
     {
       "fullCode": "NA-11-thallya-A1-TF-3",
       "code": "A1-TF-3",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Form: ASURA",
         "type": "일반",
@@ -3478,7 +3478,7 @@
     {
       "fullCode": "NA-11-thallya-A1-TF-4",
       "code": "A1-TF-4",
-      "charName": "thallya",
+      "character": "thallya",
       "korData": {
         "name": "Form: DEVA",
         "type": "일반",
@@ -3495,7 +3495,7 @@
     {
       "fullCode": "NA-12-raira-O-N-1",
       "code": "O-N-1",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "짐승의 손톱",
         "type": "공격",
@@ -3514,7 +3514,7 @@
     {
       "fullCode": "NA-12-raira-O-N-2",
       "code": "O-N-2",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "풍뢰격",
         "type": "공격",
@@ -3526,14 +3526,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "1-2",
       "damage": "X/2"
     },
     {
       "fullCode": "NA-12-raira-O-N-3",
       "code": "O-N-3",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "윤회의 손톱",
         "type": "공격",
@@ -3552,7 +3552,7 @@
     {
       "fullCode": "NA-12-raira-O-N-4",
       "code": "O-N-4",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "바람 달리기",
         "type": "행동",
@@ -3569,7 +3569,7 @@
     {
       "fullCode": "NA-12-raira-O-N-5",
       "code": "O-N-5",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "풍뢰의 지혜",
         "type": "행동",
@@ -3586,7 +3586,7 @@
     {
       "fullCode": "NA-12-raira-O-N-6",
       "code": "O-N-6",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "울부짖기",
         "type": "행동",
@@ -3603,7 +3603,7 @@
     {
       "fullCode": "NA-12-raira-O-N-7",
       "code": "O-N-7",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "하늘 박차기",
         "type": "행동",
@@ -3620,7 +3620,7 @@
     {
       "fullCode": "NA-12-raira-O-S-1",
       "code": "O-S-1",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "뇌라풍신조",
         "type": "공격",
@@ -3640,7 +3640,7 @@
     {
       "fullCode": "NA-12-raira-O-S-2",
       "code": "O-S-2",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "천뢰소환진",
         "type": "행동",
@@ -3658,25 +3658,25 @@
     {
       "fullCode": "NA-12-raira-O-S-3",
       "code": "O-S-3",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "풍마초래공",
         "type": "행동",
         "subType": "",
-        "description": "현재 풍신 게이지에 따라, 아래 비장패를 추가패에서 미사용 상태로 얻는다. 그 후, 이 카드를 게임에서 제외한다.\r\n3 이상: 풍마선풍\r\n7 이상: 풍마전회\r\n12 이상: 풍마천구도",
+        "description": "현재 풍신 게이지에 따라, 아래 비장패를 추가패에서 미사용 상태로 얻는다(조건을 충족하면 모두 얻는다). 그 후, 이 카드를 게임에서 제외한다.\r\n3 이상: 풍마선풍\r\n7 이상: 풍마전회\r\n12 이상: 풍마천구도",
         "imagePath": "/furuyoni/images/card/kor/12-O-S-3.jpg",
         "category": "비장패"
       },
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "cost": "2"
     },
     {
       "fullCode": "NA-12-raira-O-S-4",
       "code": "O-S-4",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "원환륜회선",
         "type": "부여",
@@ -3695,7 +3695,7 @@
     {
       "fullCode": "NA-12-raira-O-S-3-Ex1",
       "code": "O-S-3-Ex1",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "풍마선풍",
         "type": "공격",
@@ -3715,7 +3715,7 @@
     {
       "fullCode": "NA-12-raira-O-S-3-Ex2",
       "code": "O-S-3-Ex2",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "풍마전회",
         "type": "행동",
@@ -3733,7 +3733,7 @@
     {
       "fullCode": "NA-12-raira-O-S-3-Ex3",
       "code": "O-S-3-Ex3",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "풍마천구도",
         "type": "행동",
@@ -3751,7 +3751,7 @@
     {
       "fullCode": "NA-12-raira-A1-N-2",
       "code": "A1-N-2",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "폭풍",
         "type": "공격",
@@ -3770,7 +3770,7 @@
     {
       "fullCode": "NA-12-raira-A1-N-6",
       "code": "A1-N-6",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "대폭풍우",
         "type": "부여",
@@ -3788,7 +3788,7 @@
     {
       "fullCode": "NA-12-raira-A1-S-3",
       "code": "A1-S-3",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "진풍제천의",
         "type": "행동",
@@ -3806,7 +3806,7 @@
     {
       "fullCode": "NA-12-raira-A1-ST",
       "code": "A1-ST",
-      "charName": "raira",
+      "character": "raira",
       "korData": {
         "name": "폭풍의 힘",
         "type": "일반",
@@ -3823,7 +3823,7 @@
     {
       "fullCode": "NA-13-utsuro-O-N-1",
       "code": "O-N-1",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "원월",
         "type": "공격",
@@ -3842,7 +3842,7 @@
     {
       "fullCode": "NA-13-utsuro-O-N-2",
       "code": "O-N-2",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "검은 파동",
         "type": "공격",
@@ -3861,7 +3861,7 @@
     {
       "fullCode": "NA-13-utsuro-O-N-3",
       "code": "O-N-3",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "수확",
         "type": "공격",
@@ -3880,7 +3880,7 @@
     {
       "fullCode": "NA-13-utsuro-O-N-4",
       "code": "O-N-4",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "중압",
         "type": "행동",
@@ -3897,7 +3897,7 @@
     {
       "fullCode": "NA-13-utsuro-O-N-5",
       "code": "O-N-5",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "그림자 날개",
         "type": "행동",
@@ -3914,7 +3914,7 @@
     {
       "fullCode": "NA-13-utsuro-O-N-6",
       "code": "O-N-6",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "그림자 벽",
         "type": "행동",
@@ -3931,7 +3931,7 @@
     {
       "fullCode": "NA-13-utsuro-O-N-7",
       "code": "O-N-7",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "윤회주",
         "type": "부여",
@@ -3949,7 +3949,7 @@
     {
       "fullCode": "NA-13-utsuro-O-S-1",
       "code": "O-S-1",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "회멸",
         "type": "행동",
@@ -3967,7 +3967,7 @@
     {
       "fullCode": "NA-13-utsuro-O-S-2",
       "code": "O-S-2",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "허위",
         "type": "부여",
@@ -3986,7 +3986,7 @@
     {
       "fullCode": "NA-13-utsuro-O-S-3",
       "code": "O-S-3",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "종말",
         "type": "부여",
@@ -4005,7 +4005,7 @@
     {
       "fullCode": "NA-13-utsuro-O-S-4",
       "code": "O-S-4",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "마식",
         "type": "행동",
@@ -4017,13 +4017,13 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "cost": "4"
     },
     {
       "fullCode": "NA-13-utsuro-A1-N-2",
       "code": "A1-N-2",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "좀먹는 먼지",
         "type": "공격",
@@ -4042,7 +4042,7 @@
     {
       "fullCode": "NA-13-utsuro-A1-S-1",
       "code": "A1-S-1",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "잔향장치: 쿠루루식",
         "type": "공격",
@@ -4059,7 +4059,7 @@
         "NA-13-utsuro-A1-S-1-Ex3",
         "NA-13-utsuro-A1-S-1-Ex4"
       ],
-      "revisionCount": 1,
+      "revisionCount": 2,
       "distance": "3-10",
       "damage": "2/1",
       "cost": "2"
@@ -4067,7 +4067,7 @@
     {
       "fullCode": "NA-13-utsuro-A1-S-1-Ex1",
       "code": "A1-S-1-Ex1",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "망아",
         "type": "행동",
@@ -4085,7 +4085,7 @@
     {
       "fullCode": "NA-13-utsuro-A1-S-1-Ex2",
       "code": "A1-S-1-Ex2",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "망상을 일그러뜨리는 섬멸의 그림자",
         "type": "공격",
@@ -4104,7 +4104,7 @@
     {
       "fullCode": "NA-13-utsuro-A1-S-1-Ex3",
       "code": "A1-S-1-Ex3",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "스스로를 잊고 정적을 거닐다",
         "type": "행동",
@@ -4121,7 +4121,7 @@
     {
       "fullCode": "NA-13-utsuro-A1-S-1-Ex4",
       "code": "A1-S-1-Ex4",
-      "charName": "utsuro",
+      "character": "utsuro",
       "korData": {
         "name": "종언이여, 오라",
         "type": "부여",
@@ -4139,7 +4139,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-1",
       "code": "O-N-1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "정령식",
         "type": "공격",
@@ -4158,7 +4158,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-1-Ex1",
       "code": "O-N-1-Ex1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "수호령식",
         "type": "공격",
@@ -4177,7 +4177,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-1-Ex2",
       "code": "O-N-1-Ex2",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "돌격령식",
         "type": "공격",
@@ -4196,7 +4196,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-1-Ex3",
       "code": "O-N-1-Ex3",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "신령 오우카",
         "type": "공격",
@@ -4215,7 +4215,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-2",
       "code": "O-N-2",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "벚꽃보라",
         "type": "공격",
@@ -4234,7 +4234,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-3",
       "code": "O-N-3",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "의기공진",
         "type": "공격",
@@ -4253,7 +4253,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-4",
       "code": "O-N-4",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "벚꽃 날개",
         "type": "행동",
@@ -4270,7 +4270,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-4-Ex1",
       "code": "O-N-4-Ex1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "재생",
         "type": "행동",
@@ -4287,7 +4287,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-5",
       "code": "O-N-5",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "벚꽃 부적",
         "type": "행동",
@@ -4304,7 +4304,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-5-Ex1",
       "code": "O-N-5-Ex1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "아련한 반짝임",
         "type": "공격",
@@ -4323,7 +4323,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-6",
       "code": "O-N-6",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "지휘",
         "type": "부여",
@@ -4341,7 +4341,7 @@
     {
       "fullCode": "NA-14-honoka-O-N-7",
       "code": "O-N-7",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "꽁무니바람",
         "type": "부여",
@@ -4359,7 +4359,7 @@
     {
       "fullCode": "NA-14-honoka-O-S-1",
       "code": "O-S-1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "가슴에 의지를",
         "type": "행동",
@@ -4377,7 +4377,7 @@
     {
       "fullCode": "NA-14-honoka-O-S-1-Ex1",
       "code": "O-S-1-Ex1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "양손에 꽃을",
         "type": "행동",
@@ -4395,7 +4395,7 @@
     {
       "fullCode": "NA-14-honoka-O-S-1-Ex2",
       "code": "O-S-1-Ex2",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "그리고 새로운 개막을",
         "type": "행동",
@@ -4413,7 +4413,7 @@
     {
       "fullCode": "NA-14-honoka-O-S-2",
       "code": "O-S-2",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "이 깃발의 이름 아래",
         "type": "공격",
@@ -4433,7 +4433,7 @@
     {
       "fullCode": "NA-14-honoka-O-S-3",
       "code": "O-S-3",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "사계는 다시 돌아온다",
         "type": "행동",
@@ -4451,7 +4451,7 @@
     {
       "fullCode": "NA-14-honoka-O-S-4",
       "code": "O-S-4",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "만개한 꽃길에서",
         "type": "부여",
@@ -4470,7 +4470,7 @@
     {
       "fullCode": "NA-14-honoka-A1-N-1",
       "code": "A1-N-1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "벚꽃 쌍검",
         "type": "공격",
@@ -4489,7 +4489,7 @@
     {
       "fullCode": "NA-14-honoka-A1-N-1-Ex1",
       "code": "A1-N-1-Ex1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "그림자 양손",
         "type": "공격",
@@ -4508,7 +4508,7 @@
     {
       "fullCode": "NA-14-honoka-A1-S-1",
       "code": "A1-S-1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "나 홀로 눈이 뜨여",
         "type": "행동",
@@ -4523,13 +4523,13 @@
         "NA-14-honoka-A1-S-1-Ex1",
         "NA-14-honoka-A1-S-1-Ex2"
       ],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "cost": "3"
     },
     {
       "fullCode": "NA-14-honoka-A1-S-1-Ex1",
       "code": "A1-S-1-Ex1",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "자취를 뒤따르며",
         "type": "행동",
@@ -4549,7 +4549,7 @@
     {
       "fullCode": "NA-14-honoka-A1-S-1-Ex2",
       "code": "A1-S-1-Ex2",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "그림자 마주보며",
         "type": "행동",
@@ -4569,7 +4569,7 @@
     {
       "fullCode": "NA-14-honoka-A1-S-1-Ex3",
       "code": "A1-S-1-Ex3",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "벚꽃은 눈부시게 빛나리",
         "type": "공격",
@@ -4589,7 +4589,7 @@
     {
       "fullCode": "NA-14-honoka-A1-S-1-Ex4",
       "code": "A1-S-1-Ex4",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "서로의 떨린 손을 맞잡네",
         "type": "행동",
@@ -4607,7 +4607,7 @@
     {
       "fullCode": "NA-14-honoka-A1-S-1-Ex5",
       "code": "A1-S-1-Ex5",
-      "charName": "honoka",
+      "character": "honoka",
       "korData": {
         "name": "오래된 낡은 길을 걸으리",
         "type": "행동",
@@ -4625,7 +4625,7 @@
     {
       "fullCode": "NA-15-korunu-O-N-1",
       "code": "O-N-1",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "눈 칼날",
         "type": "공격",
@@ -4644,7 +4644,7 @@
     {
       "fullCode": "NA-15-korunu-O-N-2",
       "code": "O-N-2",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "선회날",
         "type": "공격",
@@ -4663,7 +4663,7 @@
     {
       "fullCode": "NA-15-korunu-O-N-3",
       "code": "O-N-3",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "검의 춤",
         "type": "공격",
@@ -4682,7 +4682,7 @@
     {
       "fullCode": "NA-15-korunu-O-N-4",
       "code": "O-N-4",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "눈 타기",
         "type": "행동",
@@ -4699,7 +4699,7 @@
     {
       "fullCode": "NA-15-korunu-O-N-5",
       "code": "O-N-5",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "절대영도",
         "type": "행동",
@@ -4716,7 +4716,7 @@
     {
       "fullCode": "NA-15-korunu-O-N-6",
       "code": "O-N-6",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "동상",
         "type": "부여",
@@ -4734,7 +4734,7 @@
     {
       "fullCode": "NA-15-korunu-O-N-7",
       "code": "O-N-7",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "서리 가시덤불",
         "type": "부여",
@@ -4752,7 +4752,7 @@
     {
       "fullCode": "NA-15-korunu-O-S-1",
       "code": "O-S-1",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "콘루 루얀페",
         "type": "공격",
@@ -4772,7 +4772,7 @@
     {
       "fullCode": "NA-15-korunu-O-S-2",
       "code": "O-S-2",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "레타르 레라",
         "type": "행동",
@@ -4790,7 +4790,7 @@
     {
       "fullCode": "NA-15-korunu-O-S-3",
       "code": "O-S-3",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "우파스 툼",
         "type": "공격",
@@ -4810,7 +4810,7 @@
     {
       "fullCode": "NA-15-korunu-O-S-4",
       "code": "O-S-4",
-      "charName": "korunu",
+      "character": "korunu",
       "korData": {
         "name": "포루챠르 토",
         "type": "부여",
@@ -4822,14 +4822,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "1",
       "cost": "2"
     },
     {
       "fullCode": "NA-16-yatsuha-O-N-1",
       "code": "O-N-1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "별의 손톱",
         "type": "공격",
@@ -4848,7 +4848,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-N-2",
       "code": "O-N-2",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "어둠의 아가리",
         "type": "공격",
@@ -4867,7 +4867,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-N-3",
       "code": "O-N-3",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "거울의 악마",
         "type": "공격",
@@ -4886,7 +4886,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-N-4",
       "code": "O-N-4",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "환영보법",
         "type": "행동",
@@ -4903,7 +4903,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-N-5",
       "code": "O-N-5",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "의지",
         "type": "행동",
@@ -4920,7 +4920,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-N-6",
       "code": "O-N-6",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "계약",
         "type": "행동",
@@ -4937,7 +4937,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-N-7",
       "code": "O-N-7",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "들러붙는 꽃",
         "type": "부여",
@@ -4955,7 +4955,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-S-1",
       "code": "O-S-1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "두잎 거울의 재앙신",
         "type": "행동",
@@ -4973,7 +4973,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-S-2",
       "code": "O-S-2",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "네잎 거울의 전래동요",
         "type": "행동",
@@ -4991,7 +4991,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-S-3",
       "code": "O-S-3",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "여섯잎 거울의 별바다",
         "type": "공격",
@@ -5011,7 +5011,7 @@
     {
       "fullCode": "NA-16-yatsuha-O-S-4",
       "code": "O-S-4",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "여덟잎 거울의 저편",
         "type": "부여",
@@ -5030,12 +5030,12 @@
     {
       "fullCode": "NA-16-yatsuha-A1-S-4",
       "code": "A1-S-4",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "여덟잎 거울의 허무한 벚꽃",
         "type": "행동",
         "subType": "",
-        "description": "종단 간격제한(0-7)\r\n【사용시/사용됨】 사용시와 당신이 패산을 재구성하기 직전에, 당신의 버림패 또는 손패에 있는 야츠하의 카드를 1장 공개하고, 완전태로 만들어도 된다. 그렇게 한 경우, 당신은 위축된다.",
+        "description": "종단 간격제한(0-7)\r\n【사용시/사용됨】 사용시와 당신이 패산을 재구성하기 직전에, 당신의 버림패 또는 손패에 있는 야츠하의 카드를 1장 공개하고, 완전태로 만들어도 된다. 그렇게 한 경우, 당신은 위축된다.\r\n(「별의 손톱」이라면, 「성신의 갈퀴손」을 동일한 영역에 손패에 추가한다.)",
         "imagePath": "/furuyoni/images/card/kor/16-A1-S-4.jpg",
         "category": "비장패"
       },
@@ -5056,7 +5056,7 @@
     {
       "fullCode": "NA-16-yatsuha-A1-N-1-Ex1",
       "code": "A1-N-1-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "성신의 갈퀴손",
         "type": "공격",
@@ -5075,7 +5075,7 @@
     {
       "fullCode": "NA-16-yatsuha-A1-N-2-Ex1",
       "code": "A1-N-2-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "심연의 입구",
         "type": "공격",
@@ -5094,7 +5094,7 @@
     {
       "fullCode": "NA-16-yatsuha-A1-N-3-Ex1",
       "code": "A1-N-3-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "진정한 괴물",
         "type": "공격",
@@ -5113,7 +5113,7 @@
     {
       "fullCode": "NA-16-yatsuha-A1-N-4-Ex1",
       "code": "A1-N-4-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "환영연계",
         "type": "행동",
@@ -5130,7 +5130,7 @@
     {
       "fullCode": "NA-16-yatsuha-A1-N-5-Ex1",
       "code": "A1-N-5-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "결의",
         "type": "행동",
@@ -5147,7 +5147,7 @@
     {
       "fullCode": "NA-16-yatsuha-A1-N-6-Ex1",
       "code": "A1-N-6-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "맹약",
         "type": "행동",
@@ -5164,7 +5164,7 @@
     {
       "fullCode": "NA-16-yatsuha-A1-N-7-Ex1",
       "code": "A1-N-7-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "허무로 물들이는 꽃",
         "type": "부여",
@@ -5182,7 +5182,7 @@
     {
       "fullCode": "NA-16-yatsuha-AA1-N-7",
       "code": "AA1-N-7",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "낯선 세계",
         "type": "부여",
@@ -5200,7 +5200,7 @@
     {
       "fullCode": "NA-16-yatsuha-AA1-N-7-Ex1",
       "code": "AA1-N-7-Ex1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "색채로 물드는 세계",
         "type": "행동",
@@ -5218,7 +5218,7 @@
     {
       "fullCode": "NA-16-yatsuha-AA1-N-7-Ex2",
       "code": "AA1-N-7-Ex2",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "그녀로서의 벚꽃 내리는 시대",
         "type": "행동",
@@ -5236,7 +5236,7 @@
     {
       "fullCode": "NA-16-yatsuha-AA1-S-4",
       "code": "AA1-S-4",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "그녀로서의 자아와 결의",
         "type": "행동",
@@ -5254,7 +5254,7 @@
     {
       "fullCode": "NA-16-yatsuha-AA1-T-1",
       "code": "AA1-T-1",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "여로",
         "type": "일반",
@@ -5271,7 +5271,7 @@
     {
       "fullCode": "NA-16-yatsuha-AA1-T-2",
       "code": "AA1-T-2",
-      "charName": "yatsuha",
+      "character": "yatsuha",
       "korData": {
         "name": "귀로",
         "type": "일반",
@@ -5288,7 +5288,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-N-1",
       "code": "O-N-1",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "수뢰구",
         "type": "공격",
@@ -5307,7 +5307,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-N-2",
       "code": "O-N-2",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "수류",
         "type": "공격",
@@ -5326,7 +5326,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-N-3",
       "code": "O-N-3",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "강산",
         "type": "공격",
@@ -5345,7 +5345,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-N-4",
       "code": "O-N-4",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "해일",
         "type": "행동",
@@ -5362,11 +5362,11 @@
     {
       "fullCode": "NA-17-hatsumi-O-N-5",
       "code": "O-N-5",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "준비만전",
         "type": "행동",
-        "subType": "",
+        "subType": "전력",
         "description": "더스트 → 자신 오라 (3)\r\n카드를 1장 뽑아도 된다.\r\n역풍이라면 이번 턴 동안, 손패의 상한이 1 증가한다.",
         "imagePath": "/furuyoni/images/card/kor/17-O-N-5.jpg",
         "category": "통상패"
@@ -5379,7 +5379,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-N-6",
       "code": "O-N-6",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "나침반",
         "type": "부여",
@@ -5397,7 +5397,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-N-7",
       "code": "O-N-7",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "파도 부르기",
         "type": "부여",
@@ -5409,13 +5409,13 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "1"
     },
     {
       "fullCode": "NA-17-hatsumi-O-S-1",
       "code": "O-S-1",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "이사나 해역",
         "type": "공격",
@@ -5435,7 +5435,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-S-2",
       "code": "O-S-2",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "오요기비 포화",
         "type": "공격",
@@ -5455,7 +5455,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-S-3",
       "code": "O-S-3",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "카라하리 등대",
         "type": "행동",
@@ -5473,7 +5473,7 @@
     {
       "fullCode": "NA-17-hatsumi-O-S-4",
       "code": "O-S-4",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "미오비키 항로",
         "type": "행동",
@@ -5491,7 +5491,7 @@
     {
       "fullCode": "NA-17-hatsumi-A1-N-4",
       "code": "A1-N-4",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "잠뢰",
         "type": "부여",
@@ -5509,7 +5509,7 @@
     {
       "fullCode": "NA-17-hatsumi-A1-S-1",
       "code": "A1-S-1",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "사기리 해역",
         "type": "부여",
@@ -5528,7 +5528,7 @@
     {
       "fullCode": "NA-17-hatsumi-A1-S-4",
       "code": "A1-S-4",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "와다나카 항로",
         "type": "부여",
@@ -5547,7 +5547,7 @@
     {
       "fullCode": "NA-17-hatsumi-A1-Di-1",
       "code": "A1-Di-1",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "잠수 전진",
         "type": "일반",
@@ -5564,7 +5564,7 @@
     {
       "fullCode": "NA-17-hatsumi-A1-Di-2",
       "code": "A1-Di-2",
-      "charName": "hatsumi",
+      "character": "hatsumi",
       "korData": {
         "name": "잠수 후퇴",
         "type": "일반",
@@ -5581,7 +5581,7 @@
     {
       "fullCode": "NA-18-mizuki-O-N-1",
       "code": "O-N-1",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "진두",
         "type": "공격",
@@ -5600,7 +5600,7 @@
     {
       "fullCode": "NA-18-mizuki-O-N-2",
       "code": "O-N-2",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "반공",
         "type": "공격",
@@ -5619,7 +5619,7 @@
     {
       "fullCode": "NA-18-mizuki-O-N-3",
       "code": "O-N-3",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "쏘아 떨구기",
         "type": "공격",
@@ -5638,7 +5638,7 @@
     {
       "fullCode": "NA-18-mizuki-O-N-4",
       "code": "O-N-4",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "호령",
         "type": "행동",
@@ -5655,7 +5655,7 @@
     {
       "fullCode": "NA-18-mizuki-O-N-5",
       "code": "O-N-5",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "방벽",
         "type": "행동",
@@ -5672,7 +5672,7 @@
     {
       "fullCode": "NA-18-mizuki-O-N-6",
       "code": "O-N-6",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "제압전진",
         "type": "행동",
@@ -5689,7 +5689,7 @@
     {
       "fullCode": "NA-18-mizuki-O-N-7",
       "code": "O-N-7",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "전장",
         "type": "부여",
@@ -5707,7 +5707,7 @@
     {
       "fullCode": "NA-18-mizuki-O-S-1",
       "code": "O-S-1",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "하치류 천주각",
         "type": "부여",
@@ -5726,7 +5726,7 @@
     {
       "fullCode": "NA-18-mizuki-O-S-2",
       "code": "O-S-2",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "히자마루 삼중루",
         "type": "공격",
@@ -5746,7 +5746,7 @@
     {
       "fullCode": "NA-18-mizuki-O-S-3",
       "code": "O-S-3",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "타테나시 대수문",
         "type": "행동",
@@ -5764,7 +5764,7 @@
     {
       "fullCode": "NA-18-mizuki-O-S-3-Ex1",
       "code": "O-S-3-Ex1",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "투신",
         "type": "공격",
@@ -5783,7 +5783,7 @@
     {
       "fullCode": "NA-18-mizuki-O-S-4",
       "code": "O-S-4",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "야마시로 미즈키의 전투의 함성",
         "type": "부여",
@@ -5802,7 +5802,7 @@
     {
       "fullCode": "NA-18-mizuki-O-T-1",
       "code": "O-T-1",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "창병",
         "type": "공격",
@@ -5821,7 +5821,7 @@
     {
       "fullCode": "NA-18-mizuki-O-T-2",
       "code": "O-T-2",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "방패병",
         "type": "행동",
@@ -5838,7 +5838,7 @@
     {
       "fullCode": "NA-18-mizuki-O-T-3",
       "code": "O-T-3",
-      "charName": "mizuki",
+      "character": "mizuki",
       "korData": {
         "name": "기병",
         "type": "부여",
@@ -5856,7 +5856,7 @@
     {
       "fullCode": "NA-19-megumi-O-N-1",
       "code": "O-N-1",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "공섬",
         "type": "공격",
@@ -5875,7 +5875,7 @@
     {
       "fullCode": "NA-19-megumi-O-N-2",
       "code": "O-N-2",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "타척",
         "type": "공격",
@@ -5894,7 +5894,7 @@
     {
       "fullCode": "NA-19-megumi-O-N-3",
       "code": "O-N-3",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "껍질치기",
         "type": "공격",
@@ -5913,7 +5913,7 @@
     {
       "fullCode": "NA-19-megumi-O-N-4",
       "code": "O-N-4",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "장대 찌르기",
         "type": "공격",
@@ -5932,7 +5932,7 @@
     {
       "fullCode": "NA-19-megumi-O-N-5",
       "code": "O-N-5",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "갈대",
         "type": "부여",
@@ -5950,12 +5950,12 @@
     {
       "fullCode": "NA-19-megumi-O-N-6",
       "code": "O-N-6",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "봉선화",
         "type": "부여",
         "subType": "",
-        "description": "생육 2  빈틈\r\n【전개중】 상대의 메인 페이즈 시작에 공격 『적정거리 3-5, 2/1』을 수행한다.\r\n당신의 메인 페이즈 시작에 공격 』적정거리 1-3, 2/1』을 수행한다.\r\n【파기시】 상대를 위축시킨다.",
+        "description": "생육 2 빈틈\r\n【전개중】 상대의 메인 페이즈 시작에 공격 『적정거리 3-5, 2/1』을 수행한다.\r\n당신의 메인 페이즈 시작에 공격 』적정거리 1-3, 2/1』을 수행한다.\r\n【파기시】 상대를 위축시킨다.",
         "imagePath": "/furuyoni/images/card/kor/19-O-N-6.jpg",
         "category": "통상패"
       },
@@ -5968,7 +5968,7 @@
     {
       "fullCode": "NA-19-megumi-O-N-7",
       "code": "O-N-7",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "찔레꽃",
         "type": "부여",
@@ -5986,7 +5986,7 @@
     {
       "fullCode": "NA-19-megumi-O-S-1",
       "code": "O-S-1",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "인과율의 뿌리",
         "type": "공격",
@@ -6006,7 +6006,7 @@
     {
       "fullCode": "NA-19-megumi-O-S-2",
       "code": "O-S-2",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "가능성의 가지",
         "type": "부여",
@@ -6018,14 +6018,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "2",
       "cost": "3"
     },
     {
       "fullCode": "NA-19-megumi-O-S-3",
       "code": "O-S-3",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "결말의 과실",
         "type": "부여",
@@ -6044,7 +6044,7 @@
     {
       "fullCode": "NA-19-megumi-O-S-4",
       "code": "O-S-4",
-      "charName": "megumi",
+      "character": "megumi",
       "korData": {
         "name": "타키가와 메구미의 손바닥",
         "type": "부여",
@@ -6063,7 +6063,7 @@
     {
       "fullCode": "NA-20-kanawe-O-N-1",
       "code": "O-N-1",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "공상",
         "type": "공격",
@@ -6082,7 +6082,7 @@
     {
       "fullCode": "NA-20-kanawe-O-N-2",
       "code": "O-N-2",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "각본화",
         "type": "공격",
@@ -6101,7 +6101,7 @@
     {
       "fullCode": "NA-20-kanawe-O-N-3",
       "code": "O-N-3",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "연출화",
         "type": "공격",
@@ -6120,7 +6120,7 @@
     {
       "fullCode": "NA-20-kanawe-O-N-4",
       "code": "O-N-4",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "단행",
         "type": "행동",
@@ -6137,7 +6137,7 @@
     {
       "fullCode": "NA-20-kanawe-O-N-5",
       "code": "O-N-5",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "잔광",
         "type": "행동",
@@ -6154,7 +6154,7 @@
     {
       "fullCode": "NA-20-kanawe-O-N-6",
       "code": "O-N-6",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "즉흥",
         "type": "행동",
@@ -6171,7 +6171,7 @@
     {
       "fullCode": "NA-20-kanawe-O-N-7",
       "code": "O-N-7",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "봉살",
         "type": "부여",
@@ -6189,7 +6189,7 @@
     {
       "fullCode": "NA-20-kanawe-O-S-1",
       "code": "O-S-1",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "어렴풋한 이야기",
         "type": "행동",
@@ -6207,7 +6207,7 @@
     {
       "fullCode": "NA-20-kanawe-O-S-2",
       "code": "O-S-2",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "무수한 별빛",
         "type": "행동",
@@ -6225,7 +6225,7 @@
     {
       "fullCode": "NA-20-kanawe-O-S-3",
       "code": "O-S-3",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "이 밤을 굽이굽이 펴리라",
         "type": "공격",
@@ -6237,7 +6237,7 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "0-4",
       "damage": "2/1",
       "cost": "4"
@@ -6245,7 +6245,7 @@
     {
       "fullCode": "NA-20-kanawe-O-S-4",
       "code": "O-S-4",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "겨레의 머나먼 하늘",
         "type": "행동",
@@ -6263,7 +6263,7 @@
     {
       "fullCode": "NA-20-kanawe-O-P-1",
       "code": "O-P-1",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "살진",
         "type": "일반",
@@ -6280,7 +6280,7 @@
     {
       "fullCode": "NA-20-kanawe-O-P-2",
       "code": "O-P-2",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "벚꽃파도",
         "type": "일반",
@@ -6297,7 +6297,7 @@
     {
       "fullCode": "NA-20-kanawe-O-P-3",
       "code": "O-P-3",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "고동",
         "type": "일반",
@@ -6314,7 +6314,7 @@
     {
       "fullCode": "NA-20-kanawe-O-P-4",
       "code": "O-P-4",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "명전",
         "type": "일반",
@@ -6331,7 +6331,7 @@
     {
       "fullCode": "NA-20-kanawe-O-P-5",
       "code": "O-P-5",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "강조하기",
         "type": "일반",
@@ -6348,7 +6348,7 @@
     {
       "fullCode": "NA-20-kanawe-O-P-6",
       "code": "O-P-6",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "위치 잡기",
         "type": "일반",
@@ -6365,7 +6365,7 @@
     {
       "fullCode": "NA-20-kanawe-story-board",
       "code": "story-board",
-      "charName": "kanawe",
+      "character": "kanawe",
       "korData": {
         "name": "막 효과",
         "type": "일반",
@@ -6382,7 +6382,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-N-1",
       "code": "O-N-1",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "붉은 칼날",
         "type": "공격",
@@ -6401,7 +6401,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-N-2",
       "code": "O-N-2",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "흩날리는 칼날",
         "type": "공격",
@@ -6420,7 +6420,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-N-3",
       "code": "O-N-3",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "사검난인",
         "type": "공격",
@@ -6439,7 +6439,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-N-4",
       "code": "O-N-4",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "베어내기",
         "type": "공격",
@@ -6451,14 +6451,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "distance": "1-4",
       "damage": "1/1"
     },
     {
       "fullCode": "NA-21-kamuwi-O-N-5",
       "code": "O-N-5",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "가시꿰기",
         "type": "행동",
@@ -6475,7 +6475,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-N-6",
       "code": "O-N-6",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "혈정난류",
         "type": "행동",
@@ -6492,7 +6492,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-N-7",
       "code": "O-N-7",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "피보라",
         "type": "부여",
@@ -6510,7 +6510,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-S-1",
       "code": "O-S-1",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "등불",
         "type": "행동",
@@ -6522,13 +6522,13 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": ["NA-21-kamuwi-O-S-1-Ex1"],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "cost": "5"
     },
     {
       "fullCode": "NA-21-kamuwi-O-S-1-Ex1",
       "code": "O-S-1-Ex1",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "새벽",
         "type": "공격",
@@ -6548,7 +6548,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-S-2",
       "code": "O-S-2",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "묘도",
         "type": "부여",
@@ -6560,14 +6560,14 @@
       "engData": {},
       "jpnData": {},
       "relatedExtraCards": [],
-      "revisionCount": 0,
+      "revisionCount": 1,
       "deployCount": "4",
       "cost": "3"
     },
     {
       "fullCode": "NA-21-kamuwi-O-S-3",
       "code": "O-S-3",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "신위",
         "type": "공격",
@@ -6587,7 +6587,7 @@
     {
       "fullCode": "NA-21-kamuwi-O-S-4",
       "code": "O-S-4",
-      "charName": "kamuwi",
+      "character": "kamuwi",
       "korData": {
         "name": "이치",
         "type": "행동",
@@ -6605,7 +6605,7 @@
     {
       "fullCode": "NA-22-renri-O-N-1",
       "code": "O-N-1",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "거짓 찌르기",
         "type": "공격",
@@ -6624,7 +6624,7 @@
     {
       "fullCode": "NA-22-renri-O-N-2",
       "code": "O-N-2",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "임시변통",
         "type": "공격",
@@ -6643,7 +6643,7 @@
     {
       "fullCode": "NA-22-renri-O-N-3",
       "code": "O-N-3",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "먹칠",
         "type": "공격",
@@ -6662,7 +6662,7 @@
     {
       "fullCode": "NA-22-renri-O-N-4",
       "code": "O-N-4",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "약올리는 몸짓",
         "type": "행동",
@@ -6679,7 +6679,7 @@
     {
       "fullCode": "NA-22-renri-O-N-5",
       "code": "O-N-5",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "뜬구름 먹기",
         "type": "행동",
@@ -6696,7 +6696,7 @@
     {
       "fullCode": "NA-22-renri-O-N-6",
       "code": "O-N-6",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "낚시질",
         "type": "행동",
@@ -6713,7 +6713,7 @@
     {
       "fullCode": "NA-22-renri-O-N-7",
       "code": "O-N-7",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "끌어 속이기",
         "type": "부여",
@@ -6731,7 +6731,7 @@
     {
       "fullCode": "NA-22-renri-O-S-1",
       "code": "O-S-1",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "요러하리라라",
         "type": "공격",
@@ -6751,7 +6751,7 @@
     {
       "fullCode": "NA-22-renri-O-S-2",
       "code": "O-S-2",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "너르로로리러",
         "type": "행동",
@@ -6769,7 +6769,7 @@
     {
       "fullCode": "NA-22-renri-O-S-3",
       "code": "O-S-3",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "내라라려루레",
         "type": "행동",
@@ -6787,7 +6787,7 @@
     {
       "fullCode": "NA-22-renri-O-S-4",
       "code": "O-S-4",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "요야마 렌리의 영락한 말로",
         "type": "부여",
@@ -6806,7 +6806,7 @@
     {
       "fullCode": "NA-22-renri-O-S-4-Ex1",
       "code": "O-S-4-Ex1",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "아로새긴 옷",
         "type": "미정",
@@ -6824,7 +6824,7 @@
     {
       "fullCode": "NA-22-kiriko-O-S-4",
       "code": "O-S-4",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "미츠루기 키리코의 무녀신악",
         "type": "공격",
@@ -6844,7 +6844,7 @@
     {
       "fullCode": "NA-22-renri-A1-N-2",
       "code": "A1-N-2",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "기만의 안개",
         "type": "미정",
@@ -6861,7 +6861,7 @@
     {
       "fullCode": "NA-22-renri-A1-N-6",
       "code": "A1-N-6",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "신수",
         "type": "행동",
@@ -6882,7 +6882,7 @@
     {
       "fullCode": "NA-22-renri-A1-N-6-Ex1",
       "code": "A1-N-6-Ex1",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "거짓된 무기",
         "type": "공격",
@@ -6901,7 +6901,7 @@
     {
       "fullCode": "NA-22-renri-A1-N-6-Ex2",
       "code": "A1-N-6-Ex2",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "검날의 본질",
         "type": "공격",
@@ -6920,7 +6920,7 @@
     {
       "fullCode": "NA-22-renri-A1-N-6-Ex3",
       "code": "A1-N-6-Ex3",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "최초의 앵령",
         "type": "행동",
@@ -6937,7 +6937,7 @@
     {
       "fullCode": "NA-22-renri-A1-S-1",
       "code": "A1-S-1",
-      "charName": "renri",
+      "character": "renri",
       "korData": {
         "name": "리라루리라로",
         "type": "부여",
@@ -6956,7 +6956,7 @@
     {
       "fullCode": "NA-23-akina-O-N-1",
       "code": "O-N-1",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "주판알",
         "type": "공격",
@@ -6975,7 +6975,7 @@
     {
       "fullCode": "NA-23-akina-O-N-2",
       "code": "O-N-2",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "공갈",
         "type": "공격",
@@ -6994,7 +6994,7 @@
     {
       "fullCode": "NA-23-akina-O-N-3",
       "code": "O-N-3",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "교역",
         "type": "공격",
@@ -7013,7 +7013,7 @@
     {
       "fullCode": "NA-23-akina-O-N-4",
       "code": "O-N-4",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "투기",
         "type": "행동",
@@ -7030,7 +7030,7 @@
     {
       "fullCode": "NA-23-akina-O-N-5",
       "code": "O-N-5",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "산법",
         "type": "행동",
@@ -7047,7 +7047,7 @@
     {
       "fullCode": "NA-23-akina-O-N-6",
       "code": "O-N-6",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "판세 뒤집기",
         "type": "부여",
@@ -7065,12 +7065,12 @@
     {
       "fullCode": "NA-23-akina-O-N-7",
       "code": "O-N-7",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "직접금융",
         "type": "부여",
         "subType": "전력",
-        "description": "빈틈    투자권\r\n【전개시】 상대 오라 → 자신 오라 (1)\r\n집중력을 1 지불해도 된다. 그렇게 한 경우, 이 화살표 효과를 1번 더 수행한다.\r\n【파기시】 공격 『적정거리 2-5, 1/0』을 수행해도 된다.",
+        "description": "빈틈 투자권\r\n【전개시】 상대 오라 → 자신 오라 (1)\r\n집중력을 1 지불해도 된다. 그렇게 한 경우, 이 화살표 효과를 1번 더 수행한다.\r\n【파기시】 공격 『적정거리 2-5, 1/0』을 수행해도 된다.",
         "imagePath": "/furuyoni/images/card/kor/23-O-N-7.jpg",
         "category": "통상패"
       },
@@ -7083,7 +7083,7 @@
     {
       "fullCode": "NA-23-akina-O-S-1",
       "code": "O-S-1",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "개방명식절취법",
         "type": "행동",
@@ -7101,7 +7101,7 @@
     {
       "fullCode": "NA-23-akina-O-S-2",
       "code": "O-S-2",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "대연산과수타표",
         "type": "공격",
@@ -7121,7 +7121,7 @@
     {
       "fullCode": "NA-23-akina-O-S-3",
       "code": "O-S-3",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "쇠타축주수료술",
         "type": "부여",
@@ -7140,12 +7140,12 @@
     {
       "fullCode": "NA-23-akina-O-S-4",
       "code": "O-S-4",
-      "charName": "akina",
+      "character": "akina",
       "korData": {
         "name": "미나카미 아키나의 정확한 계산",
         "type": "행동",
         "subType": "",
-        "description": "간격제한(0-7)  투자권\r\n회수를 수행해도 된다. 그렇게 한 경우, 기본동작 《휘감기》를 2번까지 수행하고, 이 카드를 게임에서 제외한다.\r\n【사용됨】 당신의 메인 페이즈 시작에, 당신은 회수를 수행하지 않고 기본동작 《품기》를 1번 수행해도 된다.",
+        "description": "간격제한(0-7) 투자권\r\n회수를 수행해도 된다. 그렇게 한 경우, 기본동작 《휘감기》를 2번까지 수행하고, 이 카드를 게임에서 제외한다.\r\n【사용됨】 당신의 메인 페이즈 시작에, 당신은 회수를 수행하지 않고 기본동작 《품기》를 1번 수행해도 된다.",
         "imagePath": "/furuyoni/images/card/kor/23-O-S-4.jpg",
         "category": "비장패"
       },
@@ -7158,7 +7158,7 @@
     {
       "fullCode": "NA-24-shisui-O-N-1",
       "code": "O-N-1",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "톱날 베기",
         "type": "공격",
@@ -7177,7 +7177,7 @@
     {
       "fullCode": "NA-24-shisui-O-N-2",
       "code": "O-N-2",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "파고드는 톱날",
         "type": "공격",
@@ -7196,7 +7196,7 @@
     {
       "fullCode": "NA-24-shisui-O-N-3",
       "code": "O-N-3",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "반란격",
         "type": "공격",
@@ -7215,7 +7215,7 @@
     {
       "fullCode": "NA-24-shisui-O-N-4",
       "code": "O-N-4",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "철저항전",
         "type": "공격",
@@ -7234,7 +7234,7 @@
     {
       "fullCode": "NA-24-shisui-O-N-5",
       "code": "O-N-5",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "가시밭길",
         "type": "행동",
@@ -7251,7 +7251,7 @@
     {
       "fullCode": "NA-24-shisui-O-N-6",
       "code": "O-N-6",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "쇳가루 휘감기",
         "type": "행동",
@@ -7268,7 +7268,7 @@
     {
       "fullCode": "NA-24-shisui-O-N-7",
       "code": "O-N-7",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "검은 인연",
         "type": "행동",
@@ -7285,7 +7285,7 @@
     {
       "fullCode": "NA-24-shisui-O-S-1",
       "code": "O-S-1",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "파드마 베기",
         "type": "행동",
@@ -7303,7 +7303,7 @@
     {
       "fullCode": "NA-24-shisui-O-S-2",
       "code": "O-S-2",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "우팔라 찢기",
         "type": "공격",
@@ -7323,7 +7323,7 @@
     {
       "fullCode": "NA-24-shisui-O-S-3",
       "code": "O-S-3",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "아부다 먹기",
         "type": "행동",
@@ -7341,7 +7341,7 @@
     {
       "fullCode": "NA-24-shisui-O-S-4",
       "code": "O-S-4",
-      "charName": "shisui",
+      "character": "shisui",
       "korData": {
         "name": "쿠와하타 시스이가 죽는 곳",
         "type": "부여",
@@ -7360,7 +7360,7 @@
     {
       "fullCode": "NA-25-misora-O-N-1",
       "code": "O-N-1",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "흘려쏘기",
         "type": "공격",
@@ -7379,7 +7379,7 @@
     {
       "fullCode": "NA-25-misora-O-N-2",
       "code": "O-N-2",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "노려차기",
         "type": "공격",
@@ -7398,7 +7398,7 @@
     {
       "fullCode": "NA-25-misora-O-N-3",
       "code": "O-N-3",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "바람구멍",
         "type": "공격",
@@ -7417,7 +7417,7 @@
     {
       "fullCode": "NA-25-misora-O-N-4",
       "code": "O-N-4",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "쌍둥이 화살",
         "type": "공격",
@@ -7436,7 +7436,7 @@
     {
       "fullCode": "NA-25-misora-O-N-5",
       "code": "O-N-5",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "정밀화",
         "type": "행동",
@@ -7453,7 +7453,7 @@
     {
       "fullCode": "NA-25-misora-O-N-6",
       "code": "O-N-6",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "추미격",
         "type": "행동",
@@ -7470,7 +7470,7 @@
     {
       "fullCode": "NA-25-misora-O-N-7",
       "code": "O-N-7",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "하늘의 날개",
         "type": "부여",
@@ -7488,7 +7488,7 @@
     {
       "fullCode": "NA-25-misora-O-S-1",
       "code": "O-S-1",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "보이는 곳 너머",
         "type": "공격",
@@ -7508,7 +7508,7 @@
     {
       "fullCode": "NA-25-misora-O-S-2",
       "code": "O-S-2",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "수많은 구름",
         "type": "부여",
@@ -7527,7 +7527,7 @@
     {
       "fullCode": "NA-25-misora-O-S-3",
       "code": "O-S-3",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "치켜올린 그림자",
         "type": "부여",
@@ -7546,7 +7546,7 @@
     {
       "fullCode": "NA-25-misora-O-S-4",
       "code": "O-S-4",
-      "charName": "misora",
+      "character": "misora",
       "korData": {
         "name": "미소라의 하늘",
         "type": "부여",

@@ -4,6 +4,7 @@ import IndexData from "./index.json" assert { type: "json" };
 import CharacterData from "./character.json" assert { type: "json" };
 import CardData from "./card.json" assert { type: "json" };
 import FaqData from "./faq.json" assert { type: "json" };
+import HistoryData from "./history.json" assert { type: "json" };
 
 interface Migration {
   migrationData?: { data: any };
@@ -31,6 +32,11 @@ const MIGRATION_DATA: Migration[] = [
     migrationData: FaqData,
     dbName: "furuyoni",
     collectionName: "faq",
+  },
+  {
+    migrationData: HistoryData,
+    dbName: "furuyoni",
+    collectionName: "history",
   },
 ];
 

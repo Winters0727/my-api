@@ -1,0 +1,2078 @@
+{
+  "data": [
+    {
+      "fullCode": "NA-01-yurina-O-N-4",
+      "code": "O-N-4",
+      "character": "yurina",
+      "season": "S1",
+      "korData": {
+        "name": "거합",
+        "type": "공격",
+        "subType": "전력",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/kor/S1/01-O-N-4.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "3-4",
+      "damage": "4/3"
+    },
+    {
+      "fullCode": "NA-01-yurina-O-N-5",
+      "code": "O-N-5",
+      "character": "yurina",
+      "season": "S1",
+      "korData": {
+        "name": "발놀림",
+        "type": "행동",
+        "subType": "",
+        "description": "【상시】 현재 간격이 4 이상이라면,\r\n간격 → 더스트 (2)",
+        "imagePath": "/furuyoni/images/card/kor/S1/01-O-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-01-yurina-O-S-3",
+      "code": "O-S-3",
+      "character": "yurina",
+      "season": "S1",
+      "korData": {
+        "name": "쪽배에서 쉬노니",
+        "type": "행동",
+        "subType": "",
+        "description": "더스트 → 자신 오라 (5)\r\n재기: 결사 - 당신의 라이프가 3 이하가 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/01-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-02-saine-O-S-1",
+      "code": "O-S-1",
+      "character": "saine",
+      "season": "S1",
+      "korData": {
+        "name": "율동호극",
+        "type": "행동",
+        "subType": "",
+        "description": "공격 『적정거리 3-4, 1/1』을 수행한다.\r\n공격 『적정거리 4-5, 1/1』을 수행한다.\r\n공격 『적정거리 3-5, 2/2』을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "5"
+    },
+    {
+      "fullCode": "NA-02-saine-O-S-2",
+      "code": "O-S-2",
+      "character": "saine",
+      "season": "S1",
+      "korData": {
+        "name": "향명공진",
+        "type": "행동",
+        "subType": "",
+        "description": "상대의 오라가 5 이상이라면,\r\n상대 오라 → 간격 (3)",
+        "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-02-saine-O-S-3",
+      "code": "O-S-3",
+      "character": "saine",
+      "season": "S1",
+      "korData": {
+        "name": "음무쇄빙",
+        "type": "행동",
+        "subType": "대응",
+        "description": "【공격후】 대응한 《공격》은 -1/-1 된다.\r\n재기: 당신의 오라가 0 이다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "relatedExtraCards": [],
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-02-saine-O-S-4",
+      "code": "O-S-4",
+      "character": "saine",
+      "season": "S1",
+      "korData": {
+        "name": "히사메 사이네의 최후의 종극",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【상시】 이 카드는 비장패에 대한 대응으로밖에 사용할 수 없다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "relatedExtraCards": [],
+      "revisionCount": 0,
+      "distance": "1-5",
+      "damage": "5/5",
+      "cost": "4"
+    },
+    {
+      "fullCode": "NA-04-tokoyo-O-N-1",
+      "code": "O-N-1",
+      "character": "tokoyo",
+      "season": "S1",
+      "korData": {
+        "name": "빗어내리기",
+        "type": "공격",
+        "subType": "",
+        "description": "【상시】 경지 - 당신의 집중력이 2가 아니라면 이 카드는 사용할 수 없다.\r\n【공격후】 이 카드를 패산 위에 놓는다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/04-O-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "5",
+      "damage": "-/1"
+    },
+    {
+      "fullCode": "NA-04-tokoyo-O-N-7",
+      "code": "O-N-7",
+      "character": "tokoyo",
+      "season": "S1",
+      "korData": {
+        "name": "맑음의 무대",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 당신이 《대응》 카드를 사용했을 때, 그 카드를 해결한 후에\r\n더스트 → 자신 오라 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S1/04-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "5"
+    },
+    {
+      "fullCode": "NA-04-tokoyo-O-S-3",
+      "code": "O-S-3",
+      "character": "tokoyo",
+      "season": "S1",
+      "korData": {
+        "name": "무궁의 바람",
+        "type": "공격",
+        "subType": "",
+        "description": "【공격후】 상대는 손패에서 《공격》이 아닌 카드를 1장 버림패로 만든다. 그렇게 할 수 없는 경우, 상대는 손패를 공개한다.\r\n재기: 경지 - 당신의 집중력이 2 이다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/04-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "4-8",
+      "damage": "1/1",
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-05-oboro-O-N-2",
+      "code": "O-N-2",
+      "character": "oboro",
+      "season": "S1",
+      "korData": {
+        "name": "그림자 마름",
+        "type": "공격",
+        "subType": "",
+        "description": "설치 대응불가\r\n【상시】 이 카드를 덮음패에서 사용했다면, 《공격》은 +1/+1 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/05-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "2",
+      "damage": "2/1"
+    },
+    {
+      "fullCode": "NA-07-shinra-O-S-2",
+      "code": "O-S-2",
+      "character": "shinra",
+      "season": "S1",
+      "korData": {
+        "name": "일절이해",
+        "type": "행동",
+        "subType": "",
+        "description": "계략을 실행하고, 다음번 계략을 준비한다.\r\n(신산) 당신의 부여패를 1장 선택한다. 그 위에 벚꽃결정을 X개까지 더스트에서 가져와 놓는다. X는 선택한 부여패의 봉납치와 같다.\r\n(귀모) 비장패가 아닌 상대의 부여패를 1장 선택한다. 그 위에 놓인 벚꽃결정을 모두 더스트로 보낸다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/07-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-08-hagane-O-N-1",
+      "code": "O-N-1",
+      "character": "hagane",
+      "season": "S1",
+      "korData": {
+        "name": "원심격",
+        "type": "공격",
+        "subType": "",
+        "description": "원심\r\n【공격후】 현재 턴이 당신의 턴이라면, 당신과 상대의 손패를 모두 덮음패로 만들고, 당신의 집중력은 0이 되고, 현재 페이즈를 종료한다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/08-O-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "2-6",
+      "damage": "5/3"
+    },
+    {
+      "fullCode": "NA-10-kururu-O-S-2",
+      "code": "O-S-2",
+      "character": "kururu",
+      "season": "S1",
+      "korData": {
+        "name": "빅 골~렘",
+        "type": "행동",
+        "subType": "",
+        "description": "【사용됨】 당신의 종료 페이즈에 상대의 라이프에 1 데미지를 줘도 된다. 그렇게 한 경우, 패산을 재구성한다.\r\n【사용됨】 당신이 《전력》 카드를 사용했을 때, 그 카드를 해결한 후에 기본동작을 1번 수행해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/10-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-11-thallya-O-TF-1",
+      "code": "O-TF-1",
+      "character": "thallya",
+      "season": "S1",
+      "korData": {
+        "name": "Form: YAKSHA",
+        "type": "일반",
+        "subType": "",
+        "description": "변형시: 상대는 손패를 모두 덮음패로 만들고, 상대의 집중력은 0이 되고, 상대를 위축시킨다.\r\n상시: 당신의 머신에 조화결정이 없다면, 당신은 기본동작을 수행할 수 없다.\r\n추가기본동작[Beta-Edge]: 공격 『적정거리 2,4,6,8, 2/1, 【공격후】 기동을 수행한다.』을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S1/11-O-TF-1.jpg",
+        "category": "추가패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-12-raira-O-N-1",
+      "code": "O-N-1",
+      "character": "raira",
+      "korData": {
+        "name": "짐승의 손톱",
+        "type": "공격",
+        "subType": "",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/kor/S1/12-O-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-2",
+      "damage": "2/2"
+    },
+    {
+      "fullCode": "NA-02-saine-O-N-3",
+      "code": "O-N-3",
+      "character": "saine",
+      "season": "S2",
+      "korData": {
+        "name": "되받이 날",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【공격후】 이 카드를 대응으로 사용했다면, 공격 『적정거리 3-5, 2/1, 대응불가,를 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/02-O-N-3.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "3-5",
+      "damage": "1/1"
+    },
+    {
+      "fullCode": "NA-02-saine-O-N-6",
+      "code": "O-N-6",
+      "character": "saine",
+      "season": "S2",
+      "korData": {
+        "name": "충음정",
+        "type": "부여",
+        "subType": "대응",
+        "description": "【전개시】 대응한 《공격》은 -1/+0 된다.\r\n【파기시】 공격 『적정거리 0-10, 1/-, 대응불가』을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/02-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "1"
+    },
+    {
+      "fullCode": "NA-04-tokoyo-A1-N-5",
+      "code": "A1-N-4",
+      "character": "tokoyo",
+      "season": "S2",
+      "korData": {
+        "name": "햇볕의 소리",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 당신이 《대응》 카드를 사용할 때마다, 그 카드를 해결한 후에 더스트 ↔️ 자신 오라 (1)\r\n【전개중】 상대 턴에 이 카드 위에 놓인 벚꽃결정은 이동하지 않는다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/04-A1-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "relatedExtraCards": [],
+      "deployCount": 2
+    },
+    {
+      "fullCode": "NA-04-tokoyo-A1-S-2",
+      "code": "A1-S-3",
+      "character": "tokoyo",
+      "season": "S2",
+      "korData": {
+        "name": "이중주: 취탄양명",
+        "type": "행동",
+        "subType": "",
+        "description": "【사용됨】 당신의 개시 페이즈 시작에 버림패 또는 덮음패에서 카드 1장을 골라, 그 카드를 패산 아래에 놓아도 된다.\r\n즉재기: 당신이 재구성 이외의 방법으로 라이프에 데미지를 1 이상 받는다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/04-A1-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-05-oboro-O-N-4",
+      "code": "O-N-4",
+      "character": "oboro",
+      "season": "S2",
+      "korData": {
+        "name": "닌자걸음",
+        "type": "행동",
+        "subType": "",
+        "description": "설치\r\n더스트 ↔️ 간격 (1)\r\n이 카드를 덮음패에서 사용했다면, 덮음패에서 설치를 가진 카드를 1장 사용해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/05-O-N-4.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-05-oboro-O-S-2",
+      "code": "O-S-2",
+      "character": "oboro",
+      "season": "S2",
+      "korData": {
+        "name": "토비카게",
+        "type": "행동",
+        "subType": "대응",
+        "description": "덮음패에서 《전력》이 아닌 카드를 1장 선택하고, 그 카드를 사용해도 된다. 이때, 이 카드가 대응하고 있는 《공격》이 있다면, 이 카드로 사용하는 카드는 그 《공격》에 대응하고 있는 것으로 취급한다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/05-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-05-oboro-O-S-4",
+      "code": "O-S-4",
+      "character": "oboro",
+      "season": "S2",
+      "korData": {
+        "name": "미카즈라",
+        "type": "행동",
+        "subType": "",
+        "description": "상대 오라 → 자신 플레어 (1)\r\n재기: 당신의 플레어가 0 이다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/05-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "relatedExtraCards": [],
+      "cost": "0"
+    },
+    {
+      "fullCode": "NA-07-shinra-O-N-6",
+      "code": "O-N-6",
+      "character": "shinra",
+      "season": "S2",
+      "korData": {
+        "name": "장담",
+        "type": "부여",
+        "subType": "",
+        "description": "【파기시】 계략을 실행하고, 다음번 계략을 준비한다.\r\n(신산) 당신은 집중력은 1 증가하고, 이 카드를 패산 위에 놓는다.\r\n(귀모) 상대의 손패가 2장 이상이라면, 손패가 1장이 될 때까지 버림패로 만든다. 상대의 집중력은 0이 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/07-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-11-thallya-O-S-3",
+      "code": "O-S-3",
+      "character": "thallya",
+      "season": "S2",
+      "korData": {
+        "name": "Thallya's Masterpiece",
+        "type": "행동",
+        "subType": "",
+        "description": "【사용됨】 당신이 기동을 수행할 때마다,\r\n더스트 ↔ 간격 (1) 을 수행해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/11-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-11-thallya-O-S-4",
+      "code": "O-S-4",
+      "character": "thallya",
+      "season": "S2",
+      "korData": {
+        "name": "Julia's BlackBox",
+        "type": "행동",
+        "subType": "전력",
+        "description": "당신의 머신에 조화결정이 없다면, 당신의 머신은 TransForm하고, 당신의 연소된 조화결정을 2개 회복한다. 그렇지 않은 경우, 이 카드를 미사용 상태로 되돌린다.",
+        "imagePath": "/furuyoni/images/card/kor/S2/11-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "0"
+    },
+    {
+      "fullCode": "NA-03-himika-O-N-2",
+      "code": "O-N-2",
+      "character": "himika",
+      "season": "S3",
+      "korData": {
+        "name": "래피드 파이어",
+        "type": "공격",
+        "subType": "",
+        "description": "【상시】 연화 - 이 카드를 표함해 이번 턴에 카드를 3장 이상 사용했다면, 이 《공격》은 +1/+1 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S3/03-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "7-8",
+      "damage": "2/1"
+    },
+    {
+      "fullCode": "NA-12-raira-O-S-3",
+      "code": "O-S-3",
+      "character": "raira",
+      "season": "S3",
+      "korData": {
+        "name": "풍마초래공",
+        "type": "행동",
+        "subType": "",
+        "description": "현재 풍신 게이지에 따라, 아래 비장패를 추가패에서 미사용 상태로 얻는다(조건을 충족하면 모두 얻는다). 그 후, 이 카드를 게임에서 제외한다.\r\n3 이상: 풍마선풍\r\n6 이상: 풍마전회\r\n10 이상: 풍마천구도",
+        "imagePath": "/furuyoni/images/card/kor/S3/12-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "0"
+    },
+    {
+      "fullCode": "NA-13-utsuro-A1-S-1",
+      "code": "A1-S-1",
+      "character": "utsuro",
+      "season": "S3",
+      "korData": {
+        "name": "잔향장치: 쿠루루식",
+        "type": "행동",
+        "subType": "",
+        "description": "상대의 라이프가 8 이상이라면, 상대 라이프 → 더스트 (1)\r\n【사용됨】 당신 또는 상대의 종료 페이즈에 더스트가 13 이상이라면, 종언의 그림자가 되살아난다. 그 후, 이 카드를 게임에서 제외하고, 당신의 추가패에서 비장패 「망아」를 사용된 상태로 얻고, 카드를 1장 뽑는다.",
+        "imagePath": "/furuyoni/images/card/kor/S3/13-A1-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-14-honoka-O-N-6",
+      "code": "O-N-6",
+      "character": "honoka",
+      "season": "S3",
+      "korData": {
+        "name": "미광결계",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 상대의 턴에 당신의 손패와 패산에 있는 카드는 덮음패, 버림패가 되지 않는다. (사용한 카드는 원래대로 버림패가 된다.)\r\n【전개중】 당신은 위축되지 않는다.\r\n【파기시】 당신은 집중력을 1 얻는다.",
+        "imagePath": "/furuyoni/images/card/kor/S3/14-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "4"
+    },
+    {
+      "fullCode": "NA-14-honoka-O-S-3",
+      "code": "O-S-3",
+      "character": "honoka",
+      "season": "S3",
+      "korData": {
+        "name": "사계는 다시 돌아온다",
+        "type": "행동",
+        "subType": "대응",
+        "description": "당신의 패산을 모두 덮음패로 만든다. 덮음패, 버림패에서 카드를 4장까지 선택하고, 선택한 카드를 원하는 순서로 패산 위에 놓는다.",
+        "imagePath": "/furuyoni/images/card/kor/S3/14-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-01-yurina-A1-S-2",
+      "code": "A1-S-2",
+      "character": "yurina",
+      "season": "S4",
+      "korData": {
+        "name": "불완전 해안에 파랑 일며",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【공격후】 대응한 《공격》은 -3/+0 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/01-A1-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-10",
+      "damage": "3/-",
+      "cost": "5"
+    },
+    {
+      "fullCode": "NA-01-yurina-O-N-5",
+      "code": "O-N-5",
+      "character": "yurina",
+      "season": "S4",
+      "korData": {
+        "name": "발놀림",
+        "type": "행동",
+        "subType": "",
+        "description": "【상시】 현재 간격이 4 이상이라면,\r\n간격 → 더스트 (2)\r\n【상시】 현재 간격이 1 이하라면,\r\n더스트 → 간격 (2)",
+        "imagePath": "/furuyoni/images/card/kor/S4/01-O-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-01-yurina-O-S-2",
+      "code": "O-S-2",
+      "character": "yurina",
+      "season": "S4",
+      "korData": {
+        "name": "해안에 파랑 일며",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【공격후】 대응한 《공격》은 -2/+0 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/01-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-10",
+      "damage": "2/-",
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-02-saine-O-N-5",
+      "code": "O-N-5",
+      "character": "saine",
+      "season": "S4",
+      "korData": {
+        "name": "권역",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 더스트 → 간격 (1)\r\n【전개중】 달인의 간격이 2 증가한다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/02-O-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "3"
+    },
+    {
+      "fullCode": "NA-03-himika-O-N-6",
+      "code": "O-N-6",
+      "character": "himika",
+      "season": "S4",
+      "korData": {
+        "name": "백드래프트",
+        "type": "행동",
+        "subType": "",
+        "description": "상대를 위축시킨다.\r\n연화 - 이 카드를 포함해 이번 턴에 카드를 3장 이상 사용했다면, 이번 턴에 당신이 수행하는 다른 여신에 의한 다음번 《공격》은 +1/+1 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/03-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-05-oboro-A1-N-3",
+      "code": "A1-N-3",
+      "character": "oboro",
+      "season": "S4",
+      "korData": {
+        "name": "기습",
+        "type": "공격",
+        "subType": "전력",
+        "description": "대응불가(통상패)\r\n【상시】 이 《공격》은 -X/+0 된다. X는 상대의 덮음패 수와 같다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/05-A1-N-3.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-3",
+      "damage": "4/3"
+    },
+    {
+      "fullCode": "NA-05-oboro-A1-S-4-Ex1",
+      "code": "A1-S-4-Ex1",
+      "character": "oboro",
+      "season": "S4",
+      "korData": {
+        "name": "최후의 결정",
+        "type": "행동",
+        "subType": "",
+        "description": "【상시】 이 카드는 일반적인 방법으로는 사용할 수 없다. 당신이 처음으로 패배하는 경우, 대신 이 카드를 사용해도 된다. (비용은 지불한다)\r\n더스트 → 자신 라이프 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S4/05-A1-S-4-Ex1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-08-hagane-O-S-1",
+      "code": "O-S-1",
+      "character": "hagane",
+      "season": "S4",
+      "korData": {
+        "name": "대천공 크래시",
+        "type": "공격",
+        "subType": "",
+        "description": "초극\r\n【상시】 X는 현재 간격이 턴 시작시 간격에서 변화한 값과 같다. Y는 X의 절반(올림)과 같다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/08-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-10",
+      "damage": "X/Y",
+      "cost": "5"
+    },
+    {
+      "fullCode": "NA-09-chikage-O-N-3",
+      "code": "O-N-3",
+      "character": "chikage",
+      "season": "S4",
+      "korData": {
+        "name": "둔술",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【공격후】 자신 오라 → 간격 (2)\r\n【공격후】 이번 턴 동안, 상대는 기본동작 《전진》을 수행할 수 없다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/09-O-N-3.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-3",
+      "damage": "1/-"
+    },
+    {
+      "fullCode": "NA-10-kururu-O-S-3",
+      "code": "O-S-3",
+      "character": "kururu",
+      "season": "S4",
+      "korData": {
+        "name": "인더스트리아",
+        "type": "행동",
+        "subType": "",
+        "description": "이 카드 아래에 카드가 봉인되어 있지 않다면, 당신의 손패에서 《부여》가 아닌 카드를 1장 선택하고, 선택한 카드를 이 카드 아래에 앞면으로 봉인해도 된다.\r\n당신의 추가패에서 「듀~플리기어」를 1장 패산 아래에 놓는다. (최대 3장까지)\r\n즉재기: 당신이 패산을 재구성한다.\r\n(재구성 후에 미사용 상태로 되돌린다).",
+        "imagePath": "/furuyoni/images/card/kor/S4/10-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-12-raira-O-S-4",
+      "code": "O-S-4",
+      "character": "raira",
+      "season": "S4",
+      "korData": {
+        "name": "원환륜회선",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 당신이 《부여》가 아닌 통상패를 사용했을 때, 그 카드를 버림패로 보내는 대신 패산 아래에 놓는다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/12-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "5",
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-13-utsuro-O-S-4",
+      "code": "O-S-4",
+      "character": "utsuro",
+      "season": "S4",
+      "korData": {
+        "name": "마식",
+        "type": "행동",
+        "subType": "",
+        "description": "【사용됨】 당신의 개시 페이즈 시작에 상대는 아래에서 한쪽을 선택한다.\r\n· 상대 오라 → 더스트 (1)\r\n· 상대 플레어 → 더스트 (2)",
+        "imagePath": "/furuyoni/images/card/kor/S4/13-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "5"
+    },
+    {
+      "fullCode": "NA-14-honoka-O-N-2",
+      "code": "O-N-2",
+      "character": "honoka",
+      "season": "S4",
+      "korData": {
+        "name": "벚꽃보라",
+        "type": "공격",
+        "subType": "",
+        "description": "【공격후】 상대는 아래에서 한쪽을 선택한다.\r\n· 간격 → 더스트 (1)\r\n· 더스트 → 간격 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S4/14-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-5",
+      "damage": "2/1"
+    },
+    {
+      "fullCode": "NA-14-honoka-O-S-1-Ex1",
+      "code": "O-S-1-Ex1",
+      "character": "honoka",
+      "season": "S4",
+      "korData": {
+        "name": "양손에 꽃을",
+        "type": "행동",
+        "subType": "전력",
+        "description": "【사용됨】 당신의 종료 페이즈에 당신의 오라에 있는 벚꽃결정을 2개까지 이 카드 위에 놓아도 된다. 그 결과, 정확히 5개다 되었다면, 이 카드 위에 놓인 벚꽃결정을 모두 당신의 플레어로 이동시키고, 이 「양손에 꽃을」을 추가패에 있는 「그리고 새로운 개막을」과 교환하고, 그 카드를 미사용 상태로 되돌린다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/14-O-S-1-Ex1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "0"
+    },
+    {
+      "fullCode": "NA-16-yatsuha-O-N-1",
+      "code": "O-N-1",
+      "character": "yatsuha",
+      "season": "S4",
+      "korData": {
+        "name": "별의 손톱",
+        "type": "공격",
+        "subType": "",
+        "description": "【공격후】 자신 오라 → 상대 플레어 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S4/16-O-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "3-4",
+      "damage": "3/2"
+    },
+    {
+      "fullCode": "NA-16-yatsuha-O-N-2",
+      "code": "O-N-2",
+      "character": "yatsuha",
+      "season": "S4",
+      "korData": {
+        "name": "어둠의 아가리",
+        "type": "공격",
+        "subType": "",
+        "description": "불가피\r\n【상시】 이 《공격》은 +0/+X 된다. X는 거울수와 같다.\r\n【공격후】 당신은 위축된다.",
+        "imagePath": "/furuyoni/images/card/kor/S4/16-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "4",
+      "damage": "3/1"
+    },
+    {
+      "fullCode": "NA-07-shinra-O-S-1",
+      "code": "O-S-1",
+      "character": "shinra",
+      "season": "S5",
+      "korData": {
+        "name": "완전논파",
+        "type": "행동",
+        "subType": "",
+        "description": "상대의 버림패에 있는 카드를 1장 선택하고, 이 카드 아래에 봉인한다.\r\n(봉인된 카드는 게임 도중 되돌아오지 않는다.)",
+        "imagePath": "/furuyoni/images/card/kor/S5/07-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "4"
+    },
+    {
+      "fullCode": "NA-11-thallya-A1-TF-3",
+      "code": "A1-TF-3",
+      "character": "thallya",
+      "season": "S5",
+      "korData": {
+        "name": "Form: ASURA",
+        "type": "일반",
+        "subType": "",
+        "description": "변형시: 상대는 손패를 1장 버림패로 만들고, 상대의 패산 위에서 1장을 버림패로 만든다.\r\n추가기본동작[Sigma-Drive]: 공격 『적정거리 1,3,5, 3/2, 【공격후】 당신은 위축된다.』을 수행한다. 이 기본동작은 한 턴에 1번만 수행할 수 있다.",
+        "imagePath": "/furuyoni/images/card/kor/S5/11-A1-TF-3.jpg",
+        "category": "추가패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-12-raira-A1-N-2",
+      "code": "A1-N-2",
+      "character": "raira",
+      "season": "S5",
+      "korData": {
+        "name": "폭풍",
+        "type": "공격",
+        "subType": "",
+        "description": "【공격후】 풍신 게이지를 1 올린다. 그 후, 폭풍의 힘을 1번 수행해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S5/12-A1-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "2-4",
+      "damage": "2/1"
+    },
+    {
+      "fullCode": "NA-12-raira-A1-ST",
+      "code": "A1-ST",
+      "character": "raira",
+      "season": "S5",
+      "korData": {
+        "name": "폭풍의 힘",
+        "type": "일반",
+        "subType": "",
+        "description": "풍 1: 간격 ↔ 더스트 (1)\r\n풍 2: 당신은 집중력을 1 얻고, 상대는 집중력을 1 잃는다.\r\n풍 3: 카드를 1장 뽑는다.\r\n뇌 1: 이번 턴에 당신이 수행하는 다음번 《공격》은 +1/+0이 된다.\r\n뇌 2: 이번 턴에 당신이 수행하는 오라 데미지가 「-」가 아닌 다음번 《공격》은 +0/+1이 된다.\r\n뇌 3: 공격 『적정거리 0-4, 2/2』을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S5/12-A1-ST.jpg",
+        "category": "추가패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-15-korunu-O-N-7",
+      "code": "O-N-7",
+      "character": "korunu",
+      "season": "S5",
+      "korData": {
+        "name": "서리 가시덤불",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 상대가 동결되어 있다면, 당신의 개시 페이즈에 상대는 아래에서 2가지를 선택한다. 그 개시 페이즈에는 상대가 선택한 2가지를 해결하지 않는다.\r\n· 집중력을 1 얻는다.\r\n· 부여패에서 벚꽃결정을 1개씩 제거한다.\r\n· 패산을 재구성한다.\r\n· 카드를 2장 뽑는다.",
+        "imagePath": "/furuyoni/images/card/kor/S5/15-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-15-korunu-O-S-4",
+      "code": "O-S-4",
+      "character": "korunu",
+      "season": "S5",
+      "korData": {
+        "name": "포루챠르 토",
+        "type": "부여",
+        "subType": "",
+        "description": "종단\r\n【전개중】 화살표 효과로 간격에서 이동하는 벚꽃결정과 간격으로 이동하는 벚꽃결정이 1개 많아진다.",
+        "imagePath": "/furuyoni/images/card/kor/S5/15-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "5",
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-18-mizuki-O-N-2",
+      "code": "O-N-2",
+      "character": "mizuki",
+      "season": "S5",
+      "korData": {
+        "name": "반공",
+        "type": "공격",
+        "subType": "",
+        "description": "【상시】 당신이 직전 턴에 대응했다면, 이 《공격》은 +2/+0 된다.\r\n전력화: 【상시】 이 《공격》은 +0/+2 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S5/18-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "2-3",
+      "damage": "1/1"
+    },
+    {
+      "fullCode": "NA-18-mizuki-O-N-6",
+      "code": "O-N-6",
+      "character": "mizuki",
+      "season": "S5",
+      "korData": {
+        "name": "제압전진",
+        "type": "행동",
+        "subType": "전력",
+        "description": "징병을 1번 수행하고, 상대를 위축시킨다.\r\n현재 간격이 3 이상이라면, 간격 → 자신 오라 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S5/18-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-02-saine-A1-S-2",
+      "code": "A1-S-2",
+      "character": "saine",
+      "season": "S6",
+      "korData": {
+        "name": "이중주: 탄주빙명",
+        "type": "행동",
+        "subType": "",
+        "description": "현재 페이즈를 종료한다.\r\n【사용됨】 당신의 다른 여신에 의한 《공격》은 +0/+1 된다.\r\n즉재기: 당신이 재구성 이외의 방법으로 라이프에 데미지를 1 이상 받는다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/02-A1-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-02-saine-A2-S-3",
+      "code": "A2-S-3",
+      "character": "saine",
+      "season": "S6",
+      "korData": {
+        "name": "절창절화",
+        "type": "행동",
+        "subType": "대응",
+        "description": "대응한 《공격》을 해결한 후에, 그 《공격》에서 오라 데미지가 선택되었으며 또한 당신의 오라가 0이라면, 현재 페이즈를 종료한다.\r\n재기: 팔상 - 당신의 오라가 0 이다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/02-A2-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-02-saine-O-N-1",
+      "code": "O-N-1",
+      "character": "saine",
+      "season": "S6",
+      "korData": {
+        "name": "팔방 휘두르기",
+        "type": "공격",
+        "subType": "",
+        "description": "【공격후】 팔상 - 당신의 오라가 0 이라면, 공격 『적정거리 4-5, 2/1』을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/02-O-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "4-5",
+      "damage": "2/1"
+    },
+    {
+      "fullCode": "NA-02-saine-O-N-3",
+      "code": "O-N-3",
+      "character": "saine",
+      "season": "S6",
+      "korData": {
+        "name": "무게추",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【공격후】 팔상 - 당신의 오라가 0 이라면,\r\n더스트 → 간격 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S6/02-O-N-3.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "2-3",
+      "damage": "2/1"
+    },
+    {
+      "fullCode": "NA-02-saine-O-N-4",
+      "code": "O-N-4",
+      "character": "saine",
+      "season": "S6",
+      "korData": {
+        "name": "간파",
+        "type": "행동",
+        "subType": "",
+        "description": "【상시】 팔상 - 당신의 오라가 0 이라면, 이 카드를 《대응》을 가진 것처럼 상대의 《공격》에 끼어들어 사용할 수 있다.\r\n간격 ↔ 더스트 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S6/02-O-N-4.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-02-saine-O-S-3",
+      "code": "O-S-3",
+      "character": "saine",
+      "korData": {
+        "name": "음무쇄빙",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【공격후】 대응한 《공격》은 -1/-1 된다.\r\n재기: 팔상 - 당신의 오라가 0 이다.",
+        "imagePath": "/furuyoni/images/card/kor/02-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-10",
+      "damage": "1/1",
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-03-himika-A1-S-2",
+      "code": "A1-S-2",
+      "character": "himika",
+      "season": "S6",
+      "korData": {
+        "name": "염천 · 진홍의 히미카",
+        "type": "공격",
+        "subType": "전력",
+        "description": "대응불가\r\n【상시】 X는 7에서 현재 간격을 뺀 수와 같다.\r\n【공격후】 당신은 패배한다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/03-A1-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-7",
+      "damage": "X/X",
+      "cost": "7"
+    },
+    {
+      "fullCode": "NA-04-tokoyo-O-N-7",
+      "code": "O-N-7",
+      "character": "tokoyo",
+      "season": "S6",
+      "korData": {
+        "name": "맑음의 무대",
+        "type": "부여",
+        "subType": "",
+        "description": "종단\r\n【전개시】 경지 - 당신의 집중력이 2 라면, 더스트 → 자신 오라 (2)\r\n【파기시】 당신은 집중력을 1 얻는다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/04-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "1"
+    },
+    {
+      "fullCode": "NA-08-hagane-O-N-4",
+      "code": "O-N-4",
+      "character": "hagane",
+      "season": "S6",
+      "korData": {
+        "name": "초반발",
+        "type": "행동",
+        "subType": "",
+        "description": "현재 간격이 4 이하라면, 상대 플레어 → 간격 (1)",
+        "imagePath": "/furuyoni/images/card/kor/S6/08-O-N-4.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-09-chikage-A1-S-4",
+      "code": "A1-S-4",
+      "character": "chikage",
+      "season": "S6",
+      "korData": {
+        "name": "잔재의 인연독",
+        "type": "공격",
+        "subType": "",
+        "description": "【상시】 X는 상대의 손패에 있는 카드 수의 2배와 같다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/09-A1-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-1",
+      "damage": "4/X",
+      "cost": "5"
+    },
+    {
+      "fullCode": "NA-14-honoka-A1-S-1-Ex3",
+      "code": "A1-S-1-Ex3",
+      "character": "honoka",
+      "season": "S6",
+      "korData": {
+        "name": "벚꽃은 눈부시게 빛나리",
+        "type": "공격",
+        "subType": "",
+        "description": "초극\r\n【상시】 X는 이 카드 위에 놓인 벚꽃결정 수와 같다.\r\n【공격후】 더스트에서 벚꽃결정을 1개 가져와 이 카드 위에 놓는다.\r\n재기: 벚꽃결정이 정확히 5개 있는 영역이 1개 이상 있다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/14-A1-S-1-Ex3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-9",
+      "damage": "X/2",
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-16-yatsuha-O-S-2",
+      "code": "O-S-2",
+      "character": "yatsuha",
+      "season": "S6",
+      "korData": {
+        "name": "네잎 거울의 전래동요",
+        "type": "행동",
+        "subType": "",
+        "description": "부여패를 1장 선택하고, 그 위에 놓인 벚꽃결정을 모두 더스트로 보낸다.\r\n그 《부여》 카드가 양 플레이어의 버림패 또는 사용된 상태인 비장패 중에 있다면, 그 카드를 사용해도 된다. 그렇게 한 경우, 그 카드가 《전력》이라면, 이 카드는 종단을 얻는다.",
+        "imagePath": "/furuyoni/images/card/kor/16-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-18-mizuki-O-T-3",
+      "code": "O-T-3",
+      "character": "mizuki",
+      "season": "S6",
+      "korData": {
+        "name": "기병",
+        "type": "부여",
+        "subType": "",
+        "description": "종단 빈틈\r\n【파기시】 당신은 집중력을 1 얻는다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/18-O-T-3.jpg",
+        "category": "추가패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-20-kanawe-O-N-5",
+      "code": "O-N-5",
+      "character": "kanawe",
+      "season": "S6",
+      "korData": {
+        "name": "잔광",
+        "type": "행동",
+        "subType": "",
+        "description": "상대의 손패를 보고 그중 1장을 선택하고. 그 카드를 패산 아래에 놓는다. 상대는 집중력 1 얻는다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/20-O-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-20-kanawe-O-S-1",
+      "code": "O-S-1",
+      "character": "kanawe",
+      "season": "S6",
+      "korData": {
+        "name": "어렴풋한 이야기",
+        "type": "행동",
+        "subType": "",
+        "description": "아래에서 1가지를 선택한다.\r\n· 추가패에서 구상 카드를 1장 준비한다. 이번 턴의 종료 페이즈에 이 카드를 미사용 상태로 되돌린다.\r\n· 닭성완료에서 구상 카드를 1장 준비한다.",
+        "imagePath": "/furuyoni/images/card/kor/S6/20-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-14-honoka-A1-S-1",
+      "code": "A1-S-1",
+      "character": "honoka",
+      "season": "S6-2",
+      "korData": {
+        "name": "나 홀로 눈이 뜨여",
+        "type": "행동",
+        "subType": "",
+        "description": "상대 오라 → 자신 오라 (1)\r\n개화 - 더스트에 따라 이 「나 홀로 눈이 뜨여」를 아래 카드와 교환하고, 그 카드를 패산 아래에 놓는다.\r\n5 이하: 「자취를 뒤따르며」\r\n6 이상: 「그림자 마주보며」",
+        "imagePath": "/furuyoni/images/card/kor/S6-2/14-A1-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-20-kanawe-O-N-7",
+      "code": "O-N-7",
+      "character": "kanawe",
+      "season": "S6-2",
+      "korData": {
+        "name": "봉살",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개시】 카드 이름을 1개 선언한다.\r\n【전개중】 상대 턴 동안, 상대는 선언된 이름을 가진 비장패를 사용할 수 없다. 현재 막의 색이 💗적색이라면, 선언된 이름을 가진 통상패도 사용할 수 없다.\r\n【파기시】 당신은 집중력을 1 얻는다.",
+        "imagePath": "/furuyoni/images/card/kor/S6-2/20-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-20-kanawe-O-S-2",
+      "code": "O-S-2",
+      "character": "kanawe",
+      "season": "S6-2",
+      "korData": {
+        "name": "무수한 별빛",
+        "type": "행동",
+        "subType": "",
+        "description": "【상시】 X는 현재 막 수치와 같다.\r\n기본동작을 1번 수행한다. 현재 막의 색이 💚녹색, 💗적색, 💜자색 중 하나라면, 현재 막 효과를 얻는다.\r\n즉재기: 다음 막으로 진행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S6-2/20-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "X"
+    },
+    {
+      "fullCode": "NA-20-kanawe-O-S-3",
+      "code": "O-S-3",
+      "character": "kanawe",
+      "season": "S6-2",
+      "korData": {
+        "name": "이 밤을 굽이굽이 펴리라",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【공격후】 대응한 《공격》을 무효화한다. 그 《공격》이 통상패라면, 그 카드를 패산 위에 놓는다. 그 《공격》이 비장패라면, 그 카드를 미사용 상태로 되돌린다.",
+        "imagePath": "/furuyoni/images/card/kor/S6-2/20-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-4",
+      "damage": "2/1",
+      "cost": "4"
+    },
+    {
+      "fullCode": "NA-02-saine-A2-N-7",
+      "code": "A2-N-7",
+      "character": "saine",
+      "season": "S7",
+      "korData": {
+        "name": "유향벽",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 당신이 받는 데미지를 해결할 때, 이 카드 위에 놓인 벚꽃결정을 당신의 오라에 있는 것처럼 취급한다.\r\n【파기시】 이번 턴에 당신이 수행하는 다음번 《공격》은 +0/+1 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/02-A2-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-08-hagane-O-N-7",
+      "code": "O-N-7",
+      "character": "hagane",
+      "season": "S7",
+      "korData": {
+        "name": "인력장",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개시】 간격 → 더스트 (1)\r\n【전개중】 달인의 간격이 1 감소한다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/08-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "4"
+    },
+    {
+      "fullCode": "NA-10-kururu-O-N-5",
+      "code": "O-N-5",
+      "character": "kururu",
+      "season": "S7",
+      "korData": {
+        "name": "리게이너~",
+        "type": "행동",
+        "subType": "전력",
+        "description": "〔🔴🟣 당신의 사용된 상태인 비장패를 1장 선택해도 된다. 선택한 카드를 비용을 지불하지 않고 사용한다. (《전력》 카드도 사용할 수 있다.)\r\n당신의 집중력은 0이 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/10-O-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-13-utsuro-O-N-1",
+      "code": "O-N-1",
+      "character": "utsuro",
+      "season": "S7",
+      "korData": {
+        "name": "원월",
+        "type": "공격",
+        "subType": "",
+        "description": "【상시】 회진 - 더스트가 12 이상이라면, 이 《공격》은 오라 데미지가 「-」이 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/13-O-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "6-7",
+      "damage": "2/2"
+    },
+    {
+      "fullCode": "NA-14-honoka-O-N-1",
+      "code": "O-N-1",
+      "character": "honoka",
+      "season": "S7",
+      "korData": {
+        "name": "정령식",
+        "type": "공격",
+        "subType": "",
+        "description": "대응불가\r\n【공격후】 개화 - 이 「정령식」을 추가패에 있는 「수호령식」과 교환해도 된다. 그렇게 한 경우, 그 「수호령식」을 패산 아래에 놓아도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/14-O-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "3-4",
+      "damage": "1/1"
+    },
+    {
+      "fullCode": "NA-14-honoka-O-N-1-Ex2",
+      "code": "O-N-1-Ex2",
+      "character": "honoka",
+      "season": "S7",
+      "korData": {
+        "name": "돌격령식",
+        "type": "공격",
+        "subType": "",
+        "description": "불가피\r\n【공격후】 개화 - 이 「돌격령식」을 추가패에 있는 「신령 오우카」와 교환해도 된다. 그렇게 한 경우, 그 「신령 오우카」를 패산 아래에 놓아도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/14-O-N-1-Ex2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "5",
+      "damage": "3/2"
+    },
+    {
+      "fullCode": "NA-15-korunu-O-N-5",
+      "code": "O-N-5",
+      "character": "korunu",
+      "season": "S7",
+      "korData": {
+        "name": "절대영도",
+        "type": "행동",
+        "subType": "전력",
+        "description": "상대는 오라에 빈칸이 없어질 때까지 동결된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/15-O-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-16-yatsuha-A1-S-4",
+      "code": "A1-S-4",
+      "character": "yatsuha",
+      "korData": {
+        "name": "여덟잎 거울의 허무한 벚꽃",
+        "type": "공격",
+        "subType": "",
+        "description": "【사용됨】 당신이 패산을 재구성 하기 직전에, 당신의 버림패 또는 손패에 있는 야츠하의 카드를 1장 공개하고, 완전태로 만들어도 된다.\r\n(예를 들어 손패에서 「별의 손톱」을 공개했다면 추가패의 「성신의 갈퀴손」으로 교환하고, 손패에 추가한다.)",
+        "imagePath": "/furuyoni/images/card/kor/S7/16-A1-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-7",
+      "damage": "1/0",
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-17-hatsumi-O-N-5",
+      "code": "O-N-5",
+      "character": "hatsumi",
+      "season": "S7",
+      "korData": {
+        "name": "준비만전",
+        "type": "행동",
+        "subType": "전력",
+        "description": "더스트 → 자신 오라 (3)\r\n당신은 손패를 1장 선택하고, 선택한 카드를 패산 위에 놓아도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/17-O-N-5.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-18-mizuki-O-S-3",
+      "code": "O-S-3",
+      "character": "mizuki",
+      "season": "S7",
+      "korData": {
+        "name": "타테나시 대수문",
+        "type": "행동",
+        "subType": "",
+        "description": "종단\r\n당신의 손패에 있는 카드 1장과 추가패에 있는 「투신」을 병영에 징병된 상태로 놓는다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/18-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "4"
+    },
+    {
+      "fullCode": "NA-20-kanawe-O-N-2",
+      "code": "O-N-2",
+      "character": "kanawe",
+      "season": "S7",
+      "korData": {
+        "name": "각본화",
+        "type": "공격",
+        "subType": "",
+        "description": "【공격후】 추가패에서 구상 카드를 1장 준비해도 된다.\r\n【상시】 당신의 종료 페이즈에 이 카드를 버림패에서 가져와 패산 아래에 놓아도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/20-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-9",
+      "damage": "1/1"
+    },
+    {
+      "fullCode": "NA-21-kamuwi-O-N-4",
+      "code": "O-N-4",
+      "character": "kamuwi",
+      "season": "S7",
+      "korData": {
+        "name": "베어내기",
+        "type": "공격",
+        "subType": "대응",
+        "description": "〔+1 【공격후】 대응한 《공격》을 무효화한다. 그 《공격》이 비장패라면, 금기 게이지를 2 올린다.〕",
+        "imagePath": "/furuyoni/images/card/kor/S7/21-O-N-4.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-4",
+      "damage": "1/1"
+    },
+    {
+      "fullCode": "NA-21-kamuwi-O-S-1",
+      "code": "O-S-1",
+      "character": "kamuwi",
+      "season": "S7",
+      "korData": {
+        "name": "등불",
+        "type": "행동",
+        "subType": "",
+        "description": "〔+2 당신의 플레어가 2 이상이라면, 플레어가 1이 되도록 벚꽃결정을 더스트로 보낸다. 추가패에서 「새벽」을 미사용 상태로 얻는다.〕",
+        "imagePath": "/furuyoni/images/card/kor/S7/21-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "4"
+    },
+    {
+      "fullCode": "NA-21-kamuwi-O-S-2",
+      "code": "O-S-2",
+      "character": "kamuwi",
+      "season": "S7",
+      "korData": {
+        "name": "묘도",
+        "type": "부여",
+        "subType": "",
+        "description": "〔+1 【전개시】 공격 『적정거리 3-4, 3/3, 대응불가(통상패)』을 수행한다.〕\r\n【상시】 이 카드 위에 벚꽃결정이 놓여 있다면, 당신은 승리할 수 없다.",
+        "imagePath": "/furuyoni/images/card/kor/S7/21-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "4",
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-06-yukihi-O-S-1",
+      "code": "O-S-1",
+      "character": "yukihi",
+      "season": "S7-2",
+      "korData": {
+        "name": "흩날리는 눈꽃",
+        "type": "공격",
+        "subType": "",
+        "description": "즉재기: 당신이 우산의 개폐를 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S7-2/06-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "🌂3-5 ☔0-1",
+      "damage": "🌂3 ☔0/🌂1 ☔0",
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-08-hagane-O-N-6",
+      "code": "O-N-6",
+      "character": "hagane",
+      "season": "S7-2",
+      "korData": {
+        "name": "종 울리기",
+        "type": "행동",
+        "subType": "",
+        "description": "원심 아래에서 1가지를 선택한다.\r\n· 이번 턴에 당신이 수행하는 다음번 (공격)은 대응불가를 얻는다.\r\n· 이번 턴에 당신이 수행하는 다음번 (공격)은 오라 데미지가 3 이상이라면, +0/+1, 그렇지 않다면 +2/+0이 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7-2/08-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-16-yatsuha-A1-S-4",
+      "code": "A1-S-4",
+      "character": "yatsuha",
+      "season": "S7-2",
+      "korData": {
+        "name": "여덟잎 거울의 허무한 벚꽃",
+        "type": "공격",
+        "subType": "",
+        "description": "종단 대응불가\r\n【공격후/사용됨】 공격후와 당신이 패산을 재구성하기 직전에, 당신의 버림패 또는 손패에 있는 야츠하의 카드를 1장 공개하고, 완전태로 만들어도 된다.\r\n(예를 들어 손패에서 「별의 손톱」을 공개했다면 추가패의 「성신의 갈퀴손」으로 교환하고, 손패에 추가한다.)",
+        "imagePath": "/furuyoni/images/card/kor/S7-2/16-A1-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-8",
+      "damage": "1/0",
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-17-hatsumi-O-N-7",
+      "code": "O-N-7",
+      "character": "hatsumi",
+      "season": "S7-2",
+      "korData": {
+        "name": "파도 부르기",
+        "type": "부여",
+        "subType": "",
+        "description": "빈틈\r\n【전개중】 당신의 턴이고 또한 순픙일 때만, 이 카드 위에 놓인 벚꽃결정이 이동한다.\r\n【파기시】 공격 『적정거리 2-7, 1/-, 【공격후】 상대는 패산을 모두 엎음패로 만든다.』을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S7-2/17-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "1"
+    },
+    {
+      "fullCode": "NA-19-megumi-O-S-2",
+      "code": "O-S-2",
+      "character": "megumi",
+      "season": "S7-2",
+      "korData": {
+        "name": "가능성의 가지",
+        "type": "공격",
+        "subType": "대응",
+        "description": "【상시】 X는 당신의 부여패 영역에 있는 씨앗결정 수의 합계와 같다.\r\n【상시】 이 《공격》은 +X/+0 된다.\r\n【공격후】 대응한 《공격》은 -X/+0 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S7-2/19-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-10",
+      "damage": "0/1",
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-02-saine-A2-N-2",
+      "code": "A2-N-2",
+      "character": "saine",
+      "season": "S8",
+      "korData": {
+        "name": "등 베기",
+        "type": "공격",
+        "subType": "",
+        "description": "대응불가(통상패)",
+        "imagePath": "/furuyoni/images/card/kor/S8/02-A2-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "4-5",
+      "damage": "1/3"
+    },
+    {
+      "fullCode": "NA-05-oboro-O-S-3",
+      "code": "O-S-3",
+      "character": "oboro",
+      "season": "S8",
+      "korData": {
+        "name": "우로우오",
+        "type": "부여",
+        "subType": "",
+        "description": "【사용됨】 당신은 재구성을 1번 할 때마다, 설치를 가진 카드를 원하는 만큼, 원하는 순서로 사용할 수 있다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/05-O-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "4"
+    },
+    {
+      "fullCode": "NA-06-yukihi-O-N-2",
+      "code": "O-N-2",
+      "character": "yukihi",
+      "season": "S8",
+      "korData": {
+        "name": "숨긴 불꽃 / 손뼉치기",
+        "type": "공격",
+        "subType": "",
+        "description": "🌂【공격후】 이 카드를 손패로 되돌리고, 우산의 개폐를 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/06-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "🌂5-6 ☔0-2",
+      "damage": "🌂1 ☔1/🌂1 ☔1"
+    },
+    {
+      "fullCode": "NA-07-shinra-A1-N-7",
+      "code": "A1-N-7",
+      "character": "shinra",
+      "season": "S8",
+      "korData": {
+        "name": "사도",
+        "type": "부여",
+        "subType": "전력",
+        "description": "【전개시/파기시】 계략을 실행하고, 다음번 계략을 준비한다.\r\n(신산) 공격 「적정거리 1,3,5, 2/2, 불가피」을 수행한다.\r\n(귀모) 공격 「적정거리 0,2,4, 2/2, 불가피」을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/07-A1-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-09-chikage-O-N-4",
+      "code": "O-N-4",
+      "character": "chikage",
+      "season": "S8",
+      "korData": {
+        "name": "암기",
+        "type": "공격",
+        "subType": "전력",
+        "description": "【공격후】 상대의 손패가 2장 이상이라면, 상대는 손패 1장을 버림패로 만든다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/09-O-N-4.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "0-3",
+      "damage": "2/3"
+    },
+    {
+      "fullCode": "NA-10-kururu-A1-S-3",
+      "code": "A1-S-3",
+      "character": "kururu",
+      "season": "S8",
+      "korData": {
+        "name": "라스트 리서~치",
+        "type": "행동",
+        "subType": "",
+        "description": "〔🔴 상대는 덮음패에서 카드를 1장 선택한다. 당신은 카드 이름을 1개 선언하고, 상대는 선택한 카드를 버림패로 만든다. 그 카드의 이름이 일치했다면, 더스트에서 벚꽃결정을 1개 가져와 이 카드 위에 놓는다. 벚꽃결정이 2개가 되었다면, 이 카드 위에 놓인 벚꽃결정을 모두 더스트로 보내면서 세기의 대발견을 수행하고, 이 카드는 종단을 얻는다.\r\n즉 재기: 당신이 패산을 재구성한다. (재구성 후에 미사용 상태로 되돌린다).",
+        "imagePath": "/furuyoni/images/card/kor/S8/10-A1-S-3.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-11-thallya-O-N-4",
+      "code": "O-N-4",
+      "character": "thallya",
+      "season": "S8",
+      "korData": {
+        "name": "Steam Cannon",
+        "type": "공격",
+        "subType": "전력",
+        "description": "연소",
+        "imagePath": "/furuyoni/images/card/kor/S8/11-O-N-4.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "2-8",
+      "damage": "3/3"
+    },
+    {
+      "fullCode": "NA-12-raira-O-N-2",
+      "code": "O-N-2",
+      "character": "raira",
+      "season": "S8",
+      "korData": {
+        "name": "풍뢰격",
+        "type": "공격",
+        "subType": "",
+        "description": "【상시】 X는 풍신 게이지와 뇌신 게이지 중 더 작은 쪽의 수치와 같다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/12-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "2",
+      "damage": "X/2"
+    },
+    {
+      "fullCode": "NA-13-utsuro-A1-S-1",
+      "code": "A1-S-1",
+      "character": "utsuro",
+      "season": "S8",
+      "korData": {
+        "name": "잔향장치: 쿠루루식",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 더스트가 13 이상이면서, 또한 당신의 라이프가 6 이하인 경우에만, 이 카드 위에 놓인 벚꽃결정이 이동한다.\r\n【파기시】 현재 페이즈가 개시 페이즈라면, 종언의 그림자가 되살아난다. 그 후, 이 카드를 게임에서 제외하고, 당신의 추가패에서 「망아」를 사용된 상태로 얻고, 카드를 1장 뽑는다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/13-A1-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": 2,
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-20-kanawe-O-S-1",
+      "code": "O-S-1",
+      "character": "kanawe",
+      "season": "S8",
+      "korData": {
+        "name": "어렴풋한 이야기",
+        "type": "행동",
+        "subType": "",
+        "description": "집중력을 1 지불해도 된다. 그렇게 한 경우, 추가패 또는 달성완료에서 구상 카드를 1장 준비한다. 달성완료에서 준비했다면, 이 카드를 게임에서 제외한다.\r\n【사용됨】 상대의 개시 페이즈 시작에, 당신이 직전 턴에 구상을 진행하지 않았다면, 이 카드를 미사용 상태로 되돌린다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/20-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "1"
+    },
+    {
+      "fullCode": "NA-21-kamuwi-O-N-2",
+      "code": "O-N-2",
+      "character": "kamuwi",
+      "season": "S8",
+      "korData": {
+        "name": "흩날리는 칼날",
+        "type": "공격",
+        "subType": "",
+        "description": "〔+1 【공격후】 상대의 오라가 4 이하라면, 상대의 오라에 1 데미지를 준다.〕\r\n〔+1 【공격후】 기본동작 《휘감기》를 1번 수행한다.〕",
+        "imagePath": "/furuyoni/images/card/kor/S8/21-O-N-2.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "3-4",
+      "damage": "3/1"
+    },
+    {
+      "fullCode": "NA-21-kamuwi-O-S-4",
+      "code": "O-S-4",
+      "character": "kamuwi",
+      "season": "S8",
+      "korData": {
+        "name": "이치",
+        "type": "행동",
+        "subType": "",
+        "description": "【상시】 당신의 라이프가 6 이하가 아니라면, 이 카드는 사용할 수 없다.\r\n더스트 → 자신 라이프 (1)\r\n【사용됨】 상대가 《행동》 비장패를 사용하려면, 추가 비용으로 손패에서 같은 여신의 카드를 1장 버림패로 만들어야 한다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/21-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-22-renri-O-N-6",
+      "code": "O-N-6",
+      "character": "renri",
+      "season": "S8",
+      "korData": {
+        "name": "낚시질",
+        "type": "행동",
+        "subType": "대응",
+        "description": "위증 (대응으로는 위증을 수행할 수 없다.)\r\n간격 → 더스트",
+        "imagePath": "/furuyoni/images/card/kor/S8/22-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-23-akina-O-N-7",
+      "code": "O-N-7",
+      "character": "akina",
+      "season": "S8",
+      "korData": {
+        "name": "직접금융",
+        "type": "부여",
+        "subType": "전력",
+        "description": "투자권\r\n【전개시】 상대 오라 → 자신 오라 (2)\r\n【파기시】 공격 『적정거리 2-5, 1/0』을 수행해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/23-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-23-akina-O-S-4",
+      "code": "O-S-4",
+      "character": "akina",
+      "season": "S8",
+      "korData": {
+        "name": "미나카미 아키나의 정확한 계산",
+        "type": "행동",
+        "subType": "",
+        "description": "간격제한(0-7) 투자권\r\n회수를 수행해도 된다. 그렇게 한 경우, 기본동작 《휘감기》를 2번까지 수행하고, 이 카드를 게임에서 제외한다.\r\n【사용됨】 당신의 메인 페이즈 시작에 기본동작 《품기》를 1번 수행해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/23-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "시가"
+    },
+    {
+      "fullCode": "NA-24-shisui-O-N-7",
+      "code": "O-N-7",
+      "character": "shisui",
+      "season": "S8",
+      "korData": {
+        "name": "검은 갑옷",
+        "type": "부여",
+        "subType": "대응",
+        "description": "【전개시】 더스트에서 벚꽃결정을 X개 가져와 이 카드 위에 놓는다. X는 이번 턴 동안 당신이 데미지를 받는 횟수의 2배와 같다. X가 4 이상이라면 1개 더 놓는다.\r\n【전개중】 상대의 《공격》은 +0/-1 되고, 그것을 해결한 후에 이 부여패 위에 놓인 벚꽃결정을 2개 더스트로 보낸다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/24-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": 0
+    },
+    {
+      "fullCode": "NA-24-shisui-O-S-1",
+      "code": "O-S-1",
+      "character": "shisui",
+      "season": "S8",
+      "korData": {
+        "name": "파드마 베기",
+        "type": "행동",
+        "subType": "대응",
+        "description": "【상시】 이 카드가 대응하고 있는 《공격》이 있다면, 그 《공격》을 해결한 후에 이 카드의 효과를 해결한다.\r\n원하는 만큼의 영역을 선택하고, 그곳들에 놓인 당신의 열상 토큰을 원하는 순서로 데미지화한다. 그 후, 공격 『적정거리 1-4, 2/1, 대응불가(통상패)』 【상시】 이 《공격》은 +0/+X 된다. X는 이번 턴 동안 당신이 데미지를 받은 횟수의 절반(올림)과 같다.,을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S8/24-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "3"
+    },
+    {
+      "fullCode": "NA-02-saine-A1-N-6",
+      "code": "A1-N-6",
+      "character": "saine",
+      "season": "S8-2",
+      "korData": {
+        "name": "반주",
+        "type": "부여",
+        "subType": "",
+        "description": "【전개중】 당신의 다른 여신의 비장패가 1장 이상 사용된 상태라면, 매 턴마다 상대의 첫 번째 《공격》은 -1/+0 된다.\r\n【전개중】 당신의 사이네의 비장패가 1장 이상 사용된 상태라면, 매 턴마다 당신이 처음으로 사용하는 비장패의 소모값은 1 감소한다(0 미만이 되지 않는다.).",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/02-A1-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "4"
+    },
+    {
+      "fullCode": "NA-02-saine-A1-S-2",
+      "code": "A1-S-2",
+      "character": "saine",
+      "season": "S8-2",
+      "korData": {
+        "name": "이중주: 탄주빙명",
+        "type": "행동",
+        "subType": "",
+        "description": "종단\r\n상대를 위축시킨다. 당신은 카드를 1장 뽑거나, 또는 집중력 1 얻는다.\r\n【사용됨】 당신의 다른 여신에 의한 《공격》은 +0/+1 되고, 불가피를 얻는다.\r\n즉재기: 당신이 재구성 이외의 방법으로 라이프에 데미지를 1 이상 받는다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/02-A1-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-04-tokoyo-A1-N-1",
+      "code": "A1-N-1",
+      "character": "tokoyo",
+      "season": "S8-2",
+      "korData": {
+        "name": "흐르는 연주",
+        "type": "공격",
+        "subType": "",
+        "description": "【상시】 당신의 토코요의 비장패가 1장 이상 사용된 상태라면, 이 《공격》은 대응불가를 얻는다.\r\n【공격후】 경지 - 당신의 집중력이 2 이고 또한 당신의 다른 여신의 비장패가 1장 이상 사용된 상태라면, 이 카드를 패산 위에 놓는다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/04-A1-N-1.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "5",
+      "damage": "-/1"
+    },
+    {
+      "fullCode": "NA-06-yukihi-O-S-1",
+      "code": "O-S-1",
+      "character": "yukihi",
+      "season": " S8-2",
+      "korData": {
+        "name": "흩날리는 눈꽃",
+        "type": "공격",
+        "subType": "",
+        "description": "🌂 【공격후】 당신은 집중력을 1 얻는다.\r\n즉재기: 당신이 우산의 개폐를 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/06-O-S-1.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "relatedExtraCards": [],
+      "revisionCount": 2,
+      "distance": "🌂3-6 ☔0-2",
+      "damage": "🌂3 ☔0/🌂1 ☔0",
+      "cost": "2"
+    },
+    {
+      "fullCode": "NA-07-shinra-A1-N-7",
+      "code": "A1-N-7",
+      "character": "shinra",
+      "season": "S8-2",
+      "korData": {
+        "name": "사도",
+        "type": "부여",
+        "subType": "전력",
+        "description": "【전개시】 집중력을 1 지불하면서 계략을 준비해도 된다.\r\n【전개시/파기시】 계략을 실행하고, 다음번 계략을 준비한다.\r\n(신산) 공격 「적정거리 0,2,4, 2/1, 불가피, 【공격후】 상대는 손패에서 1장과 버림패 또는 덮음패에서 1장을 선택하고, 선택한 카드를 패산 아래에 원하는 순서로 놓는다」을 수행한다.\r\n(귀모) 공격 「적정거리 1,3,5, 2/2, 불가피, 【공격후】 상대의 패산 위에서 1장을 버림패로 만들고, 1장을 덮음패로 만든다」을 수행한다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/07-A1-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-23-akina-O-N-7",
+      "code": "O-N-7",
+      "character": "akina",
+      "season": "S8-2",
+      "korData": {
+        "name": "직접금융",
+        "type": "부여",
+        "subType": "전력",
+        "description": "빈틈 투자권\r\n【전개시】 상대 오라 → 자신 오라 (1)\r\n1 이상의 집중력을 모두 지불해도 된다. 그렇게 한 경우, 이 화살표 효과를 1번 더 수행한다.\r\n【파기시】 공격 『적정거리 2-5, 1/0』을 수행해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/23-O-N-7.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "deployCount": "2"
+    },
+    {
+      "fullCode": "NA-23-akina-O-S-4",
+      "code": "O-S-4",
+      "character": "akina",
+      "season": "S8-2",
+      "korData": {
+        "name": "미나카미 아키나의 정확한 계산",
+        "type": "행동",
+        "subType": "",
+        "description": "간격제한(0-6)  투자권\r\n회수를 수행해도 된다. 그렇게 한 경우, 기본동작 《휘감기》를 2번까지 수행하고, 이 카드를 게임에서 제외한다.\r\n【사용됨】 당신의 메인 페이즈 시작에, 당신은 회수를 수행하지 않고 기본동작 《품기》를 1번 수행해도 된다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/23-O-S-4.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "cost": "시가"
+    },
+    {
+      "fullCode": "NA-24-shisui-O-N-6",
+      "code": "O-N-6",
+      "character": "shisui",
+      "season": "S8-2",
+      "korData": {
+        "name": "쇳가루 휘감기",
+        "type": "행동",
+        "subType": "",
+        "description": "기본동작 《휘감기》를 2번 수행한다. 그 후, 아래에서 1가지를 선택한다.\r\n· 당신과 상대의 오라에 열상을 1 준다.\r\n· 당신과 상대의 플레어에 열상을 1 준다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/24-O-N-6.jpg",
+        "category": "통상패"
+      },
+      "engData": {},
+      "jpnData": {}
+    },
+    {
+      "fullCode": "NA-24-shisui-O-S-2",
+      "code": "O-S-2",
+      "character": "shisui",
+      "season": "S8-2",
+      "korData": {
+        "name": "우팔라 찢기",
+        "type": "공격",
+        "subType": "",
+        "description": "【공격후】 상대가 라이프 데미지를 선택했다면, 이번 턴에 당신이 수행하는 오라 데미지가 2 이하인 다음번 《공격》의 데미지는 열상화한다.\r\n재기: 당신의 오라와 플레어의 합계가 6 이하이다.",
+        "imagePath": "/furuyoni/images/card/kor/S8-2/24-O-S-2.jpg",
+        "category": "비장패"
+      },
+      "engData": {},
+      "jpnData": {},
+      "distance": "1-4",
+      "damage": "2/1",
+      "cost": "2"
+    }
+  ]
+}
