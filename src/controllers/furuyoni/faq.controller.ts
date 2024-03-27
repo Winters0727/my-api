@@ -49,14 +49,14 @@ const getFaqs = async (req: Request, res: Response) => {
 
     const faqCollection = getCollection("furuyoni", "faq");
 
-    const findQuery = createSearchQuery({
+    const searchQuery = createSearchQuery({
       category,
       keyword,
     });
 
     if (category || keyword) {
       const faq = await faqCollection
-        .find(findQuery)
+        .find(searchQuery)
         .project({
           _id: 0,
           createdAt: 0,

@@ -2,11 +2,11 @@ import type { Request, Response } from "express";
 
 import { getCollection } from "../../../database.js";
 
+import { DEFAULT_LANG } from "../../constant/furuyoni.js";
+
 import type { Language } from "@customTypes/furuyoni/index.type";
 import type { CharacterMode } from "@customTypes/furuyoni/character.type";
 import type { Card } from "@customTypes/furuyoni/card.type";
-
-const DEFAULT_LANG = "kor";
 
 const sortCardsByType = ({
   cards,
@@ -27,7 +27,7 @@ const sortCardsByType = ({
 const getCardByCode = async (req: Request, res: Response) => {
   try {
     const { code } = req.params;
-    const charName = req.query.character as string | undefined;
+    const character = req.query.char as string | undefined;
     const lang = req.query.lang as Language | undefined;
 
     const cardCollection = getCollection("furuyoni", "card");
@@ -38,7 +38,7 @@ const getCardByCode = async (req: Request, res: Response) => {
       _id: 0,
       fullCode: 1,
       code: 1,
-      charName: 1,
+      character: 1,
       name: `$${langQuery}Data.name`,
       type: `$${langQuery}Data.type`,
       subType: `$${langQuery}Data.subType`,
@@ -53,10 +53,10 @@ const getCardByCode = async (req: Request, res: Response) => {
       cost: 1,
     };
 
-    if (charName) {
+    if (character) {
       const card = await cardCollection.findOne(
         {
-          charName: charName.toLowerCase(),
+          char: character.toLowerCase(),
           code: { $eq: code },
         },
         {
@@ -99,7 +99,7 @@ const getCardByCode = async (req: Request, res: Response) => {
 
 const getCardsByCharName = async (req: Request, res: Response) => {
   try {
-    const { charName } = req.params;
+    const { character } = req.params;
     const lang = req.query.lang as Language | undefined;
     const mode = req.query.mode as CharacterMode | undefined;
 
@@ -110,17 +110,17 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       $or: [
         {
           "korData.name.O": {
-            $eq: charName,
+            $eq: character,
           },
         },
         {
           "engData.name.O": {
-            $eq: charName.toLowerCase(),
+            $eq: character.toLowerCase(),
           },
         },
         {
           "jpnData.name.O": {
-            $eq: charName,
+            $eq: character,
           },
         },
       ],
@@ -132,7 +132,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       _id: 0,
       fullCode: 1,
       code: 1,
-      charName: 1,
+      character: 1,
       name: `$${langQuery}Data.name`,
       type: `$${langQuery}Data.type`,
       subType: `$${langQuery}Data.subType`,
@@ -158,7 +158,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
 
           const cards = await cardCollection
             .find({
-              charName: { $eq: charData.engData.name.O },
+              char: { $eq: charData.engData.name.O },
               $or: [
                 { code: { $in: normalCards } },
                 { code: { $in: specialCards } },
@@ -184,7 +184,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       } else {
         const cards = await cardCollection
           .find({
-            charName: { $eq: charData.engData.name.O },
+            character: { $eq: charData.engData.name.O },
           })
           .project<Card>({
             ...cardProjection,

@@ -1,17 +1,14 @@
 import type { Request, Response } from "express";
-import { WithoutId } from "mongodb";
 
 import { getCollection } from "../../../database.js";
+
+import { DEFAULT_LANG, DEFAULT_MODE } from "../../constant/furuyoni.js";
 
 import type { Language } from "@customTypes/furuyoni/index.type";
 import type {
   Character,
-  CharacterData,
   CharacterMode,
 } from "@customTypes/furuyoni/character.type";
-
-const DEFAULT_LANG = "kor";
-const DEFAULT_MODE = "O";
 
 const getCharacterList = async (req: Request, res: Response) => {
   try {
@@ -130,7 +127,7 @@ const getCharacter = async (req: Request, res: Response) => {
                   $match: {
                     $expr: {
                       $and: [
-                        { $eq: ["$charName", parameter] },
+                        { $eq: ["$character", parameter] },
                         { $in: ["$code", "$$normalCards"] },
                       ],
                     },
@@ -152,7 +149,7 @@ const getCharacter = async (req: Request, res: Response) => {
                   $match: {
                     $expr: {
                       $and: [
-                        { $eq: ["$charName", parameter] },
+                        { $eq: ["$character", parameter] },
                         { $in: ["$code", "$$specialCards"] },
                       ],
                     },
@@ -174,7 +171,7 @@ const getCharacter = async (req: Request, res: Response) => {
                   $match: {
                     $expr: {
                       $and: [
-                        { $eq: ["$charName", parameter] },
+                        { $eq: ["$character", parameter] },
                         { $in: ["$code", "$$extraCards"] },
                       ],
                     },

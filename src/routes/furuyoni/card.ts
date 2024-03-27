@@ -7,7 +7,7 @@ import {
 
 const router = express.Router();
 
-router.get("/character/:charName", getCardsByCharName);
+router.get("/character/:char", getCardsByCharName);
 router.get("/:code", getCardByCode);
 
 export default router;
