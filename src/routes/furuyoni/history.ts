@@ -1,9 +1,13 @@
 import express from "express";
 
-import { getHistorys } from "../../controllers/furuyoni/history.controller.js";
+import {
+  getCardsHistorys,
+  getCardHistorys,
+} from "../../controllers/furuyoni/history.controller.js";
 
 const router = express.Router();
 
-router.get("/", getHistorys);
+router.get("/", getCardsHistorys);
+router.get("/:code", getCardHistorys);
 
 export default router;

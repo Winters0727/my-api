@@ -118,6 +118,50 @@
     }
     ```
 
+- GET('/:code'): 이전 시즌의 특정 카드 데이터의 배배열을 불러옵니다.
+
+  - 파라미터
+    - `code`: 특정 카드를 지칭하는 전체 코드입니다. (Card의 fullCode 컬럼)
+  - 쿼리
+
+    - `season`: 카드가 마지막으로 사용된 시즌입니다. 값은 `S#`로 현재 시즌은 S9입니다.
+    - `char`: 캐릭터의 이름입니다. 이름값은 영어만 가능합니다.
+
+  - 200
+
+    ```
+    type CardHistory = {
+        fullCode: string; // 카드의 전체 코드 (ex. NA-01-yurina-O-N-1)
+        code: string; // 캐릭터 정보를 제외한 카드의 코드 (ex. O-N-1)
+        character: string; // 카드를 사용하는 캐릭터의 영어 이름
+        season: string; // 카드가 마지막으로 사용된 시즌
+        distance?: string; // 공격 카드의 적정거리
+        damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
+        deployCount?: string; // 부여 카드의 봉납
+        cost?: string; // 비장패의 비용입니다.
+        name: string; // 카드의 이름
+        type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
+        subType: string; // 카드의 서브타입 (대응, 전력, 미정)
+        category: string; // 카드 종류 (통상패, 비장패, 추가패)
+        description: string; // 카드 설명
+        imagePath: string; // 카드 이미지 경로
+      };
+
+    {
+      result: "success";
+      history: CardHistory[],
+      length: number;
+    }
+    ```
+
+  - 404, 500
+    ```
+    {
+      result: "fail";
+      error: string;
+    }
+    ```
+
 #### 캐릭터 데이터(`/character`)
 
 ※ 영어, 일본어 데이터는 미입력상태입니다.
