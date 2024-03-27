@@ -2,9 +2,7 @@
 
 ### API Endpoint
 
-`http://api.winters0727.kr/furuyoni`
-
-※ 아직 https를 지원하지 않습니다.
+`https://api.winters0727.kr/furuyoni`
 
 #### 카드 데이터(`/card`)
 
@@ -28,12 +26,12 @@
         damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
         deployCount?: string; // 부여 카드의 봉납
         cost?: string; // 비장패의 비용입니다.
-        data: {
-          name: string; // 카드의 이름
-          type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
-          subType: string; // 카드의 서브타입 (대응, 전력, 미정)
-          description: string; // 카드 설명
-        }
+        name: string; // 카드의 이름
+        type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
+        subType: string; // 카드의 서브타입 (대응, 전력, 미정)
+        category: string; // 카드 종류 (통상패, 비장패, 추가패)
+        description: string; // 카드 설명
+        imagePath: string; // 카드 이미지 경로
       };
 
     {
@@ -110,13 +108,12 @@
         normalCards: { [key in mode]: stirng[] }; // 모드별 통상패 배열
         specialCards: { [key in mode]: stirng[] }; // 모드별 비장패 배열
         extralCards: { [key in mode]: stirng[] }; // 모드별 추가패 배열
-        data: {
-          name: { [key in mode]: string }; // 캐릭터 이름
-          abilityKeyword: string; // 캐릭터 능력 키워드
-          abilityDescription: string; // 캐릭터 능력 키워드 설명
-          symbolWeapon: string; // 캐릭터 상징 무기
-          symbolSub: { [key in mode]: string }; // 캐릭터 어나더 모드 상징 무기 서브타입
-        }
+        name: { [key in mode]: string }; // 캐릭터 이름
+        imagePath: string; // 캐릭터 타로 이미지 경로
+        abilityKeyword: string; // 캐릭터 능력 키워드
+        abilityDescription: string; // 캐릭터 능력 키워드 설명
+        symbolWeapon: string; // 캐릭터 상징 무기
+        symbolSub: { [key in mode]: string }; // 캐릭터 어나더 모드 상징 무기 서브타입
       };
 
     {
