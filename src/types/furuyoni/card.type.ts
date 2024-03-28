@@ -36,7 +36,7 @@ export interface AttackCard extends BaseCard {
 }
 export interface ActionCard extends BaseCard {}
 export interface DeployCard extends BaseCard {
-  deployCount: "X" | number;
+  enhancementCount: "X" | number;
 }
 
 export type NormalCard = AttackCard | ActionCard | DeployCard;

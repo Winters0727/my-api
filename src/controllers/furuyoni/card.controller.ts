@@ -49,7 +49,7 @@ const getCardByCode = async (req: Request, res: Response) => {
       revisionCount1: 1,
       distance: 1,
       damage: 1,
-      deployCount: 1,
+      enhancementCount: 1,
       cost: 1,
     };
 
@@ -143,7 +143,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       revisionCount1: 1,
       distance: 1,
       damage: 1,
-      deployCount: 1,
+      enhancementCount: 1,
       cost: 1,
     };
 

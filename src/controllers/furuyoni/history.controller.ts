@@ -33,7 +33,7 @@ const getCardsHistorys = async (req: Request, res: Response) => {
       imagePath: `$${langQuery}Data.imagePath`,
       distance: 1,
       damage: 1,
-      deployCount: 1,
+      enhancementCount: 1,
       cost: 1,
     };
 
@@ -95,7 +95,7 @@ const getCardHistorys = async (req: Request, res: Response) => {
       imagePath: `$${langQuery}Data.imagePath`,
       distance: 1,
       damage: 1,
-      deployCount: 1,
+      enhancementCount: 1,
       cost: 1,
     };
 

@@ -44,7 +44,7 @@ const CardSchema: ModelSchema = {
       bsonType: "string",
       description: "공격패 데미지",
     },
-    deployCount: {
+    enhancementCount: {
       bsonType: "string",
       description: "부여패 봉납 수",
     },

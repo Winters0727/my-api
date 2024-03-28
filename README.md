@@ -25,7 +25,7 @@
         revisionCount: number; // 시즌이 바뀌면서 카드가 변경된 회수
         distance?: string; // 공격 카드의 적정거리
         damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
-        deployCount?: string; // 부여 카드의 봉납
+        enhancementCount?: string; // 부여 카드의 봉납
         cost?: string; // 비장패의 비용입니다.
         name: string; // 카드의 이름
         type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
@@ -93,7 +93,7 @@
         season: string; // 카드가 마지막으로 사용된 시즌
         distance?: string; // 공격 카드의 적정거리
         damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
-        deployCount?: string; // 부여 카드의 봉납
+        enhancementCount?: string; // 부여 카드의 봉납
         cost?: string; // 비장패의 비용입니다.
         name: string; // 카드의 이름
         type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
@@ -137,7 +137,7 @@
         season: string; // 카드가 마지막으로 사용된 시즌
         distance?: string; // 공격 카드의 적정거리
         damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
-        deployCount?: string; // 부여 카드의 봉납
+        enhancementCount?: string; // 부여 카드의 봉납
         cost?: string; // 비장패의 비용입니다.
         name: string; // 카드의 이름
         type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
