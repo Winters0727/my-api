@@ -99,7 +99,7 @@ const getCardByCode = async (req: Request, res: Response) => {
 
 const getCardsByCharName = async (req: Request, res: Response) => {
   try {
-    const { character } = req.params;
+    const { char: character } = req.params;
     const lang = req.query.lang as Language | undefined;
     const mode = req.query.mode as CharacterMode | undefined;
 

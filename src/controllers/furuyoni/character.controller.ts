@@ -49,7 +49,7 @@ const getCharacterList = async (req: Request, res: Response) => {
 
 const getCharacter = async (req: Request, res: Response) => {
   try {
-    const { parameter } = req.params;
+    const { char } = req.params;
     const lang = req.query.lang as Language | undefined;
     const mode = req.query.mode as CharacterMode | undefined;
 
@@ -84,17 +84,17 @@ const getCharacter = async (req: Request, res: Response) => {
               $or: [
                 {
                   "korData.name.O": {
-                    $eq: parameter,
+                    $eq: char,
                   },
                 },
                 {
                   "engData.name.O": {
-                    $eq: parameter.toLowerCase(),
+                    $eq: char.toLowerCase(),
                   },
                 },
                 {
                   "jpnData.name.O": {
-                    $eq: parameter,
+                    $eq: char,
                   },
                 },
               ],
@@ -127,7 +127,7 @@ const getCharacter = async (req: Request, res: Response) => {
                   $match: {
                     $expr: {
                       $and: [
-                        { $eq: ["$character", parameter] },
+                        { $eq: ["$character", char] },
                         { $in: ["$code", "$$normalCards"] },
                       ],
                     },
@@ -149,7 +149,7 @@ const getCharacter = async (req: Request, res: Response) => {
                   $match: {
                     $expr: {
                       $and: [
-                        { $eq: ["$character", parameter] },
+                        { $eq: ["$character", char] },
                         { $in: ["$code", "$$specialCards"] },
                       ],
                     },
@@ -171,7 +171,7 @@ const getCharacter = async (req: Request, res: Response) => {
                   $match: {
                     $expr: {
                       $and: [
-                        { $eq: ["$character", parameter] },
+                        { $eq: ["$character", char] },
                         { $in: ["$code", "$$extraCards"] },
                       ],
                     },

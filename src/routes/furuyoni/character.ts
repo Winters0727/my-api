@@ -8,6 +8,6 @@ import {
 const router = express.Router();
 
 router.get("/", getCharacterList);
-router.get("/:parameter", getCharacter);
+router.get("/:char", getCharacter);
 
 export default router;

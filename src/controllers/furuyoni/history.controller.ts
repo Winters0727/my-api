@@ -48,7 +48,7 @@ const getCardsHistorys = async (req: Request, res: Response) => {
       ? { season: seasonQuery }
       : {};
 
-    const history = await historyCollection
+    const historys = await historyCollection
       .find(searchQuery)
       .project(historyProjection)
       .sort({ season: 1 })
@@ -56,8 +56,8 @@ const getCardsHistorys = async (req: Request, res: Response) => {
 
     return res.status(200).json({
       result: "success",
-      history,
-      length: history.length,
+      historys,
+      length: historys.length,
     });
   } catch (err: any) {
     return res.status(500).json({
@@ -111,7 +111,7 @@ const getCardHistorys = async (req: Request, res: Response) => {
       : {};
 
     if (code) {
-      const history = await historyCollection
+      const historys = await historyCollection
         .find({
           ...searchQuery,
           fullCode: code,
@@ -122,8 +122,8 @@ const getCardHistorys = async (req: Request, res: Response) => {
 
       return res.status(200).json({
         result: "success",
-        history,
-        length: history.length,
+        historys,
+        length: historys.length,
       });
     }
     return res.status(404).json({
