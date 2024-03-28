@@ -188,15 +188,15 @@
         "symbolSub": { "A1": "불꽃" }
       },
       "engData": {
-        "name": { "O": "himika", "A1": "himika" },
+        "name": { "O": "himika", "A1": "himika 【Origination】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/03-O.webp",
           "A1": "/furuyoni/images/tarot/eng/03-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Inferno",
+        "abilityDescription": "Your cards with Inferno are strengthened if they're the third or later card you've played that turn.",
+        "symbolWeapon": "Gun",
+        "symbolSub": { "A1": "Flame" }
       },
       "jpnData": {
         "name": { "O": "ヒミカ", "A1": "ヒミカ" },
@@ -571,16 +571,23 @@
         "symbolSub": { "A1": "전략", "A2": "전자" }
       },
       "engData": {
-        "name": { "O": "oboro", "A1": "oboro", "A2": "oboro" },
+        "name": {
+          "O": "oboro",
+          "A1": "oboro 【Third Chapter】",
+          "A2": "oboro 【Vanished】"
+        },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/05-O.webp",
           "A1": "/furuyoni/images/tarot/eng/05-A1.webp",
           "A2": "/furuyoni/images/tarot/eng/05-A2.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Trap",
+        "abilityDescription": "Whenever you reshuffle your deck, you may first play one card with Trap from your discard pile.",
+        "symbolWeapon": "Ninjutsu",
+        "symbolSub": {
+          "A1": "Strategy",
+          "A2": "Strategy"
+        }
       },
       "jpnData": {
         "name": { "O": "オボロ", "A1": "オボロ", "A2": "オボロ" },
@@ -736,16 +743,20 @@
         "symbolSub": { "A1": "비파", "A2": "거절" }
       },
       "engData": {
-        "name": { "O": "saine", "A1": "saine", "A2": "saine" },
+        "name": {
+          "O": "saine",
+          "A1": "saine 【Second Chapter】",
+          "A2": "saine 【Hollowness】"
+        },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/02-O.webp",
           "A1": "/furuyoni/images/tarot/eng/02-A1.webp",
           "A2": "/furuyoni/images/tarot/eng/02-A2.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Idea",
+        "abilityDescription": "While you have 1 or fewer Sakura tokens on your Aura, your cards with Idea are strengthened.",
+        "symbolWeapon": "Naginata",
+        "symbolSub": { "A1": "Biwa", "A2": "Denial" }
       },
       "jpnData": {
         "name": { "O": "サイネ", "A1": "サイネ", "A2": "サイネ" },
@@ -919,16 +930,20 @@
         "symbolSub": { "A1": "피리", "A2": "공포" }
       },
       "engData": {
-        "name": { "O": "tokoyo", "A1": "tokoyo", "A2": "tokoyo" },
+        "name": {
+          "O": "tokoyo",
+          "A1": "tokoyo 【Bard】",
+          "A2": "tokoyo 【Hollowness】"
+        },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/04-O.webp",
           "A1": "/furuyoni/images/tarot/eng/04-A1.webp",
           "A2": "/furuyoni/images/tarot/eng/04-A2.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Artistic",
+        "abilityDescription": "While your Vigor is 2, your cards with Artistic are strengthened.",
+        "symbolWeapon": "Folding Fan",
+        "symbolSub": { "A1": "Flute", "A2": "Fear" }
       },
       "jpnData": {
         "name": { "O": "トコヨ", "A1": "トコヨ", "A2": "トコヨ" },
@@ -1136,16 +1151,23 @@
         "symbolSub": { "A1": "고도", "A2": "마음" }
       },
       "engData": {
-        "name": { "O": "yurina", "A1": "yurina", "A2": "yurina" },
+        "name": {
+          "O": "yurina",
+          "A1": "yurina 【First Chapter】",
+          "A2": "yurina 【Arbitrator】"
+        },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/01-O.webp",
           "A1": "/furuyoni/images/tarot/eng/01-A1.webp",
           "A2": "/furuyoni/images/tarot/eng/01-A2.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Resolve",
+        "abilityDescription": "While your Life is 3 or less, your cards with Resolve are strengthened.",
+        "symbolWeapon": "Katana",
+        "symbolSub": {
+          "A1": "Koto",
+          "A2": "Heart"
+        }
       },
       "jpnData": {
         "name": { "O": "ユリナ", "A1": "ユリナ", "A2": "ユリナ" },

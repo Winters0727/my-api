@@ -271,7 +271,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S1/04-O-N-7.webp"
       },
-      "deployCount": "5"
+      "enhancementCount": "5"
     },
     {
       "fullCode": "NA-04-tokoyo-O-S-3",
@@ -537,7 +537,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S2/02-O-N-6.webp"
       },
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-04-tokoyo-A1-N-5",
@@ -567,7 +567,7 @@
         "imagePath": "/furuyoni/images/card/jpn/S2/04-A1-N-5.webp"
       },
       "relatedExtraCards": [],
-      "deployCount": 2
+      "enhancementCount": 2
     },
     {
       "fullCode": "NA-04-tokoyo-A1-S-2",
@@ -714,7 +714,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S2/07-O-N-6.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-11-thallya-O-S-3",
@@ -891,7 +891,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S3/14-O-N-6.webp"
       },
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-14-honoka-O-S-3",
@@ -1045,7 +1045,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S4/02-O-N-5.webp"
       },
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-03-himika-O-N-6",
@@ -1255,7 +1255,7 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S4/12-O-S-4.webp"
       },
-      "deployCount": "5",
+      "enhancementCount": "5",
       "cost": "3"
     },
     {
@@ -1542,7 +1542,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S5/15-O-N-7.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-15-korunu-O-S-4",
@@ -1571,7 +1571,7 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S5/15-O-S-4.webp"
       },
-      "deployCount": "5",
+      "enhancementCount": "5",
       "cost": "2"
     },
     {
@@ -1877,7 +1877,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S6/04-O-N-7.webp"
       },
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-08-hagane-O-N-4",
@@ -2023,7 +2023,7 @@
         "type": "付与",
         "imagePath": "/furuyoni/images/card/jpn/S6/18-O-T-3.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-20-kanawe-O-N-5",
@@ -2138,7 +2138,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S6-2/20-O-N-7.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-20-kanawe-O-S-2",
@@ -2229,7 +2229,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S7/02-A2-N-7.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-08-hagane-O-N-7",
@@ -2258,7 +2258,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S7/08-O-N-7.webp"
       },
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-10-kururu-O-N-5",
@@ -2618,7 +2618,7 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S7/21-O-S-2.webp"
       },
-      "deployCount": "4",
+      "enhancementCount": "4",
       "cost": "3"
     },
     {
@@ -2738,7 +2738,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S7-2/17-O-N-7.webp"
       },
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-19-megumi-O-S-2",
@@ -2891,7 +2891,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S8/07-A1-N-7.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-09-chikage-O-N-4",
@@ -3043,7 +3043,7 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S8/13-A1-S-1.webp"
       },
-      "deployCount": 2,
+      "enhancementCount": 2,
       "cost": "2"
     },
     {
@@ -3193,7 +3193,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S8/23-O-N-7.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-23-akina-O-S-4",
@@ -3253,7 +3253,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S8/24-O-N-7.webp"
       },
-      "deployCount": 0
+      "enhancementCount": 0
     },
     {
       "fullCode": "NA-24-shisui-O-S-1",
@@ -3313,7 +3313,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S8-2/02-A1-N-6.webp"
       },
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-02-saine-A1-S-2",
@@ -3436,7 +3436,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S8-2/07-A1-N-7.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-23-akina-O-N-7",
@@ -3467,7 +3467,7 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S8-2/23-O-N-7.webp"
       },
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-23-akina-O-S-4",

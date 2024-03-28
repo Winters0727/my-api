@@ -13,7 +13,7 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
+        "name": "Slash",
         "description": "",
         "type": "Attack",
         "category": "Normal",
@@ -44,8 +44,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Brandish",
+        "description": "Forced: Resolve - This attack gains +1/+0 if your Life is 3 or less.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/01-O-N-2.webp"
@@ -75,8 +75,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Hilt Strike",
+        "description": "After Attack: Resolve - The next attack you make this turn gains +1/+0 if your Life is 3 or less.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/01-O-N-3.webp"
@@ -106,8 +106,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Art of Drawing",
+        "description": "Forced: If the current Distance is 2 or less, this attack gets -1/-1.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Normal",
@@ -139,8 +139,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Vivacity",
+        "description": "Gain 1 Vigor.\r\nIncrease the Range of your next non-Special attack from a non-Yurina Megami this turn by 1 in the close direction, and it gains No Reactions (Normal).",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/01-O-N-5.webp"
@@ -168,8 +168,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Overawe",
+        "description": "Unguarded\r\nDisenchant: You attack with 「Range: 1-4, Damage: 3/-」.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/01-O-N-6.webp"
@@ -183,7 +183,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-01-yurina-O-N-7",
@@ -198,8 +198,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Spirit of Fire",
+        "description": "Ongoing: Resolve - Your attacks from non-Yurina Megami gain +1/+1 and Overwhelm if your Life is 3 or less.",
         "type": "Enhancement",
         "subType": "Throughout",
         "category": "Normal",
@@ -215,7 +215,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-01-yurina-O-S-1",
@@ -230,7 +230,7 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
+        "name": "Tsukikage Crush",
         "description": "",
         "type": "Attack",
         "category": "Special",
@@ -262,8 +262,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Uranami Storm",
+        "description": "Terminal\r\nAfter Attack: The attack this card was played as a Reaction to gets -2/+0.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
@@ -296,8 +296,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Ukifune Serene",
+        "description": "Shadow (5)→ Your Aura\r\nImmediate Resurgence: Resolve - Your Life becomes 3 or less (from 4 or more).",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/01-O-S-3.webp"
@@ -326,8 +326,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Yurina's Final Blow",
+        "description": "Forced: Resolve - You can't play this card unless your Life is 3 or less.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Special",
@@ -360,8 +360,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Wild Swing",
+        "description": "Forced: Resolve - If your Life is 3 or less, this attack gains +0/+2 and No Reactions.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/01-A1-N-1.webp"
@@ -391,8 +391,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Outrage",
+        "description": "Disenchant: You attack with 「Range: 0-4, Damage: 1/-, No Reactions, After Attack: Flinch your opponent.」",
         "type": "Enhancement",
         "subType": "Reaction",
         "category": "Normal",
@@ -408,7 +408,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-01-yurina-A1-S-2",
@@ -423,8 +423,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Unrefined Uranami Storm",
+        "description": "Terminal\r\nAfter Attack: The attack this card was played as a Reaction to gets -3/+0.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
@@ -457,8 +457,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Appeal",
+        "description": "After Attack: If your opponent chose to take damage to Life, put the top 3 cards of their deck into their discard pile, and you perform a basic action. Your opponent must also perform that basic action, if able.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/01-A2-N-3.webp"
@@ -488,8 +488,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Harmony",
+        "description": "Ongoing: The first time each turn your opponent's Aura changes due to a basic action or damage from an attack, after that basic action or attack resolves, you may choose one:\r\n・ Perform a Recover basic action. Then, you may perform a Focus basic action.\r\n・ You attack with 『Range: 3-5, Damage: 2/1』.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/01-A2-N-7.webp"
@@ -503,7 +503,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-01-yurina-A2-S-1",
@@ -518,8 +518,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Kamukura Legacy",
+        "description": "No Reactions\r\nForced: X is equal to the number of Sakura tokens on your Flare as you pay this card's cost.\r\nAfter Attack: Perform up to X total Recover or Focus basic actions. Choose up to X of your Devoted Special cards and turn them face-down. Your maximum hand size is increased by X this turn.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Special",
@@ -552,8 +552,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Swing Rush",
+        "description": "After Attack: Idea - You attack with 『Range: 4-5, Damage: 2/1』 if you have 1 or fewer Sakura tokens on your Aura.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/02-O-N-1.webp"
@@ -583,7 +583,7 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
+        "name": "Cut Down",
         "description": "",
         "type": "Attack",
         "subType": "Reaction",
@@ -616,8 +616,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Hilt Slam",
+        "description": "After Attack: Idea - If you have 1 or fewer Sakura tokens on your Aura:\r\nShadow (1)→ Distance",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Normal",
@@ -649,8 +649,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Outclass",
+        "description": "Forced: Idea - You may play this card as if it were a Reaction if you have 1 or fewer Sakura tokens on your Aura.\r\nDistance (1)⇔ Shadow",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/02-O-N-4.webp"
@@ -678,8 +678,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Space for Master",
+        "description": "Ongoing: If a Sakura token would be moved from this card to Shadow, instead move it to Distance.\r\nOngoing: Increase the size of the Mastery Zone by 1.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/02-O-N-5.webp"
@@ -693,7 +693,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-02-saine-O-N-6",
@@ -708,8 +708,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Wavering Crystal",
+        "description": "Initialize: The attack you played this card as a Reaction to gets -1/+0.\r\nDisenchant: You attack with 『Range: 0-10, Damage: 1/-, No Reactions』. Then:\r\nShadow (1)→ Distance.",
         "type": "Enhancement",
         "subType": "Reaction",
         "category": "Normal",
@@ -725,7 +725,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-02-saine-O-N-7",
@@ -740,8 +740,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Silent Wall",
+        "description": "Ongoing: Treat Sakura tokens on this card as if they were on your Aura whenever you are dealt damage.",
         "type": "Enhancement",
         "subType": "Throughout",
         "category": "Normal",
@@ -757,7 +757,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "5"
+      "enhancementCount": "5"
     },
     {
       "fullCode": "NA-02-saine-O-S-1",
@@ -772,8 +772,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Rhythmic Arc",
+        "description": "You attack with\r\n『Range: 3-4, Damage: 1/1』,\r\n『Range: 4-5, Damage: 1/1』, and\r\n『Range: 3-5, Damage: 2/2』 in this order.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/02-O-S-1.webp"
@@ -802,8 +802,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Resonant Beat",
+        "description": "Forced: This card costs 1 less for each Sakura token on your opponent's Aura.\r\nOpponent's Aura (2)→ Distance",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/02-O-S-2.webp"
@@ -832,8 +832,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Silent Icebreaker",
+        "description": "After Attack: The attack you played this card as a Reaction to gets -1/-1.\r\nResurgence: Idea - You have 1 or fewer Sakura tokens on your Aura.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
@@ -866,8 +866,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Saine's Final Stage",
+        "description": "Forced: This can only be played as a Reaction to a Special card.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
@@ -900,8 +900,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Ensemble",
+        "description": "After Attack: If at least one of your Saine Special cards is Devoted: Opponents Aura (1)→Shadow\r\nAfter Attack: Idea/Artistic - If your Aura is 1, or less or your Vigor is 2: Shadow (1)→Distance\r\nAfter Attack: If at least one of your Tokoyo Special Cards is Devoted: Shadow(1)→your Aura\r\n(Treat this card as a Saine and Tokoyo card)",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Normal",
@@ -933,8 +933,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Accompaniment",
+        "description": "Ongoing: Idea - If your Aura is 1 or less, or at least one of your non-Saine special cards is devoted, the first attack your opponent makes each turn loses No Reactions and gets -1/+0.\r\nInitialize/Disenchant: If at least one of your Saine Special cards is devoted - for the rest of the turn your Special cards cost 1 less Flare.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/02-A1-N-6.webp"
@@ -948,7 +948,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-02-saine-A1-S-2",
@@ -963,8 +963,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Duet: Chilling Tranquility",
+        "description": "Forced: Idea - If your Aura is 1 or less: this card costs 1 less Flare.\r\nYou cannot attack for the rest of the turn.\r\nDevoted: Your attacks from non-Saine Megami gain +0/+1.\r\nImmediate Resurgence: You take 1 or more damage to your Life from an attack.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/02-A1-S-2.webp"
@@ -993,8 +993,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Treachery",
+        "description": "No Reactions (Special)\r\nForced: When you perform this attack, if your opponent has 1 or less Aura, damage to Aura and Life are swapped.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/02-A2-N-2.webp"
@@ -1024,8 +1024,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Reverberant Wall",
+        "description": "Ongoing: Treat Sakura tokens on this card as if they were on your Aura whenever you are dealt damage.\r\nDisenchant: Idea - If it's currently your turn and you have 1 or fewer Sakura tokens on your Aura, you attack with 『Range: 0-5, Damage: 0/0, After Attack: Deal 2 damage to your opponent's Aura, and the next attack you make this turn gets +0/+1』.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/02-A2-N-7.webp"
@@ -1039,7 +1039,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-02-saine-A2-S-3",
@@ -1054,8 +1054,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Withering Fragment",
+        "description": "Terminal\r\nAfter Attack: After the attack you played this card as Reaction to resolves, if damage to Aura was chosen for that attack, and you now have no Sakura tokens on your Aura, end the current phase.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
@@ -1088,7 +1088,7 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
+        "name": "Shoot",
         "description": "",
         "type": "Attack",
         "category": "Normal",
@@ -1119,8 +1119,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Quick Shot",
+        "description": "Forced: Inferno - This attack gains +1/+1 if this is the third or later card you've played this turn.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/03-O-N-2.webp"
@@ -1150,8 +1150,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Magnum",
+        "description": "After Attack:\r\nYour Life (1)→ Shadow",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/03-O-N-3.webp"
@@ -1181,8 +1181,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Barrage",
+        "description": "Forced: This attack deals Damage to both Aura and Life.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Normal",
@@ -1214,8 +1214,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Backstep",
+        "description": "Draw a card.\r\nShadow (1)→ Distance",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/03-O-N-5.webp"
@@ -1243,8 +1243,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Backdraft",
+        "description": "Flinch your opponent.\r\nInferno - If this is the third or later card you've played this turn, your next attack this turn from a non-Himika Megami that does not have 「-」 Damage to Aura gains +1/+1.",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/03-O-N-6.webp"
@@ -1272,8 +1272,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Smoke",
+        "description": "Ongoing: Cards cannot move Sakura tokens from Distance using arrows (→).",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/03-O-N-7.webp"
@@ -1287,7 +1287,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-03-himika-O-S-1",
@@ -1302,7 +1302,7 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
+        "name": "Red Bullet",
         "description": "",
         "type": "Attack",
         "category": "Special",
@@ -1334,8 +1334,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Crimson Zero",
+        "description": "Forced: This attack deals Damage to both Aura and Life.\r\nForced: If the current Distance is 0, this attack gains No Reactions.",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/03-O-S-2.webp"
@@ -1366,8 +1366,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Scarlet Visions",
+        "description": "Draw two cards, then discard a card.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/03-O-S-3.webp"
@@ -1396,8 +1396,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Vermillion Field",
+        "description": "Inferno - If this is the third or later card you've played this turn:\r\nShadow (2)→ Distance\r\nResurgence: You have no cards in your hand.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/03-O-S-4.webp"
@@ -1433,8 +1433,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-A1-N-2.webp"
       },
       "jpnData": {
-        "name": "",
-        "description": "",
+        "name": "Path of Flame",
+        "description": "Forced: Inferno - This attack gains +0/+1 if this is the third or later card you've played this turn.",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-A1-N-2.webp"
@@ -1457,8 +1457,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Killing Intent",
+        "description": "If you have no cards in your hand:\r\nOpponent's Aura (2)→ Shadow",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/03-A1-N-5.webp"
@@ -1486,8 +1486,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Blazing Sun - Crimson Himika",
+        "description": "No Reactions\r\nForced: X is equal to 8 minus the current Distance.\r\nAfter Attack: You lose the game.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Special",
@@ -1520,8 +1520,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Glancing Strike",
+        "description": "After Attack: Artistic - Put this card on the top of your deck if your Vigor is 2.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/04-O-N-1.webp"
@@ -1551,8 +1551,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Polite Return",
+        "description": "After Attack: Artistic - Cancel the non-Special attack you played this card as a Reaction to if your Vigor is 2.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Normal",
@@ -1584,8 +1584,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Rabbit Step",
+        "description": "If the current Distance is 3 or less:\r\nShadow (2)→ Distance",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/04-O-N-3.webp"
@@ -1613,8 +1613,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Song and Dance",
+        "description": "Gain 1 Vigor. Choose one:\r\n・ Your Flare (1)→ Your Aura\r\n・ Your Aura (1)→ Distance",
         "type": "Action",
         "subType": "Reaction",
         "category": "Normal",
@@ -1644,8 +1644,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Break Point",
+        "description": "Choose up to two cards in your discard or played piles. Put those cards on the bottom of your deck in any order.\r\nShadow (2)→ Your Aura.",
         "type": "Action",
         "subType": "Throughout",
         "category": "Normal",
@@ -1675,8 +1675,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Windy Stage",
+        "description": "Initialize: Distance (2)→ Your Aura\r\nDisenchant: Your Aura (2)→ Distance",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/04-O-N-6.webp"
@@ -1690,7 +1690,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-04-tokoyo-O-N-7",
@@ -1705,8 +1705,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Sunny Stage",
+        "description": "Terminal\r\nInitialize: Your Vigor becomes 2.\r\nDisenchant: You attack with 『Range: 3-6, Damage: -/1』.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/04-O-N-7.webp"
@@ -1720,7 +1720,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 2,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-04-tokoyo-O-S-1",
@@ -1735,8 +1735,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Immortal Flower",
+        "description": "After Attack: Cancel the attack you played this card as a Reaction to.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
@@ -1769,8 +1769,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Eternal Migrant",
+        "description": "After Attack: Reshuffle your deck (without taking Damage to your Life).",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/04-O-S-2.webp"
@@ -1801,8 +1801,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Perpetual Wind",
+        "description": "No Reactions\r\nAfter Attack: Your opponent puts a non-Attack card from their hand into their played pile. If they can't, they must reveal their hand.\r\nResurgence: Artistic - Your Vigor is 2.",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/04-O-S-3.webp"
@@ -1833,8 +1833,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Eternal Moon",
+        "description": "Your Vigor becomes 2. Your opponent's Vigor becomes 0. Flinch your opponent.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/04-O-S-4.webp"
@@ -1863,8 +1863,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Entrancing Strike",
+        "description": "Forced: If at least one of your Tokoyo's Special cards is Devoted, this attack gains No Reactions.\r\nAfter Attack: Artistic - If your Vigor is 2 or at least one of your non-Tokoyo's Special cards is Devoted, put this card on the top or bottom of your deck.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/04-A1-N-1.webp"
@@ -1894,8 +1894,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Ensemble",
+        "description": "After Attack: If at least one of your Saine Special cards is Devoted: Opponents Aura (1)→Shadow\r\nAfter Attack: Idea/Artistic - If your Aura is 1, or less or your Vigor is 2: Shadow (1)→Distance\r\nAfter Attack: If at least one of your Tokoyo Special Cards is Devoted: Shadow(1)→your Aura\r\n(Treat this card as a Saine and Tokoyo card)",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Normal",
@@ -1927,8 +1927,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Duet: Radiant Luminosity",
+        "description": "Forced: Artistic - If your Vigor is 2, this card costs 1 less Flare.\r\nYou cannot spend your Vigor for the rest of this turn.\r\nDevoted: Whenever you react with a non-Tokoyo Megami card, you may choose a card from your discard pile or played pile, then put it at the bottom of your deck.\r\nImmediate Resurgence: You take 1 or more damage to your Life from an attack.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/04-A1-S-3.webp"
@@ -1957,8 +1957,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Awestrike",
+        "description": "Forced: If your opponent's Vigor is 0, you choose the type of damage dealt by this attack.\r\nAfter Attack: Artistic - If your Vigor is 2, the non-Special attack you played this card as a Reaction to gets -X/-Y, where X is the damage to Aura this attack dealt, and Y is the damage to Life it dealt.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Normal",
@@ -1990,8 +1990,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Endless Snow",
+        "description": "After Attack: If your opponent chose to take damage to Aura:\r\nOpponent's Flare (1)→ Your Aura\r\nResurgence: Your opponent's Vigor is 1.",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/04-A2-S-2.webp"
@@ -2022,8 +2022,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Hollow Blossoms",
+        "description": "Perform 5 Recover basic actions.\r\nDevoted: If an arrow (→) on a card you own would move Sakura tokens to your Aura, your maximum Aura is considered to be 8 for that effect.\r\nDevoted: At the beginning of your turn, if your Aura is 6 or more, you attack with 『Range: 0-8, Damage: -/1』.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/04-A2-S-3.webp"
@@ -2052,8 +2052,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Steel Strings",
+        "description": "Trap",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/05-O-N-1.webp"
@@ -2083,8 +2083,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Caltrops",
+        "description": "Trap    No Reactions\r\nAfter Attack: If this card was played from your discard pile, look at your opponent's hand. Choose one of those cards and put it into their discard pile.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/05-O-N-2.webp"
@@ -2114,8 +2114,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Rush of Blades",
+        "description": "Forced: This attack gains +1/+1 if your opponent has taken damage to their Aura this turn.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Normal",
@@ -2147,8 +2147,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Ninpo-Walk",
+        "description": "Trap\r\nShadow (1)→ Distance\r\nIf this card was played from your discard pile, you may play a card with Trap from your discard pile.",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/05-O-N-4.webp"
@@ -2176,8 +2176,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Induce",
+        "description": "Trap\r\nChoose one:\r\n・ Distance (1)→ Opponent's Aura\r\n・ Opponent's Aura (1)→ Opponent's Flare",
         "type": "Action",
         "subType": "Reaction",
         "category": "Normal",
@@ -2207,8 +2207,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Shadow Cloning",
+        "description": "Reveal a non-Throughout card in your discard pile and play it. Then play it again if it is in your played pile. If the played card is an Attack card, it gains No Reactions (both times).",
         "type": "Action",
         "subType": "Throughout",
         "category": "Normal",
@@ -2238,8 +2238,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Revitalize",
+        "description": "Unguarded    Trap\r\nDisenchant: Choose one of your Devoted Special cards and turn it face-down.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/05-O-N-7.webp"
@@ -2253,7 +2253,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-05-oboro-O-S-1",
@@ -2268,8 +2268,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Kuma-Suke",
+        "description": "After Attack: You attack with 『Range: 3-4, Damage: 2/2』 X times, where X is the number of cards in your discard pile.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Special",
@@ -2302,8 +2302,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Tobi-Kage",
+        "description": "Reveal a non-Throughout card in your discard pile and play it. If this card was played as a Reaction to an attack, treat that card as if it were played as a Reaction to that attack.",
         "type": "Action",
         "subType": "Reaction",
         "category": "Special",
@@ -2334,8 +2334,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Uro-Uo",
+        "description": "Initialize: You may put any number of cards in your played pile into your discard pile.\r\nOngoing:  Arrows (→) on cards played from your discard pile become double arrows (⇔).\r\nOngoing/Devoted: You may play a non-Attack card with Trap from your discard pile just before you reshuffle your deck.",
         "type": "Enhancement",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/05-O-S-3.webp"
@@ -2349,7 +2349,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "3",
+      "enhancementCount": "3",
       "cost": "2"
     },
     {
@@ -2365,8 +2365,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Mi-Kazura",
+        "description": "After Attack: Shadow (1)→ Your Flare\r\nResurgence: There are no Sakura tokens on your Flare.",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/05-O-S-4.webp"
@@ -2397,8 +2397,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Shuriken",
+        "description": "Forced: At the end of your turn, if there are 5 or more cards in both players' discard piles combined, you may return this card from your played pile to your hand.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/05-A1-N-2.webp"
@@ -2428,8 +2428,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Sneak Attack",
+        "description": "No Reactions (Normal)\r\nForced: This attack gets -X/-X. X is the number of cards in your opponent's discard pile.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Normal",
@@ -2461,8 +2461,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Twig of the Sacred Sakura",
+        "description": "Out-of-Game (1)→ Your Aura\r\nOut-of-Game (1)→ Your Flare\r\nRemove this card from the game. Add your set aside \"The Final Petal\" to your Special cards, face-down.",
         "type": "Action",
         "subType": "Throughout",
         "category": "Special",
@@ -2493,8 +2493,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "The Final Petal",
+        "description": "Forced: This card cannot be played except by this effect. When you would lose the game for the first time, instead you may move all Sakura tokens from your Life to Shadow and play this card (paying its cost).\r\nDiscard a card.\r\nShadow (1)→ Your Life",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/05-A1-S-4-Ex1.webp"
@@ -2523,8 +2523,8 @@
         "category": "통상패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Hologram Kunai",
+        "description": "Trap\r\nAfter Attack: Assemble 1 part.\r\nForced: If this card moves to the played pile from being played, you may move it to the discard pile.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/05-A2-N-1.webp"
@@ -2554,8 +2554,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Giga-Suke",
+        "description": "Forced: This card costs 1 less Flare for each card in your discard pile and each assembled part you have.\r\nAfter Attack: You attack with 『Range: 3-4, Damage: 2/1』 3 times.",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/05-A2-S-1.webp"
@@ -2586,8 +2586,8 @@
         "category": "비장패"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Blurry Record: Godly Device",
+        "description": "You assemble 1 part then perform up to 1 basic action.\r\nDevoted: Just before you reshuffle your deck, you may disassemble parts until you have 1 or less assembled parts. If you do, assemble X parts. X is equal to half the number of cards in your discard pile, rounded up.",
         "type": "Action",
         "subType": "Throughout",
         "category": "Special",
@@ -2618,8 +2618,8 @@
         "category": "파츠"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Main Part \"X\"",
+        "description": "Digi-Trap",
         "type": "Attack",
         "category": "Parts",
         "imagePath": "/furuyoni/images/card/eng/05-A2-MP-1.webp"
@@ -2649,8 +2649,8 @@
         "category": "파츠"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Main Part \"Y\"",
+        "description": "Digi-Trap",
         "type": "Attack",
         "category": "Parts",
         "imagePath": "/furuyoni/images/card/eng/05-A2-MP-2.webp"
@@ -2680,8 +2680,8 @@
         "category": "파츠"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Main Part \"Z\"",
+        "description": "Digi-Trap",
         "type": "Attack",
         "category": "Parts",
         "imagePath": "/furuyoni/images/card/eng/05-A2-MP-3.webp"
@@ -2711,8 +2711,8 @@
         "category": "미정"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Custom Part A",
+        "description": "Level 1: No Reactions (Enhancement)\r\nLevel 2: No Reactions (Attack)\r\nLevel 3: No Reactions (Action)\r\nLevel 4: No Reactions (Normal)",
         "type": "Undefined",
         "category": "Undefined",
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-1.webp"
@@ -2740,8 +2740,8 @@
         "category": "미정"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Custom Part B",
+        "description": "Level 1: Forced: This attack gains +0/+0.\r\nLevel 2: Forced: This attack gains +0/+1.\r\nLevel 3: Forced: This attack gains +1/+0.\r\nLevel 4: Forced: This attack gains +1/+1.",
         "type": "Undefined",
         "category": "Undefined",
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-2.webp"
@@ -2769,8 +2769,8 @@
         "category": "미정"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Custom Part C",
+        "description": "Level 1: After Attack: Shadow(1)→Distance\r\nLevel 2: After Attack: Shadow(1)⇔Distance\r\nLevel 3: After Attack: Shadow(1)⇔Distance\r\nLevel 4: After Attack: Shadow(1)⇔Distance. Gain 1 vigor.",
         "type": "Undefined",
         "category": "Undefined",
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-3.webp"
@@ -2798,8 +2798,8 @@
         "category": "미정"
       },
       "engData": {
-        "name": "",
-        "description": "",
+        "name": "Custom Part D",
+        "description": "Level 1: After Attack: Choose up to 1 card from your played pile, then move it to your discard pile.\r\nLevel 2: After Attack: Choose up to 1 card from your discard pile, then move it to the bottom of your deck.\r\nLevel 3: After Attack: Choose up to 2 cards from your discard pile, then move them to the bottom of your deck in any order.\r\nLevel 4: After Attack: Choose up to 2 cards from your discard pile or played pile, then move them to the bottom of your deck in any order.",
         "type": "Undefined",
         "category": "Undefined",
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-4.webp"
@@ -3028,7 +3028,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-06-yukihi-O-S-1",
@@ -3124,7 +3124,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "7",
+      "enhancementCount": "7",
       "cost": "3"
     },
     {
@@ -3249,7 +3249,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "1",
+      "enhancementCount": "1",
       "cost": "4"
     },
     {
@@ -3437,7 +3437,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-07-shinra-O-N-7",
@@ -3467,7 +3467,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-07-shinra-O-S-1",
@@ -3559,7 +3559,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "5",
+      "enhancementCount": "5",
       "cost": "2"
     },
     {
@@ -3590,7 +3590,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "6",
+      "enhancementCount": "6",
       "cost": "6"
     },
     {
@@ -3654,7 +3654,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-07-shinra-A1-S-3",
@@ -3900,7 +3900,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-08-hagane-O-S-1",
@@ -4336,7 +4336,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-09-chikage-O-N-7",
@@ -4366,7 +4366,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-09-chikage-O-S-1",
@@ -4428,7 +4428,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "5",
+      "enhancementCount": "5",
       "cost": "2"
     },
     {
@@ -4493,7 +4493,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "4",
+      "enhancementCount": "4",
       "cost": "5"
     },
     {
@@ -4581,7 +4581,7 @@
         "imagePath": "/furuyoni/images/card/jpn/09-O-P-3.webp"
       },
       "relatedExtraCards": [],
-      "deployCount": "3",
+      "enhancementCount": "3",
       "revisionCount": 0
     },
     {
@@ -4884,7 +4884,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-10-kururu-O-N-7",
@@ -4914,7 +4914,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "0"
+      "enhancementCount": "0"
     },
     {
       "fullCode": "NA-10-kururu-O-S-1",
@@ -5733,7 +5733,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-11-thallya-A1-S-1",
@@ -6219,7 +6219,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "3",
+      "enhancementCount": "3",
       "cost": "2"
     },
     {
@@ -6377,7 +6377,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "0"
+      "enhancementCount": "0"
     },
     {
       "fullCode": "NA-12-raira-A1-S-3",
@@ -6650,7 +6650,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-13-utsuro-O-S-1",
@@ -6712,7 +6712,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3",
+      "enhancementCount": "3",
       "cost": "3"
     },
     {
@@ -6743,7 +6743,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3",
+      "enhancementCount": "3",
       "cost": "2"
     },
     {
@@ -6966,7 +6966,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-14-honoka-O-N-1",
@@ -7310,7 +7310,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "4"
+      "enhancementCount": "4"
     },
     {
       "fullCode": "NA-14-honoka-O-N-7",
@@ -7340,7 +7340,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-14-honoka-O-S-1",
@@ -7526,7 +7526,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "5",
+      "enhancementCount": "5",
       "cost": "2"
     },
     {
@@ -7961,7 +7961,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-15-korunu-O-N-7",
@@ -7991,7 +7991,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-15-korunu-O-S-1",
@@ -8117,7 +8117,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "1",
+      "enhancementCount": "1",
       "cost": "2"
     },
     {
@@ -8334,7 +8334,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-16-yatsuha-O-S-1",
@@ -8458,7 +8458,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "5",
+      "enhancementCount": "5",
       "cost": "2"
     },
     {
@@ -8713,7 +8713,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-16-yatsuha-AA1-N-7",
@@ -8743,7 +8743,7 @@
       },
       "relatedExtraCards": ["NA-16-yatsuha-AA1-N-7-Ex1"],
       "revisionCount": 0,
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-16-yatsuha-AA1-N-7-Ex1",
@@ -9076,7 +9076,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-17-hatsumi-O-N-7",
@@ -9106,7 +9106,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-17-hatsumi-O-S-1",
@@ -9260,7 +9260,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-17-hatsumi-A1-S-1",
@@ -9292,7 +9292,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "4",
+      "enhancementCount": "4",
       "cost": "3"
     },
     {
@@ -9323,7 +9323,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2",
+      "enhancementCount": "2",
       "cost": "2"
     },
     {
@@ -9598,7 +9598,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-18-mizuki-O-S-1",
@@ -9630,7 +9630,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3",
+      "enhancementCount": "3",
       "cost": "5"
     },
     {
@@ -9756,7 +9756,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "5",
+      "enhancementCount": "5",
       "cost": "5"
     },
     {
@@ -9849,7 +9849,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-19-megumi-O-N-1",
@@ -10005,7 +10005,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-19-megumi-O-N-6",
@@ -10035,7 +10035,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "1"
+      "enhancementCount": "1"
     },
     {
       "fullCode": "NA-19-megumi-O-N-7",
@@ -10067,7 +10067,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "0"
+      "enhancementCount": "0"
     },
     {
       "fullCode": "NA-19-megumi-O-S-1",
@@ -10131,7 +10131,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2",
+      "enhancementCount": "2",
       "cost": "3"
     },
     {
@@ -10162,7 +10162,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2",
+      "enhancementCount": "2",
       "cost": "4"
     },
     {
@@ -10193,7 +10193,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "0",
+      "enhancementCount": "0",
       "cost": "3"
     },
     {
@@ -10406,7 +10406,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-20-kanawe-O-S-1",
@@ -10949,7 +10949,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-21-kamuwi-O-S-1",
@@ -11041,7 +11041,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "4",
+      "enhancementCount": "4",
       "cost": "3"
     },
     {
@@ -11320,7 +11320,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3"
+      "enhancementCount": "3"
     },
     {
       "fullCode": "NA-22-renri-O-S-1",
@@ -11446,7 +11446,7 @@
       },
       "relatedExtraCards": ["NA-22-renri-O-S-4-Ex1"],
       "revisionCount": 0,
-      "deployCount": "3",
+      "enhancementCount": "3",
       "cost": "1"
     },
     {
@@ -11696,7 +11696,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "0",
+      "enhancementCount": "0",
       "cost": "0"
     },
     {
@@ -11880,7 +11880,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-23-akina-O-N-7",
@@ -11912,7 +11912,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 1,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-23-akina-O-S-1",
@@ -12006,7 +12006,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "1",
+      "enhancementCount": "1",
       "cost": "1"
     },
     {
@@ -12382,7 +12382,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2",
+      "enhancementCount": "2",
       "cost": "2"
     },
     {
@@ -12599,7 +12599,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2"
+      "enhancementCount": "2"
     },
     {
       "fullCode": "NA-25-misora-O-S-1",
@@ -12661,7 +12661,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "1",
+      "enhancementCount": "1",
       "cost": "1"
     },
     {
@@ -12694,7 +12694,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "3",
+      "enhancementCount": "3",
       "cost": "2"
     },
     {
@@ -12727,7 +12727,7 @@
       },
       "relatedExtraCards": [],
       "revisionCount": 0,
-      "deployCount": "2",
+      "enhancementCount": "2",
       "cost": "5"
     }
   ]
