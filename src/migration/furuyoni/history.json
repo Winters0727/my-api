@@ -13,8 +13,22 @@
         "imagePath": "/furuyoni/images/card/kor/S1/01-O-N-4.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S1/01-O-N-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/01-O-N-4.png"
+      },
       "distance": "3-4",
       "damage": "4/3"
     },
@@ -31,8 +45,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/01-O-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S1/01-O-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/01-O-N-5.png"
+      }
     },
     {
       "fullCode": "NA-01-yurina-O-S-3",
@@ -47,8 +73,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/01-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/01-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/01-O-S-3.png"
+      },
       "cost": "3"
     },
     {
@@ -64,8 +102,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/02-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/02-O-S-1.png"
+      },
       "cost": "5"
     },
     {
@@ -81,8 +131,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/02-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/02-O-S-2.png"
+      },
       "cost": "1"
     },
     {
@@ -98,8 +160,22 @@
         "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/02-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/02-O-S-3.png"
+      },
       "relatedExtraCards": [],
       "cost": "1"
     },
@@ -116,8 +192,22 @@
         "imagePath": "/furuyoni/images/card/kor/S1/02-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/02-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/02-O-S-4.png"
+      },
       "relatedExtraCards": [],
       "revisionCount": 0,
       "distance": "1-5",
@@ -137,8 +227,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/04-O-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S1/04-O-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/04-O-N-1.png"
+      },
       "distance": "5",
       "damage": "-/1"
     },
@@ -155,8 +257,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/04-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S1/04-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/04-O-N-7.png"
+      },
       "deployCount": "5"
     },
     {
@@ -172,8 +286,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/04-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/04-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/04-O-S-3.png"
+      },
       "distance": "4-8",
       "damage": "1/1",
       "cost": "1"
@@ -191,8 +317,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/05-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S1/05-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/05-O-N-2.png"
+      },
       "distance": "2",
       "damage": "2/1"
     },
@@ -209,8 +347,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/07-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/07-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/07-O-S-2.png"
+      },
       "cost": "2"
     },
     {
@@ -226,8 +376,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/08-O-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S1/08-O-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/08-O-N-1.png"
+      },
       "distance": "2-6",
       "damage": "5/3"
     },
@@ -244,8 +406,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/10-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S1/10-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/10-O-S-2.png"
+      },
       "cost": "3"
     },
     {
@@ -261,8 +435,16 @@
         "imagePath": "/furuyoni/images/card/kor/S1/11-O-TF-1.jpg",
         "category": "추가패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/eng/S1/11-O-TF-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/jpn/S1/11-O-TF-1.png"
+      }
     },
     {
       "fullCode": "NA-12-raira-O-N-1",
@@ -276,8 +458,20 @@
         "imagePath": "/furuyoni/images/card/kor/S1/12-O-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S1/12-O-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S1/12-O-N-1.png"
+      },
       "distance": "1-2",
       "damage": "2/2"
     },
@@ -294,8 +488,22 @@
         "imagePath": "/furuyoni/images/card/kor/S2/02-O-N-3.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S2/02-O-N-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/02-O-N-3.png"
+      },
       "distance": "3-5",
       "damage": "1/1"
     },
@@ -312,8 +520,22 @@
         "imagePath": "/furuyoni/images/card/kor/S2/02-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "subType": "Reaction",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S2/02-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "subType": "対応",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/02-O-N-6.png"
+      },
       "deployCount": "1"
     },
     {
@@ -329,8 +551,20 @@
         "imagePath": "/furuyoni/images/card/kor/S2/04-A1-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S2/04-A1-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/04-A1-N-5.png"
+      },
       "relatedExtraCards": [],
       "deployCount": 2
     },
@@ -347,8 +581,20 @@
         "imagePath": "/furuyoni/images/card/kor/S2/04-A1-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S2/04-A1-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/04-A1-S-2.png"
+      },
       "cost": "1"
     },
     {
@@ -364,8 +610,20 @@
         "imagePath": "/furuyoni/images/card/kor/S2/05-O-N-4.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S2/05-O-N-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/05-O-N-4.png"
+      }
     },
     {
       "fullCode": "NA-05-oboro-O-S-2",
@@ -380,8 +638,22 @@
         "imagePath": "/furuyoni/images/card/kor/S2/05-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S2/05-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/05-O-S-2.png"
+      },
       "cost": "3"
     },
     {
@@ -397,8 +669,20 @@
         "imagePath": "/furuyoni/images/card/kor/S2/05-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S2/05-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/05-O-S-4.png"
+      },
       "relatedExtraCards": [],
       "cost": "0"
     },
@@ -415,8 +699,20 @@
         "imagePath": "/furuyoni/images/card/kor/S2/07-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S2/07-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/07-O-N-6.png"
+      },
       "deployCount": "2"
     },
     {
@@ -432,8 +728,20 @@
         "imagePath": "/furuyoni/images/card/kor/S2/11-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S2/11-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/11-O-S-3.png"
+      },
       "cost": "2"
     },
     {
@@ -449,8 +757,22 @@
         "imagePath": "/furuyoni/images/card/kor/S2/11-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Throughout",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S2/11-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "全力",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S2/11-O-S-4.png"
+      },
       "cost": "0"
     },
     {
@@ -466,8 +788,20 @@
         "imagePath": "/furuyoni/images/card/kor/S3/03-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S3/03-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S3/03-O-N-2.png"
+      },
       "distance": "7-8",
       "damage": "2/1"
     },
@@ -484,8 +818,20 @@
         "imagePath": "/furuyoni/images/card/kor/S3/12-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S3/12-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S3/12-O-S-3.png"
+      },
       "cost": "0"
     },
     {
@@ -501,8 +847,20 @@
         "imagePath": "/furuyoni/images/card/kor/S3/13-A1-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S3/13-A1-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S3/13-A1-S-1.png"
+      },
       "cost": "2"
     },
     {
@@ -518,8 +876,20 @@
         "imagePath": "/furuyoni/images/card/kor/S3/14-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S3/14-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S3/14-O-N-6.png"
+      },
       "deployCount": "4"
     },
     {
@@ -535,8 +905,22 @@
         "imagePath": "/furuyoni/images/card/kor/S3/14-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S3/14-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S3/14-O-S-3.png"
+      },
       "cost": "1"
     },
     {
@@ -552,8 +936,22 @@
         "imagePath": "/furuyoni/images/card/kor/S4/01-A1-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/01-A1-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/01-A1-S-2.png"
+      },
       "distance": "0-10",
       "damage": "3/-",
       "cost": "5"
@@ -571,8 +969,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/01-O-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/01-O-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/01-O-N-5.png"
+      }
     },
     {
       "fullCode": "NA-01-yurina-O-S-2",
@@ -587,8 +997,22 @@
         "imagePath": "/furuyoni/images/card/kor/S4/01-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/01-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/01-O-S-2.png"
+      },
       "distance": "0-10",
       "damage": "2/-",
       "cost": "3"
@@ -606,8 +1030,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/02-O-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/02-O-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/02-O-N-5.png"
+      },
       "deployCount": "3"
     },
     {
@@ -623,8 +1059,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/03-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/03-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/03-O-N-6.png"
+      }
     },
     {
       "fullCode": "NA-05-oboro-A1-N-3",
@@ -639,8 +1087,22 @@
         "imagePath": "/furuyoni/images/card/kor/S4/05-A1-N-3.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/05-A1-N-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/05-A1-N-3.png"
+      },
       "distance": "1-3",
       "damage": "4/3"
     },
@@ -657,8 +1119,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/05-A1-S-4-Ex1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/05-A1-S-4-Ex1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/05-A1-S-4-Ex1.png"
+      },
       "cost": "2"
     },
     {
@@ -674,8 +1148,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/08-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/08-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/08-O-S-1.png"
+      },
       "distance": "0-10",
       "damage": "X/Y",
       "cost": "5"
@@ -693,8 +1179,22 @@
         "imagePath": "/furuyoni/images/card/kor/S4/09-O-N-3.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/09-O-N-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/09-O-N-3.png"
+      },
       "distance": "1-3",
       "damage": "1/-"
     },
@@ -711,8 +1211,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/10-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/10-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/10-O-S-3.png"
+      },
       "cost": "1"
     },
     {
@@ -728,8 +1240,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/12-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/12-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/12-O-S-4.png"
+      },
       "deployCount": "5",
       "cost": "3"
     },
@@ -746,8 +1270,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/13-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/13-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/13-O-S-4.png"
+      },
       "cost": "5"
     },
     {
@@ -763,8 +1299,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/14-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/14-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/14-O-N-2.png"
+      },
       "distance": "1-5",
       "damage": "2/1"
     },
@@ -781,8 +1329,22 @@
         "imagePath": "/furuyoni/images/card/kor/S4/14-O-S-1-Ex1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Throughout",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S4/14-O-S-1-Ex1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "全力",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/14-O-S-1-Ex1.png"
+      },
       "cost": "0"
     },
     {
@@ -798,8 +1360,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/16-O-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/16-O-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/16-O-N-1.png"
+      },
       "distance": "3-4",
       "damage": "3/2"
     },
@@ -816,8 +1390,20 @@
         "imagePath": "/furuyoni/images/card/kor/S4/16-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S4/16-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S4/16-O-N-2.png"
+      },
       "distance": "4",
       "damage": "3/1"
     },
@@ -834,8 +1420,20 @@
         "imagePath": "/furuyoni/images/card/kor/S5/07-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S5/07-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S5/07-O-S-1.png"
+      },
       "cost": "4"
     },
     {
@@ -851,8 +1449,16 @@
         "imagePath": "/furuyoni/images/card/kor/S5/11-A1-TF-3.jpg",
         "category": "추가패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/eng/S5/11-A1-TF-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/jpn/S5/11-A1-TF-3.png"
+      }
     },
     {
       "fullCode": "NA-12-raira-A1-N-2",
@@ -867,8 +1473,20 @@
         "imagePath": "/furuyoni/images/card/kor/S5/12-A1-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S5/12-A1-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S5/12-A1-N-2.png"
+      },
       "distance": "2-4",
       "damage": "2/1"
     },
@@ -885,8 +1503,16 @@
         "imagePath": "/furuyoni/images/card/kor/S5/12-A1-ST.jpg",
         "category": "추가패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/eng/S5/12-A1-ST.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "imagePath": "/furuyoni/images/card/jpn/S5/12-A1-ST.png"
+      }
     },
     {
       "fullCode": "NA-15-korunu-O-N-7",
@@ -901,8 +1527,20 @@
         "imagePath": "/furuyoni/images/card/kor/S5/15-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S5/15-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S5/15-O-N-7.png"
+      },
       "deployCount": "2"
     },
     {
@@ -918,8 +1556,20 @@
         "imagePath": "/furuyoni/images/card/kor/S5/15-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S5/15-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S5/15-O-S-4.png"
+      },
       "deployCount": "5",
       "cost": "2"
     },
@@ -936,8 +1586,20 @@
         "imagePath": "/furuyoni/images/card/kor/S5/18-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S5/18-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S5/18-O-N-2.png"
+      },
       "distance": "2-3",
       "damage": "1/1"
     },
@@ -954,8 +1616,22 @@
         "imagePath": "/furuyoni/images/card/kor/S5/18-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S5/18-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S5/18-O-N-6.png"
+      }
     },
     {
       "fullCode": "NA-02-saine-A1-S-2",
@@ -970,8 +1646,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/02-A1-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6/02-A1-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/02-A1-S-2.png"
+      },
       "cost": "2"
     },
     {
@@ -987,8 +1675,22 @@
         "imagePath": "/furuyoni/images/card/kor/S6/02-A2-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6/02-A2-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/02-A2-S-3.png"
+      },
       "cost": "3"
     },
     {
@@ -1004,8 +1706,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/02-O-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S6/02-O-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/02-O-N-1.png"
+      },
       "distance": "4-5",
       "damage": "2/1"
     },
@@ -1022,8 +1736,22 @@
         "imagePath": "/furuyoni/images/card/kor/S6/02-O-N-3.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S6/02-O-N-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/02-O-N-3.png"
+      },
       "distance": "2-3",
       "damage": "2/1"
     },
@@ -1040,8 +1768,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/02-O-N-4.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S6/02-O-N-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/02-O-N-4.png"
+      }
     },
     {
       "fullCode": "NA-02-saine-O-S-3",
@@ -1055,8 +1795,22 @@
         "imagePath": "/furuyoni/images/card/kor/02-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/02-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/02-O-S-3.png"
+      },
       "distance": "0-10",
       "damage": "1/1",
       "cost": "2"
@@ -1074,8 +1828,22 @@
         "imagePath": "/furuyoni/images/card/kor/S6/03-A1-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Throughout",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6/03-A1-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "全力",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/03-A1-S-2.png"
+      },
       "distance": "0-7",
       "damage": "X/X",
       "cost": "7"
@@ -1093,8 +1861,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/04-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S6/04-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/04-O-N-7.png"
+      },
       "deployCount": "1"
     },
     {
@@ -1110,8 +1890,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/08-O-N-4.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S6/08-O-N-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/08-O-N-4.png"
+      }
     },
     {
       "fullCode": "NA-09-chikage-A1-S-4",
@@ -1126,8 +1918,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/09-A1-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6/09-A1-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/09-A1-S-4.png"
+      },
       "distance": "0-1",
       "damage": "4/X",
       "cost": "5"
@@ -1145,8 +1949,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/14-A1-S-1-Ex3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6/14-A1-S-1-Ex3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/14-A1-S-1-Ex3.png"
+      },
       "distance": "1-9",
       "damage": "X/2",
       "cost": "1"
@@ -1164,8 +1980,20 @@
         "imagePath": "/furuyoni/images/card/kor/16-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/16-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/16-O-S-2.png"
+      },
       "cost": "3"
     },
     {
@@ -1181,8 +2009,18 @@
         "imagePath": "/furuyoni/images/card/kor/S6/18-O-T-3.jpg",
         "category": "추가패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "imagePath": "/furuyoni/images/card/eng/S6/18-O-T-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "imagePath": "/furuyoni/images/card/jpn/S6/18-O-T-3.png"
+      },
       "deployCount": "2"
     },
     {
@@ -1198,8 +2036,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/20-O-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S6/20-O-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/20-O-N-5.png"
+      }
     },
     {
       "fullCode": "NA-20-kanawe-O-S-1",
@@ -1214,8 +2064,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6/20-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6/20-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6/20-O-S-1.png"
+      },
       "cost": "1"
     },
     {
@@ -1231,8 +2093,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6-2/14-A1-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6-2/14-A1-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6-2/14-A1-S-1.png"
+      },
       "cost": "2"
     },
     {
@@ -1248,8 +2122,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6-2/20-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S6-2/20-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S6-2/20-O-N-7.png"
+      },
       "deployCount": "2"
     },
     {
@@ -1265,8 +2151,20 @@
         "imagePath": "/furuyoni/images/card/kor/S6-2/20-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6-2/20-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6-2/20-O-S-2.png"
+      },
       "cost": "X"
     },
     {
@@ -1282,8 +2180,22 @@
         "imagePath": "/furuyoni/images/card/kor/S6-2/20-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S6-2/20-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S6-2/20-O-S-3.png"
+      },
       "distance": "0-4",
       "damage": "2/1",
       "cost": "4"
@@ -1301,8 +2213,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/02-A2-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/02-A2-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/02-A2-N-7.png"
+      },
       "deployCount": "2"
     },
     {
@@ -1318,8 +2242,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/08-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/08-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/08-O-N-7.png"
+      },
       "deployCount": "4"
     },
     {
@@ -1335,8 +2271,22 @@
         "imagePath": "/furuyoni/images/card/kor/S7/10-O-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/10-O-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/10-O-N-5.png"
+      }
     },
     {
       "fullCode": "NA-13-utsuro-O-N-1",
@@ -1351,8 +2301,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/13-O-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/13-O-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/13-O-N-1.png"
+      },
       "distance": "6-7",
       "damage": "2/2"
     },
@@ -1369,8 +2331,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/14-O-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/14-O-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/14-O-N-1.png"
+      },
       "distance": "3-4",
       "damage": "1/1"
     },
@@ -1387,8 +2361,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/14-O-N-1-Ex2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/14-O-N-1-Ex2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/14-O-N-1-Ex2.png"
+      },
       "distance": "5",
       "damage": "3/2"
     },
@@ -1405,8 +2391,22 @@
         "imagePath": "/furuyoni/images/card/kor/S7/15-O-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/15-O-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/15-O-N-5.png"
+      }
     },
     {
       "fullCode": "NA-16-yatsuha-A1-S-4",
@@ -1420,8 +2420,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/16-A1-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S7/16-A1-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/16-A1-S-4.png"
+      },
       "distance": "0-7",
       "damage": "1/0",
       "cost": "2"
@@ -1439,8 +2451,22 @@
         "imagePath": "/furuyoni/images/card/kor/S7/17-O-N-5.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/17-O-N-5.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/17-O-N-5.png"
+      }
     },
     {
       "fullCode": "NA-18-mizuki-O-S-3",
@@ -1455,8 +2481,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/18-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S7/18-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/18-O-S-3.png"
+      },
       "cost": "4"
     },
     {
@@ -1472,8 +2510,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/20-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/20-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/20-O-N-2.png"
+      },
       "distance": "1-9",
       "damage": "1/1"
     },
@@ -1490,8 +2540,22 @@
         "imagePath": "/furuyoni/images/card/kor/S7/21-O-N-4.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7/21-O-N-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/21-O-N-4.png"
+      },
       "distance": "1-4",
       "damage": "1/1"
     },
@@ -1508,8 +2572,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/21-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S7/21-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/21-O-S-1.png"
+      },
       "cost": "4"
     },
     {
@@ -1525,8 +2601,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7/21-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S7/21-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S7/21-O-S-2.png"
+      },
       "deployCount": "4",
       "cost": "3"
     },
@@ -1543,8 +2631,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7-2/06-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S7-2/06-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S7-2/06-O-S-1.png"
+      },
       "distance": "🌂3-5 ☔0-1",
       "damage": "🌂3 ☔0/🌂1 ☔0",
       "cost": "2"
@@ -1562,8 +2662,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7-2/08-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7-2/08-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7-2/08-O-N-6.png"
+      }
     },
     {
       "fullCode": "NA-16-yatsuha-A1-S-4",
@@ -1578,8 +2690,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7-2/16-A1-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S7-2/16-A1-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S7-2/16-A1-S-4.png"
+      },
       "distance": "0-8",
       "damage": "1/0",
       "cost": "1"
@@ -1597,8 +2721,20 @@
         "imagePath": "/furuyoni/images/card/kor/S7-2/17-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S7-2/17-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S7-2/17-O-N-7.png"
+      },
       "deployCount": "1"
     },
     {
@@ -1614,8 +2750,22 @@
         "imagePath": "/furuyoni/images/card/kor/S7-2/19-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S7-2/19-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S7-2/19-O-S-2.png"
+      },
       "distance": "0-10",
       "damage": "0/1",
       "cost": "3"
@@ -1633,8 +2783,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/02-A2-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/02-A2-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/02-A2-N-2.png"
+      },
       "distance": "4-5",
       "damage": "1/3"
     },
@@ -1651,8 +2813,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/05-O-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8/05-O-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/05-O-S-3.png"
+      },
       "cost": "4"
     },
     {
@@ -1668,8 +2842,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/06-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/06-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/06-O-N-2.png"
+      },
       "distance": "🌂5-6 ☔0-2",
       "damage": "🌂1 ☔1/🌂1 ☔1"
     },
@@ -1686,8 +2872,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8/07-A1-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/07-A1-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/07-A1-N-7.png"
+      },
       "deployCount": "2"
     },
     {
@@ -1703,8 +2903,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8/09-O-N-4.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/09-O-N-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/09-O-N-4.png"
+      },
       "distance": "0-3",
       "damage": "2/3"
     },
@@ -1721,8 +2935,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/10-A1-S-3.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8/10-A1-S-3.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/10-A1-S-3.png"
+      },
       "cost": "1"
     },
     {
@@ -1738,8 +2964,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8/11-O-N-4.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/11-O-N-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/11-O-N-4.png"
+      },
       "distance": "2-8",
       "damage": "3/3"
     },
@@ -1756,8 +2996,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/12-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/12-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/12-O-N-2.png"
+      },
       "distance": "2",
       "damage": "X/2"
     },
@@ -1774,8 +3026,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/13-A1-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8/13-A1-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/13-A1-S-1.png"
+      },
       "deployCount": 2,
       "cost": "2"
     },
@@ -1792,8 +3056,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/20-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8/20-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/20-O-S-1.png"
+      },
       "cost": "1"
     },
     {
@@ -1809,8 +3085,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/21-O-N-2.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/21-O-N-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/21-O-N-2.png"
+      },
       "distance": "3-4",
       "damage": "3/1"
     },
@@ -1827,8 +3115,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/21-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8/21-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/21-O-S-4.png"
+      },
       "cost": "3"
     },
     {
@@ -1844,8 +3144,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8/22-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Reaction",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/22-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "対応",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/22-O-N-6.png"
+      }
     },
     {
       "fullCode": "NA-23-akina-O-N-7",
@@ -1860,8 +3174,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8/23-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/23-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/23-O-N-7.png"
+      },
       "deployCount": "2"
     },
     {
@@ -1877,8 +3205,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8/23-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8/23-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/23-O-S-4.png"
+      },
       "cost": "시가"
     },
     {
@@ -1894,8 +3234,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8/24-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "subType": "Reaction",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8/24-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "subType": "対応",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/24-O-N-7.png"
+      },
       "deployCount": 0
     },
     {
@@ -1911,8 +3265,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8/24-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "subType": "Reaction",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8/24-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "subType": "対応",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8/24-O-S-1.png"
+      },
       "cost": "3"
     },
     {
@@ -1928,8 +3296,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/02-A1-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/02-A1-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/02-A1-N-6.png"
+      },
       "deployCount": "4"
     },
     {
@@ -1945,8 +3325,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/02-A1-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/02-A1-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/02-A1-S-2.png"
+      },
       "cost": "2"
     },
     {
@@ -1962,8 +3354,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/04-A1-N-1.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/04-A1-N-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/04-A1-N-1.png"
+      },
       "distance": "5",
       "damage": "-/1"
     },
@@ -1980,8 +3384,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/06-O-S-1.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/06-O-S-1.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/06-O-S-1.png"
+      },
       "relatedExtraCards": [],
       "revisionCount": 2,
       "distance": "🌂3-6 ☔0-2",
@@ -2001,8 +3417,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/07-A1-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/07-A1-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/07-A1-N-7.png"
+      },
       "deployCount": "2"
     },
     {
@@ -2018,8 +3448,22 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/23-O-N-7.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Enhancement",
+        "subType": "Throughout",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/23-O-N-7.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "付与",
+        "subType": "全力",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/23-O-N-7.png"
+      },
       "deployCount": "2"
     },
     {
@@ -2035,8 +3479,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/23-O-S-4.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/23-O-S-4.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/23-O-S-4.png"
+      },
       "cost": "시가"
     },
     {
@@ -2052,8 +3508,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/24-O-N-6.jpg",
         "category": "통상패"
       },
-      "engData": {},
-      "jpnData": {}
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Action",
+        "category": "Normal",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/24-O-N-6.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "行動",
+        "category": "通常札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/24-O-N-6.png"
+      }
     },
     {
       "fullCode": "NA-24-shisui-O-S-2",
@@ -2068,8 +3536,20 @@
         "imagePath": "/furuyoni/images/card/kor/S8-2/24-O-S-2.jpg",
         "category": "비장패"
       },
-      "engData": {},
-      "jpnData": {},
+      "engData": {
+        "name": "",
+        "description": "",
+        "type": "Attack",
+        "category": "Special",
+        "imagePath": "/furuyoni/images/card/eng/S8-2/24-O-S-2.jpg"
+      },
+      "jpnData": {
+        "name": "",
+        "description": "",
+        "type": "攻撃",
+        "category": "切札",
+        "imagePath": "/furuyoni/images/card/jpn/S8-2/24-O-S-2.png"
+      },
       "distance": "1-4",
       "damage": "2/1",
       "cost": "2"
