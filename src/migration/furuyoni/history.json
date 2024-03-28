@@ -450,6 +450,7 @@
       "fullCode": "NA-12-raira-O-N-1",
       "code": "O-N-1",
       "character": "raira",
+      "season": "S1",
       "korData": {
         "name": "짐승의 손톱",
         "type": "공격",
@@ -1787,12 +1788,13 @@
       "fullCode": "NA-02-saine-O-S-3",
       "code": "O-S-3",
       "character": "saine",
+      "season": "S6",
       "korData": {
         "name": "음무쇄빙",
         "type": "공격",
         "subType": "대응",
         "description": "【공격후】 대응한 《공격》은 -1/-1 된다.\r\n재기: 팔상 - 당신의 오라가 0 이다.",
-        "imagePath": "/furuyoni/images/card/kor/02-O-S-3.webp",
+        "imagePath": "/furuyoni/images/card/kor/S6/02-O-S-3.webp",
         "category": "비장패"
       },
       "engData": {
@@ -1801,7 +1803,7 @@
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
-        "imagePath": "/furuyoni/images/card/eng/02-O-S-3.webp"
+        "imagePath": "/furuyoni/images/card/eng/S6/02-O-S-3.webp"
       },
       "jpnData": {
         "name": "",
@@ -1809,7 +1811,7 @@
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
-        "imagePath": "/furuyoni/images/card/jpn/02-O-S-3.webp"
+        "imagePath": "/furuyoni/images/card/jpn/S6/02-O-S-3.webp"
       },
       "distance": "0-10",
       "damage": "1/1",
@@ -1977,7 +1979,7 @@
         "type": "행동",
         "subType": "",
         "description": "부여패를 1장 선택하고, 그 위에 놓인 벚꽃결정을 모두 더스트로 보낸다.\r\n그 《부여》 카드가 양 플레이어의 버림패 또는 사용된 상태인 비장패 중에 있다면, 그 카드를 사용해도 된다. 그렇게 한 경우, 그 카드가 《전력》이라면, 이 카드는 종단을 얻는다.",
-        "imagePath": "/furuyoni/images/card/kor/16-O-S-2.webp",
+        "imagePath": "/furuyoni/images/card/kor/S6/16-O-S-2.webp",
         "category": "비장패"
       },
       "engData": {
@@ -1985,14 +1987,14 @@
         "description": "",
         "type": "Action",
         "category": "Special",
-        "imagePath": "/furuyoni/images/card/eng/16-O-S-2.webp"
+        "imagePath": "/furuyoni/images/card/eng/S6/16-O-S-2.webp"
       },
       "jpnData": {
         "name": "",
         "description": "",
         "type": "行動",
         "category": "切札",
-        "imagePath": "/furuyoni/images/card/jpn/16-O-S-2.webp"
+        "imagePath": "/furuyoni/images/card/jpn/S6/16-O-S-2.webp"
       },
       "cost": "3"
     },
@@ -2412,6 +2414,7 @@
       "fullCode": "NA-16-yatsuha-A1-S-4",
       "code": "A1-S-4",
       "character": "yatsuha",
+      "season": "S7",
       "korData": {
         "name": "여덟잎 거울의 허무한 벚꽃",
         "type": "공격",
@@ -3375,7 +3378,7 @@
       "fullCode": "NA-06-yukihi-O-S-1",
       "code": "O-S-1",
       "character": "yukihi",
-      "season": " S8-2",
+      "season": "S8-2",
       "korData": {
         "name": "흩날리는 눈꽃",
         "type": "공격",
