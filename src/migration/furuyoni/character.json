@@ -3,67 +3,70 @@
     {
       "code": "NA-23",
       "korData": {
-        "name": {
-          "O": "아키나"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/23-O.jpg"
-        },
+        "name": { "O": "아키나" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/23-O.webp" },
         "abilityKeyword": "시세",
         "abilityDescription": "시세 게이지를 가지며, 초기값은 2이다.\r\n상대의 라이프에 0 이상의 데미지를 준다: +1\r\n투자권을 통해 벚꽃결정을 이동시킨다: +1\r\n당신의 라이프에 0 이상의 데미지를 받는다: -1\r\n회수를 통해 벚꽃결정을 이동시킨다: -2",
         "symbolWeapon": "주판",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "akina"
-        }
+        "name": { "O": "akina" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/23-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "アキナ"
-        }
+        "name": { "O": "アキナ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/23-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
-      "extraCards": {
-        "O": []
-      }
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
+      "extraCards": { "O": [] }
     },
     {
       "code": "NA-09",
       "korData": {
-        "name": {
-          "O": "치카게",
-          "A1": "치카게 【제4장】"
-        },
+        "name": { "O": "치카게", "A1": "치카게 【제4장】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/09-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/09-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/09-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/09-A1.webp"
         },
         "abilityKeyword": "독주머니",
         "abilityDescription": "독주머니에 카드를 5장(⌜마비독⌟, ⌜환각독⌟, ⌜이완독⌟, ⌜멸등독⌟ 2장) 가진다.",
         "symbolWeapon": "독",
-        "symbolSub": {
-          "A1": "인연"
-        }
+        "symbolSub": { "A1": "인연" }
       },
       "engData": {
-        "name": {
-          "O": "chikage",
-          "A1": "chikage"
-        }
+        "name": { "O": "chikage", "A1": "chikage" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/09-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/09-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "チカゲ",
-          "A1": "チカゲ"
-        }
+        "name": { "O": "チカゲ", "A1": "チカゲ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/09-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/09-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -82,32 +85,37 @@
     {
       "code": "NA-08",
       "korData": {
-        "name": {
-          "O": "하가네",
-          "A1": "하가네 【대장장이】"
-        },
+        "name": { "O": "하가네", "A1": "하가네 【대장장이】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/08-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/08-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/08-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/08-A1.webp"
         },
         "abilityKeyword": "원심",
         "abilityDescription": "원심을 가진 카드는 아래 두 가지 조건을 모두 만족하는 경우에만 사용할 수 있다.\r\n∙현재 간격이 턴 시작 시의 간겨보다 2 이상 멀어져 있다.\r\n∙이번 턴 동안 당신이 아직 〈공격〉을 수행하지 않았다.",
         "symbolWeapon": "망치",
-        "symbolSub": {
-          "A1": "모루"
-        }
+        "symbolSub": { "A1": "모루" }
       },
       "engData": {
-        "name": {
-          "O": "hagane",
-          "A1": "hagane"
-        }
+        "name": { "O": "hagane", "A1": "hagane" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/08-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/08-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ハガネ",
-          "A1": "ハガネ"
-        }
+        "name": { "O": "ハガネ", "A1": "ハガネ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/08-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/08-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -118,40 +126,42 @@
         "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"],
         "A1": ["A1-S-1", "O-S-2", "O-S-3", "O-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": ["A1-S-1-Ex1"]
-      }
+      "extraCards": { "O": [], "A1": ["A1-S-1-Ex1"] }
     },
     {
       "code": "NA-17",
       "korData": {
-        "name": {
-          "O": "하츠미",
-          "A1": "하츠미 【허무신】"
-        },
+        "name": { "O": "하츠미", "A1": "하츠미 【허무신】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/17-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/17-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/17-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/17-A1.webp"
         },
         "abilityKeyword": "항해",
         "abilityDescription": "직전 턴에 상대에게 공격당하지 않았다면 순풍, 공격당했다면 역풍이 된다.",
         "symbolWeapon": "노",
-        "symbolSub": {
-          "A1": "신뢰"
-        }
+        "symbolSub": { "A1": "신뢰" }
       },
       "engData": {
-        "name": {
-          "O": "hatsumi",
-          "A1": "hatsumi"
-        }
+        "name": { "O": "hatsumi", "A1": "hatsumi" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/17-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/17-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ハツミ",
-          "A1": "ハツミ"
-        }
+        "name": { "O": "ハツミ", "A1": "ハツミ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/17-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/17-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -162,40 +172,42 @@
         "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"],
         "A1": ["A1-S-1", "O-S-2", "O-S-3", "A1-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": ["A1-Di-1", "A1-Di-2"]
-      }
+      "extraCards": { "O": [], "A1": ["A1-Di-1", "A1-Di-2"] }
     },
     {
       "code": "NA-03",
       "korData": {
-        "name": {
-          "O": "히미카",
-          "A1": "히미카 【원초】"
-        },
+        "name": { "O": "히미카", "A1": "히미카 【원초】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/03-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/03-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/03-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/03-A1.webp"
         },
         "abilityKeyword": "연화",
         "abilityDescription": "당신이 한 턴 동안 카드를 3장 이상 사용했다면, 몇몇 카드가 강화된다.",
         "symbolWeapon": "총",
-        "symbolSub": {
-          "A1": "불꽃"
-        }
+        "symbolSub": { "A1": "불꽃" }
       },
       "engData": {
-        "name": {
-          "O": "himika",
-          "A1": "himika"
-        }
+        "name": { "O": "himika", "A1": "himika" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/03-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/03-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ヒミカ",
-          "A1": "ヒミカ"
-        }
+        "name": { "O": "ヒミカ", "A1": "ヒミカ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/03-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/03-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -206,40 +218,42 @@
         "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"],
         "A1": ["O-S-1", "A1-S-2", "O-S-3", "O-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": []
-      }
+      "extraCards": { "O": [], "A1": [] }
     },
     {
       "code": "NA-14",
       "korData": {
-        "name": {
-          "O": "호노카",
-          "A1": "호노카 【오우카】"
-        },
+        "name": { "O": "호노카", "A1": "호노카 【오우카】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/14-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/14-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/14-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/14-A1.webp"
         },
         "abilityKeyword": "개화",
         "abilityDescription": "몇몇 카드는 사용한 후에 다른 카드로 변환된다.",
         "symbolWeapon": "깃발",
-        "symbolSub": {
-          "A1": "곡옥"
-        }
+        "symbolSub": { "A1": "곡옥" }
       },
       "engData": {
-        "name": {
-          "O": "honoka",
-          "A1": "honoka"
-        }
+        "name": { "O": "honoka", "A1": "honoka" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/14-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/14-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ホノカ",
-          "A1": "ホノカ"
-        }
+        "name": { "O": "ホノカ", "A1": "ホノカ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/14-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/14-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -273,69 +287,67 @@
     {
       "code": "NA-21",
       "korData": {
-        "name": {
-          "O": "카무이"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/21-O.jpg"
-        },
+        "name": { "O": "카무이" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/21-O.webp" },
         "abilityKeyword": "금기",
         "abilityDescription": "당신의 금기 게이지가 16 이상이라면, 당신은 패배한다.",
         "symbolWeapon": "검",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "kamuwi"
-        }
+        "name": { "O": "kamuwi" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/21-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "カムヰ"
-        }
+        "name": { "O": "カムヰ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/21-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
-      "extraCards": {
-        "O": ["O-S-1-Ex1"]
-      }
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
+      "extraCards": { "O": ["O-S-1-Ex1"] }
     },
     {
       "code": "NA-20",
       "korData": {
-        "name": {
-          "O": "카나에"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/20-O.jpg"
-        },
+        "name": { "O": "카나에" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/20-O.webp" },
         "abilityKeyword": "신어",
         "abilityDescription": "이야기 보드의 백색 막에서 영웅담이 시작된다.\r\n구상을 달성할 때마다 다음 막으로 진행하고, 종막에 도달하면 당신은 승리한다.",
         "symbolWeapon": "가면",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "kanawe"
-        }
+        "name": { "O": "kanawe" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/20-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "カナヱ"
-        }
+        "name": { "O": "カナヱ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/20-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
       "extraCards": {
         "O": [
           "O-P",
@@ -352,37 +364,35 @@
     {
       "code": "NA-15",
       "korData": {
-        "name": {
-          "O": "코르누"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/15-O.jpg"
-        },
+        "name": { "O": "코르누" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/15-O.webp" },
         "abilityKeyword": "동결",
         "abilityDescription": "동결시키면, 동결 토큰을 오라에 놓아서 오라의 빈칸을 채운다.\r\n동결되어 있는 동안, 기본동작 〈품기〉의 효과는 ⌜동결 토큰을 1개 제거한다.⌟로 변경된다.",
         "symbolWeapon": "썰매날",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "korunu"
-        }
+        "name": { "O": "korunu" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/15-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "コルヌ"
-        }
+        "name": { "O": "コルヌ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/15-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
-      "extraCards": {
-        "O": []
-      }
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
+      "extraCards": { "O": [] }
     },
     {
       "code": "NA-10",
@@ -393,31 +403,38 @@
           "A2": "쿠루루 【허무신】"
         },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/10-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/10-A1.jpg",
-          "A2": "/furuyoni/images/tarot/kor/10-A2.jpg"
+          "O": "/furuyoni/images/tarot/kor/10-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/10-A1.webp",
+          "A2": "/furuyoni/images/tarot/kor/10-A2.webp"
         },
         "abilityKeyword": "기교",
         "abilityDescription": "기교가 완성되지 않았다면 톱니바퀴칸의 효과는 해결되지 않는다.\r\n기교를 완성하려면 톱니바퀴에 표시된 만큼 당신의 카드가 앞면으로 놓여 있어야 한다.",
         "symbolWeapon": "자동장치",
-        "symbolSub": {
-          "A1": "기계",
-          "A2": "우정"
-        }
+        "symbolSub": { "A1": "기계", "A2": "우정" }
       },
       "engData": {
-        "name": {
-          "O": "kururu",
-          "A1": "kururu",
-          "A2": "kururu"
-        }
+        "name": { "O": "kururu", "A1": "kururu", "A2": "kururu" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/10-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/10-A1.webp",
+          "A2": "/furuyoni/images/tarot/eng/10-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "クルル",
-          "A1": "クルル",
-          "A2": "クルル"
-        }
+        "name": { "O": "クルル", "A1": "クルル", "A2": "クルル" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/10-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/10-A1.webp",
+          "A2": "/furuyoni/images/tarot/jpn/10-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1", "A2"],
       "normalCards": {
@@ -433,113 +450,107 @@
       "extraCards": {
         "O": ["O-S-3-Ex1"],
         "A1": ["A1-S-3-Ex1"],
-        "A2": []
+        "A2": ["O-S-3-Ex1"]
       }
     },
     {
       "code": "NA-19",
       "korData": {
-        "name": {
-          "O": "메구미"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/19-O.jpg"
-        },
+        "name": { "O": "메구미" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/19-O.webp" },
         "abilityKeyword": "다른 벚나무",
         "abilityDescription": "토양에 씨앗결정을 5개 가진다.",
         "symbolWeapon": "도리깨",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "megumi"
-        }
+        "name": { "O": "megumi" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/19-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "メグミ"
-        }
+        "name": { "O": "メグミ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/19-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
-      "extraCards": {
-        "O": []
-      }
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
+      "extraCards": { "O": [] }
     },
     {
       "code": "NA-25",
       "korData": {
-        "name": {
-          "O": "미소라"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/25-O.jpg"
-        },
+        "name": { "O": "미소라" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/25-O.webp" },
         "abilityKeyword": "조준",
         "abilityDescription": "당신의 종료 페이즈에 현재 간격을 조준으로 기록할 수 있다.\r\n당신의 턴에 〈공격〉을 수행했다면, 메인 페이즈 종료시에 조준을 벗어난다.",
         "symbolWeapon": "활",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "misora"
-        }
+        "name": { "O": "misora" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/25-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ミソラ"
-        }
+        "name": { "O": "ミソラ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/25-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
-      "extraCards": {
-        "O": []
-      }
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
+      "extraCards": { "O": [] }
     },
     {
       "code": "NA-18",
       "korData": {
-        "name": {
-          "O": "미즈키"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/18-O.jpg"
-        },
+        "name": { "O": "미즈키" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/18-O.webp" },
         "abilityKeyword": "통솔",
         "abilityDescription": "병영에 카드를 4장(⌜창병⌟ 2장, ⌜방패병⌟, ⌜기병⌟) 가진다.",
         "symbolWeapon": "투구",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "mizuki"
-        }
+        "name": { "O": "mizuki" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/18-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ミズキ"
-        }
+        "name": { "O": "ミズキ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/18-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
-      "extraCards": {
-        "O": ["O-S-3-Ex1", "O-T-1", "O-T-2", "O-T-3"]
-      }
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
+      "extraCards": { "O": ["O-S-3-Ex1", "O-T-1", "O-T-2", "O-T-3"] }
     },
     {
       "code": "NA-05",
@@ -550,31 +561,38 @@
           "A2": "오보로 【소실】"
         },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/05-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/05-A1.jpg",
-          "A2": "/furuyoni/images/tarot/kor/05-A2.jpg"
+          "O": "/furuyoni/images/tarot/kor/05-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/05-A1.webp",
+          "A2": "/furuyoni/images/tarot/kor/05-A2.webp"
         },
         "abilityKeyword": "설치",
         "abilityDescription": "설치를 가진 카드가 덮음패에 있을 때 패산을 재구성하는 경우, 재구성하기 직전에 그중 1장을 덮음패에서 사용해도 된다.",
         "symbolWeapon": "인술",
-        "symbolSub": {
-          "A1": "전략",
-          "A2": "전자"
-        }
+        "symbolSub": { "A1": "전략", "A2": "전자" }
       },
       "engData": {
-        "name": {
-          "O": "oboro",
-          "A1": "oboro",
-          "A2": "oboro"
-        }
+        "name": { "O": "oboro", "A1": "oboro", "A2": "oboro" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/05-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/05-A1.webp",
+          "A2": "/furuyoni/images/tarot/eng/05-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "オボロ",
-          "A1": "オボロ",
-          "A2": "オボロ"
-        }
+        "name": { "O": "オボロ", "A1": "オボロ", "A2": "オボロ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/05-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/05-A1.webp",
+          "A2": "/furuyoni/images/tarot/jpn/05-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1", "A2"],
       "normalCards": {
@@ -604,32 +622,37 @@
     {
       "code": "NA-12",
       "korData": {
-        "name": {
-          "O": "라이라",
-          "A1": "라이라 【기도사】"
-        },
+        "name": { "O": "라이라", "A1": "라이라 【기도사】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/12-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/12-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/12-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/12-A1.webp"
         },
         "abilityKeyword": "풍뢰",
         "abilityDescription": "풍신 게이지와 뇌신 게이지를 가지며, 초기값은 0, 최대값은 20이다.\r\n당신이 다른 여신의 카드를 사용할 때마다, 그 카드는 대전되고, 대전을 해제하면 둘 중 하나의 게이지를 1 올린다.\r\n(대전을 해제한 카드는 가로로 돌려서 표시한다.)",
         "symbolWeapon": "손톱",
-        "symbolSub": {
-          "A1": "폭풍"
-        }
+        "symbolSub": { "A1": "폭풍" }
       },
       "engData": {
-        "name": {
-          "O": "raira",
-          "A1": "raira"
-        }
+        "name": { "O": "raira", "A1": "raira" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/12-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/12-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ライラ",
-          "A1": "ライラ"
-        }
+        "name": { "O": "ライラ", "A1": "ライラ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/12-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/12-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -648,32 +671,37 @@
     {
       "code": "NA-22",
       "korData": {
-        "name": {
-          "O": "렌리",
-          "A1": "렌리 【역사가】"
-        },
+        "name": { "O": "렌리", "A1": "렌리 【역사가】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/22-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/22-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/22-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/22-A1.webp"
         },
         "abilityKeyword": "위증",
         "abilityDescription": "통상패를 기본적인 방법으로 사용할 때, 위증을 가진 각 카드로 1번씩 위증할 수 있다. 반증되지 않았다면 위증한 카드로서 사용하고 덮음패로 만든다.\r\n반증되었으며 거짓이라면, 사용하지 않고 버림패로 만든다. 반증되었으나 참이라면, 상대는 초조 데미지를 받고, 카드도 사용한다.",
         "symbolWeapon": "옷",
-        "symbolSub": {
-          "A1": "유물"
-        }
+        "symbolSub": { "A1": "유물" }
       },
       "engData": {
-        "name": {
-          "O": "renri",
-          "A1": "renri"
-        }
+        "name": { "O": "renri", "A1": "renri" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/22-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/22-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "レンリ",
-          "A1": "レンリ"
-        }
+        "name": { "O": "レンリ", "A1": "レンリ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/22-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/22-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -698,31 +726,38 @@
           "A2": "사이네 【허무신】"
         },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/02-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/02-A1.jpg",
-          "A2": "/furuyoni/images/tarot/kor/02-A2.jpg"
+          "O": "/furuyoni/images/tarot/kor/02-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/02-A1.webp",
+          "A2": "/furuyoni/images/tarot/kor/02-A2.webp"
         },
         "abilityKeyword": "팔상",
         "abilityDescription": "당신의 오라가 1 이하라면, 몇몇 카드가 강화된다.",
         "symbolWeapon": "장도",
-        "symbolSub": {
-          "A1": "비파",
-          "A2": "거절"
-        }
+        "symbolSub": { "A1": "비파", "A2": "거절" }
       },
       "engData": {
-        "name": {
-          "O": "saine",
-          "A1": "saine",
-          "A2": "saine"
-        }
+        "name": { "O": "saine", "A1": "saine", "A2": "saine" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/02-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/02-A1.webp",
+          "A2": "/furuyoni/images/tarot/eng/02-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "サイネ",
-          "A1": "サイネ",
-          "A2": "サイネ"
-        }
+        "name": { "O": "サイネ", "A1": "サイネ", "A2": "サイネ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/02-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/02-A1.webp",
+          "A2": "/furuyoni/images/tarot/jpn/02-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1", "A2"],
       "normalCards": {
@@ -735,41 +770,42 @@
         "A1": ["O-S-1", "A1-S-2", "O-S-3", "O-S-4"],
         "A2": ["O-S-1", "O-S-2", "A2-S-3", "O-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": [],
-        "A2": []
-      }
+      "extraCards": { "O": [], "A1": [], "A2": [] }
     },
     {
       "code": "NA-07",
       "korData": {
-        "name": {
-          "O": "신라",
-          "A1": "신라 【교주】"
-        },
+        "name": { "O": "신라", "A1": "신라 【교주】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/07-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/07-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/07-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/07-A1.webp"
         },
         "abilityKeyword": "계략",
         "abilityDescription": "두 종류의 계략 중 하나를 비밀리에 준비해 둔다.\r\n계략을 실행할 때 준비된 효과를 해결하고, 다음번 계략을 다시 비밀리에 준비한다.\r\n(최초의 계략은 반드시 ⌜신산⌟으로 준비한다.)",
         "symbolWeapon": "서책",
-        "symbolSub": {
-          "A1": "경전"
-        }
+        "symbolSub": { "A1": "경전" }
       },
       "engData": {
-        "name": {
-          "O": "shinra",
-          "A1": "shinra"
-        }
+        "name": { "O": "shinra", "A1": "shinra" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/07-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/07-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "シンラ",
-          "A1": "シンラ"
-        }
+        "name": { "O": "シンラ", "A1": "シンラ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/07-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/07-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -780,75 +816,75 @@
         "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"],
         "A1": ["O-S-1", "O-S-2", "A1-S-3", "O-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": []
-      }
+      "extraCards": { "O": [], "A1": [] }
     },
     {
       "code": "NA-24",
       "korData": {
-        "name": {
-          "O": "시스이"
-        },
-        "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/24-O.jpg"
-        },
+        "name": { "O": "시스이" },
+        "imagePath": { "O": "/furuyoni/images/tarot/kor/24-O.webp" },
         "abilityKeyword": "열상",
         "abilityDescription": "당신의 개시 페이즈 시작에 각 영역에 놓인 당신의 열상 토큰을 원하는 순서로 데미지화한다.",
         "symbolWeapon": "톱",
         "symbolSub": {}
       },
       "engData": {
-        "name": {
-          "O": "shisui"
-        }
+        "name": { "O": "shisui" },
+        "imagePath": { "O": "/furuyoni/images/tarot/eng/24-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "シスイ"
-        }
+        "name": { "O": "シスイ" },
+        "imagePath": { "O": "/furuyoni/images/tarot/jpn/24-O.webp" },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"]
       },
-      "specialCards": {
-        "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"]
-      },
-      "extraCards": {
-        "O": []
-      }
+      "specialCards": { "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"] },
+      "extraCards": { "O": [] }
     },
     {
       "code": "NA-11",
       "korData": {
-        "name": {
-          "O": "탈리야",
-          "A1": "탈리야 【귀환】"
-        },
+        "name": { "O": "탈리야", "A1": "탈리야 【귀환】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/11-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/11-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/11-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/11-A1.webp"
         },
         "abilityKeyword": "조화",
         "abilityDescription": "머신에 조화결정을 5개 가진다.",
         "symbolWeapon": "기승",
-        "symbolSub": {
-          "A1": "신형"
-        }
+        "symbolSub": { "A1": "신형" }
       },
       "engData": {
-        "name": {
-          "O": "thallya",
-          "A1": "thallya"
-        }
+        "name": { "O": "thallya", "A1": "thallya" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/11-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/11-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "サリヤ",
-          "A1": "サリヤ"
-        }
+        "name": { "O": "サリヤ", "A1": "サリヤ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/11-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/11-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -873,31 +909,38 @@
           "A2": "토코요 【허무신】"
         },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/04-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/04-A1.jpg",
-          "A2": "/furuyoni/images/tarot/kor/04-A2.jpg"
+          "O": "/furuyoni/images/tarot/kor/04-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/04-A1.webp",
+          "A2": "/furuyoni/images/tarot/kor/04-A2.webp"
         },
         "abilityKeyword": "경지",
         "abilityDescription": "당신의 집중력이 2라면, 몇몇 카드가 강화된다.",
         "symbolWeapon": "부채",
-        "symbolSub": {
-          "A1": "피리",
-          "A2": "공포"
-        }
+        "symbolSub": { "A1": "피리", "A2": "공포" }
       },
       "engData": {
-        "name": {
-          "O": "tokoyo",
-          "A1": "tokoyo",
-          "A2": "tokoyo"
-        }
+        "name": { "O": "tokoyo", "A1": "tokoyo", "A2": "tokoyo" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/04-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/04-A1.webp",
+          "A2": "/furuyoni/images/tarot/eng/04-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "トコヨ",
-          "A1": "トコヨ",
-          "A2": "トコヨ"
-        }
+        "name": { "O": "トコヨ", "A1": "トコヨ", "A2": "トコヨ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/04-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/04-A1.webp",
+          "A2": "/furuyoni/images/tarot/jpn/04-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1", "A2"],
       "normalCards": {
@@ -910,41 +953,42 @@
         "A1": ["O-S-1", "O-S-2", "A1-S-3", "O-S-4"],
         "A2": ["O-S-1", "A2-S-2", "A2-S-3", "O-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": [],
-        "A2": []
-      }
+      "extraCards": { "O": [], "A1": [], "A2": [] }
     },
     {
       "code": "NA-13",
       "korData": {
-        "name": {
-          "O": "우츠로",
-          "A1": "우츠로 【종장】"
-        },
+        "name": { "O": "우츠로", "A1": "우츠로 【종장】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/13-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/13-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/13-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/13-A1.webp"
         },
         "abilityKeyword": "회진",
         "abilityDescription": "더스트가 12 이상이라면, 몇몇 카드가 강화된다.",
         "symbolWeapon": "대낫",
-        "symbolSub": {
-          "A1": "먼지"
-        }
+        "symbolSub": { "A1": "먼지" }
       },
       "engData": {
-        "name": {
-          "O": "utsuro",
-          "A1": "utsuro"
-        }
+        "name": { "O": "utsuro", "A1": "utsuro" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/13-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/13-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ウツロ",
-          "A1": "ウツロ"
-        }
+        "name": { "O": "ウツロ", "A1": "ウツロ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/13-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/13-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -969,33 +1013,40 @@
           "AA1": "야츠하 【자아】"
         },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/16-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/16-A1.jpg",
-          "AA1": "/furuyoni/images/tarot/kor/16-AA1.jpg"
+          "O": "/furuyoni/images/tarot/kor/16-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/16-A1.webp",
+          "AA1": "/furuyoni/images/tarot/kor/16-AA1.webp"
         },
         "abilityKeyword": "거울상",
         "abilityDescription": "당신과 상대의 오라, 플레어, 라이프 중 서로 수치가 같은 쌍의 개수가 거울수가 된다.",
         "symbolWeapon": "거울",
-        "symbolSub": {
-          "A1": "꽃",
-          "AA1": "영혼"
-        }
+        "symbolSub": { "A1": "꽃", "AA1": "영혼" }
       },
       "engData": {
-        "name": {
-          "O": "yatsuha",
-          "A1": "yatsuha",
-          "AA1": "yatsuha"
-        }
+        "name": { "O": "yatsuha", "A1": "yatsuha", "AA1": "yatsuha" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/16-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/16-A1.webp",
+          "AA1": "/furuyoni/images/tarot/eng/16-AA1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ヤツハ",
-          "A1": "ヤツハ",
-          "AA1": "ヤツハ"
-        }
+        "name": { "O": "ヤツハ", "A1": "ヤツハ", "AA1": "ヤツハ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/16-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/16-A1.webp",
+          "AA1": "/furuyoni/images/tarot/jpn/16-AA1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
-      "mode": ["O", "A1", "A2"],
+      "mode": ["O", "A1", "AA1"],
       "normalCards": {
         "O": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "O-N-5", "O-N-6", "O-N-7"],
         "A1": ["O-N-1", "O-N-2", "O-N-3", "O-N-4", "A1-N-5", "O-N-6", "O-N-7"],
@@ -1023,32 +1074,37 @@
     {
       "code": "NA-06",
       "korData": {
-        "name": {
-          "O": "유키히",
-          "A1": "유키히 【사교계】"
-        },
+        "name": { "O": "유키히", "A1": "유키히 【사교계】" },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/06-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/06-A1.jpg"
+          "O": "/furuyoni/images/tarot/kor/06-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/06-A1.webp"
         },
         "abilityKeyword": "변모",
         "abilityDescription": "우산을 접은 상태와 펼친 상태가 존재하며, 몇몇 카드는 상태에 따라 효과가 변한다.\r\n게임을 시작할 때 우산은 접힌 상태이다.\r\n당신의 종료 페이즈마다 1번, 우산의 개폐를 수행해 상태를 변경할 수 있다(우산 카드로 표시).",
         "symbolWeapon": "우산/비녀",
-        "symbolSub": {
-          "A1": "사교"
-        }
+        "symbolSub": { "A1": "사교" }
       },
       "engData": {
-        "name": {
-          "O": "yukihi",
-          "A1": "yukihi"
-        }
+        "name": { "O": "yukihi", "A1": "yukihi" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/06-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/06-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ユキヒ",
-          "A1": "ユキヒ"
-        }
+        "name": { "O": "ユキヒ", "A1": "ユキヒ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/06-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/06-A1.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1"],
       "normalCards": {
@@ -1059,10 +1115,7 @@
         "O": ["O-S-1", "O-S-2", "O-S-3", "O-S-4"],
         "A1": ["O-S-1", "A1-S-2", "O-S-3", "O-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": []
-      }
+      "extraCards": { "O": [], "A1": [] }
     },
     {
       "code": "NA-01",
@@ -1073,31 +1126,38 @@
           "A2": "유리나 【조정자】"
         },
         "imagePath": {
-          "O": "/furuyoni/images/tarot/kor/01-O.jpg",
-          "A1": "/furuyoni/images/tarot/kor/01-A1.jpg",
-          "A2": "/furuyoni/images/tarot/kor/01-A2.jpg"
+          "O": "/furuyoni/images/tarot/kor/01-O.webp",
+          "A1": "/furuyoni/images/tarot/kor/01-A1.webp",
+          "A2": "/furuyoni/images/tarot/kor/01-A2.webp"
         },
         "abilityKeyword": "결사",
         "abilityDescription": "당신의 라이프가 3 이하라면, 몇몇 카드가 강화된다.",
         "symbolWeapon": "도",
-        "symbolSub": {
-          "A1": "고도",
-          "A2": "마음"
-        }
+        "symbolSub": { "A1": "고도", "A2": "마음" }
       },
       "engData": {
-        "name": {
-          "O": "yurina",
-          "A1": "yurina",
-          "A2": "yurina"
-        }
+        "name": { "O": "yurina", "A1": "yurina", "A2": "yurina" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/eng/01-O.webp",
+          "A1": "/furuyoni/images/tarot/eng/01-A1.webp",
+          "A2": "/furuyoni/images/tarot/eng/01-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "jpnData": {
-        "name": {
-          "O": "ユリナ",
-          "A1": "ユリナ",
-          "A2": "ユリナ"
-        }
+        "name": { "O": "ユリナ", "A1": "ユリナ", "A2": "ユリナ" },
+        "imagePath": {
+          "O": "/furuyoni/images/tarot/jpn/01-O.webp",
+          "A1": "/furuyoni/images/tarot/jpn/01-A1.webp",
+          "A2": "/furuyoni/images/tarot/jpn/01-A2.webp"
+        },
+        "abilityKeyword": "",
+        "abilityDescription": "",
+        "symbolWeapon": "",
+        "symbolSub": {}
       },
       "mode": ["O", "A1", "A2"],
       "normalCards": {
@@ -1110,11 +1170,7 @@
         "A1": ["O-S-1", "A1-S-2", "O-S-3", "O-S-4"],
         "A2": ["A2-S-1", "O-S-2", "O-S-3", "O-S-4"]
       },
-      "extraCards": {
-        "O": [],
-        "A1": [],
-        "A2": []
-      }
+      "extraCards": { "O": [], "A1": [], "A2": [] }
     }
   ]
 }
