@@ -16,7 +16,7 @@ const getRotations = async (req: Request, res: Response) => {
       _id: 0,
       startFrom: 1,
       endAt: 1,
-      rotation: `$${langQuery}`,
+      participants: `$${langQuery}`,
     };
 
     const rotationCollection = getCollection("furuyoni", "rotation");

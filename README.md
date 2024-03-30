@@ -274,3 +274,118 @@
       error: string;
     }
     ```
+
+#### 금제(`/limit`)
+
+- GET('/?date=date&lang=lang'): 금제 데이터 배열을 불러옵니다.
+
+  - 쿼리
+    - `lang`: `kor`, `eng`, `jpn` 세가지 값을 가지며, 기본값은 `kor`입니다.
+    - `date`: 년월로 포맷은 `YYYY-MM`입니다.
+  - 200
+
+    ```
+    type Limit {
+      limitAt: string; // 금제 적용 년월(YYYY-MM)
+      isRecent: boolean; // 최신 카드 여부
+      fullCode: string; // 카드의 전체 코드 (ex. NA-01-yurina-O-N-1)
+      code: string; // 캐릭터 정보를 제외한 카드의 코드 (ex. O-N-1)
+      season?: string; // 카드가 마지막으로 사용된 시즌. isRecent: false; 의 경우에만 값이 존재
+      distance?: string; // 공격 카드의 적정거리
+      damage?: stirng; // 공격 카드의 데미지 (쉴드/체력)
+      enhancementCount?: string; // 부여 카드의 봉납
+      cost?: string; // 비장패의 비용입니다.
+      name: string; // 카드의 이름
+      type: string; // 카드의 타입 (공격, 행동, 부여, 미정, 일반)
+      subType: string; // 카드의 서브타입 (대응, 전력, 미정)
+      category: string; // 카드 종류 (통상패, 비장패, 추가패)
+      description: string; // 카드 설명
+      imagePath: string; // 카드 이미지 경로
+    }
+
+    {
+      result: "success";
+      limits: Limit[];
+      length: number;
+    }
+    ```
+
+  - 404, 500
+    ```
+    {
+      result: "fail";
+      error: string;
+    }
+    ```
+
+- GET('/dates'): 금제가 적용된 달의 년월 배열을 불러옵니다. (데이터에 포함되지 않은 년월은 금제가 없는 년월입니다.)
+
+  - 200
+
+    ```
+    {
+      result: "success";
+      dates: string[];
+    }
+    ```
+
+  - 404, 500
+
+    ```
+    {
+      result: "fail";
+      error: string;
+    }
+    ```
+
+#### 기원전 리스트(`/rotation`)
+
+- GET('/?lang=lang'): 역대 기원전에 참여한 여신 리스트 배열을 불러옵니다.
+
+  - 쿼리
+    - `lang`: `kor`, `eng`, `jpn` 세가지 값을 가지며, 기본값은 `kor`입니다.
+  - 200
+
+    ```
+    type Rotation {
+      startFrom: string; // 기원전 시작 년월(YYYY-MM)
+      endAt: string; // 기원전 종료 년월(YYYY-MM)
+      participants: string[] // 기원전 참여 여신 리스트
+    }
+
+    {
+      result: "success";
+      rotations: Rotation[];
+      length: number;
+    }
+    ```
+
+  - 404, 500
+    ```
+    {
+      result: "fail";
+      error: string;
+    }
+    ```
+
+- GET('/recent?lang=lang'): 가장 최근에 열린 기원전에 참여하는 여신 리스트 배열을 불러옵니다.
+
+  - 쿼리
+    - `lang`: `kor`, `eng`, `jpn` 세가지 값을 가지며, 기본값은 `kor`입니다.
+  - 200
+
+    ```
+    {
+      result: "success";
+      rotation: Rotation;
+    }
+    ```
+
+  - 404, 500
+
+    ```
+    {
+      result: "fail";
+      error: string;
+    }
+    ```
