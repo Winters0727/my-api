@@ -2,7 +2,7 @@
   "data": [
     {
       "code": "NA-23",
-      "korData": {
+      "kor": {
         "name": { "O": "아키나" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/23-O.webp" },
         "abilityKeyword": "시세",
@@ -10,7 +10,7 @@
         "symbolWeapon": "주판",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "akina" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/23-O.webp" },
         "abilityKeyword": "",
@@ -18,7 +18,7 @@
         "symbolWeapon": "",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "アキナ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/23-O.webp" },
         "abilityKeyword": "",
@@ -35,7 +35,7 @@
     },
     {
       "code": "NA-09",
-      "korData": {
+      "kor": {
         "name": { "O": "치카게", "A1": "치카게 【제4장】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/09-O.webp",
@@ -46,18 +46,18 @@
         "symbolWeapon": "독",
         "symbolSub": { "A1": "인연" }
       },
-      "engData": {
-        "name": { "O": "chikage", "A1": "chikage" },
+      "eng": {
+        "name": { "O": "chikage", "A1": "chikage 【Fourth Chapter】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/09-O.webp",
           "A1": "/furuyoni/images/tarot/eng/09-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Poison",
+        "abilityDescription": "You have a 「Numbing Agent」, a 「Hallucinogen」, a 「Muscle Relaxant」, and two 「Fading Light Toxin」 in your pouch.",
+        "symbolWeapon": "Poison",
+        "symbolSub": { "A1": "Relation" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "チカゲ", "A1": "チカゲ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/09-O.webp",
@@ -84,7 +84,7 @@
     },
     {
       "code": "NA-08",
-      "korData": {
+      "kor": {
         "name": { "O": "하가네", "A1": "하가네 【대장장이】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/08-O.webp",
@@ -95,18 +95,18 @@
         "symbolWeapon": "망치",
         "symbolSub": { "A1": "모루" }
       },
-      "engData": {
-        "name": { "O": "hagane", "A1": "hagane" },
+      "eng": {
+        "name": { "O": "hagane", "A1": "hagane 【Blacksmith】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/08-O.webp",
           "A1": "/furuyoni/images/tarot/eng/08-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Centrifuge",
+        "abilityDescription": "Cards with Centrifuge cannot be played unless the follwing conditions are met.\r\n∙ The current Distance is at least 2 greater than it was at the beginning of the turn.\r\n∙ You have not made an attack this turn.",
+        "symbolWeapon": "Hammer",
+        "symbolSub": { "A1": "Anvil" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ハガネ", "A1": "ハガネ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/08-O.webp",
@@ -130,7 +130,7 @@
     },
     {
       "code": "NA-17",
-      "korData": {
+      "kor": {
         "name": { "O": "하츠미", "A1": "하츠미 【허무신】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/17-O.webp",
@@ -141,18 +141,18 @@
         "symbolWeapon": "노",
         "symbolSub": { "A1": "신뢰" }
       },
-      "engData": {
-        "name": { "O": "hatsumi", "A1": "hatsumi" },
+      "eng": {
+        "name": { "O": "hatsumi", "A1": "hatsumi 【Hollowness】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/17-O.webp",
           "A1": "/furuyoni/images/tarot/eng/17-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Navigation",
+        "abilityDescription": "There is a tailwind if you were not attacked on the previous turn, and there is a headwind if you were.",
+        "symbolWeapon": "Paddle",
+        "symbolSub": { "A1": "Faith" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ハツミ", "A1": "ハツミ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/17-O.webp",
@@ -176,7 +176,7 @@
     },
     {
       "code": "NA-03",
-      "korData": {
+      "kor": {
         "name": { "O": "히미카", "A1": "히미카 【원초】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/03-O.webp",
@@ -187,7 +187,7 @@
         "symbolWeapon": "총",
         "symbolSub": { "A1": "불꽃" }
       },
-      "engData": {
+      "eng": {
         "name": { "O": "himika", "A1": "himika 【Origination】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/03-O.webp",
@@ -198,7 +198,7 @@
         "symbolWeapon": "Gun",
         "symbolSub": { "A1": "Flame" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ヒミカ", "A1": "ヒミカ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/03-O.webp",
@@ -222,7 +222,7 @@
     },
     {
       "code": "NA-14",
-      "korData": {
+      "kor": {
         "name": { "O": "호노카", "A1": "호노카 【오우카】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/14-O.webp",
@@ -233,18 +233,18 @@
         "symbolWeapon": "깃발",
         "symbolSub": { "A1": "곡옥" }
       },
-      "engData": {
-        "name": { "O": "honoka", "A1": "honoka" },
+      "eng": {
+        "name": { "O": "honoka", "A1": "honoka 【Ouka】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/14-O.webp",
           "A1": "/furuyoni/images/tarot/eng/14-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Bloom",
+        "abilityDescription": "Your cards with Bloom may be exchanged with various set aside cards.",
+        "symbolWeapon": "Flag",
+        "symbolSub": { "A1": "Magatama" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ホノカ", "A1": "ホノカ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/14-O.webp",
@@ -286,7 +286,7 @@
     },
     {
       "code": "NA-21",
-      "korData": {
+      "kor": {
         "name": { "O": "카무이" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/21-O.webp" },
         "abilityKeyword": "금기",
@@ -294,15 +294,15 @@
         "symbolWeapon": "검",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "kamuwi" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/21-O.webp" },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
+        "abilityKeyword": "Taboo",
+        "abilityDescription": "If your Taboo gauge is 16 or higher, you lose the game.",
+        "symbolWeapon": "Sword",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "カムヰ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/21-O.webp" },
         "abilityKeyword": "",
@@ -319,7 +319,7 @@
     },
     {
       "code": "NA-20",
-      "korData": {
+      "kor": {
         "name": { "O": "카나에" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/20-O.webp" },
         "abilityKeyword": "신어",
@@ -327,15 +327,15 @@
         "symbolWeapon": "가면",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "kanawe" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/20-O.webp" },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
+        "abilityKeyword": "Mythos",
+        "abilityDescription": "Your Story board tells the Tale of Heroes, starting from the white Act. You advance the Act by Completing Plot, and win the game when the story draws to conclusion.",
+        "symbolWeapon": "Mask",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "カナヱ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/20-O.webp" },
         "abilityKeyword": "",
@@ -357,13 +357,18 @@
           "O-P-04",
           "O-P-05",
           "O-P-06",
-          "story-board"
+          "O-P-01-WILL",
+          "O-P-02-WILL",
+          "O-P-03-WILL",
+          "O-P-04-WILL",
+          "O-P-05-WILL",
+          "O-P-06-WILL"
         ]
       }
     },
     {
       "code": "NA-15",
-      "korData": {
+      "kor": {
         "name": { "O": "코르누" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/15-O.webp" },
         "abilityKeyword": "동결",
@@ -371,15 +376,15 @@
         "symbolWeapon": "썰매날",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "korunu" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/15-O.webp" },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
+        "abilityKeyword": "Freezing",
+        "abilityDescription": "You can Freeze your opponent, placing an Ice counter on an empty space in their Aura. While it's there, that space cannot be hold a Sakura token, and your opponent's Focus basic action removes one Ice counter instead of gaining Flare.",
+        "symbolWeapon": "Skate",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "コルヌ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/15-O.webp" },
         "abilityKeyword": "",
@@ -396,7 +401,7 @@
     },
     {
       "code": "NA-10",
-      "korData": {
+      "kor": {
         "name": {
           "O": "쿠루루",
           "A1": "쿠루루 【탐색자】",
@@ -412,19 +417,23 @@
         "symbolWeapon": "자동장치",
         "symbolSub": { "A1": "기계", "A2": "우정" }
       },
-      "engData": {
-        "name": { "O": "kururu", "A1": "kururu", "A2": "kururu" },
+      "eng": {
+        "name": {
+          "O": "kururu",
+          "A1": "kururu 【Explorer】",
+          "A2": "kururu 【Hollowness】"
+        },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/10-O.webp",
           "A1": "/furuyoni/images/tarot/eng/10-A1.webp",
           "A2": "/furuyoni/images/tarot/eng/10-A2.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Mechanism",
+        "abilityDescription": "In order to resolve your effects printed in gear frames, you must have the specified card types face-up among cards in your played pile, your Enhancements in play, and your Devoted Special cards as you play the card.\r\n(🔴=ATK, 🔵=ACT, 🟢=ENH, 🟣=REA, 🟡=THR)",
+        "symbolWeapon": "Automaton",
+        "symbolSub": { "A1": "Machinery", "A2": "Friendship" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "クルル", "A1": "クルル", "A2": "クルル" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/10-O.webp",
@@ -455,7 +464,7 @@
     },
     {
       "code": "NA-19",
-      "korData": {
+      "kor": {
         "name": { "O": "메구미" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/19-O.webp" },
         "abilityKeyword": "다른 벚나무",
@@ -463,15 +472,15 @@
         "symbolWeapon": "도리깨",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "megumi" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/19-O.webp" },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
+        "abilityKeyword": "Exoctic Sakura",
+        "abilityDescription": "Your Field holds 5 Seed tokens.",
+        "symbolWeapon": "Flail",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "メグミ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/19-O.webp" },
         "abilityKeyword": "",
@@ -488,7 +497,7 @@
     },
     {
       "code": "NA-25",
-      "korData": {
+      "kor": {
         "name": { "O": "미소라" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/25-O.webp" },
         "abilityKeyword": "조준",
@@ -496,7 +505,7 @@
         "symbolWeapon": "활",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "misora" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/25-O.webp" },
         "abilityKeyword": "",
@@ -504,7 +513,7 @@
         "symbolWeapon": "",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ミソラ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/25-O.webp" },
         "abilityKeyword": "",
@@ -521,7 +530,7 @@
     },
     {
       "code": "NA-18",
-      "korData": {
+      "kor": {
         "name": { "O": "미즈키" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/18-O.webp" },
         "abilityKeyword": "통솔",
@@ -529,15 +538,15 @@
         "symbolWeapon": "투구",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "mizuki" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/18-O.webp" },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
+        "abilityKeyword": "Command",
+        "abilityDescription": "Your Barracks holds 4 cards: \"Shieldbearer\", \"Calvary\", and two \"Spearman\".",
+        "symbolWeapon": "Helmet",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ミズキ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/18-O.webp" },
         "abilityKeyword": "",
@@ -554,7 +563,7 @@
     },
     {
       "code": "NA-05",
-      "korData": {
+      "kor": {
         "name": {
           "O": "오보로",
           "A1": "오보로 【제3장】",
@@ -570,7 +579,7 @@
         "symbolWeapon": "인술",
         "symbolSub": { "A1": "전략", "A2": "전자" }
       },
-      "engData": {
+      "eng": {
         "name": {
           "O": "oboro",
           "A1": "oboro 【Third Chapter】",
@@ -589,7 +598,7 @@
           "A2": "Strategy"
         }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "オボロ", "A1": "オボロ", "A2": "オボロ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/05-O.webp",
@@ -628,7 +637,7 @@
     },
     {
       "code": "NA-12",
-      "korData": {
+      "kor": {
         "name": { "O": "라이라", "A1": "라이라 【기도사】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/12-O.webp",
@@ -639,18 +648,18 @@
         "symbolWeapon": "손톱",
         "symbolSub": { "A1": "폭풍" }
       },
-      "engData": {
-        "name": { "O": "raira", "A1": "raira" },
+      "eng": {
+        "name": { "O": "raira", "A1": "raira 【Shaman】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/12-O.webp",
           "A1": "/furuyoni/images/tarot/eng/12-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Wind and Thunder",
+        "abilityDescription": "You have a Wind God gauge and a Thunder God gauge.\r\nBoth starts at 0, and have a maximum value of 20.\r\nWhenever you play a card from another Megami, that card becomes electrified.\r\nYou may ground your electrified cards to increase one of your gauges by 1.\r\n(Indicate grounded cards by turning them sideways.)",
+        "symbolWeapon": "Claw",
+        "symbolSub": { "A1": "Storm" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ライラ", "A1": "ライラ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/12-O.webp",
@@ -677,7 +686,7 @@
     },
     {
       "code": "NA-22",
-      "korData": {
+      "kor": {
         "name": { "O": "렌리", "A1": "렌리 【역사가】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/22-O.webp",
@@ -688,18 +697,18 @@
         "symbolWeapon": "옷",
         "symbolSub": { "A1": "유물" }
       },
-      "engData": {
-        "name": { "O": "renri", "A1": "renri" },
+      "eng": {
+        "name": { "O": "renri", "A1": "renri 【Historian】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/22-O.webp",
           "A1": "/furuyoni/images/tarot/eng/22-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Falsehood",
+        "abilityDescription": "When playing a Normal card following standard timing, you may play it face-down and name a Falsehood card that you haven't named this turn.\r\nIf it's not refuted, it resolves as the named card and is put into your discard pile.\r\nIf it's refuted successfully, it's put into your played pile without resolving.\r\nIf it's refuted unsuccessfully, your opponent takes Burnout damage and it resolves and it resolves normally.",
+        "symbolWeapon": "Clothes",
+        "symbolSub": { "A1": "Relic" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "レンリ", "A1": "レンリ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/22-O.webp",
@@ -726,7 +735,7 @@
     },
     {
       "code": "NA-02",
-      "korData": {
+      "kor": {
         "name": {
           "O": "사이네",
           "A1": "사이네 【제2장】",
@@ -742,7 +751,7 @@
         "symbolWeapon": "장도",
         "symbolSub": { "A1": "비파", "A2": "거절" }
       },
-      "engData": {
+      "eng": {
         "name": {
           "O": "saine",
           "A1": "saine 【Second Chapter】",
@@ -758,7 +767,7 @@
         "symbolWeapon": "Naginata",
         "symbolSub": { "A1": "Biwa", "A2": "Denial" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "サイネ", "A1": "サイネ", "A2": "サイネ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/02-O.webp",
@@ -785,7 +794,7 @@
     },
     {
       "code": "NA-07",
-      "korData": {
+      "kor": {
         "name": { "O": "신라", "A1": "신라 【교주】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/07-O.webp",
@@ -796,18 +805,18 @@
         "symbolWeapon": "서책",
         "symbolSub": { "A1": "경전" }
       },
-      "engData": {
-        "name": { "O": "shinra", "A1": "shinra" },
+      "eng": {
+        "name": { "O": "shinra", "A1": "shinra 【Hierarchal】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/07-O.webp",
           "A1": "/furuyoni/images/tarot/eng/07-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Plan",
+        "abilityDescription": "Your cards with Plan are secretly either Divine or Devious.\r\nWhen you enact your Plan, reveal which it is, then secretly choose which your next will be.\r\n(Your first Plan is always Divine.)",
+        "symbolWeapon": "Book",
+        "symbolSub": { "A1": "Scripture" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "シンラ", "A1": "シンラ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/07-O.webp",
@@ -831,7 +840,7 @@
     },
     {
       "code": "NA-24",
-      "korData": {
+      "kor": {
         "name": { "O": "시스이" },
         "imagePath": { "O": "/furuyoni/images/tarot/kor/24-O.webp" },
         "abilityKeyword": "열상",
@@ -839,7 +848,7 @@
         "symbolWeapon": "톱",
         "symbolSub": {}
       },
-      "engData": {
+      "eng": {
         "name": { "O": "shisui" },
         "imagePath": { "O": "/furuyoni/images/tarot/eng/24-O.webp" },
         "abilityKeyword": "",
@@ -847,7 +856,7 @@
         "symbolWeapon": "",
         "symbolSub": {}
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "シスイ" },
         "imagePath": { "O": "/furuyoni/images/tarot/jpn/24-O.webp" },
         "abilityKeyword": "",
@@ -864,7 +873,7 @@
     },
     {
       "code": "NA-11",
-      "korData": {
+      "kor": {
         "name": { "O": "탈리야", "A1": "탈리야 【귀환】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/11-O.webp",
@@ -875,18 +884,18 @@
         "symbolWeapon": "기승",
         "symbolSub": { "A1": "신형" }
       },
-      "engData": {
-        "name": { "O": "thallya", "A1": "thallya" },
+      "eng": {
+        "name": { "O": "thallya", "A1": "thallya 【Returned】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/11-O.webp",
           "A1": "/furuyoni/images/tarot/eng/11-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Artificial Sakura",
+        "abilityDescription": "Your Machine holds 5 Artificial Sakura tokens.",
+        "symbolWeapon": "Riding",
+        "symbolSub": { "A1": "New Type" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "サリヤ", "A1": "サリヤ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/11-O.webp",
@@ -913,7 +922,7 @@
     },
     {
       "code": "NA-04",
-      "korData": {
+      "kor": {
         "name": {
           "O": "토코요",
           "A1": "토코요 【방랑예인】",
@@ -929,7 +938,7 @@
         "symbolWeapon": "부채",
         "symbolSub": { "A1": "피리", "A2": "공포" }
       },
-      "engData": {
+      "eng": {
         "name": {
           "O": "tokoyo",
           "A1": "tokoyo 【Bard】",
@@ -945,7 +954,7 @@
         "symbolWeapon": "Folding Fan",
         "symbolSub": { "A1": "Flute", "A2": "Fear" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "トコヨ", "A1": "トコヨ", "A2": "トコヨ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/04-O.webp",
@@ -972,7 +981,7 @@
     },
     {
       "code": "NA-13",
-      "korData": {
+      "kor": {
         "name": { "O": "우츠로", "A1": "우츠로 【종장】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/13-O.webp",
@@ -983,18 +992,18 @@
         "symbolWeapon": "대낫",
         "symbolSub": { "A1": "먼지" }
       },
-      "engData": {
-        "name": { "O": "utsuro", "A1": "utsuro" },
+      "eng": {
+        "name": { "O": "utsuro", "A1": "utsuro 【Final Chapter】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/13-O.webp",
           "A1": "/furuyoni/images/tarot/eng/13-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Ashen",
+        "abilityDescription": "While there are 12 or more Sakura tokens on shadow, your cards with Ashen are strengthened.",
+        "symbolWeapon": "Scythe",
+        "symbolSub": { "A1": "Ash" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ウツロ", "A1": "ウツロ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/13-O.webp",
@@ -1021,7 +1030,7 @@
     },
     {
       "code": "NA-16",
-      "korData": {
+      "kor": {
         "name": {
           "O": "야츠하",
           "A1": "야츠하 【완전태】",
@@ -1037,19 +1046,23 @@
         "symbolWeapon": "거울",
         "symbolSub": { "A1": "꽃", "AA1": "영혼" }
       },
-      "engData": {
-        "name": { "O": "yatsuha", "A1": "yatsuha", "AA1": "yatsuha" },
+      "eng": {
+        "name": {
+          "O": "yatsuha",
+          "A1": "yatsuha 【Perfect-form】",
+          "AA1": "yatsuha 【Identity】"
+        },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/16-O.webp",
           "A1": "/furuyoni/images/tarot/eng/16-A1.webp",
           "AA1": "/furuyoni/images/tarot/eng/16-AA1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Reflections",
+        "abilityDescription": "The number of Reflections equals the number of the following zones where both players have the same number of Sakura tokens: Aura, Flare, and Life.",
+        "symbolWeapon": "Mirror",
+        "symbolSub": { "A1": "Flower", "AA1": "Soul" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ヤツハ", "A1": "ヤツハ", "AA1": "ヤツハ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/16-O.webp",
@@ -1088,7 +1101,7 @@
     },
     {
       "code": "NA-06",
-      "korData": {
+      "kor": {
         "name": { "O": "유키히", "A1": "유키히 【사교계】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/kor/06-O.webp",
@@ -1099,18 +1112,18 @@
         "symbolWeapon": "우산/비녀",
         "symbolSub": { "A1": "사교" }
       },
-      "engData": {
-        "name": { "O": "yukihi", "A1": "yukihi" },
+      "eng": {
+        "name": { "O": "yukihi", "A1": "yukihi 【Monde】" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/eng/06-O.webp",
           "A1": "/furuyoni/images/tarot/eng/06-A1.webp"
         },
-        "abilityKeyword": "",
-        "abilityDescription": "",
-        "symbolWeapon": "",
-        "symbolSub": {}
+        "abilityKeyword": "Transformation",
+        "abilityDescription": "Your umbrella is either open or closed.\r\nSome of your cards have different properties based on the state of your umbrella.\r\nAt the end of each of your turns, you may open or close your umbrella.\r\nYour umbrella begins closed.",
+        "symbolWeapon": "Umbrella/Needle",
+        "symbolSub": { "A1": "Sociality" }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ユキヒ", "A1": "ユキヒ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/06-O.webp",
@@ -1134,7 +1147,7 @@
     },
     {
       "code": "NA-01",
-      "korData": {
+      "kor": {
         "name": {
           "O": "유리나",
           "A1": "유리나 【제1장】",
@@ -1150,7 +1163,7 @@
         "symbolWeapon": "도",
         "symbolSub": { "A1": "고도", "A2": "마음" }
       },
-      "engData": {
+      "eng": {
         "name": {
           "O": "yurina",
           "A1": "yurina 【First Chapter】",
@@ -1169,7 +1182,7 @@
           "A2": "Heart"
         }
       },
-      "jpnData": {
+      "jpn": {
         "name": { "O": "ユリナ", "A1": "ユリナ", "A2": "ユリナ" },
         "imagePath": {
           "O": "/furuyoni/images/tarot/jpn/01-O.webp",

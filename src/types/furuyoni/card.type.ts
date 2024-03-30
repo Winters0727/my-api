@@ -23,9 +23,9 @@ interface BaseCard {
   fullCode: string;
   code: string;
   charName: CharacterName;
-  korData: CardData;
-  engData: CardData;
-  jpnData: CardData;
+  kor: CardData;
+  eng: CardData;
+  jpn: CardData;
   relatedExtraCards: string[];
   revisionCount: number;
 }

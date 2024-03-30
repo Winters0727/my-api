@@ -48,9 +48,9 @@ export interface CharacterData {
 
 export interface Character {
   code: string;
-  korData: CharacterData;
-  engData: CharacterData;
-  jpnData: CharacterData;
+  kor: CharacterData;
+  eng: CharacterData;
+  jpn: CharacterData;
   mode: CharacterMode[];
   normalCards: CharacterCards;
   specialCards: CharacterCards;
