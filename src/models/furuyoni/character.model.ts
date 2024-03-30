@@ -8,15 +8,15 @@ const characterSchema: ModelSchema = {
       bsonType: "string",
       description: "캐릭터 코드",
     },
-    korData: {
+    kor: {
       bsonType: "object",
       description: "캐릭터 한글 데이터",
     },
-    engData: {
+    eng: {
       bsonType: "object",
       description: "캐릭터 영어 데이터",
     },
-    jpnData: {
+    jpn: {
       bsonType: "object",
       description: "캐릭터 일어 데이터",
     },

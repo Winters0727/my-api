@@ -16,15 +16,15 @@ const CardSchema: ModelSchema = {
       bsonType: "string",
       description: "카드 캐릭터 이름(영어)",
     },
-    korData: {
+    kor: {
       bsonType: "object",
       description: "카드 한글 데이터",
     },
-    engData: {
+    eng: {
       bsonType: "object",
       description: "카드 영어 데이터",
     },
-    jpnData: {
+    jpn: {
       bsonType: "object",
       description: "카드 일어 데이터",
     },
