@@ -39,12 +39,12 @@ const getCardByCode = async (req: Request, res: Response) => {
       fullCode: 1,
       code: 1,
       character: 1,
-      name: `$${langQuery}Data.name`,
-      type: `$${langQuery}Data.type`,
-      subType: `$${langQuery}Data.subType`,
-      category: `$${langQuery}Data.category`,
-      description: `$${langQuery}Data.description`,
-      imagePath: `$${langQuery}Data.imagePath`,
+      name: `$${langQuery}.name`,
+      type: `$${langQuery}.type`,
+      subType: `$${langQuery}.subType`,
+      category: `$${langQuery}.category`,
+      description: `$${langQuery}.description`,
+      imagePath: `$${langQuery}.imagePath`,
       relatedExtraCards: 1,
       revisionCount1: 1,
       distance: 1,
@@ -109,17 +109,17 @@ const getCardsByCharName = async (req: Request, res: Response) => {
     const charData = await characterCollection.findOne({
       $or: [
         {
-          "korData.name.O": {
+          "kor.name.O": {
             $eq: character,
           },
         },
         {
-          "engData.name.O": {
+          "eng.name.O": {
             $eq: character.toLowerCase(),
           },
         },
         {
-          "jpnData.name.O": {
+          "jpn.name.O": {
             $eq: character,
           },
         },
@@ -133,12 +133,12 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       fullCode: 1,
       code: 1,
       character: 1,
-      name: `$${langQuery}Data.name`,
-      type: `$${langQuery}Data.type`,
-      subType: `$${langQuery}Data.subType`,
-      category: `$${langQuery}Data.category`,
-      description: `$${langQuery}Data.description`,
-      imagePath: `$${langQuery}Data.imagePath`,
+      name: `$${langQuery}.name`,
+      type: `$${langQuery}.type`,
+      subType: `$${langQuery}.subType`,
+      category: `$${langQuery}.category`,
+      description: `$${langQuery}.description`,
+      imagePath: `$${langQuery}.imagePath`,
       relatedExtraCards: 1,
       revisionCount1: 1,
       distance: 1,
@@ -158,7 +158,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
 
           const cards = await cardCollection
             .find({
-              char: { $eq: charData.engData.name.O },
+              char: { $eq: charData.eng.name.O },
               $or: [
                 { code: { $in: normalCards } },
                 { code: { $in: specialCards } },
@@ -184,7 +184,7 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       } else {
         const cards = await cardCollection
           .find({
-            character: { $eq: charData.engData.name.O },
+            character: { $eq: charData.eng.name.O },
           })
           .project<Card>({
             ...cardProjection,

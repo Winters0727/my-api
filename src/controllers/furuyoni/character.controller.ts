@@ -20,7 +20,7 @@ const getCharacterList = async (req: Request, res: Response) => {
     const langQuery = (lang && lang.toLowerCase()) || DEFAULT_LANG;
     const modeQuery = (mode && mode.toUpperCase()) || DEFAULT_MODE;
 
-    const langProjectionCondition = `$${langQuery}Data.name.${modeQuery}`;
+    const langProjectionCondition = `$${langQuery}.name.${modeQuery}`;
 
     const characters: string[] = (
       await characterCollection
@@ -62,12 +62,12 @@ const getCharacter = async (req: Request, res: Response) => {
       _id: 0,
       fullCode: 1,
       code: 1,
-      name: `$${langQuery}Data.name`,
-      type: `$${langQuery}Data.type`,
-      subType: `$${langQuery}Data.subType`,
-      category: `$${langQuery}Data.category`,
-      description: `$${langQuery}Data.description`,
-      imagePath: `$${langQuery}Data.imagePath`,
+      name: `$${langQuery}.name`,
+      type: `$${langQuery}.type`,
+      subType: `$${langQuery}.subType`,
+      category: `$${langQuery}.category`,
+      description: `$${langQuery}.description`,
+      imagePath: `$${langQuery}.imagePath`,
       relatedExtraCards: 1,
       revisionCount1: 1,
       distance: 1,
@@ -83,17 +83,17 @@ const getCharacter = async (req: Request, res: Response) => {
             $match: {
               $or: [
                 {
-                  "korData.name.O": {
+                  "kor.name.O": {
                     $eq: char,
                   },
                 },
                 {
-                  "engData.name.O": {
+                  "eng.name.O": {
                     $eq: char.toLowerCase(),
                   },
                 },
                 {
-                  "jpnData.name.O": {
+                  "jpn.name.O": {
                     $eq: char,
                   },
                 },
@@ -103,12 +103,12 @@ const getCharacter = async (req: Request, res: Response) => {
           {
             $project: {
               _id: 0,
-              name: `$${langQuery}Data.name.${modeQuery}`,
-              imagePath: `$${langQuery}Data.imagePath.${modeQuery}`,
-              abilityKeyword: `$${langQuery}Data.abilityKeyword`,
-              abilityDescription: `$${langQuery}Data.abilityDescription`,
-              symbolWeapon: `$${langQuery}Data.symbolWeapon`,
-              symbolSub: `$${langQuery}Data.symbolSub.${modeQuery}`,
+              name: `$${langQuery}.name.${modeQuery}`,
+              imagePath: `$${langQuery}.imagePath.${modeQuery}`,
+              abilityKeyword: `$${langQuery}.abilityKeyword`,
+              abilityDescription: `$${langQuery}.abilityDescription`,
+              symbolWeapon: `$${langQuery}.symbolWeapon`,
+              symbolSub: `$${langQuery}.symbolSub.${modeQuery}`,
               code: 1,
               season: 1,
               dataSeason: 1,
