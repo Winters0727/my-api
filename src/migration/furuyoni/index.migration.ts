@@ -5,6 +5,8 @@ import CharacterData from "./character.json" assert { type: "json" };
 import CardData from "./card.json" assert { type: "json" };
 import FaqData from "./faq.json" assert { type: "json" };
 import HistoryData from "./history.json" assert { type: "json" };
+import LimitData from "./limit.json" assert { type: "json" };
+import RotationData from "./rotation.json" assert { type: "json" };
 
 interface Migration {
   migrationData?: { data: any };
@@ -37,6 +39,16 @@ const MIGRATION_DATA: Migration[] = [
     migrationData: HistoryData,
     dbName: "furuyoni",
     collectionName: "history",
+  },
+  {
+    migrationData: LimitData,
+    dbName: "furuyoni",
+    collectionName: "limit",
+  },
+  {
+    migrationData: RotationData,
+    dbName: "furuyoni",
+    collectionName: "rotation",
   },
 ];
 
