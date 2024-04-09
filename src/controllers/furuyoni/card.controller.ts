@@ -4,9 +4,13 @@ import { getCollection } from "../../../database.js";
 
 import { DEFAULT_LANG } from "../../constant/furuyoni.js";
 
+import { checkStringNumber } from "../..//utils/math.util.js";
+
 import type { Language } from "@customTypes/furuyoni/index.type";
 import type { CharacterMode } from "@customTypes/furuyoni/character.type";
 import type { Card } from "@customTypes/furuyoni/card.type";
+
+const DEFAULT_PER_PAGE = 20;
 
 const sortCardsByType = ({
   cards,
@@ -27,7 +31,6 @@ const sortCardsByType = ({
 const getCardByCode = async (req: Request, res: Response) => {
   try {
     const { code } = req.params;
-    const character = req.query.char as string | undefined;
     const lang = req.query.lang as Language | undefined;
 
     const cardCollection = getCollection("furuyoni", "card");
@@ -46,45 +49,103 @@ const getCardByCode = async (req: Request, res: Response) => {
       description: `$${langQuery}.description`,
       imagePath: `$${langQuery}.imagePath`,
       relatedExtraCards: 1,
-      revisionCount1: 1,
       distance: 1,
       damage: 1,
       enhancementCount: 1,
       cost: 1,
+      e: {
+        eType: "$eng.type",
+        eSubType: "$eng.subType",
+        eCategory: "$eng.category",
+      },
     };
 
-    if (character) {
-      const card = await cardCollection.findOne(
-        {
-          char: character.toLowerCase(),
-          code: { $eq: code },
-        },
-        {
-          projection: cardProjection,
-        }
-      );
+    const limitProjection = {
+      _id: 0,
+      limitAt: 1,
+      season: "$limitInfo.season",
+      for: `$limitInfo.${langQuery}.for`,
+    };
 
-      if (card)
-        return res.status(200).json({
-          result: "success",
-          card,
-        });
-    } else {
-      const card = await cardCollection.findOne(
-        {
-          fullCode: { $eq: code },
-        },
-        {
-          projection: cardProjection,
-        }
-      );
+    const card = (
+      await cardCollection
+        .aggregate([
+          {
+            $match: {
+              fullCode: code,
+            },
+          },
+          {
+            $lookup: {
+              from: "card",
+              let: {
+                character: "$character",
+                relatedExtraCards: "$relatedExtraCards",
+              },
+              pipeline: [
+                {
+                  $match: {
+                    $expr: {
+                      $and: [
+                        { $eq: ["$character", "$$character"] },
+                        { $in: ["$fullCode", "$$relatedExtraCards"] },
+                      ],
+                    },
+                  },
+                },
+                {
+                  $project: {
+                    _id: 0,
+                    fullCode: 1,
+                    name: `$${langQuery}.name`,
+                  },
+                },
+              ],
+              as: "relatedExtraCards",
+            },
+          },
+          {
+            $project: cardProjection,
+          },
+        ])
+        .toArray()
+    )[0];
 
-      if (card)
-        return res.status(200).json({
-          result: "success",
-          card,
-        });
+    if (card) {
+      const historyCollection = getCollection("furuyoni", "history");
+      const limitCollection = getCollection("furuyoni", "limit");
+
+      const revision = (
+        await historyCollection
+          .find({ fullCode: card.fullCode })
+          .project({ _id: 0, season: 1 })
+          .toArray()
+      ).map((data) => data.season);
+
+      const limitation = await limitCollection
+        .aggregate([
+          {
+            $unwind: {
+              path: "$limitInfo",
+            },
+          },
+          {
+            $match: {
+              "limitInfo.fullCode": card.fullCode,
+            },
+          },
+          {
+            $project: limitProjection,
+          },
+        ])
+        .toArray();
+
+      return res.status(200).json({
+        result: "success",
+        card: { ...card, revision, limitation },
+      });
     }
+
     return res.status(404).json({
       result: "fail",
       error: "Not found",
@@ -140,7 +201,6 @@ const getCardsByCharName = async (req: Request, res: Response) => {
       description: `$${langQuery}.description`,
       imagePath: `$${langQuery}.imagePath`,
       relatedExtraCards: 1,
-      revisionCount1: 1,
       distance: 1,
       damage: 1,
       enhancementCount: 1,
@@ -228,4 +288,114 @@ const getCardsByCharName = async (req: Request, res: Response) => {
   }
 };
 
-export { getCardByCode, getCardsByCharName };
+const getCardsByKeyword = async (req: Request, res: Response) => {
+  try {
+    const lang = req.query.lang as Language | undefined;
+    const keyword = req.query.keyword as string | undefined;
+    const per = req.query.per as string | undefined;
+    const page = req.query.page as string | undefined;
+
+    const cardCollection = getCollection("furuyoni", "card");
+
+    const langQuery = (lang && lang.toLowerCase()) || DEFAULT_LANG;
+
+    const cardProjection = {
+      _id: 0,
+      fullCode: 1,
+      code: 1,
+      character: 1,
+      name: `$${langQuery}.name`,
+      type: `$${langQuery}.type`,
+      subType: `$${langQuery}.subType`,
+      category: `$${langQuery}.category`,
+      description: `$${langQuery}.description`,
+      imagePath: `$${langQuery}.imagePath`,
+      relatedExtraCards: 1,
+      distance: 1,
+      damage: 1,
+      enhancementCount: 1,
+      cost: 1,
+    };
+
+    const perPage =
+      (per && checkStringNumber(per) && parseInt(per)) || DEFAULT_PER_PAGE;
+    const requestedPage =
+      (page && checkStringNumber(page) && parseInt(page)) || 1;
+
+    const totalCardCount = await cardCollection.countDocuments(
+      keyword
+        ? {
+            $or: [
+              {
+                [`${langQuery}.name`]: {
+                  $regex: keyword,
+                  $options: "si",
+                },
+              },
+              {
+                [`${langQuery}.description`]: {
+                  $regex: keyword,
+                  $options: "si",
+                },
+              },
+            ],
+          }
+        : {}
+    );
+
+    const totalPageCount = Math.ceil(totalCardCount / perPage);
+
+    const currentPage =
+      requestedPage < totalPageCount ? requestedPage : totalPageCount;
+
+    const cardsFindCursor = cardCollection.find(
+      keyword
+        ? {
+            $or: [
+              {
+                [`${langQuery}.name`]: {
+                  $regex: keyword,
+                  $options: "si",
+                },
+              },
+              {
+                [`${langQuery}.description`]: {
+                  $regex: keyword,
+                  $options: "si",
+                },
+              },
+            ],
+          }
+        : {}
+    );
+
+    if ((await cardsFindCursor.toArray()).length > 0) {
+      const cards = await cardsFindCursor
+        .skip((currentPage - 1) * perPage)
+        .limit(perPage)
+        .project(cardProjection)
+        .toArray();
+
+      if (cards)
+        return res.status(200).json({
+          result: "success",
+          cards,
+          currentPage,
+          totalPage: totalPageCount,
+          length: cards.length,
+        });
+    }
+
+    return res.status(404).json({
+      result: "fail",
+      error: "Not Found",
+    });
+  } catch (err: any) {
+    return res.status(500).json({
+      result: "fail",
+      error: "Internal Server Error",
+    });
+  }
+};
+
+export { getCardByCode, getCardsByCharName, getCardsByKeyword };

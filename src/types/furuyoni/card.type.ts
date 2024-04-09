@@ -1,14 +1,45 @@
 import type { CharacterName } from "./character.type";
 
-type KorCardType = "공격" | "부여" | "대응";
-type KorCardSubType = "대응" | "전력";
-type KorCardCategory = "통상패" | "비장패" | "추가패";
+type KorCardType = "공격" | "부여" | "대응" | "미정";
+type KorCardSubType = "대응" | "전력" | "미정";
+type KorCardCategory =
+  | "통상패"
+  | "비장패"
+  | "변형"
+  | "독"
+  | "구상"
+  | "병사"
+  | "미정";
+
+type EngCardType = "Attack" | "Action" | "Enhancement" | "Undefined";
+type EngCardSubType = "Reaction" | "Throughout" | "Undefined";
+type EngCardCategory =
+  | "Normal"
+  | "Special"
+  | "Transform"
+  | "Poison"
+  | "Plot"
+  | "Unit"
+  | "Parts"
+  | "Undefined";
+
+type JpnCardType = "攻撃" | "行動" | "付与" | "不定";
+type JpnCardSubType = "全力" | "対応" | "不定";
+type JpnCardCategory =
+  | "通常札"
+  | "切札"
+  | "変形"
+  | "毒"
+  | "構想"
+  | "兵士"
+  | "パーツ"
+  | "不定";
 
 type CardValue = "X" | "-" | number;
 
-type CardType = KorCardCategory;
-type CardSubType = KorCardSubType;
-type CardCategory = KorCardCategory;
+type CardType = KorCardType | EngCardType | JpnCardType;
+type CardSubType = KorCardSubType | EngCardSubType | JpnCardSubType;
+type CardCategory = KorCardCategory | EngCardCategory | JpnCardCategory;
 
 interface CardData {
   name: string;
@@ -22,12 +53,11 @@ interface CardData {
 interface BaseCard {
   fullCode: string;
   code: string;
-  charName: CharacterName;
+  character: CharacterName;
   kor: CardData;
   eng: CardData;
   jpn: CardData;
   relatedExtraCards: string[];
-  revisionCount: number;
 }
 
 export interface AttackCard extends BaseCard {
