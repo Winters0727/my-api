@@ -28,5 +28,4 @@ export interface Challenge {
   engData: ChallengeData;
   jpnData: ChallengeData;
   additionalCards: AdditionalCards;
-  revisionCount: number;
 }

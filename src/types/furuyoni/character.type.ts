@@ -1,3 +1,5 @@
+import type { Card } from "@customTypes/furuyoni/card.type";
+
 export type CharacterMode = "O" | "A1" | "A2" | "AA1";
 
 export type CharacterCards = {
@@ -52,7 +54,7 @@ export interface Character {
   eng: CharacterData;
   jpn: CharacterData;
   mode: CharacterMode[];
-  normalCards: CharacterCards;
-  specialCards: CharacterCards;
-  extraCards: CharacterCards;
+  normalCards: CharacterCards | Card[];
+  specialCards: CharacterCards | Card[];
+  extraCards: CharacterCards | Card[];
 }
