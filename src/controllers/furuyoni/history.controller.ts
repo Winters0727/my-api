@@ -97,6 +97,11 @@ const getCardHistorys = async (req: Request, res: Response) => {
       damage: 1,
       enhancementCount: 1,
       cost: 1,
+      e: {
+        eType: "$eng.type",
+        eSubType: "$eng.subType",
+        eCategory: "$eng.category",
+      },
     };
 
     const searchQuery = characterQuery
@@ -120,11 +125,19 @@ const getCardHistorys = async (req: Request, res: Response) => {
         .sort({ season: 1 })
         .toArray();
 
-      return res.status(200).json({
-        result: "success",
-        historys,
-        length: historys.length,
-      });
+      return res.status(200).json(
+        historys.length > 1
+          ? {
+              result: "success",
+              historys,
+              length: historys.length,
+            }
+          : {
+              result: "success",
+              history: historys[0],
+              length: historys.length,
+            }
+      );
     }
     return res.status(404).json({
       result: "fail",
