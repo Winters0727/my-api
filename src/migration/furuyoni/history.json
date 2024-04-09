@@ -176,7 +176,6 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S1/02-O-S-3.webp"
       },
-      "relatedExtraCards": [],
       "cost": "1"
     },
     {
@@ -208,8 +207,6 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S1/02-O-S-4.webp"
       },
-      "relatedExtraCards": [],
-      "revisionCount": 0,
       "distance": "1-5",
       "damage": "5/5",
       "cost": "4"
@@ -566,7 +563,6 @@
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/S2/04-A1-N-5.webp"
       },
-      "relatedExtraCards": [],
       "enhancementCount": 2
     },
     {
@@ -684,7 +680,6 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S2/05-O-S-4.webp"
       },
-      "relatedExtraCards": [],
       "cost": "0"
     },
     {
@@ -3401,8 +3396,6 @@
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/S8-2/06-O-S-1.webp"
       },
-      "relatedExtraCards": [],
-      "revisionCount": 2,
       "distance": "🌂3-6 ☔0-2",
       "damage": "🌂3 ☔0/🌂1 ☔0",
       "cost": "2"
