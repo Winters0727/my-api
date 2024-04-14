@@ -6,11 +6,33 @@ import { DEFAULT_LANG } from "../../constant/furuyoni.js";
 
 import { checkStringNumber } from "../..//utils/math.util.js";
 
+import type { Document } from "mongodb";
 import type { Language } from "@customTypes/furuyoni/index.type";
 import type { CharacterMode } from "@customTypes/furuyoni/character.type";
 import type { Card } from "@customTypes/furuyoni/card.type";
 
 const DEFAULT_PER_PAGE = 20;
+
+const toPascalCase = (str: string) => {
+  const [first, ...rest] = str.split("");
+  return first.toUpperCase() + rest.join("").toLowerCase();
+};
+
+const createSearchQuery = (query: Request["query"], lang: string) => {
+  const { category, type, sub } = query;
+
+  if (!(category || type || sub)) return null;
+
+  const searchQuery: { [key: string]: Document } = {};
+
+  if (category)
+    searchQuery[`${lang}.category`] = { $eq: toPascalCase(category as string) };
+  if (type) searchQuery[`${lang}.type`] = { $eq: toPascalCase(type as string) };
+  if (sub)
+    searchQuery[`${lang}.subType`] = { $eq: toPascalCase(sub as string) };
+
+  return searchQuery;
+};
 
 const sortCardsByType = ({
   cards,
@@ -299,6 +321,7 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
     const cardCollection = getCollection("furuyoni", "card");
 
     const langQuery = (lang && lang.toLowerCase()) || DEFAULT_LANG;
+    const searchQuery = createSearchQuery(req.query, langQuery);
 
     const cardProjection = {
       _id: 0,
@@ -323,69 +346,12 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
     const requestedPage =
       (page && checkStringNumber(page) && parseInt(page)) || 1;
 
-    const totalCardCount = await cardCollection.countDocuments(
-      keyword
+    const findFilter = searchQuery
+      ? keyword
         ? {
-            $or: [
+            $and: [
+              searchQuery,
               {
-                [`${langQuery}.name`]: {
-                  $regex: keyword,
-                  $options: "si",
-                },
-              },
-              {
-                [`${langQuery}.description`]: {
-                  $regex: keyword,
-                  $options: "si",
-                },
-              },
-            ],
-          }
-        : {}
-    );
-
-    const totalPageCount = Math.ceil(totalCardCount / perPage);
-
-    const currentPage =
-      requestedPage < totalPageCount ? requestedPage : totalPageCount;
-
-    const cardsFindCursor = cardCollection.find(
-      keyword
-        ? {
-            $or: [
-              // {
-              //   [`${langQuery}.type`]: {
-              //     $eq: keyword,
-              //   },
-              // },
-              // {
-              //   [`${langQuery}.subType`]: {
-              //     $eq: keyword,
-              //   },
-              // },
-              {
-                [`${langQuery}.name`]: {
-                  $regex: keyword,
-                  $options: "si",
-                },
-              },
-              {
-                [`${langQuery}.description`]: {
-                  $regex: keyword,
-                  $options: "si",
-                },
-              },
-            ],
-          }
-        : {}
-    );
-
-    if ((await cardsFindCursor.toArray()).length > 0) {
-      await cardsFindCursor.close();
-      const cards = await cardCollection
-        .find(
-          keyword
-            ? {
                 $or: [
                   {
                     [`${langQuery}.name`]: {
@@ -400,9 +366,42 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
                     },
                   },
                 ],
-              }
-            : {}
-        )
+              },
+            ],
+          }
+        : searchQuery
+      : keyword
+      ? {
+          $or: [
+            {
+              [`${langQuery}.name`]: {
+                $regex: keyword,
+                $options: "si",
+              },
+            },
+            {
+              [`${langQuery}.description`]: {
+                $regex: keyword,
+                $options: "si",
+              },
+            },
+          ],
+        }
+      : {};
+
+    const totalCardCount = await cardCollection.countDocuments(findFilter);
+
+    const totalPageCount = Math.ceil(totalCardCount / perPage);
+
+    const currentPage =
+      requestedPage < totalPageCount ? requestedPage : totalPageCount;
+
+    const cardsFindCursor = cardCollection.find(findFilter);
+
+    if ((await cardsFindCursor.toArray()).length > 0) {
+      await cardsFindCursor.close();
+      const cards = await cardCollection
+        .find(findFilter)
         .skip((currentPage - 1) * perPage)
         .limit(perPage)
         .project(cardProjection)
@@ -412,9 +411,10 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
         return res.status(200).json({
           result: "success",
           cards,
-          currentPage,
+          page: currentPage,
           totalPage: totalPageCount,
           length: cards.length,
+          totalLength: totalCardCount,
         });
     }
 
