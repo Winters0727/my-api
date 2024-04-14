@@ -119,6 +119,7 @@ const getCardByCode = async (req: Request, res: Response) => {
         await historyCollection
           .find({ fullCode: card.fullCode })
           .project({ _id: 0, season: 1 })
+          .sort({ season: 1 })
           .toArray()
       ).map((data) => data.season);
 
@@ -352,6 +353,16 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
       keyword
         ? {
             $or: [
+              // {
+              //   [`${langQuery}.type`]: {
+              //     $eq: keyword,
+              //   },
+              // },
+              // {
+              //   [`${langQuery}.subType`]: {
+              //     $eq: keyword,
+              //   },
+              // },
               {
                 [`${langQuery}.name`]: {
                   $regex: keyword,
@@ -370,7 +381,28 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
     );
 
     if ((await cardsFindCursor.toArray()).length > 0) {
-      const cards = await cardsFindCursor
+      await cardsFindCursor.close();
+      const cards = await cardCollection
+        .find(
+          keyword
+            ? {
+                $or: [
+                  {
+                    [`${langQuery}.name`]: {
+                      $regex: keyword,
+                      $options: "si",
+                    },
+                  },
+                  {
+                    [`${langQuery}.description`]: {
+                      $regex: keyword,
+                      $options: "si",
+                    },
+                  },
+                ],
+              }
+            : {}
+        )
         .skip((currentPage - 1) * perPage)
         .limit(perPage)
         .project(cardProjection)
@@ -391,6 +423,7 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
       error: "Not Found",
     });
   } catch (err: any) {
+    console.log(err);
     return res.status(500).json({
       result: "fail",
       error: "Internal Server Error",
