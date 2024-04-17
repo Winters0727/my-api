@@ -19,7 +19,7 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "ざん\r\n斬",
         "description": "",
         "type": "攻撃",
         "category": "通常札",
@@ -48,8 +48,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いっせん\r\n一閃",
+        "description": "【常時】決死-あなたのライフが3以下ならば、この《攻撃》は+1/+0となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/01-O-N-2.webp"
@@ -77,8 +77,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "つかうち\r\n柄打ち",
+        "description": "【攻撃後】決死-あなたのライフが3以下ならば、このターンにあなたが次に行う《攻撃》は+1/+0となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/01-O-N-3.webp"
@@ -108,8 +108,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いあい\r\n居合",
+        "description": "【常時】現在の間合が2以下ならば、この攻撃は-1/-1となる。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -138,8 +138,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きはく\r\n気迫",
+        "description": "あなたは集中力を1得る。\r\nこのターンにあなたが次に行う他のメガミによる切札でない《攻撃》は対応不可（通常札）と距離拡大（近1）を得る。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/01-O-N-5.webp"
@@ -165,8 +165,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あっき\r\n圧気",
+        "description": "隙\r\n【破棄時】攻撃『適正距離1-4、3/-』を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/01-O-N-6.webp"
@@ -195,8 +195,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きえんばんじょう\r\n気炎万丈",
+        "description": "【展開中】決死-あなたのライフが3以下ならば、あなたの他のメガミによる《攻撃》は+1/+1となるとともに超克を得る。",
         "type": "付与",
         "subType": "全力",
         "category": "通常札",
@@ -224,7 +224,7 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "つきかげおとし\r\n月影落",
         "description": "",
         "type": "攻撃",
         "category": "切札",
@@ -256,8 +256,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "うらなみあらし\r\n浦波嵐",
+        "description": "終端\r\n【攻撃後】対応した《攻撃》は-2/+0となる。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -287,8 +287,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "うきふねやどし\r\n浮舟宿",
+        "description": "ダスト→自オーラ：5\r\n【即再起】決死-あなたのライフが3以下になる。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/01-O-S-3.webp"
@@ -317,8 +317,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あまねゆりなのそこぢから\r\n天音揺波の底力",
+        "description": "【常時】決死-あなたのライフが3以下でないと、このカードは使用できない。",
         "type": "攻撃",
         "subType": "全力",
         "category": "切札",
@@ -348,8 +348,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-A1-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "らんだ\r\n乱打",
+        "description": "【常時】決死-あなたのライフが3以下ならば、この《攻撃》は+0/+2となり、対応不可を得る。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/01-A1-N-1.webp"
@@ -379,8 +379,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-A1-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かんしゃくだま\r\n癇癪玉",
+        "description": "【破棄時】攻撃『適正距離0-4、1/-、対応不可、【攻撃後】相手を畏縮させる』を行う。",
         "type": "付与",
         "subType": "対応",
         "category": "通常札",
@@ -410,8 +410,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-A1-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふかんぜんうらなみあらし\r\n不完全浦波嵐",
+        "description": "終端\r\n【攻撃後】対応した《攻撃》は-3/+0となる。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -441,8 +441,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-A2-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "もんどう\r\n問答",
+        "description": "【攻撃後】相手がライフへのダメージを選んだならば、相手の山札の上から3枚を伏せ札にして、あなたは基本動作を1回行い、相手は同じ基本動作を可能ならば行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/01-A2-N-3.webp"
@@ -470,8 +470,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-A2-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あうん\r\n阿吽",
+        "description": "【展開中】各ターンで《攻撃》のダメージまたは基本動作で初めて相手のオーラが変化した時、その《攻撃》や基本動作の解決後にあなたは以下のいずれかを行ってもよい。\r\n・基本動作《纏い》を行う。その後、基本動作《宿し》を行ってもよい。\r\n・攻撃『適正距離3-5、2/1』を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/01-A2-N-7.webp"
@@ -500,8 +500,8 @@
         "imagePath": "/furuyoni/images/card/eng/01-A2-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かむくらわたし\r\n神座渡",
+        "description": "対応不可\r\n【常時】Xはこのカードのコストを支払う際のあなたのフレアに等しい。\r\n【攻撃後】基本動作《纏い》か《宿し》を合計X回まで行う。あなたの使用済の切札をX枚まで選び、それらを未使用に戻す。このターンの間、手札の上限がX増加する。",
         "type": "攻撃",
         "subType": "全力",
         "category": "切札",
@@ -531,8 +531,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はっぽうぶり\r\n八方振り",
+        "description": "【攻撃後】八相-あなたのオーラが1以下ならば、攻撃『適正距離4-5、2/1』を行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/02-O-N-1.webp"
@@ -562,7 +562,7 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "なぎぎり\r\n薙斬り",
         "description": "",
         "type": "攻撃",
         "subType": "対応",
@@ -594,8 +594,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いしづき\r\n石突",
+        "description": "【攻撃後】八相-あなたのオーラが1以下ならば、ダスト→間合：1",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -624,8 +624,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みきり\r\n見切り",
+        "description": "【常時】八相-あなたのオーラが1以下ならば、このカードを《対応》を持つかのように相手の《攻撃》に割り込んで使用できる。\r\n間合⇔ダスト：1",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/02-O-N-4.webp"
@@ -651,8 +651,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "けんいき\r\n圏域",
+        "description": "【展開中】この付与札の上の桜花結晶がダストへと送られるならば、それは代わりに間合へと移動する。\r\n【展開中】達人の間合は1大きくなる。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/02-O-N-5.webp"
@@ -681,8 +681,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しょうおんしょう\r\n衝音晶",
+        "description": "【展開時】対応した《攻撃》は-1/+0となる。\r\n【破棄時】攻撃『適正距離0-10、1/-、対応不可』を行い、ダスト→間合：1",
         "type": "付与",
         "subType": "対応",
         "category": "通常札",
@@ -712,8 +712,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "むおんへき\r\n無音壁",
+        "description": "【展開中】あなたへのダメージを解決するに際し、このカードの上に置かれた桜花結晶をあなたのオーラにあるかのように扱う。",
         "type": "付与",
         "subType": "全力",
         "category": "通常札",
@@ -741,8 +741,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "りつどうこげき\r\n律動弧戟",
+        "description": "攻撃『適正距離3-4、1/1』を行う。\r\n攻撃『適正距離4-5、1/1』を行う。\r\n攻撃『適正距離3-5、2/2』を行う。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/02-O-S-1.webp"
@@ -769,8 +769,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きょうめいきょうしん\r\n響鳴共振",
+        "description": "【常時】このカードの消費は相手のオーラの数だけ少なくなる。\r\n相オーラ→間合：2",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/02-O-S-2.webp"
@@ -799,8 +799,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おとなしさいひょう\r\n音無砕氷",
+        "description": "【攻撃後】対応した《攻撃》は-1/-1となる。\r\n【再起】八相-あなたのオーラが1以下である。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -832,8 +832,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ひさめさいねのはてのはて\r\n氷雨細音の果ての果て",
+        "description": "【常時】このカードは切札に対する対応でしか使用できない。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -865,8 +865,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-A1-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "がっそう\r\n合奏",
+        "description": "【攻撃後】サイネの切札が使用済ならば、相オーラ→ダスト：1\r\n【攻撃後】八相/境地―あなたのオーラが1以下またはあなたの集中力が2ならば、ダスト→間合：1\r\n【攻撃後】トコヨの切札が使用済ならば、ダスト→自オーラ：1\r\n（このカードはサイネとトコヨのカードである）",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -895,8 +895,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-A1-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ばんそう\r\n伴奏",
+        "description": "【展開中】八相―相手が各ターンで初めて《攻撃》を行った時、あなたのオーラが1以下または他のメガミの切札が使用済ならば、その《攻撃》は対応不可を失い、-1/+0となる。\r\n【展開時/破棄時】サイネの切札が使用済ならば、このターン中あなたの切札の消費は1少なくなる。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/02-A1-N-6.webp"
@@ -923,8 +923,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-A1-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "にじゅうそう だんそうひょうめい\r\n二重奏:弾奏氷瞑",
+        "description": "【常時】八相―あなたのオーラが1以下ならば、このカードの消費は1少なくなる。\r\nこのターン中、あなたは《攻撃》を行えない。\r\n【使用済】あなたの他のメガミによる《攻撃》は+0/+1となる。\r\n【即再起】あなたが《攻撃》によりライフに1以上のダメージを受ける。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/02-A1-S-2.webp"
@@ -951,8 +951,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-A2-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "うらぎり\r\n裏斬り",
+        "description": "対応不可（切札）\r\n【常時】この《攻撃》が行われた時、相手のオーラが1以下ならば、この《攻撃》のオーラへのダメージとライフへのダメージを入れ替える。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/02-A2-N-2.webp"
@@ -980,8 +980,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-A2-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いきょうへき\r\n遺響壁",
+        "description": "【展開中】あなたへのダメージを解决するに際し、このカードの上に置かれた桜花結晶をあなたのオーラにあるかのように扱う。\r\n【破棄時】八相-あなたのオーラが1以下かつ現在のターンがあなたのターンならば、攻撃『適正距離0-5、0/0、【攻撃後】相手のオーラに2ダメージを与え、このターンにあなたが次に行う《攻撃》は+0/+1となる』を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/02-A2-N-7.webp"
@@ -1010,8 +1010,8 @@
         "imagePath": "/furuyoni/images/card/eng/02-A2-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぜっしょうぜっか\r\n絶唱絶華",
+        "description": "終端\r\n【攻撃後】対応した《攻撃》の解決後に、その《攻撃》でオーラへのダメージが選ばれ、かつあなたのオーラが0ならば現在のフェイズを終了する。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -1041,7 +1041,7 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "シュート",
         "description": "",
         "type": "攻撃",
         "category": "通常札",
@@ -1070,8 +1070,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ラピッドファイア",
+        "description": "【常時】連火-このカードがこのターンに使用した3枚目以降のカードならば、この《攻撃》は+1/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-N-2.webp"
@@ -1099,8 +1099,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "マグナムカノン",
+        "description": "【攻撃後】自ライフ→ダスト：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-N-3.webp"
@@ -1130,8 +1130,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "フルバースト",
+        "description": "【常時】この《攻撃》がダメージを与えるならば、相手は片方を選ぶのではなく両方のダメージを受ける。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -1139,7 +1139,7 @@
       },
       "relatedExtraCards": [],
       "distance": "5-9",
-      "damage": "3/2"
+      "damage": "3/1"
     },
     {
       "fullCode": "NA-03-himika-O-N-5",
@@ -1160,8 +1160,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "バックステップ",
+        "description": "カードを1枚引く。 \r\nダスト→間合：1",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-N-5.webp"
@@ -1187,8 +1187,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "バックドラフト",
+        "description": "相手を畏縮させる。\r\n連火―このカードがこのターンに使用した3枚目以降のカードならば、このターンにあなたが次に行う他のメガミによるオーラへのダメージが「-」でない《攻撃》を+1/+1する。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-N-6.webp"
@@ -1214,8 +1214,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "スモーク",
+        "description": "【展開中】カードの矢印(→)により間合にある桜花結晶は移動しない。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-N-7.webp"
@@ -1242,7 +1242,7 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "レッドバレット",
         "description": "",
         "type": "攻撃",
         "category": "切札",
@@ -1272,8 +1272,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "クリムゾンゼロ",
+        "description": "【常時】この《攻撃》がダメージを与えるならば、相手は片方を選ぶのではなく両方のダメージを受ける。\r\n【常時】現在の間合が0ならば、この《攻撃》は対応不可を得る。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-S-2.webp"
@@ -1302,8 +1302,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "スカーレットイマジン",
+        "description": "カードを2枚引く。その後、あなたは手札を1枚伏せ札にする。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-S-3.webp"
@@ -1330,8 +1330,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ヴァーミリオンフィールド",
+        "description": "連火-このカードがこのターンに使用した3枚目以降のカードならば、ダスト→間合：2\r\n【再起】あなたの手札が0枚である。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/03-O-S-4.webp"
@@ -1351,15 +1351,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Path of Flame",
+        "description": "Forced: Inferno - This attack gains +0/+1 if this is the third or later card you've played this turn.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/03-A1-N-2.webp"
       },
       "jpn": {
-        "name": "Path of Flame",
-        "description": "Forced: Inferno - This attack gains +0/+1 if this is the third or later card you've played this turn.",
+        "name": "かえんりゅう\r\n火炎流",
+        "description": "【常時】連火-このカードがこのターンに使用した3枚目以降のカードならば、この《攻撃》は+0/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-A1-N-2.webp"
@@ -1387,8 +1387,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-A1-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さつい\r\n殺意",
+        "description": "あなたの手札が0枚ならば、相オーラ→ダスト：2",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/03-A1-N-5.webp"
@@ -1416,8 +1416,8 @@
         "imagePath": "/furuyoni/images/card/eng/03-A1-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えんてん・くれないひみか\r\n炎天・紅緋弥香",
+        "description": "対応不可 \r\n【常時】Xは8から現在の間合を引いた値に等しい。 \r\n【攻撃後】あなたは敗北する。",
         "type": "攻撃",
         "subType": "全力",
         "category": "切札",
@@ -1447,8 +1447,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "すきながし\r\n梳流し",
+        "description": "【攻撃後】境地-あなたの集中力が2ならば、このカードを山札の上に戻す。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/04-O-N-1.webp"
@@ -1478,8 +1478,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みやびうち\r\n雅打ち",
+        "description": "【攻撃後】境地-あなたの集中力が2ならば、対応した切札でない《攻撃》を打ち消す。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -1508,8 +1508,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はねうさぎ\r\n跳ね兎",
+        "description": "現在の間合が3以下ならば、ダスト→間合：2",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/04-O-N-3.webp"
@@ -1537,8 +1537,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しぶ\r\n詩舞",
+        "description": "集中力を1得て、以下から1つを選ぶ。\r\n・自フレア→自オーラ：1\r\n・自オーラ→間合：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -1567,8 +1567,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かなめがえし\r\n要返し",
+        "description": "捨て札か伏せ札からカードを2枚まで選ぶ。それらのカードを好きな順で山札の底に置く。 \r\nダスト→自オーラ：2",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -1595,8 +1595,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かざぶたい\r\n風舞台",
+        "description": "【展開時】間合→自オーラ：2 \r\n【破棄時】自オーラ→間合：2",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/04-O-N-6.webp"
@@ -1623,8 +1623,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はれぶたい\r\n晴舞台",
+        "description": "終端\r\n【展開時】あなたの集中力は2になる。\r\n【破棄時】攻撃『適正距離3-6、-/1』を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/04-O-N-7.webp"
@@ -1653,8 +1653,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くおんのはな\r\n久遠ノ花",
+        "description": "【攻撃後】対応した《攻撃》を打ち消す。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -1672,7 +1672,7 @@
       "kor": {
         "name": "천년의 새",
         "type": "공격",
-        "description": "【공격후】 패산을 재구성한다.",
+        "description": "【공격후】 패산을 재구성한다.\r\n(이때 데미지는 받지 않는다.)",
         "imagePath": "/furuyoni/images/card/kor/04-O-S-2.webp",
         "category": "비장패"
       },
@@ -1684,8 +1684,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ちとせのとり\r\n千歳ノ鳥",
+        "description": "【攻撃後】山札を再構成する。 \r\n(その際にダメージは受けない)",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/04-O-S-2.webp"
@@ -1714,8 +1714,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "むきゅうのかぜ\r\n無窮ノ風",
+        "description": "対応不可 \r\n【攻撃後】相手は手札から《攻撃》でないカード1枚を捨て札にする。それが行えない場合、相手は手札を公開する。\r\n【再起】境地-あなたの集中力が2である。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/04-O-S-3.webp"
@@ -1744,8 +1744,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とこよのつき\r\n常世ノ月",
+        "description": "あなたの集中力は2になり、相手の集中力は0になり、相手を畏縮させる。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/04-O-S-4.webp"
@@ -1772,8 +1772,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-A1-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かなでながし\r\n奏流し",
+        "description": "【常時】トコヨの切札が使用済ならば、この《攻撃》は対応不可を得る。\r\n【攻撃後】境地―あなたの集中力が2または他のメガミの切札が使用済ならば、このカードを山札の上か底に置く。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/04-A1-N-1.webp"
@@ -1803,8 +1803,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-A1-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "がっそう\r\n合奏",
+        "description": "【攻撃後】サイネの切札が使用済ならば、相オーラ→ダスト：1\r\n【攻撃後】八相/境地―あなたのオーラが1以下またはあなたの集中力が2ならば、ダスト→間合：1\r\n【攻撃後】トコヨの切札が使用済ならば、ダスト→自オーラ：1\r\n（このカードはサイネとトコヨのカードである）",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -1833,8 +1833,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-A1-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "にじゅうそう すいだんようめい\r\n二重奏:吹弾陽明",
+        "description": "【常時】境地―あなたの集中力が2ならば、このカードの消費は1小さくなる。\r\nこのターン中、あなたは集中力を支払えない。\r\n【使用済】あなたが他のメガミのカードで対応した時、捨て札か伏せ札のカードを1枚選び、それを山札の底に置いてもよい。\r\n【即再起】あなたが《攻撃》によりライフに1以上のダメージを受ける。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/04-A1-S-3.webp"
@@ -1863,8 +1863,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-A2-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おそれがすめ\r\n畏掠め",
+        "description": "【常時】相手の集中力が0ならば、この《攻撃》のダメージはあなたが選ぶ。\r\n【攻撃後】境地―あなたの集中力が2ならば、対応した切札でない《攻撃》は-X/-Yとなる。Xはこの《攻撃》が与えたオーラへのダメージ、Yはライフへのダメージに等しい。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -1893,8 +1893,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-A2-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ゆうきゅうのゆき\r\n悠久ノ雪",
+        "description": "【攻撃後】相手がオーラへのダメージを選んだならば、相フレア→自オーラ：1\r\n【再起】相手の集中力が1である。\r\n",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/04-A2-S-2.webp"
@@ -1923,8 +1923,8 @@
         "imagePath": "/furuyoni/images/card/eng/04-A2-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あだよりのやえざくら\r\n徒寄ノ八重桜",
+        "description": "あなたは基本動作《纏い》を5回行う。\r\n【使用済】あなたのカードの矢印効果があなたのオーラへと桜花結晶を動かすならば、その間だけオーラの上限を8として扱う。\r\n【使用済】あなたの開始フェイズの開始時にあなたのオーラが6以上ならば、攻撃『適正距離0-8、-/1』を行う。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/04-A2-S-3.webp"
@@ -1951,8 +1951,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "こうし\r\n鋼糸",
+        "description": "設置",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/05-O-N-1.webp"
@@ -1980,8 +1980,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かげびし\r\n影菱",
+        "description": "設置　対応不可\r\n【攻撃後】このカードを伏せ札から使用したならば、相手の手札を見てその中から1枚を選び、それを伏せ札にする。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/05-O-N-2.webp"
@@ -2011,8 +2011,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ざんげきらんぶ\r\n斬撃乱舞",
+        "description": "【常時】相手がこのターン中にオーラへのダメージを受けているならば、この《攻撃》は+1/+1となる。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -2041,8 +2041,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "にんぽ\r\n忍歩",
+        "description": "設置\r\nダスト→間合：1\r\nこのカードを伏せ札から使用したならば、伏せ札から設置を持つカードを1枚使用してもよい。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/05-O-N-4.webp"
@@ -2070,8 +2070,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ゆうどう\r\n誘導",
+        "description": "設置\r\n以下から１つを選ぶ。\r\n・間合→相オーラ：1\r\n・相オーラ→相フレア：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -2087,7 +2087,7 @@
         "name": "분신술",
         "type": "행동",
         "subType": "전력",
-        "description": "덮음패에서 《전력》이 아닌 카드를 1장 선택하고, 그 카드를 사용한다. 그 후, 사용한 카드가 버림패에 있다면, 버림패에서 다시 1번 사용한다. 《공격》 카드가 사용되었다면, 그 《공격》은 대응불가를 얻는다.",
+        "description": "덮음패에서 《전력》이 아닌 카드를 1장 선택하고, 그 카드를 사용한다. 그 후, 사용한 카드가 버림패에 있다면, 버림패에서 다시 1번 사용한다. 《공격》 카드가 사용되었다면, 그 《공격》은 대응불가를 얻는다(2번 모두 대응불가를 얻는다).",
         "imagePath": "/furuyoni/images/card/kor/05-O-N-6.webp",
         "category": "통상패"
       },
@@ -2100,8 +2100,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぶんしんのじゅつ\r\n分身の術",
+        "description": "伏せ札から《全力》でないカードを1枚選び、そのカードを使用する。その後、そのカードが捨て札にあるならば捨て札からもう1回使用する。《攻撃》カードが使用されたならばそれらの《攻撃》は対応不可を得る（2回ともに対応不可を得る）。",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -2128,8 +2128,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せいたいかっせい\r\n生体活性",
+        "description": "隙　設置\r\n【破棄時】あなたの使用済の切札を1枚選び、それを未使用に戻す。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/05-O-N-7.webp"
@@ -2158,8 +2158,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くますけ\r\n熊介",
+        "description": "【攻撃後】攻撃『適正距離3-4、2/2』をX回行う。Xはあなたの伏せ札の枚数に等しい。",
         "type": "攻撃",
         "subType": "全力",
         "category": "切札",
@@ -2191,8 +2191,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とびかげ\r\n鳶影",
+        "description": "伏せ札から《全力》でないカードを1枚選び、そのカードを使用してもよい。この際、このカードが対応している《攻撃》があるならば、使用されたカードはそれに対応しているものと扱う。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -2220,8 +2220,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "うろうお\r\n虚魚",
+        "description": "【展開時】あなたは捨て札を好きな枚数だけ伏せ札にする。\r\n【展開中】あなたが伏せ札から使用するカードの矢印は両矢印（⇔）になる。\r\n【展開中/使用済】山札を再構成する直前に設置を持つ《攻撃》でないカードを追加で1枚伏せ札から使用できる。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/05-O-S-3.webp"
@@ -2249,8 +2249,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みかずら\r\n壬蔓",
+        "description": "【攻撃後】ダスト→自フレア：1\r\n【再起】あなたのフレアが0である。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/05-O-S-4.webp"
@@ -2279,8 +2279,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A1-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しゅりけん\r\n手裏剣",
+        "description": "【常時】あなたの終了フェイズに両者の伏せ札が合計5枚以上あるならば、このカードを捨て札から手札に戻してもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/05-A1-N-2.webp"
@@ -2310,8 +2310,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A1-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふいうち\r\n不意打ち",
+        "description": "対応不可（通常札）\r\n【常時】この《攻撃》は-X/-Xとなる。Xは相手の伏せ札の枚数に等しい。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -2342,8 +2342,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A1-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かみしろのえ\r\n神代枝",
+        "description": "ゲーム外→自オーラ：1\r\nゲーム外→自フレア：1\r\nこのカードを取り除き、切札「最後の結晶」を追加札から未使用で得る。",
         "type": "行動",
         "subType": "全力",
         "category": "切札",
@@ -2371,8 +2371,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A1-S-4-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さいごのけっしょう\r\n最後の結晶",
+        "description": "【常時】このカードはこの効果でのみ使用できる。あなたが初めて敗北するならば、代わりにあなたのライフ全てをダストに送り、このカードを使用してもよい(消費は支払う)。\r\n手札を1枚伏せ札にし、ダスト→自ライフ：1<div class=&quot;extra-from&quot;>追加 ≫ 神代枝",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/05-A1-S-4-Ex1.webp"
@@ -2399,8 +2399,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ほろくない\r\nホロ苦無",
+        "description": "設置\r\n【攻撃後】パーツを1つ組み立てる。\r\n【常時】使用されたこのカードが捨て札になるならば、代わりに伏せ札にしてもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-N-1.webp"
@@ -2428,8 +2428,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ギガすけ\r\nギガ介",
+        "description": "【常時】このカードの消費はあなたの伏せ札の枚数と組み立てられたパーツの数の合計だけ少なくなる。\r\n【攻撃後】攻撃『適正距離3-4、2/1』を3回行う。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-S-1.webp"
@@ -2444,7 +2444,7 @@
       "code": "A2-S-3",
       "character": "oboro",
       "kor": {
-        "name": "흐릿한 문서 ·전자신섭",
+        "name": "흐릿한 문서·전자신섭",
         "type": "행동",
         "subType": "전력",
         "description": "파츠를 1개 조립하고, 기본동작을 1번까지 수행한다.\r\n【사용됨】 패산을 재구성하기 직전에 조립되어 있는 파츠가 1개 이하가 되도록 해체해도 된다. 그렇게 했다면, 파츠를 X개 조립한다. X는 덮음패 수의 절반(올림)과 같다.",
@@ -2460,8 +2460,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おぼろもんじょ　でんしかんしょう\r\n朧文書・電子神渉",
+        "description": "パーツを1つ組み立て、基本動作を1回まで行う。\r\n【使用済】山札を再構成する直前に、組み立てられているパーツが1つ以下になるように解体してもよい。そうした場合、パーツをX個組み立てる。Xは伏せ札の枚数の半分(切り上げ)に等しい。",
         "type": "行動",
         "subType": "全力",
         "category": "切札",
@@ -2489,8 +2489,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-MP-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "メインパーツX",
+        "description": "デジ設置",
         "type": "攻撃",
         "category": "パーツ",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-MP-1.webp"
@@ -2518,8 +2518,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-MP-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "メインパーツY",
+        "description": "デジ設置",
         "type": "攻撃",
         "category": "パーツ",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-MP-2.webp"
@@ -2547,8 +2547,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-MP-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "メインパーツZ",
+        "description": "デジ設置\r\n【攻撃後】相手がライフへのダメージを選んだならば、相手を畏縮させる。",
         "type": "攻撃",
         "category": "パーツ",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-MP-3.webp"
@@ -2576,8 +2576,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "カスタムパーツA",
+        "description": "<壱> 対応不可（《付与》）\r\n<弐> 対応不可（《攻撃》）\r\n<参> 対応不可（《行動》）\r\n<肆> 対応不可（通常札）",
         "type": "不定",
         "category": "不定",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-CP-1.webp"
@@ -2603,8 +2603,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "カスタムパーツB",
+        "description": "<壱> 【常時】この《攻撃》は+0/+0となる。\r\n<弐> 【常時】この《攻撃》は+0/+1となる。\r\n<参> 【常時】この《攻撃》は+1/+0となる。\r\n<肆> 【常時】この《攻撃》は+1/+1となる。",
         "type": "不定",
         "category": "不定",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-CP-2.webp"
@@ -2630,8 +2630,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "カスタムパーツC",
+        "description": "<壱> 【攻撃後】ダスト→間合：1\r\n<弐> 【攻撃後】ダスト⇔間合：1\r\n<参> 【攻撃後】ダスト⇔間合：1\r\n<肆> 【攻撃後】ダスト⇔間合：1\r\nあなたは集中力を1得る。",
         "type": "不定",
         "category": "不定",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-CP-3.webp"
@@ -2657,8 +2657,8 @@
         "imagePath": "/furuyoni/images/card/eng/05-A2-CP-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "カスタムパーツD",
+        "description": "<壱> 【攻撃後】捨て札を1枚まで選び、それを伏せ札にする。\r\n<弐> 【攻撃後】伏せ札からカードを1枚まで選び、それを山札の底に置く。\r\n<参> 【攻撃後】伏せ札からカードを2枚まで選び、それらを好きな順で山札の底に置く。\r\n<肆> 【攻撃後】捨て札か伏せ札からカードを2枚まで選び、それらを好きな順で山札の底に置く。",
         "type": "不定",
         "category": "不定",
         "imagePath": "/furuyoni/images/card/jpn/05-A2-CP-4.webp"
@@ -2684,7 +2684,7 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "しこみばり / ふくみばり",
         "description": "",
         "type": "攻撃",
         "category": "通常札",
@@ -2713,8 +2713,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しこみび / ねこだまし",
+        "description": "[閉] 【攻撃後】傘の開閉を行う。\r\n[閉] 【攻撃後】傘の開閉を行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/06-O-N-2.webp"
@@ -2742,8 +2742,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふりはらい / たぐりよせ",
+        "description": "[閉] 【攻撃後】ダスト⇔間合：1\r\n開] 【攻撃後】間合→ダスト：2",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/06-O-N-3.webp"
@@ -2773,7 +2773,7 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "ふりまわし / つきさし",
         "description": "",
         "type": "攻撃",
         "subType": "全力",
@@ -2791,20 +2791,20 @@
       "kor": {
         "name": "우산 돌리기",
         "type": "행동",
-        "description": "【상시】 당신이 우산의 개폐를 수행했을 때, 이 카드를 손패에서 공개해도 된다. 그렇게 한 경우,\r\n더스트 → 자신 오라 (1)",
+        "description": "(이 카드는 사용해도 효과가 없다.)\r\n【상시】 당신이 우산의 개폐를 수행했을 때, 이 카드를 손패에서 공개해도 된다. 그렇게 한 경우,\r\n더스트 → 자신 오라 (1)",
         "imagePath": "/furuyoni/images/card/kor/06-O-N-5.webp",
         "category": "통상패"
       },
       "eng": {
         "name": "Wield",
-        "description": "Forced: Whenever you open or close your umbrella, you may reveal this card from your hand and:\r\nShadow (1)→ Your Aura",
+        "description": "(Nothing happens if you play this card.)\r\nForced: Whenever you open or close your umbrella, you may reveal this card from your hand and:\r\nShadow (1)→ Your Aura",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/06-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かさまわし",
+        "description": "(このカードは使用しても効果はない)\r\n【常時】あなたが傘の開閉を行った時、このカードを手札から公開してもよい。そうした場合、\r\nダスト→自オーラ：1",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/06-O-N-5.webp"
@@ -2832,8 +2832,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ひきあし / もぐりこみ",
+        "description": "[閉] ダスト→間合：1\r\n[開] 間合→ダスト：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -2860,8 +2860,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えんむすび",
+        "description": "【展開時】間合→ダスト：1\r\n【破棄時】ダスト→間合：1\r\n【常時】あなたの傘が開いているならば、このカードの矢印(→)は逆になる。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/06-O-N-7.webp"
@@ -2888,8 +2888,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はらりゆき",
+        "description": "[閉] 【攻撃後】あなたは集中力を1得る。\r\n【即再起】あなたが傘の開閉を行う。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/06-O-S-1.webp"
@@ -2918,7 +2918,7 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "ゆらりび",
         "description": "",
         "type": "攻撃",
         "category": "切札",
@@ -2950,8 +2950,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "どろりうら",
+        "description": "【展開中】あなたのユキヒの《攻撃》は傘を開いた状態と傘を閉じた状態両方の適正距離を持つ。",
         "type": "付与",
         "subType": "全力",
         "category": "切札",
@@ -2982,8 +2982,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くるりみ",
+        "description": "傘の開閉を行う。\r\nダスト→自オーラ：1",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -3011,8 +3011,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-A1-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ちからぞえ / おどしつけ",
+        "description": "[閉] 【常時】あなたの付与札に合計4つ以上の桜花結晶があるならば、この《攻撃》は+0/+1となる。\r\n[開] 【常時】あなたの付与札に合計4つ以上の桜花結晶があるならば、この《攻撃》は+1/+0となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/06-A1-N-2.webp"
@@ -3040,8 +3040,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-A1-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "よこいと / たていと",
+        "description": "[閉] 【攻撃後】このターンにあなたが次に行う他のメガミによる《攻撃》は距離拡大（遠1）と距離拡大（近1）を得る。このカードを山札の底に置く。\r\n[開] 【攻撃後】このターン中にあなたが他のカードを使用していないならば、あなたの捨て札にある他のメガミの《全力》でないカード1枚を使用する。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/06-A1-N-4.webp"
@@ -3069,8 +3069,8 @@
         "imagePath": "/furuyoni/images/card/eng/06-A1-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ひらりおり",
+        "description": "[閉] 【展開中】あなたが他のメガミの通常札をあなたの各ターンに初めて使用した時、その解決後にあなたは集中力を1得て、ダストからこのカードの上に桜花結晶を3つ置いてもよい。\r\n[開] 【展開中】あなたの開始フェイズの開始時に攻撃「適正距離0-5、2/2」を行う。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/06-A1-S-2.webp"
@@ -3098,8 +3098,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "りつろん\r\n立論",
+        "description": "【常時】相手の山札に2枚以上のカードがあるならば、この《攻撃》はダメージを与える代わりに山札の上から2枚を伏せ札にする。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/07-O-N-1.webp"
@@ -3129,8 +3129,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はんろん\r\n反論",
+        "description": "【攻撃後】対応した切札でなく、オーラへのダメージが3以上である《攻撃》のダメージを打ち消す。\r\n【攻撃後】相手はカードを1枚引く。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -3161,8 +3161,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きべん\r\n詭弁",
+        "description": "【攻撃後】計略を実行し、次の計略を準備する。\r\n[神算] 相手の山札の上から3枚を伏せ札にする。\r\n[鬼謀] 相手の捨て札にあるカードを1枚選び、それを使用してもよい。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -3191,8 +3191,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いんよう\r\n引用",
+        "description": "相手の手札を見て、《攻撃》カードを1枚選んでもよい。そうした場合、そのカードを使用するか伏せ札にする。その後、そのカードが《全力》を持つならば現在のフェイズを終了する。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/07-O-N-4.webp"
@@ -3220,8 +3220,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せんどう\r\n煽動",
+        "description": "計略を実行し、次の計略を準備する。\r\n[神算] ダスト→間合：1\r\n[鬼謀] 間合→相オーラ：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -3248,8 +3248,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "そうご\r\n壮語",
+        "description": "【破棄時】計略を実行し、次の計略を準備する。\r\n[神算] あなたは集中力を1得て、このカードを山札の一番上に置く。\r\n[鬼謀] 相手の手札が1枚以下ならば、相手を畏縮させ、相手はカードを3枚引き、相手は手札を2枚捨て札にする。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/07-O-N-6.webp"
@@ -3276,8 +3276,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ろんぱ\r\n論破",
+        "description": "【展開時】相手の捨て札にあるカード1枚を選び、このカードの下に封印する。\r\n【破棄時】このカードに封印されたカードを相手の捨て札に戻す。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/07-O-N-7.webp"
@@ -3304,8 +3304,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かんぜんろんぱ\r\n完全論破",
+        "description": "相手の捨て札にあるカード1枚を選び、このカードの下に封印する。\r\n(ゲーム中に戻ることはない)",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/07-O-S-1.webp"
@@ -3332,8 +3332,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かいしきりかい\r\n皆式理解",
+        "description": "計略を実行し、次の計略を準備する。\r\n[神算] あなたの捨て札または使用済の切札から、消費を支払わずに《付与》カード1枚を使用する。そのカードが《全力》ならば現在のフェイズを終了する。\r\n[鬼謀] 切札でない相手の付与札を1枚選ぶ。その上の桜花結晶全てをダストに送る。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/07-O-S-2.webp"
@@ -3349,7 +3349,7 @@
         "name": "천지반박",
         "type": "부여",
         "subType": "전력",
-        "description": "【전개중】 당신의 《공격》의 오라 데미지와 라이프 데미지를 서로 뒤바꾼다.",
+        "description": "【전개중】 당신의 《공격》의 오라 데미지와 라이프 데미지를 서로 뒤바꾼다.\r\n(데미지 뒤바뀜은 데미지 증감보다 먼저 적용된다.)",
         "imagePath": "/furuyoni/images/card/kor/07-O-S-3.webp",
         "category": "비장패"
       },
@@ -3362,8 +3362,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "てんちはんぱく\r\n天地反駁",
+        "description": "【展開中】あなたの《攻撃》のオーラへのダメージとライフへのダメージを入れ替える。\r\n（ダメージの入れ替えは、ダメージの増減より先に適用される）",
         "type": "付与",
         "subType": "全力",
         "category": "切札",
@@ -3392,8 +3392,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しんらばんしょう\r\n森羅判証",
+        "description": "【展開時】ダスト→自ライフ：2\r\n【展開中】あなたの他の付与札が破棄された時、相手のライフに1ダメージを与える。\r\n【破棄時】あなたは敗北する。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/07-O-S-4.webp"
@@ -3423,8 +3423,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-A1-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しんごん\r\n真言",
+        "description": "このカードを対応で使用したならば、計略を実行し、次の計略を準備する。\r\n[神算] 相手の山札が3枚以上ならば、相手のライフに1ダメージを与える。\r\n[鬼謀] 相手の山札が3枚以下ならば、相手のオーラに2ダメージを与える。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -3453,8 +3453,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-A1-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しと\r\n使徒",
+        "description": "【展開時】集中力を1支払い、計略を準備してもよい。\r\n【展開時/破棄時】計略を実行し、次の計略を準備する。\r\n[神算] 攻撃『適正距離1, 3, 5、2/2、不可避、【攻撃後】相手は相手の手札から1枚を選び、山札の底に置く』を行う。\r\n[鬼謀] 攻撃『適正距離0, 2, 4、2/2、不可避、【攻撃後】相手の山札の上から1枚を捨て札にして、1枚を伏せ札にする』を行う。",
         "type": "付与",
         "subType": "全力",
         "category": "通常札",
@@ -3471,7 +3471,7 @@
         "name": "전지경전",
         "type": "공격",
         "subType": "전력",
-        "description": "대응불가\r\n【공격후】 당신은 손패와 덮음패에서 카드를 원하는 만큼 버림패로 만든다. 그 후, 버림패에 있는 카드중에서 계략을 원하는 만큼 원하는 순서로 실행한다. 계략을 모두 해결하고 나면, 다음번 계략을 준비한다.",
+        "description": "대응불가\r\n【공격후】 당신은 손패와 덮음패에서 카드를 원하는 만큼 버림패로 만든다. 그 후, 버림패에 있는 카드중에서 계략을 원하는 만큼 원하는 순서로 실행한다. 계략을 모두 해결하고 나면, 다음번 계략을 준비한다.\r\n(예를 들어, 신산을 선택하고 있다면 모두 신산으로 실행한다.)",
         "imagePath": "/furuyoni/images/card/kor/07-A1-S-3.webp",
         "category": "비장패"
       },
@@ -3484,8 +3484,8 @@
         "imagePath": "/furuyoni/images/card/eng/07-A1-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぜんちきょうてん\r\n全知経典",
+        "description": "【攻撃後】あなたは手札と伏せ札を好きな枚数だけ捨て札にする。その後、捨て札にあるカードから任意の数の計略を、任意の順で実行する。それら全てを解决し終えたら、次の計略を準備する。\r\n（神算を選んでいたら全て神算で実行する）",
         "type": "攻撃",
         "subType": "全力",
         "category": "切札",
@@ -3515,8 +3515,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えんしんげき\r\n遠心撃",
+        "description": "【攻撃後】現在のターンがあなたのターンならば、あなたと相手の手札を全て伏せ札にし、あなたの集中力は0になり、現在のフェイズを終了する。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-N-1.webp"
@@ -3544,8 +3544,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さふうじん\r\n砂風塵",
+        "description": "【攻撃後】現在の間合がターン開始時の間合から2以上変化しているならば、相手の手札を1枚無作為に選び、それを捨て札にする。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-N-2.webp"
@@ -3575,8 +3575,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だいちくだき\r\n大地砕き",
+        "description": "対応不可\r\n【攻撃後】相手の集中力は0になり、相手を畏縮させる。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -3605,8 +3605,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ちょうはんどう\r\n超反動",
+        "description": "現在の間合に応じて以下を行う。\r\n\r\n5以上…間合→自フレア：1\r\n4以下…相フレア→間合：1",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-N-4.webp"
@@ -3632,8 +3632,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えんぶれん\r\n円舞錬",
+        "description": "遠心\r\n相手のフレアが3以上ならば、相フレア→自オーラ：2",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-N-5.webp"
@@ -3659,8 +3659,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かねならし\r\n鐘鳴らし",
+        "description": "遠心\r\n以下から１つを選ぶ。このターンにあなたが次に行う《攻撃》にそれを与える。\r\n・+2/+1\r\n・対応不可と距離拡大（遠1）",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-N-6.webp"
@@ -3686,8 +3686,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いんりょくば\r\n引力場",
+        "description": "全力化：【常時】このカードの持つ矢印（→）で動く桜花結晶は1つ多くなる。\r\n\r\n【展開時】間合→自オーラ：1\r\n【展開中】達人の間合は1小さくなる。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-N-7.webp"
@@ -3714,8 +3714,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だいてんくうクラッシュ\r\n大天空クラッシュ",
+        "description": "超克\r\n【常時】Xは現在の間合がターン開始時の間合からどれだけ変化しているかに等しい。YはXの半分（切り上げ）に等しい。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-S-1.webp"
@@ -3744,8 +3744,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だいはがねメガロベル\r\n大破鐘メガロベル",
+        "description": "あなたの他の切札が全て使用済ならば、ダスト→自ライフ：2",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-S-2.webp"
@@ -3772,8 +3772,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だいじゅうりょくアトラクト\r\n大重力アトラクト",
+        "description": "間合→自フレア：3\r\n【再起】このターンにあなたが遠心を持つカードを使用しており、このカードを使用していない。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-S-3.webp"
@@ -3800,8 +3800,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だいさんみゃくリスペクト\r\n大山脈リスペクト",
+        "description": "遠心\r\nあなたの捨て札にある異なる《全力》でないカードを2枚まで選び、任意の順番で使用する。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/08-O-S-4.webp"
@@ -3828,8 +3828,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-A1-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ろび\r\n炉火",
+        "description": "現在の間合が3以上ならば、\r\n間合→自フレア：1\r\n間合→相フレア：1",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-A1-N-1.webp"
@@ -3855,8 +3855,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-A1-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せんかいき\r\n旋回起",
+        "description": "現在の間合がターン開始時の間合から2以上変化しているならば、カードを1枚引き、あなたは集中力を1得る。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/08-A1-N-2.webp"
@@ -3882,8 +3882,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-A1-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だいれんせいマテリアル\r\n大錬成マテリアル",
+        "description": "終端\r\nこのカードがあなたのカードならば、以下の効果を解決する。\r\n金床にカードがあるならばダストから金床に桜花結晶を1つ置く。金床にカードがないならば、手札から他のメガミの《攻撃》カードを1枚選び金床に置いてもよい。\r\nあなたの追加札から「錬成攻撃」を山札の底に1枚置く。\r\n【再起】このターンにあなたが「錬成攻撃」を使用している。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/08-A1-S-1.webp"
@@ -3899,7 +3899,7 @@
         "name": "연성공격",
         "type": "미정",
         "subType": "미정",
-        "description": "【상시】 이 카드는 이름, 사용자와 이 효과를 제외하고 모루에 있는 카드의 복제가 된다. 이 카드가 손패에 있다면 상대의 효과로 선택될 수 없고, 손패 또는 덮음패에 있지 않다면 재구성 이외의 방법으로는 패산이나 손패로 되돌아가지 않는다. 이 카드는 봉인되지 않는다. 모루에 있는 벚꽃결정 수에 따라 아래 효과들을 모두 얻는다.\r\n0 이상: +1/+0 되고, 거리확대(원1)을 얻는다.\r\n1 이상: +1/+1 되고, 거리확대(원1)을 얻는다.\r\n2 이상: +1/+1 되고, 거리확대(원1)을 얻고, 모효화되지 않는다.",
+        "description": "【상시】 이 카드는 이름, 사용자와 이 효과를 제외하고 모루에 있는 카드의 복제가 된다. 이 카드가 손패에 있다면 상대의 효과로 선택될 수 없고, 손패 또는 덮음패에 있지 않다면 재구성 이외의 방법으로는 패산이나 손패로 되돌아가지 않는다. 이 카드는 봉인되지 않는다. 모루에 있는 벚꽃결정 수에 따라 아래 효과들을 모두 얻는다.\r\n0 이상: +1/+0 되고, 거리확대(원1)을 얻는다.\r\n1 이상: +1/+1 되고, 거리확대(원1)을 얻는다.\r\n2 이상: +1/+1 되고, 거리확대(원1)을 얻고, 무효화되지 않는다.",
         "imagePath": "/furuyoni/images/card/kor/08-A1-S-1-Ex1.webp",
         "category": "비장패"
       },
@@ -3912,8 +3912,8 @@
         "imagePath": "/furuyoni/images/card/eng/08-A1-S-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "れんせいこうげき\r\n錬成攻撃",
+        "description": "【常時】このカードは名前、使用者とこの効果を除き金床にあるカードの複製になる。このカードが手札にあるなら相手の効果で選べず、手札か伏せ札にないなら再構成以外で山札や手札に戻らない。このカードは封印されない。金床にある桜花結晶の個数に応じて以下の効果を得る。\r\n0以上…+1/+0となり、距離拡大（遠1）を得る。\r\n1以上…+1/+1となり、距離拡大（遠1）を得る。\r\n2以上…+1/+1となり、距離拡大（遠1）を得て、打ち消されない。",
         "type": "不定",
         "subType": "不定",
         "category": "切札",
@@ -3940,7 +3940,7 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "とびくない\r\n飛苦無",
         "description": "",
         "type": "攻撃",
         "category": "通常札",
@@ -3969,8 +3969,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "どくばり\r\n毒針",
+        "description": "【攻撃後】毒袋から「麻痺毒」「幻覚毒」「弛緩毒」のいずれか1枚を選び、そのカードを相手の山札の一番上に置く。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/09-O-N-2.webp"
@@ -4004,8 +4004,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とんじゅつ\r\n遁術",
+        "description": "【攻撃後】自オーラ→間合：1　ダスト→間合：1\r\n【攻撃後】このターン中、相手は基本動作《前進》を行えない。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -4036,8 +4036,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あんき\r\n暗器",
+        "description": "全力化：【常時】この《攻撃》は+1/+2となる。\r\n全力化：【攻撃後】相手はあなたの毒袋を見てその中から1枚を選び、それを相手の手札に加える。\r\n【攻撃後】相手の手札に毒カードがあるならば、基本動作《纏い》を1回行う。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -4066,8 +4066,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "どくぎり\r\n毒霧",
+        "description": "毒袋から「麻痺毒」「幻覚毒」「弛緩毒」のいずれか1枚を選び、そのカードを相手の手札に加える。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/09-O-N-5.webp"
@@ -4085,7 +4085,7 @@
       "kor": {
         "name": "까치발 걸음",
         "type": "부여",
-        "description": "빈틈\r\n【전개중】 현재 간격이 2 감소한다.",
+        "description": "빈틈\r\n【전개중】 현재 간격이 2 감소한다.\r\n(간격은 0미만이 될 수 없다.)",
         "imagePath": "/furuyoni/images/card/kor/09-O-N-6.webp",
         "category": "통상패"
       },
@@ -4097,8 +4097,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぬきあし\r\n抜き足",
+        "description": "隙\r\n【展開中】現在の間合は2減少する。\r\n(間合は0未満にならない)",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/09-O-N-6.webp"
@@ -4125,8 +4125,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "でいねい\r\n泥濘",
+        "description": "【展開中】相手は基本動作《後退》と《離脱》を行えない。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/09-O-N-7.webp"
@@ -4153,8 +4153,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ほろびのみたまどく\r\n滅灯の魂毒",
+        "description": "毒袋から「滅灯毒」を1枚を選び、そのカードを相手の山札の一番上に置く。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/09-O-S-1.webp"
@@ -4183,8 +4183,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はんきのまといどく\r\n叛旗の纏毒",
+        "description": "【展開中】相手によるオーラへのダメージかライフへのダメージのどちらかが「-」である《攻撃》は打ち消される。",
         "type": "付与",
         "subType": "対応",
         "category": "切札",
@@ -4213,8 +4213,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "るてんのかすみどく\r\n流転の霞毒",
+        "description": "【再起】相手の手札が2枚以上ある。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/09-O-S-3.webp"
@@ -4232,7 +4232,7 @@
         "name": "야미쿠라 치카게가 사는 길",
         "type": "부여",
         "subType": "전력",
-        "description": "【전개중】 당신이 라이프 데미지를 1 이상 받았을 때, 이 카드를 미사용 상태로 되돌리고, 이 카드 위에 놓인 벚꽃결정을 모두 더스트로 보낸다.\r\n【파기시】 당신의 다른 비장패가 모두 사용된 상태라면, 당신은 승리한다.",
+        "description": "【전개중】 당신이 라이프 데미지를 1 이상 받았을 때, 이 카드를 미사용 상태로 되돌리고, 이 카드 위에 놓인 벚꽃결정을 모두 더스트로 보낸다.\r\n(파기시 효과는 실패한다.)\r\n【파기시】 당신의 다른 비장패가 모두 사용된 상태라면, 당신은 승리한다.",
         "imagePath": "/furuyoni/images/card/kor/09-O-S-4.webp",
         "category": "비장패"
       },
@@ -4245,8 +4245,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "やみくらちかげのいきるみち\r\n闇昏千影の生きる道",
+        "description": "【展開中】あなたが1以上のライフへのダメージを受けた時、このカードの上の桜花結晶は全てダストに送られ、このカードは未使用に戻る。\r\n(破棄時効果は失敗する)\r\n【破棄時】あなたの他の切札が全て使用済ならば、あなたは勝利する。",
         "type": "付与",
         "subType": "全力",
         "category": "切札",
@@ -4275,8 +4275,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-P-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "まひどく\r\n麻痺毒",
+        "description": "【常時】このターン中にあなたが基本動作を行ったならば、このカードは使用できない。\r\nこのカードを相手の毒袋に戻す。その後、このフェイズを終了する。",
         "type": "行動",
         "category": "毒",
         "imagePath": "/furuyoni/images/card/jpn/09-O-P-1.webp"
@@ -4302,8 +4302,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-P-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "げんかくどく\r\n幻覚毒",
+        "description": "このカードを相手の毒袋に戻す。\r\n自フレア→ダスト：2",
         "type": "行動",
         "category": "毒",
         "imagePath": "/furuyoni/images/card/jpn/09-O-P-2.webp"
@@ -4329,8 +4329,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-P-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しかんどく\r\n弛緩毒",
+        "description": "【展開中】あなたは《攻撃》カードを使用できない。\r\n【破棄時】このカードを相手の毒袋に戻す。",
         "type": "付与",
         "category": "毒",
         "imagePath": "/furuyoni/images/card/jpn/09-O-P-3.webp"
@@ -4357,8 +4357,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-O-P-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ほろびどく\r\n滅灯毒",
+        "description": "自オーラ→ダスト：3",
         "type": "行動",
         "category": "毒",
         "imagePath": "/furuyoni/images/card/jpn/09-O-P-4.webp"
@@ -4372,7 +4372,7 @@
       "kor": {
         "name": "속임수 우산",
         "type": "공격",
-        "description": "불가피\r\n【상시】 상대의 손패가 2장 이상이라면, 이 《공격》은 거리확대(근2)와 거리확대(원2)를 얻는다.",
+        "description": "불가피\r\n【상시】 상대의 손패가 2장 이상이라면, 이 《공격》은 거리확대(근2)와 거리확대(원2)를 얻는다.\r\n(다른 효과가 없다면, 적정거리는 2-6이 된다.)",
         "imagePath": "/furuyoni/images/card/kor/09-A1-N-5.webp",
         "category": "통상패"
       },
@@ -4384,8 +4384,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-A1-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しかけばんがさ\r\n仕掛け番傘",
+        "description": "不可避\r\n【常時】相手の手札が2枚以上あるならば、この《攻撃》は距離拡大(近2)と距離拡大(遠2)を得る。\r\n(他に何もなければ、適正距離は2-6になる)",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/09-A1-N-5.webp"
@@ -4413,8 +4413,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-A1-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふんじん\r\n奮迅",
+        "description": "相手の手札が2枚以上あるならば、あなたは集中力を1得る。\r\n間合⇔ダスト：1",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/09-A1-N-6.webp"
@@ -4440,8 +4440,8 @@
         "imagePath": "/furuyoni/images/card/eng/09-A1-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ざんしのきずなどく\r\n残滓の絆毒",
+        "description": "対応不可（通常札）\r\n【常時】Xは相手の手札にあるカードの枚数の2倍に等しい。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/09-A1-S-4.webp"
@@ -4470,8 +4470,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えれきてる",
+        "description": "🔵🔵🔵🟣🟣 相手のライフに1ダメージを与える。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-O-N-1.webp"
@@ -4485,7 +4485,7 @@
       "kor": {
         "name": "액셀러~",
         "type": "행동",
-        "description": "〔🔵🔵🟢 당신의 손패에서 《전력》 카드를 1장 선택하고, 그 카드를 사용해도 된다.〕",
+        "description": "〔🔵🔵🟢 당신의 손패에서 《전력》 카드를 1장 선택하고, 그 카드를 사용해도 된다.〕\r\n(페이즈는 종료되지 않는다.)",
         "imagePath": "/furuyoni/images/card/kor/10-O-N-2.webp",
         "category": "통상패"
       },
@@ -4497,8 +4497,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あくせらー",
+        "description": "🔵🔵🟢 あなたの手札から《全力》カードを1枚選び、そのカードを使用してもよい。\r\n(フェイズは終了しない)",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-O-N-2.webp"
@@ -4513,7 +4513,7 @@
         "name": "쿠루룽~",
         "type": "행동",
         "subType": "대응",
-        "description": "【상시】 이 카드는 대응으로밖에 사용할 수 없다.\r\n아래에서 최대 2가지를 선택하여, 원하는 순서로 수행한다.\r\n·카드를 1장 뽑는다.\r\n·덮음패 1장을 패산 아래에 놓는다.\r\n·상대는 손패를 1장 버림패로 만든다.",
+        "description": "【상시】 이 카드는 대응으로밖에 사용할 수 없다.\r\n아래에서 최대 2가지를 선택하여, 원하는 순서로 수행한다.\r\n(같은 것을 2번 선택할 수 없다.)\r\n·카드를 1장 뽑는다.\r\n·덮음패 1장을 패산 아래에 놓는다.\r\n·상대는 손패를 1장 버림패로 만든다.",
         "imagePath": "/furuyoni/images/card/kor/10-O-N-3.webp",
         "category": "통상패"
       },
@@ -4526,8 +4526,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くるるーん",
+        "description": "【常時】このカードは対応でしか使用できない。\r\n以下から2つまでを選び、任意の順に行う。\r\n(同じものを2回選ぶことはできない)\r\n・カードを1枚引く。\r\n・伏せ札1枚を山札の底に置く。\r\n・相手は手札を1枚捨て札にする。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -4556,8 +4556,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とるねーど",
+        "description": "🔴🔴 相手のオーラに5ダメージを与える。\r\n🟢🟢 相手のライフに1ダメージを与える。",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -4586,8 +4586,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "りげいなー",
+        "description": "🟢🟣 捨て札、伏せ札、切札のいずれかから未使用でも《全力》でもない他のメガミのカードを1枚選んでもよい。そのカードをコストを支払わずに使用する。その際、適正距離の全ての値、どちらかのダメージ、納のいずれかを1増減させてもよい。\r\n【常時】このカードは伏せ札から手札にあるかのように通常の方法で使用できる。",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -4614,8 +4614,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "もじゅるー",
+        "description": "【展開中】あなたが《行動》カードを使用した時、その解決後に基本動作を1回行ってもよい。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-O-N-6.webp"
@@ -4642,8 +4642,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "りふれくた",
+        "description": "🔴🟣 【展開時】このカードの上に桜花結晶を4個ダストから置く。\r\n【展開中】各ターンにおける相手の2回目の《攻撃》は打ち消される。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-O-N-7.webp"
@@ -4672,8 +4672,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "どれーんでびる",
+        "description": "相オーラ→自オーラ：1\r\n【使用済】あなたの使用済の切札が未使用に戻った時、このカードを消費を支払わずに使用してもよい。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -4701,8 +4701,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "びっぐごーれむ",
+        "description": "🟣🟡🟡 【使用済】あなたの終了フェイズに相手のライフに1ダメージを与えてもよい。そうした場合、山札を再構成する。\r\n【使用済】あなたが《全力》カードを使用した時、その解決後に基本動作を1回行ってもよい。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/10-O-S-2.webp"
@@ -4729,8 +4729,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いんだすとりあ",
+        "description": "このカードがあなたのカードで、カードが封印されていないならば、手札または捨て札から《付与》でないカードを1枚選び、このカードの下に表向きで封印してもよい。\r\nあなたの追加札から「でゅーぷりぎあ」を山札の底に1枚置く(最大で合計3枚)。\r\n【即再起】あなたが山札を再構成する（再構成の後に未使用に戻る）。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/10-O-S-3.webp"
@@ -4746,21 +4746,21 @@
         "name": "듀~플리기어",
         "type": "미정",
         "subType": "미정",
-        "description": "【상시】 이 카드는 당신의 「인더스트리아」에 봉인된 카드의 복제가 된다. 단, 이름은 변하지 않는다.",
+        "description": "【상시】 이 카드는 당신의 「인더스트리아」에 봉인된 카드의 복제가 된다. 단, 이름은 변하지 않는다.\r\n(「인더스트리아」가 미사용 상태라면 복제가 되지 않으므로, 사용할 수 없다.)",
         "imagePath": "/furuyoni/images/card/kor/10-O-S-3-Ex1.webp",
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Dupligear",
+        "description": "Forced: This card is a copy of the card sealed under your \"Industria\", except its name is still \"Dupligear\".\r\n(If your \"Industria\" is face-down, this does not copy anything and cannot be played.)",
         "type": "Undefined",
         "subType": "Undefined",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/10-O-S-3-Ex1.webp"
       },
       "jpn": {
-        "name": "Dupligear",
-        "description": "Forced: This card is a copy of the card sealed under your \"Industria\", except its name is still \"Dupligear\".\r\n(If your \"Industria\" is face-down, this does not copy anything and cannot be played.)",
+        "name": "でゅーぷりぎあ",
+        "description": "【常時】このカードはあなたの「いんだすとりあ」に封印されたカードの複製となる。但し、名前は変更されない。\r\n(「いんだすとりあ」が未使用なら複製とならないので、使用できない)",
         "type": "不定",
         "subType": "不定",
         "category": "切札",
@@ -4775,7 +4775,7 @@
       "kor": {
         "name": "신섭장치: 쿠루루식",
         "type": "행동",
-        "description": "〔🔴🔴🔵🔵🔵🟢🟢 상대의 비장패를 보고, 그중에서 1장을 선택하고, 그 카드를 사용된 상태로 만들어도 된다.〕\r\n상대의 사용된 상태인 비장패를 1장 선택해도 된다. 그 카드를 소모값을 지불하지 않고 사용한다.\r\n그 후, 이 카드를 게임에서 제외한다.",
+        "description": "〔🔴🔴🔵🔵🔵🟢🟢 상대의 비장패를 보고, 그중에서 1장을 선택하고, 그 카드를 사용된 상태로 만들어도 된다.〕\r\n상대의 사용된 상태인 비장패를 1장 선택해도 된다. 그 카드를 소모값을 지불하지 않고 사용한다.\r\n(《전력》 카드도 사용할 수 있다.)\r\n그 후, 이 카드를 게임에서 제외한다.",
         "imagePath": "/furuyoni/images/card/kor/10-O-S-4.webp",
         "category": "비장패"
       },
@@ -4787,8 +4787,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かんしょうそうち　くるるしき\r\n神渉装置:枢式",
+        "description": "🔴🔴🔵🔵🔵🟢🟢 相手の切札を見て、その中から1枚選び、それを使用済にしてもよい。\r\n相手の使用済の切札1枚を選んでもよい。そのカードを消費を支払わずに使用する(《全力》カードでもよい)。その後、このカードを取り除く。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/10-O-S-4.webp"
@@ -4815,8 +4815,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-A1-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あならいず",
+        "description": "🔴🟢🟣 あなたの任意の伏せ札1枚または相手の無作為な伏せ札1枚を捨て札にする。そのカードが《攻撃》ならば相手のライフに1ダメージを与える。そうでなければ相手は手札を1枚伏せ札にする。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-A1-N-1.webp"
@@ -4842,8 +4842,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-A1-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だうじんぐ",
+        "description": "相手の山札の上から1枚を捨て札にする。その後、相手の捨て札を1枚選ぶ。\r\n🔴 XY 選んだカードを使用する。Xは選んだカードのカードタイプに、Yはサブタイプに等しい。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-A1-N-3.webp"
@@ -4869,8 +4869,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-A1-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "らすとりさーち",
+        "description": "🔴 相手の伏せ札が0枚ならば相手の山札の上から1枚を伏せ札にする。相手は伏せ札から1枚を選ぶ。あなたはカード名を1つ宣言し、相手は選んだカードを捨て札にする。そのカード名が一致したらこのカードの上にゲーム外から桜花結晶を1つ置く。2つになったら世紀の大発見を行う。\r\n【使用済】あなたが山札を再構成した時ならびに《全力》カードを使用した時、このターンの終了フェイズにこのカードをコストを支払わずに使用してもよい。\r\n「世紀の大発見」- 相手の切札を全て見る。その後、あなたか対戦相手のどちらかを選び、そのプレイヤーが宿しているメガミの切札の内、眼前構築で選ばれていない切札5枚をゲーム外から未使用状態で得る。 さらに、使用したあなたの「らすとりさーち」を取り除き、追加札領域にある「ぐらんがりばー」を未使用状態で得る。\r\n（条件を満たした状態で、このカードを右クリックすることにより発動可能）",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/10-A1-S-3.webp"
@@ -4897,8 +4897,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-A1-S-3-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぐらんがりば",
+        "description": "【常時】Xはあなたのフレアに等しい。\r\n【使用済】あなたの切札の消費は0となる。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/10-A1-S-3-Ex1.webp"
@@ -4925,8 +4925,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-A2-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぶらすたー",
+        "description": "対応不可（通常札）\r\n🟢 【攻撃後】他のメガミのカードで組み立てたならば、攻撃『適正距離0-6、1/1』を行う。\r\n🔵🟣 【攻撃後】他のメガミのカードで組み立てたならば、攻撃『適正距離0-6、1/1』を行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-A2-N-1.webp"
@@ -4954,8 +4954,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-A2-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "れーるがん",
+        "description": "🔴🔴 【常時】この《攻撃》が行われた時、この《攻撃》は+2/+0となる。\r\n🟡 終端\r\n【常時】この《攻撃》が行われた時、この《攻撃》は+0/+1となり、打ち消されない。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/10-A2-N-2.webp"
@@ -4983,8 +4983,8 @@
         "imagePath": "/furuyoni/images/card/eng/10-A2-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "こねくとだいぶ",
+        "description": "🔵🟢🟣 【使用時/使用済】他のメガミのカードで組み立てたならば、使用時とあなたの終了フェイズにダストまたはあなたのオーラからこのカードの上に桜花結晶を1つ置いてもよい。\r\n【使用済】あなたがある機巧枠の効果を解決するに際し、このカードの上の桜花結晶を1つダストに送ってもよい。そうした場合、その機巧枠の中に書かれた数字全てを2倍にする。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/10-A2-S-4.webp"
@@ -5004,15 +5004,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Burning Steam",
+        "description": "After Attack: Maneuver.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/11-O-N-1.webp"
       },
       "jpn": {
-        "name": "Burning Steam",
-        "description": "After Attack: Maneuver.",
+        "name": "バーニングスチーム\r\nBurning Steam",
+        "description": "【攻撃後】騎動を行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-N-1.webp"
@@ -5040,8 +5040,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ウェービングエッジ\r\nWaving Edge",
+        "description": "燃焼\r\n【攻撃後】騎動を行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-N-2.webp"
@@ -5069,8 +5069,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "シールドチャージ\r\nShield Charge",
+        "description": "燃焼\r\n【常時】この《攻撃》のダメージにより移動する桜花結晶は、ダストやフレアでなく間合に動かす。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-N-3.webp"
@@ -5098,8 +5098,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "スチームカノン\r\nSteam Cannon",
+        "description": "燃焼\r\n全力化：【常時】この《攻撃》は距離拡大（近1）と距離拡大（遠1）を得て、+2/+2となる。\r\n【攻撃後】全力化していないならば、あなたの燃焼済の造花結晶を2つ回復する。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-N-4.webp"
@@ -5127,8 +5127,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "スタント\r\nStunt",
+        "description": "相手を畏縮させる。\r\n自オーラ→自フレア：2",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-N-5.webp"
@@ -5154,8 +5154,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ロアリング\r\nRoaring",
+        "description": "コストとして、あなたのマシンにある造花結晶を2つ燃焼済にしても良い。そうした場合、あなたは集中力を1得て、相手は集中力を1失い、相手を畏縮させる。\r\nコストとして、集中力を2支払ってもよい。そうした場合、あなたの燃焼済の造花結晶を3つ回復する。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-N-6.webp"
@@ -5183,8 +5183,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ターボスイッチ\r\nTurbo Switch",
+        "description": "燃焼\r\n騎動を行う。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -5211,8 +5211,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "アルファエッジ\r\nAlpha-Edge",
+        "description": "【即再起】あなたが騎動により間合を変化させる。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-S-1.webp"
@@ -5243,8 +5243,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "オメガバースト\r\nOmega-Burst",
+        "description": "あなたの燃焼済の造花結晶を全て回復する。\r\n対応した、オーラへのダメージが「-」またはX以下の《攻撃》を打ち消す。Xはこのカードにより回復した造花結晶の個数に等しい。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -5272,8 +5272,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "サリヤズ　マスターピース\r\nThallya's Masterpiece",
+        "description": "【使用済】あなたのターンに、あなたが基本動作以外の方法で騎動を行い、間合を変化させるたびに\r\nダスト⇔間合：1\r\nを行ってもよい。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/11-O-S-3.webp"
@@ -5302,8 +5302,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ジュリアズ　ブラックボックス\r\nJulia's BlackBox",
+        "description": "あなたのマシンに造花結晶がないならば、あなたのマシンはTransFormし、あなたの燃焼済の造花結晶を2つ回復する。そうでない場合、このカードを未使用に戻す。",
         "type": "行動",
         "subType": "全力",
         "category": "切札",
@@ -5331,8 +5331,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-TF-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "フォルム:ヤクシャ\r\nForm: YAKSHA",
+        "description": "【変形時】相手は次の開始フェイズにカードを1枚しか引けない。相手を畏縮させる。\r\n【常時】あなたのマシンに造花結晶がないならば、あなたは基本動作を行えない。\r\n【追加基本行動：Beta-Edge】\r\n「適正距離2,4,6,8、2/1 【攻撃後】騎動を行う」の《攻撃》を行う。",
         "type": "不定",
         "category": "変形",
         "imagePath": "/furuyoni/images/card/jpn/11-O-TF-1.webp"
@@ -5358,8 +5358,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-TF-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "フォルム:ナーガ\r\nForm: NAGA",
+        "description": "【変形時】相手のフレアが3以上ならば、フレアが2になるように桜花結晶をダストへ移動させる。\r\n【追加基本行動：Gamma-Ray】\r\n相手の山札の一番上のカードを相手の捨て札に置く。",
         "type": "不定",
         "category": "変形",
         "imagePath": "/furuyoni/images/card/jpn/11-O-TF-2.webp"
@@ -5385,8 +5385,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-O-TF-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "フォルム:ガルーダ\r\nForm: GARUDA",
+        "description": "【変形時】カードを2枚引き、このターンの間手札の上限が無くなる。\r\n【追加基本行動：Delta-Wing】\r\n現在の間合が7以下ならば、ダスト→間合：1",
         "type": "不定",
         "category": "変形",
         "imagePath": "/furuyoni/images/card/jpn/11-O-TF-3.webp"
@@ -5400,7 +5400,7 @@
       "kor": {
         "name": "Quick Change",
         "type": "부여",
-        "description": "【전개시】 당신의 연소된 조화결정을 1개 회복한다. 그 후, 추가패에 있는 TransForm 카드를 1장 선택하고, 이 카드 아래에 봉인한다.\r\n【전개중】 이 카드에 봉인된 카드의 추가기본동작, 상시 효과를 유효화한다.\r\n【파기시】 이 카드에 봉인된 카드를 추가패로 되돌린다.",
+        "description": "【전개시】 당신의 연소된 조화결정을 1개 회복한다. 그 후, 추가패에 있는 TransForm 카드를 1장 선택하고, 이 카드 아래에 봉인한다.(변형시 효과는 해결하지 않는다.)\r\n【전개중】 이 카드에 봉인된 카드의 추가기본동작, 상시 효과를 유효화한다.\r\n【파기시】 이 카드에 봉인된 카드를 추가패로 되돌린다.",
         "imagePath": "/furuyoni/images/card/kor/11-A1-N-5.webp",
         "category": "통상패"
       },
@@ -5412,8 +5412,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-A1-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "クイックチェンジ\r\nQuick Change",
+        "description": "【展開時】あなたの燃焼済の造花結晶を1つ回復する。その後、追加札にあるTransFormカードを1枚選び、このカードの下に封印する（変形時効果は解決されない）。\r\n【展開中】このカードに封印されたカードの追加基本動作、常時を有効にする。\r\n【破棄時】このカードに封印されたカードを追加札に戻す。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/11-A1-N-5.webp"
@@ -5440,8 +5440,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-A1-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ブラックボックスネオ\r\nBlackBox NEO",
+        "description": "終端\r\nあなたの燃焼済の造花結晶を1つ回復する。その後、あなたのマシンが燃焼済の造花結晶を持たないならば、このカードの上にダストから桜花結晶を1つ置く。2つになったらこのカードの上の桜花結晶をダストに送るとともに、あなたのマシンはTransFormする。\r\n【再起】あなたのマシンにある造花結晶が3個以下である。または、このターンにあなたのマシンがTransFormしている。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/11-A1-S-1.webp"
@@ -5468,8 +5468,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-A1-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "オムニスブラスター\r\nOMNIS-Blaster",
+        "description": "【常時】XはあなたのマシンがこのゲームでTransFormした回数に等しい。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/11-A1-S-2.webp"
@@ -5498,8 +5498,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-A1-TF-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "フォルム:キンナリー\r\nForm: KINNARI",
+        "description": "【変形時】相手は山札をすべて伏せ札にする。\r\n【常時：Zeta-Voice】\r\n相手が山札を再構成したとき、その解決後に攻撃「適正距離2, 4, 6、2/2」を行ってもよい。",
         "type": "不定",
         "category": "変形",
         "imagePath": "/furuyoni/images/card/jpn/11-A1-TF-1.webp"
@@ -5525,8 +5525,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-A1-TF-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "フォルム:アスラ\r\nForm: ASURA",
+        "description": "【変形時】相手は伏せ札から1枚を選び、それを捨て札にする。これをもう1回繰り返す。\r\n【追加基本動作：Sigma-Drive】\r\n攻撃『適正距離3, 5、3/2　【攻撃後】あなたは畏縮する。』を行う。\r\nこの基本動作は1ターンに1回だけ行える。",
         "type": "不定",
         "category": "変形",
         "imagePath": "/furuyoni/images/card/jpn/11-A1-TF-3.webp"
@@ -5552,8 +5552,8 @@
         "imagePath": "/furuyoni/images/card/eng/11-A1-TF-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "フォルム:デーヴァ\r\nForm: DEVA",
+        "description": "【変形時】あなたの燃焼済の造花結晶を2つ回復し、基本動作《纏い》を2回行う。\r\n【常時：Phi-Cycle】\r\n相手の捨て札の枚数が0でない2の倍数になるたびに、あなたは集中力を1得る。",
         "type": "不定",
         "category": "変形",
         "imagePath": "/furuyoni/images/card/jpn/11-A1-TF-4.webp"
@@ -5579,7 +5579,7 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "じゅうそう\r\n獣爪",
         "description": "",
         "type": "攻撃",
         "category": "通常札",
@@ -5608,8 +5608,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふうらいげき\r\n風雷撃",
+        "description": "【常時】Xは風神ゲージと雷神ゲージのうち、小さい方の値である。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-N-2.webp"
@@ -5637,8 +5637,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "るてんそう\r\n流転爪",
+        "description": "【攻撃後】あなたの捨て札にある《攻撃》カード1枚を選び、山札の一番上に置いてもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-N-3.webp"
@@ -5666,8 +5666,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かざばしり\r\n風走り",
+        "description": "現在の間合が3以上ならば、間合→ダスト：2",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-N-4.webp"
@@ -5693,8 +5693,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふうらいのちえ\r\n風雷の知恵",
+        "description": "風神ゲージと雷神ゲージの合計が4以上ならば、あなたの捨て札にある他のメガミのカード1枚を選び、山札の一番上に置いてもよい。\r\n風神ゲージか雷神ゲージを1上げる。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-N-5.webp"
@@ -5722,8 +5722,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "よびごえ\r\n呼び声",
+        "description": "相手を畏縮させ、以下から1つを選ぶ。\r\n・風神ゲージと雷神ゲージを1ずつ上げる。\r\n・手札を全て伏せ札にし、雷神ゲージを2倍にする。",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -5752,8 +5752,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "そらかけ\r\n空駆け",
+        "description": "間合⇔ダスト：3",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -5780,8 +5780,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "らいらふうじんそう\r\n雷螺風神爪",
+        "description": "【常時】あなたの雷神ゲージが4以上ならば、この《攻撃》は+1/+0となる。\r\n【再起】あなたの風神ゲージが4以上である。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-S-1.webp"
@@ -5812,8 +5812,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "てんらいしょうかんじん\r\n天雷召喚陣",
+        "description": "攻撃『適正距離0-10、1/1』をX回行う。Xは雷神ゲージの半分(切り上げ)に等しい。",
         "type": "行動",
         "subType": "全力",
         "category": "切札",
@@ -5841,8 +5841,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふうましょうらいこう\r\n風魔招来孔",
+        "description": "現在の風神ゲージに応じて、以下の切札を追加札から未使用で得る(条件を満たしたものは全て得る)。その後、このカードを取り除く。\r\n3以上……風魔旋風\r\n7以上……風魔纏廻\r\n12以上……風魔天狗道",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-S-3.webp"
@@ -5857,7 +5857,8 @@
       "kor": {
         "name": "원환륜회선",
         "type": "부여",
-        "description": "【전개중】 상대의 《공격》을 해결한 후에 아래를 모두 수행해도 된다.\r\n·간격 ↔ 더스트 (1)\r\n·풍신 게이지 또는 뇌신 게이지를 1 올린다.",
+        "subType": "대응",
+        "description": "【전개중】 상대의 《공격》을 해결한 후에 아래를 모두 수행해도 된다.(한쪽만 수행할 수 없다.)\r\n·간격 ↔ 더스트 (1)\r\n·풍신 게이지 또는 뇌신 게이지를 1 올린다.",
         "imagePath": "/furuyoni/images/card/kor/12-O-S-4.webp",
         "category": "비장패"
       },
@@ -5865,12 +5866,14 @@
         "name": "Death and Rebirth",
         "description": "Ongoing: After one of your opponent's attacks resolves, perform neither or both:\r\n・Distance (1)⇔ Shadow\r\n・Increase your Wind or Thunder Gauge by 1.",
         "type": "Enhancement",
+        "subType": "Reaction",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/12-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えんかんりんかいせん\r\n円環輪廻旋",
+        "description": "【展開中】相手の《攻撃》の解決後に以下を全て行ってもよい。\r\n・間合⇔ダスト：1\r\n・風神ゲージか雷神ゲージを1上げる。",
+        "subType": "対応",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-S-4.webp"
@@ -5898,7 +5901,7 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-S-3-Ex1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "ふうませんぷう\r\n風魔旋風",
         "description": "",
         "type": "攻撃",
         "category": "切札",
@@ -5916,7 +5919,7 @@
       "kor": {
         "name": "풍마전회",
         "type": "행동",
-        "description": "당신의 사용된 상태인 비장패를 1장 선택하고, 그 카드를 미사용 상태로 되돌린다.\r\n【사용됨】 당신의 비장패의 소모값은 1 감소한다.",
+        "description": "당신의 사용된 상태인 비장패를 1장 선택하고, 그 카드를 미사용 상태로 되돌린다.\r\n【사용됨】 당신의 비장패의 소모값은 1 감소한다(0 미만이 되지는 않는다).",
         "imagePath": "/furuyoni/images/card/kor/12-O-S-3-Ex2.webp",
         "category": "비장패"
       },
@@ -5928,8 +5931,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-S-3-Ex2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふうまてんかい\r\n風魔纏廻",
+        "description": "あなたの使用済の切札を1枚選び、それを未使用に戻す。\r\n【使用済】あなたの切札の消費は1少なくなる(0未満にはならない)。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/12-O-S-3-Ex2.webp"
@@ -5958,8 +5961,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-O-S-3-Ex3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふうまてんぐどう\r\n風魔天狗道",
+        "description": "ダスト⇔間合：5\r\nあなたはこの効果で本来より少ない個数の桜花結晶を動かしてもよい。その後、このカードを取り除く。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -5987,8 +5990,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-A1-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぼうふう\r\n暴風",
+        "description": "【攻撃後】嵐の力を1回使用してもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/12-A1-N-2.webp"
@@ -6018,8 +6021,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-A1-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おおあらし\r\n大嵐",
+        "description": "【展開時】以下を3回選ぶ。同じものを複数回選んでもよい。\r\n・風神ゲージか雷神ゲージを１上げる。\r\n・このカードの上にダストから桜花結晶を1つ置く。\r\n【展開中】あなたと相手の終了フェイズに攻撃『適正距離0-4、1/1、対応不可』を行う。\r\n【展開中】各ターンにおける相手の最初の《攻撃》は+0/-1となる。",
         "type": "付与",
         "subType": "全力",
         "category": "通常札",
@@ -6047,8 +6050,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-A1-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "じんぷうさいてんぎ\r\n陣風祭天儀",
+        "description": "風神ゲージと雷神ゲージを1ずつ上げ、相手を畏縮させる。\r\n【使用済】あなたが使用したカードは帯電しない。\r\n【使用済】あなたのメインフェイズの開始時に、あなたが標準行動を選択したならば、嵐の力を2回まで使用してもよい。ただし、同じ力は選べない。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/12-A1-S-3.webp"
@@ -6075,8 +6078,8 @@
         "imagePath": "/furuyoni/images/card/eng/12-A1-ST.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あらしのちから\r\n嵐の力",
+        "description": "【風1】間合⇔ダスト：1\r\n【風2】カードを1枚引き、手札を1枚伏せ札にする。\r\n【風3】あなたは集中力を1得て、相手は集中力を1失う。\r\n【雷1】このターンにあなたが次に行う《攻撃》は+1/+0となる。\r\n【雷2】攻撃『適正距離0-4、1/1』を行う。\r\n【雷3】このターンにあなたが次に行うオーラへのダメージが「-」でない《攻撃》は+0/+1となる。",
         "type": "不定",
         "category": "不定",
         "imagePath": "/furuyoni/images/card/jpn/12-A1-ST.webp"
@@ -6102,8 +6105,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えんげつ\r\n円月",
+        "description": "【常時】灰塵-ダストが12以上ならば、この《攻撃》は距離拡大（近1）を得て、そのオーラへのダメージは「-」になる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-N-1.webp"
@@ -6131,8 +6134,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くろきはどう\r\n黒き波動",
+        "description": "【攻撃後】相手がオーラへのダメージを選んだならば、相手の手札を見てその中から1枚を選び、それを捨て札にする。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-N-2.webp"
@@ -6160,8 +6163,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かりとり\r\n刈取り",
+        "description": "【攻撃後】相手は相手のオーラ、フレア、ライフのいずれかから桜花結晶を合計2つダストへ移動させる。\r\n【攻撃後】相手の付与札を1枚選んでもよい。そうした場合、その付与札の上から桜花結晶を2つダストへ送る。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-N-3.webp"
@@ -6189,8 +6192,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "じゅうあつ\r\n重圧",
+        "description": "相手は相手のオーラ、フレア、ライフのいずれかから桜花結晶を1つダストへ移動させる。\r\n灰塵-ダストが12以上ならば、相手を畏縮させる。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-N-4.webp"
@@ -6216,8 +6219,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かげのはね\r\n影の翅",
+        "description": "このターン中、現在の間合は2増加し、達人の間合は2大きくなる。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-N-5.webp"
@@ -6245,8 +6248,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かげのかべ\r\n影の壁",
+        "description": "対応した《攻撃》は+0/-1となる。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -6259,7 +6262,7 @@
       "code": "O-N-7",
       "character": "utsuro",
       "kor": {
-        "name": "윤회주",
+        "name": "유회주",
         "type": "부여",
         "subType": "전력",
         "description": "【전개시】 상대 오라 → 더스트 (3)\r\n【파기시】 회진 - 더스트가 12 이상이라면 아래를 수행한다.\r\n더스트 → 상대 오라 (2), 상대 라이프 → 더스트 (1)",
@@ -6275,8 +6278,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いかいじゅ\r\n遺灰呪",
+        "description": "【展開時】相オーラ→ダスト：3\r\n【破棄時】灰塵-ダストが12以上ならば以下を行う。\r\nダスト→相オーラ：2、相ライフ→ダスト：1",
         "type": "付与",
         "subType": "全力",
         "category": "通常札",
@@ -6297,15 +6300,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "disintegration",
+        "name": "вымирание\r\ndisintegration",
         "description": "Forced: This card costs 1 less for each Sakura token on Shadow.\r\nOpponent's Life (3)→ Shadow\r\nRemove this card from the game.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/13-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ヴィミラニエ\r\n灰滅",
+        "description": "【常時】このカードの消費はダストの数だけ少なくなる。\r\n相ライフ→ダスト：3\r\nこのカードを取り除く。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-S-1.webp"
@@ -6326,7 +6329,7 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "disinformation",
+        "name": "Ложь\r\ndisinformation",
         "description": "Ongoing: All your opponent's attacks have their Ranges reduced by 1 in the close direction, and lose their After Attack effects.\r\nOngoing: All your opponent's Enhancements have their Charges reduced by 1, and lose their Disenchant effects.",
         "type": "Enhancement",
         "subType": "Reaction",
@@ -6334,8 +6337,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ローシェ\r\n虚偽",
+        "description": "【展開中】相手の《攻撃》は距離縮小(近1)を得て、【攻撃後】効果が解決されない。\r\n【展開中】相手の《付与》カードは納が1減少し、【破棄時】効果が解決されない。",
         "type": "付与",
         "subType": "対応",
         "category": "切札",
@@ -6357,15 +6360,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "conclusion",
+        "name": "Конец\r\nconclusion",
         "description": "Ongoing: After an attack that dealt you 1 or more damage resolves, move all Sakura tokens on this card to Shadow.\r\nDisenchant: End the current phase.\r\nResurgence: Ashen - There are 12 or more Sakura tokens on Shadow.",
         "type": "Enhancement",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/13-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "カニェッツ\r\n終末",
+        "description": "【展開中】あなたに1以上のダメージを与えた《攻撃》の解決後に、このカードの上の桜花結晶を全てをダストに送る。\r\n【破棄時】現在のフェイズを終了する。\r\n【再起】灰塵-ダストが12以上である。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-S-3.webp"
@@ -6386,15 +6389,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "erosion",
+        "name": "Эрозия\r\nerosion",
         "description": "Devoted: At the beginning of your turn, your opponent chooses one:\r\n・Opponent's Aura (1)→ Shadow\r\n・Opponent's Flare (2)→ Shadow",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/13-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "エロージヤ\r\n魔食",
+        "description": "【使用済】あなたの開始フェイズの開始時に相手は以下のどちらかを選ぶ。\r\n・相オーラ→ダスト：1\r\n・相フレア→ダスト：2",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/13-O-S-4.webp"
@@ -6421,8 +6424,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-A1-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "むしばみのちり\r\n蝕みの塵",
+        "description": "【攻撃後】相手がライフへのダメージを選んだならば、相フレア→ダスト：2",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/13-A1-N-2.webp"
@@ -6450,8 +6453,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-A1-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ざんきょうそうち　くるるしき\r\n残響装置:枢式",
+        "description": "終端\r\n【使用済】あなたか相手の終了フェイズにダストが13以上ならば、終焉の影が蘇る。その後、このカードを取り除き、あなたの追加札から「望我」を使用済で得て、カードを1枚引き、あなたのライフが6以上ならば、ライフが5になるように桜花結晶をダストに移動させる。「終焉の影が蘇る」- 山札、手札、伏せ札、捨て札、付与札にある切札でないカードをすべて取り除き、代わりに「万象乖ク殲滅ノ影」「我ヲ亡クシテ静寂ヲ往ク」「終焉、来タレ」の3枚を捨て札に置き、その後山札を再構成する。\r\n（条件を満たした状態で、このカードを右クリックすることにより発動可能）",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/13-A1-S-1.webp"
@@ -6485,8 +6488,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-A1-S-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ジェラーニエ\r\n望我",
+        "description": "【使用済】あなたはダメージを受けない。\r\n【即再起】あなたのメインフェイズが開始する。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/13-A1-S-1-Ex1.webp"
@@ -6515,8 +6518,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-A1-S-1-Ex2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ばんしょうそむくせんめつのかげ\r\n万象乖ク殲滅ノ影",
+        "description": "対応不可\r\n【攻撃後】相手は相手のオーラ、フレア、ライフのいずれかから桜花結晶を合計6つダストへ移動させる。",
         "type": "攻撃",
         "subType": "全力",
         "category": "切札",
@@ -6547,8 +6550,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-A1-S-1-Ex3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "われをなくしてせいじゃくをゆく\r\n我ヲ亡クシテ静寂ヲ往ク",
+        "description": "あなたは《前進》以外の基本動作を5回まで行ってもよい。\r\n攻撃「適正距離4-10、3/2」を行う。\r\n攻撃「適正距離5-10、1/1」を行う。\r\n攻撃「適正距離6-10、1/1」を行う。",
         "type": "行動",
         "subType": "全力",
         "category": "切札",
@@ -6575,8 +6578,8 @@
         "imagePath": "/furuyoni/images/card/eng/13-A1-S-1-Ex4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しゅうえん、きたれ\r\n終焉、来タレ",
+        "description": "【破棄時】相手は手札と山札をすべて捨て札にする。相手の集中力は0になる。相手を畏縮させる。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/13-A1-S-1-Ex4.webp"
@@ -6603,8 +6606,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せいれいしき\r\n精霊式",
+        "description": "対応不可【攻撃後】開花-この「精霊式」を追加札の「守護霊式」と交換してもよい。そうした場合、その「守護霊式」を山札の底に置いてもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-N-1.webp"
@@ -6634,8 +6637,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しゅごれいしき\r\n守護霊式",
+        "description": "【攻撃後】ダスト→自オーラ：1【攻撃後】開花-この「守護霊式」を追加札の「突撃霊式」と交換してもよい。そうした場合、その「突撃霊式」を山札の底に置いてもよい。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -6664,8 +6667,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-1-Ex2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とつげきれいしき\r\n突撃霊式",
+        "description": "対応不可【攻撃後】ダスト→自ライフ：1\r\n【攻撃後】開花-この「突撃霊式」を追加札の「神霊ヲウカ」と交換してもよい。そうした場合、その「神霊ヲウカ」を山札の底に置いてもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-N-1-Ex2.webp"
@@ -6695,8 +6698,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-1-Ex3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しんれいをうか\r\n神霊ヲウカ",
+        "description": "対応不可【攻撃後】ダスト→自オーラ：2",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -6725,8 +6728,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さくらふぶき\r\n桜吹雪",
+        "description": "【攻撃後】相手は以下のどちらかを選ぶ。\r\n・間合→自オーラ：1\r\n・相オーラ→間合：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-N-2.webp"
@@ -6756,8 +6759,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぎききょうしん\r\n義旗共振",
+        "description": "【攻撃後】カードを１枚引いてもよい。【攻撃後】あなたは手札を1枚選び、それを山札の底に置いてもよい。【攻撃後】このカードを山札の底に置いてもよい。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -6786,8 +6789,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さくらのはね\r\n桜の翅",
+        "description": "間合⇔ダスト：2この「桜の翅」を追加札の「再生」と交換する。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-N-4.webp"
@@ -6815,8 +6818,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-4-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さいせい\r\n再生",
+        "description": "ダスト→自オーラ：1ダスト→自フレア：1この「再生」を追加札の「桜の翅」と交換する。",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -6845,8 +6848,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おうかのおまもり\r\n桜花のお守り",
+        "description": "あなたは手札を１枚選び、それを伏せ札にしてもよい。そうした場合、対応した切札でない《攻撃》を打ち消す。開花-この「桜花のお守り」を追加札の「仄かなる輝き」と交換してもよい。そうした場合、その「仄かなる輝き」を山札の底に置いてもよい。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -6873,7 +6876,7 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-5-Ex1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "ほのかなるかがやき\r\n仄かなる輝き",
         "description": "",
         "type": "攻撃",
         "category": "通常札",
@@ -6902,8 +6905,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しき\r\n指揮",
+        "description": "【展開中】あなたの終了フェイズに攻撃「適正距離1-5、1/1、対応不可」を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-N-6.webp"
@@ -6930,8 +6933,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おいかぜ\r\n追い風",
+        "description": "【展開中】あなたの《攻撃》は距離拡大(遠1)を得る。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-N-7.webp"
@@ -6958,8 +6961,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "むねにおもいを\r\n胸に想いを",
+        "description": "開花-この「胸に想いを」を追加札の「両手に華を」に交換し、未使用に戻す。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-S-1.webp"
@@ -6988,8 +6991,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-S-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "りょうてにはなを\r\n両手に華を",
+        "description": "基本動作《纏い》を1回行う。\r\n【使用済】あなたの終了フェイズに基本動作《纏い》を1回行う。\r\n【使用済】開花―あなたが基本動作《纏い》を行うならば、代わりにダストまたはあなたのオーラからこのカードの上に桜花結晶1つを置いてもよい。その結果、5つになったならば、それらの桜花結晶をあなたのフレアへと移動させ、この「両手に華を」を追加札の「そして新たな幕開けを」に交換し、未使用に戻す。",
         "type": "行動",
         "subType": "全力",
         "category": "切札",
@@ -7017,8 +7020,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-S-1-Ex2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "そしてあらたなまくあけを\r\nそして新たな幕開けを",
+        "description": "【使用済】あなたの終了フェイズに攻撃「適正距離0-10、X/X、対応不可 【常時】Xは桜花結晶がちょうど5つある領域の数に等しい」を行う。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-S-1-Ex2.webp"
@@ -7033,7 +7036,7 @@
       "kor": {
         "name": "이 깃발의 이름 아래",
         "type": "공격",
-        "description": "【상시】 이 카드를 사용할 때, 당신의 부여패를 1장 선택해도 된다. 이 《공격》의 데미지로 이동하는 벚꽃결정은, 가능하다면 더스트나 플레어가 아니라 선택한 부여패 위로 이동시킨다.",
+        "description": "【상시】 이 카드를 사용할 때, 당신의 부여패를 1장 선택해도 된다. 이 《공격》의 데미지로 이동하는 벚꽃결정은, 가능하다면 더스트나 플레어가 아니라 선택한 부여패 위로 이동시킨다.(부여패가 존재하지 않는 등 불가능한 경우에는 기존 방식으로 벚꽃결정을 이동시킨다.)",
         "imagePath": "/furuyoni/images/card/kor/14-O-S-2.webp",
         "category": "비장패"
       },
@@ -7045,8 +7048,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "このはたのなのもとに\r\nこの旗の名の下に",
+        "description": "【常時】このカードを使用するに際し、あなたの付与札を1つ選んでもよい。この《攻撃》のダメージにより移動する桜花結晶はダストやフレアでなく選ばれた付与札に可能ならば動かす。(付与札が存在しないなど不可能な場合は通常通りに桜花結晶を動かす)",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-S-2.webp"
@@ -7077,8 +7080,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しきはまためぐりくる\r\n四季はまた廻り来る",
+        "description": "あなたの伏せ札からカードを1枚選び、山札の底に置いてもよい。\r\nカードを1枚引いてもよい。\r\n手札を1枚伏せ札にする。そうした場合、基本動作《纏い》を1回行う。\r\n【使用済】あなたのカードが追加札から別の領域へと移動した時、このカードを追加札に移してもよい。その後、このカードを未使用で追加札から得る。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -7106,8 +7109,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "まんてんのはなみちで\r\n満天の花道で",
+        "description": "【展開中】この付与札の上の桜花結晶がダストへと送られるならば、それは代わりにあなたのオーラへと移動する。あなたのオーラが5以上ならば、代わりにあなたのフレアへ移動する。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-O-S-4.webp"
@@ -7135,8 +7138,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さくらのそうけん\r\n桜の双剣",
+        "description": "【攻撃後】ダスト→自オーラ：1\r\n【攻撃後】この「桜の双剣」を追加札の「影の両手」と交換する。そうした場合、その「影の両手」を山札の底に置いてもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-N-1.webp"
@@ -7164,8 +7167,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-N-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かげのりょうて\r\n影の両手",
+        "description": "【攻撃後】相手がオーラへのダメージを選んだならば、相手の手札を見てその中から1枚を選び、それを捨て札にする。相手がライフへのダメージを選んだならば、相フレア→ダスト：2\r\n【攻撃後】この「影の両手」を追加札の「桜の双剣」と交換する。そうした場合、その「桜の双剣」を山札の底に置いてもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-N-1-Ex1.webp"
@@ -7193,8 +7196,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ひとりめざめて\r\nひとり目覚めて",
+        "description": "相オーラ→自オーラ：1\r\n開花―ダストに応じてこの「ひとり目覚めて」を以下のカードと交換し、それを山札の底に置く。\r\n5以下…「標をたどり」\r\n6以上…「影面見向き」",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-S-1.webp"
@@ -7224,8 +7227,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-S-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しるべをたどり\r\n標をたどり",
+        "description": "異なる基本動作を合計2回まで行う。\r\n開花―ダストに応じてこの「標をたどり」を以下のカードと交換し、それを未使用に戻す。\r\n0………「桜花眩く輝かん」\r\n1以上…「ふたり震える手を取ろう」",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-S-1-Ex1.webp"
@@ -7254,8 +7257,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-S-1-Ex2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かげともみむき\r\n影面見向き",
+        "description": "相手は相手のフレア、ライフのいずれかから桜花結晶を1つダストへ移動させる。\r\n開花―ダストに応じてこの「影面見向き」を以下のカードと交換し、それを未使用に戻す。\r\n12以上…「旧き虚路を歩みゆく」\r\n11以下…「ふたり震える手を取ろう」",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-S-1-Ex2.webp"
@@ -7284,8 +7287,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-S-1-Ex3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おうかまばゆくかがやかん\r\n桜花眩く輝かん",
+        "description": "超克\r\n【常時】Xはこのカードの上の桜花結晶の数に等しい。\r\n【攻撃後】このカードの上にダストから1つ桜花結晶を置く。\r\n【再起】桜花結晶がちょうど5つある領域が1つ以上ある。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-S-1-Ex3.webp"
@@ -7314,8 +7317,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-S-1-Ex4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふたりふるえるてをとろう\r\nふたり震える手を取ろう",
+        "description": "相オーラ→自オーラ：5",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-S-1-Ex4.webp"
@@ -7342,8 +7345,8 @@
         "imagePath": "/furuyoni/images/card/eng/14-A1-S-1-Ex5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふるきうつろをあゆみゆく\r\n旧き虚路を歩みゆく",
+        "description": "相手は次のメインフェイズを失う。\r\nこのカードを取り除く。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/14-A1-S-1-Ex5.webp"
@@ -7370,8 +7373,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せつじん\r\n雪刃",
+        "description": "【攻撃後】相手は1回凍結する。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-N-1.webp"
@@ -7399,8 +7402,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せんかいじん\r\n旋回刃",
+        "description": "【常時】この《攻撃》が対応されたならば、対応したカードの解決後に\r\n間合⇔ダスト：2",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-N-2.webp"
@@ -7428,8 +7431,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "つるぎのまい\r\n剣の舞",
+        "description": "【常時】相手のオーラに空きがないならば、この《攻撃》は+1/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-N-3.webp"
@@ -7457,8 +7460,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ゆきわたり\r\n雪渡り",
+        "description": "間合⇔ダスト：1\r\n相手のオーラの空きがないならば、\r\nダスト→間合：1\r\nを行ってもよい。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-N-4.webp"
@@ -7486,8 +7489,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぜったいれいど\r\n絶対零度",
+        "description": "全力化：攻撃『適正距離2-5、1/2』を行い、相手はオーラの空きがなくなるまで凍結する。\r\n基本動作《纏い》を1回行う。相手が3つ以上凍結しているならばさらにもう1回行う。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -7514,8 +7517,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かじかみ",
+        "description": "【展開時】相手は1回凍結する。\r\n【展開中】相手は基本動作《宿し》を行えない。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-N-6.webp"
@@ -7542,8 +7545,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しものいばら\r\n霜の茨",
+        "description": "【展開中】あなたのターンにあなたが初めて行う切札でない《攻撃》は+1/+1となる。\r\n【展開中】相手が凍結しているならば、あなたの開始フェイズの処理でこの付与札の上の桜花結晶を移動させなくてもよい。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-N-7.webp"
@@ -7570,8 +7573,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "コンルルヤンペ",
+        "description": "【攻撃後】相手がオーラへのダメージを選んだならば、相手はオーラの空きがなくなるまで凍結する。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-S-1.webp"
@@ -7602,8 +7605,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "レタルレラ",
+        "description": "相手のオーラに空きがないならば、対応した《攻撃》を打ち消す。そうでなければ、\r\n間合→相オーラ：1",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -7619,7 +7622,7 @@
       "kor": {
         "name": "우파스 툼",
         "type": "공격",
-        "description": "【공격후】 상대는 1번 동결된다.\r\n즉재기: 상대의 오라에 빈칸이 있는 상태에서 빈칸이 없어진다.",
+        "description": "【공격후】 상대는 1번 동결된다.\r\n(이 효과로 오라에 빈칸이 없어져도, 아직 사용중 상태이므로 미사용 상태로 되돌아가지 않는다.)\r\n즉재기: 상대의 오라에 빈칸이 있는 상태에서 빈칸이 없어진다.",
         "imagePath": "/furuyoni/images/card/kor/15-O-S-3.webp",
         "category": "비장패"
       },
@@ -7631,8 +7634,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ウパシトゥム",
+        "description": "【攻撃後】相手は1回凍結する。\r\n（この効果でオーラの空きがなくなっても、まだ使用中なので未使用には戻らない）\r\n【即再起】相手のオーラが空いた状態から空きがなくなる。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-S-3.webp"
@@ -7649,7 +7652,7 @@
       "kor": {
         "name": "포루챠르 토",
         "type": "부여",
-        "description": "【상시】 이 카드를 소모값 4로 《대응》을 가진 것처럼 상대의 《공격》에 끼어들어 사용해도 된다.\r\n【전개시】 간격 ↔ 더스트 (1)\r\n상대는 1번 동결된다.\r\n【파기시】 이 카드를 봉납 4로 사용해도 된다.",
+        "description": "【상시】 이 카드를 소모값 4로 《대응》을 가진 것처럼 상대의 《공격》에 끼어들어 사용해도 된다.\r\n【전개시】 간격 ↔ 더스트 (1)\r\n상대는 1번 동결된다.\r\n【파기시】 이 카드를 봉납 4로 사용해도 된다.\r\n(소모값은 지불한다.)",
         "imagePath": "/furuyoni/images/card/kor/15-O-S-4.webp",
         "category": "비장패"
       },
@@ -7661,8 +7664,8 @@
         "imagePath": "/furuyoni/images/card/eng/15-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ポルチャルトー",
+        "description": "【常時】このカードを消費4で《対応》を持つかのように相手の《攻撃》に割り込んで使用してもよい。\r\n【展開時】間合⇔ダスト：1　　相手は1回凍結する。\r\n【破棄時】このカードを納4として使用してもよい。（消費は支払う）",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/15-O-S-4.webp"
@@ -7690,8 +7693,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ほしのつめ\r\n星の爪",
+        "description": "対応不可（通常札）\r\n【攻撃後】自オーラ→相フレア：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-O-N-1.webp"
@@ -7719,8 +7722,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くらいあぎと\r\n昏い咢",
+        "description": "対応不可（通常札）\r\n【常時】この《攻撃》は+0/+Xとなる。Xは鏡映数に等しい。\r\n【攻撃後】あなたは畏縮する。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-O-N-2.webp"
@@ -7750,8 +7753,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かがみのあくま\r\n鏡の悪魔",
+        "description": "【攻撃後】自ライフ→ダスト：1",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -7780,8 +7783,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "げんえいほほう\r\n幻影歩法",
+        "description": "あなたは集中力を1得る。\r\n以下から1つを選ぶ。\r\n・このターン中、現在の間合は1増加し、達人の間合は1大きくなる。\r\n・このターン中、現在の間合は1減少し、達人の間合は1小さくなる。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-O-N-4.webp"
@@ -7809,8 +7812,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いし\r\n意志",
+        "description": "以下のどちらかまたは両方を行う。\r\n・自オーラ⇔自フレア：1\r\n・相オーラ⇔相フレア：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -7839,8 +7842,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "けいやく\r\n契約",
+        "description": "相フレア→自オーラ：1\r\n次の終了フェイズに相手のフレアがあなたのフレア以下ならば、\r\n自オーラ→相フレア：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -7867,8 +7870,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "よりばな\r\n寄花",
+        "description": "隙\r\n【常時】このカードの納は鏡映数だけ小さくなる。\r\n【破棄時】攻撃『適正距離1-4、0/0、【攻撃後】相オーラ→自オーラ：2』を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-O-N-7.webp"
@@ -7897,8 +7900,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふたばかがみのたたりがみ\r\n双葉鏡の祟り神",
+        "description": "あなたのライフが相手のライフよりも小さいならば、対応した《攻撃》の複製である《攻撃》を行う。その《攻撃》は対応した《攻撃》に対応しているものとして扱う。（複製とは適正距離、ダメージ、【攻撃後】効果、超克の有無、使用メガミが同一の攻撃である。適正距離やダメージは全ての効果を適用した後のものを用いる）\r\n対応した切札でない《攻撃》を打ち消す。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -7926,8 +7929,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "よつばかがみのわらべうた\r\n四葉鏡のわらべ唄",
+        "description": "切札でない付与札を1つ選び、その上から桜花結晶全てをダストに送る。\r\nその《付与》カードがいずれかの捨て札にあるならば、そのカードを使用してもよい。そうした場合、そのカードが《全力》ならばこのカードは終端を得る。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/16-O-S-2.webp"
@@ -7954,8 +7957,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "むつばかがみのほしのうみ\r\n六葉鏡の星の海",
+        "description": "超克　対応不可（通常札）【常時】この《攻撃》は+X/+Xとなる。Xは鏡映数に等しい。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/16-O-S-3.webp"
@@ -7984,8 +7987,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "やつはかがみのむこうがわ\r\n八葉鏡の向こう側",
+        "description": "終端\r\n【展開中】あなたのカードの矢印(→)は両矢印(⇔)になる。\r\n【破棄時】このカードを取り除く。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/16-O-S-4.webp"
@@ -8013,8 +8016,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "やつはかがみのあだざくら\r\n八葉鏡の徒桜",
+        "description": "終端　間合制限（0-7）\r\n【使用時/使用済】使用時とあなたが山札を再構成する直前に、あなたの捨て札または手札にあるヤツハのカード1枚を公開し、完全態にしてもよい。そうした場合、あなたは畏縮する。\r\n（例えば手札の「星の爪」を公開したなら追加札の「星辰の鉤爪」と交換され、手札に加わる）",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/16-A1-S-4.webp"
@@ -8049,8 +8052,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-N-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せいしんのかぎづめ\r\n星辰の鉤爪",
+        "description": "【攻撃後】相フレア→自オーラ：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-A1-N-1-Ex1.webp"
@@ -8078,8 +8081,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-N-2-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しんえんのおおぐち\r\n深淵の大口",
+        "description": "対応不可\r\n【常時】この《攻撃》は+X/+Xとなる。Xは鏡映数に等しい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-A1-N-2-Ex1.webp"
@@ -8109,8 +8112,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-N-3-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ほんとうのかいぶつ\r\n本当の怪物",
+        "description": "【攻撃後】相手がライフへのダメージを選んだならば、相ライフ→自ライフ：1",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -8139,8 +8142,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-N-4-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "げんえいれんけい\r\n幻影連携",
+        "description": "以下から1つを選ぶ。\r\n・このターン中、現在の間合は1増加し、達人の間合は1大きくなる。\r\n・このターン中、現在の間合は1減少し、達人の間合は1小さくなる。\r\nその後、攻撃『適正距離3-5、2/1』を行う。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-A1-N-4-Ex1.webp"
@@ -8168,8 +8171,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-N-5-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "けつい\r\n決意",
+        "description": "以下のどちらかまたは両方を行う。\r\n・自オーラ⇔自フレア：1\r\n・対応した切札でない《攻撃》のオーラへのダメージがX以下ならば、その《攻撃》を打ち消す。Xは鏡映数に1を足した値に等しい。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -8198,8 +8201,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-N-6-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "めいやく\r\n盟約",
+        "description": "以下から1つを選ぶ。\r\n・相オーラ⇔自フレア：1\r\n・相フレア⇔自オーラ：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -8226,8 +8229,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-A1-N-7-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あだよりばな\r\n徒寄花",
+        "description": "【破棄時】完全態にした枚数に応じて以下を行う。\r\n3以下…あなたの捨て札または手札にあるヤツハのカード1枚を公開し、完全態にしてもよい。\r\n4以上…このカードを山札の底に置き、ライフ→ゲーム外：2",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-A1-N-7-Ex1.webp"
@@ -8254,8 +8257,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-AA1-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みしらぬせかい\r\n見知らぬ世界",
+        "description": "【常時】このカードがあなたがこのゲームで初めて使用するカードならば、使用するに際し、ゲーム外から桜花結晶を納めてもよい。\r\n【破棄時】あなたは基本動作《前進》を2回行う。その後、このカードを取り除き、追加札から「色づく世界」を未使用で得る。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-AA1-N-7.webp"
@@ -8282,8 +8285,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-AA1-N-7-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いろづくせかい\r\n色づく世界",
+        "description": "桜降る代の旅路に任意の始点から出発する。\r\n【使用済】各ターンの開始フェイズの開始時に所在地の効果を解決し、桜花結晶を次の位置へと時計回りに動かす。始点の効果を2回目に解決するならば、代わりに家路の効果を解決する。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-AA1-N-7-Ex1.webp"
@@ -8298,7 +8301,7 @@
       "kor": {
         "name": "그녀로서의 벚꽃 내리는 시대",
         "type": "행동",
-        "description": "추억에서 카드를 1장 선택하고, 손패로 되돌린다.\r\n【사용됨】 당신이 카드를 뽑는다면, 대신 추억에 있는 카드를 선택해서 손패로 되돌려도 된다.\r\n【사용됨】 당신이 패산의 재구성으로 데미지를 받는다면, 대신 추억에 있는 카드를 1장 선택해서 공개하고, 그 카드를 게임에서 제외해도 된다.",
+        "description": "추억에서 카드를 1장 선택하고, 손패로 되돌린다.\r\n【사용됨】 당신이 카드를 뽑는다면, 대신 추억에 있는 카드를 선택해서 손패로 되돌려도 된다.\r\n【사용됨】 당신이 패산의 재구성으로 데미지를 받는다면, 대신 추억에 있는 카드를 1장 선택해서 공개하고, 그 카드를 게임에서 제외해도 된다.\r\n(추억에서 되돌리는 카드는 공개하고 완전태로 만들 수 있다.)",
         "imagePath": "/furuyoni/images/card/kor/16-AA1-N-7-Ex2.webp",
         "category": "통상패"
       },
@@ -8310,8 +8313,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-AA1-N-7-Ex2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かのじょにとってのさくらふるよ\r\n彼女にとっての桜降る代",
+        "description": "思い出からカードを1枚選び、それを手札に戻す。\r\n【使用済】あなたがカードを引くならば、代わりに思い出のカードを選んで手札に戻してもよい。\r\n【使用済】あなたが山札の再構成によりダメージを受けるならば、代わりに思い出のカードを1枚選んで公開し、それを取り除いてもよい。\r\n（思い出から戻るカードは公開し完全態とできる）",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/16-AA1-N-7-Ex2.webp"
@@ -8326,7 +8329,7 @@
       "kor": {
         "name": "그녀로서의 자아와 결의",
         "type": "행동",
-        "description": "버림패, 덮음패, 손패 중에서 야츠하의 카드를 1장 공개하고, 그 카드를 완전태로 만들어도 된다. 그 후, 그 카드를 패산 위에 놓아도 된다.\r\n【사용됨】 당신은 어떤 《공격》에 대응을 수행하는 것 대신, 이 카드를 게임에서 제외하고, 손패에서 다른 여신의 카드를 1장 버림패로 만들어도 된다. 그렇게 한 경우, 그 《공격》을 무효화한다.",
+        "description": "버림패, 덮음패, 손패 중에서 야츠하의 카드를 1장 공개하고, 그 카드를 완전태로 만들어도 된다. 그 후, 그 카드를 패산 위에 놓아도 된다.\r\n【사용됨】 당신은 어떤 《공격》에 대응을 수행하는 것 대신, 이 카드를 게임에서 제외하고, 손패에서 다른 여신의 카드를 1장 버림패로 만들어도 된다. 그렇게 한 경우, 그 《공격》을 무효화한다.\r\n(대응불가를 가진 《공격》에도 가능하다.)",
         "imagePath": "/furuyoni/images/card/kor/16-AA1-S-4.webp",
         "category": "비장패"
       },
@@ -8338,8 +8341,8 @@
         "imagePath": "/furuyoni/images/card/eng/16-AA1-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かのじょにとってのじがとけつい\r\n彼女にとっての自我と決意",
+        "description": "捨て札、伏せ札、手札のいずれかからヤツハのカードを1枚公開し、そのカードを完全態にしてもよい。その後、そのカードを山札の上に置いてもよい。\r\n【使用済】あなたはある《攻撃》に対応を行う代わりにこのカードを取り除き、手札から他のメガミのカード1枚を捨て札にしてもよい。そうした場合、その《攻撃》を打ち消す。\r\n（対応不可を持つ《攻撃》にも行える）",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/16-AA1-S-4.webp"
@@ -8420,8 +8423,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "すいらいきゅう\r\n水雷球",
+        "description": "【常時】順風ならば、この《攻撃》は+2/+2となる。\r\n【攻撃後】逆風ならば、間合⇔ダスト：2",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-N-1.webp"
@@ -8449,8 +8452,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "すいりゅう\r\n水流",
+        "description": "【常時】順風ならば、この《攻撃》は+1/+1となる。\r\n全力化：【常時】この《攻撃》は対応不可（通常札）を得るとともに、そのダメージにより移動する桜花結晶はダストやフレアでなく間合に動かす。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-N-2.webp"
@@ -8478,8 +8481,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きょうさん\r\n強酸",
+        "description": "【常時】逆風ならば、この《攻撃》のライフへのダメージにより移動する桜花結晶はフレアでなくダストに動かす。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-N-3.webp"
@@ -8509,8 +8512,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かいしょう\r\n海嘯",
+        "description": "現在の間合が4以下ならば、ダスト→間合：1\r\n逆風ならば、この矢印効果の左側を相手のフレアに変更する。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -8539,8 +8542,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "じゅんびばんたん\r\n準備万端",
+        "description": "ダスト→自オーラ：3\r\nカードを1枚引いてもよい。\r\n逆風ならばこのターンの間、手札の上限が1増加する。",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -8555,7 +8558,7 @@
       "kor": {
         "name": "나침반",
         "type": "부여",
-        "description": "【전개중】 당신의 《공격》에 적정거리 5를 추가하고, 상대의 《공격》에서 적정거리 5를 소거한다. 이 효과가 중첩되면 상쇄된다.\r\n【파기시】 더스트 → 자신 오라 (1)",
+        "description": "【전개중】 당신의 《공격》에 적정거리 5를 추가하고, 상대의 《공격》에서 적정거리 5를 소거한다. 이 효과가 중첩되면 상쇄된다.\r\n(거리확대, 거리축소보다 먼저 적용한다.)\r\n【파기시】 더스트 → 자신 오라 (1)",
         "imagePath": "/furuyoni/images/card/kor/17-O-N-6.webp",
         "category": "통상패"
       },
@@ -8567,8 +8570,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "らしんばん\r\n羅針盤",
+        "description": "【展開中】あなたの《攻撃》に適正距離5を追加し、相手の《攻撃》から適正距離5を取り除く。この効果が重複したら相殺する。\r\n（距離拡大、距離縮小より先に適用する）\r\n【破棄時】ダスト→自オーラ：1",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-N-6.webp"
@@ -8595,8 +8598,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "なみよび\r\n波呼び",
+        "description": "【展開中】あなたのターンかつ順風である場合のみ、このカードの上の桜花結晶は移動する。\r\n【展開中/破棄時】あなたの開始フェイズの開始時と破棄時に伏せ札を1枚選び、山札の上に置いてもよい。\r\n【破棄時】基本動作を1回まで行い、攻撃『適正距離2-7、1/-』を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-N-7.webp"
@@ -8623,8 +8626,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いさなかいいき\r\nイサナ海域",
+        "description": "【常時】順風ならば、この《攻撃》は+0/+2となる。\r\n【攻撃後】逆風ならば、\r\nダスト→間合：2\r\nを行い、このカードを未使用に戻す。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-S-1.webp"
@@ -8653,8 +8656,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "およぎびほうか\r\nオヨギビ砲火",
+        "description": "【常時】このカードが未使用に戻った時、基本動作を1回行ってもよい。\r\n【即再起】相手のターンに現在の間合がターン開始時の間合から2以上近付く。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-S-2.webp"
@@ -8683,8 +8686,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "からはりとうだい\r\nカラハリ灯台",
+        "description": "逆風でないならば、あなたは畏縮する。\r\n【使用済】達人の間合は1大きくなる。\r\n【使用済】相手のターンに相手が《攻撃》でないカードを手札から使用したならば、それを解決する代わりに捨て札に置き、このカードを未使用に戻す。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-S-3.webp"
@@ -8711,8 +8714,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みおびきこうろ\r\nミオビキ航路",
+        "description": "逆風ならば、相手を畏縮させ、相手の山札の上から1枚を公開する。それが《攻撃》カードならば捨て札にする。\r\n【使用済】あなたの開始フェイズの開始時に逆風ならば、このカードを消費を支払わずに使用してもよい。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/17-O-S-4.webp"
@@ -8739,8 +8742,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-A1-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せんらい\r\n潜雷",
+        "description": "隙\r\n【展開時】潜水を行う。\r\n【破棄時】攻撃『適正距離1-7、-/1、対応不可』を行う。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/17-A1-N-4.webp"
@@ -8756,7 +8759,7 @@
         "name": "사기리 해역",
         "type": "부여",
         "subType": "대응",
-        "description": "【전개중】 상대 턴 동안, 적정거리를 3개 이상 가진 상대의 《공격》은 그중에서 최소값과 최대값을 제외한 적정거리를 모두 잃는다.",
+        "description": "【전개중】 상대 턴 동안, 적정거리를 3개 이상 가진 상대의 《공격》은 그중에서 최소값과 최대값을 제외한 적정거리를 모두 잃는다.\r\n(예를 들어 3-5라면, 3,5가 된다.)",
         "imagePath": "/furuyoni/images/card/kor/17-A1-S-1.webp",
         "category": "비장패"
       },
@@ -8769,8 +8772,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-A1-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さぎりかいいき\r\nサギリ海域",
+        "description": "【展開中】相手のターン中、適正距離を3つ以上持つ相手の《攻撃》はその中から最小と最大の値を除いて全ての適正距離を失う。\r\n（例えば3-5ならば3,5になる）",
         "type": "付与",
         "subType": "対応",
         "category": "切札",
@@ -8799,8 +8802,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-A1-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "わだなかこうろ\r\nワダナカ航路",
+        "description": "【展開時】潜水を行い、相手を畏縮させる。\r\n【破棄時】順風ならば、相手のオーラとライフに1ダメージを与える。\r\n【再起】逆風である。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/17-A1-S-4.webp"
@@ -8828,8 +8831,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-A1-Di-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "潜水前進",
+        "description": "このターン中、現在の間合は1減少し、達人の間合は1小さくなる。\r\nその後、これを公開させた《攻撃》があるならば直ちに間合を判定する。それが外れたならば《攻撃》を失敗として解決せずに終了し、次のターンにあなたは順風となる。",
         "type": "不定",
         "category": "不定",
         "imagePath": "/furuyoni/images/card/jpn/17-A1-Di-1.webp"
@@ -8855,8 +8858,8 @@
         "imagePath": "/furuyoni/images/card/eng/17-A1-Di-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "潜水後退",
+        "description": "このターン中、現在の間合は1増加し、達人の間合は1大きくなる。\r\nその後、これを公開させた《攻撃》があるならば直ちに間合を判定する。それが外れたならば《攻撃》を失敗として解決せずに終了し、次のターンにあなたは順風となる。",
         "type": "不定",
         "category": "不定",
         "imagePath": "/furuyoni/images/card/jpn/17-A1-Di-2.webp"
@@ -8882,8 +8885,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "じんとう\r\n陣頭",
+        "description": "【攻撃後】徴兵を1回行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/18-O-N-1.webp"
@@ -8911,8 +8914,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はんこう\r\n反攻",
+        "description": "【常時】あなたが直前のターンに対応しているならば、この《攻撃》は+2/+1となる。\r\n全力化：【常時】この《攻撃》は+1/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/18-O-N-2.webp"
@@ -8929,7 +8932,7 @@
         "name": "쏘아 떨구기",
         "type": "공격",
         "subType": "대응",
-        "description": "【공격후】 부동 - 이번 턴 동안 아직 현재 간격이 변화하지 않았다면, 대응한 《전력》도 비장패도 아닌 《공격》을 무효화한다.",
+        "description": "【공격후】 부동 - 이번 턴 동안 아직 현재 간격이 변화하지 않았다면, 대응한 《전력》도 비장패도 아닌 《공격》을 무효화한다.\r\n(이 카드는 여신 '코다마'의 카드로 취급한다.)",
         "imagePath": "/furuyoni/images/card/kor/18-O-N-3.webp",
         "category": "통상패"
       },
@@ -8942,8 +8945,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "うちおとし\r\n撃ち落とし",
+        "description": "【攻撃後】不動―このターン中に現在の間合が変化していないならば、対応した《全力》でも切札でもない《攻撃》を打ち消す。\r\n（このカードはコダマのカードとして扱う）",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -8972,8 +8975,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ごうれい\r\n号令",
+        "description": "徴兵を1回行う。\r\nあなたが直前のターンに対応しているならば、集中力を1得る。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/18-O-N-4.webp"
@@ -9001,8 +9004,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぼうへき\r\n防壁",
+        "description": "終端\r\nこのカードがこのターンであなたが行う最初の対応ならば、対応した切札でも《全力》でもない《攻撃》を打ち消す。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -9031,8 +9034,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せいあつぜんしん\r\n制圧前進",
+        "description": "以下を3回選ぶ。同じものを複数回選んでもよい。\r\n・徴兵を1回行う。\r\n・基本動作《前進》を行う。\r\n・基本動作《纏い》を行う。",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -9047,7 +9050,7 @@
       "kor": {
         "name": "전장",
         "type": "부여",
-        "description": "【전개중】 부동 - 당신이 이번 턴에 처음으로 비장패가 아닌 《공격》을 수행했을 때, 이번 턴 동안 아직 현재 간격이 변화하지 않았다면 그 《공격》은 +1/+1 된다.",
+        "description": "【전개중】 부동 - 당신이 이번 턴에 처음으로 비장패가 아닌 《공격》을 수행했을 때, 이번 턴 동안 아직 현재 간격이 변화하지 않았다면 그 《공격》은 +1/+1 된다.\r\n(이 카드는 여신 '코다마'의 카드로 취급한다.)",
         "imagePath": "/furuyoni/images/card/kor/18-O-N-7.webp",
         "category": "통상패"
       },
@@ -9059,8 +9062,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いくさば\r\n戦場",
+        "description": "【展開中】不動―あなたがこのターンで初めて切札でない《攻撃》を行った時、このターン中に現在の間合が変化していないならば、その《攻撃》は+1/+1となる。\r\n（このカードはコダマのカードとして扱う）",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/18-O-N-7.webp"
@@ -9089,8 +9092,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "てんしゅはちりょうかく\r\n天主八龍閣",
+        "description": "終端\r\n【展開時】対応した《攻撃》を打ち消す。\r\n【展開中】あなたの他のメガミまたは兵員の《攻撃》は+0/+1となる。",
         "type": "付与",
         "subType": "対応",
         "category": "切札",
@@ -9119,8 +9122,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みえひざまるやぐら\r\n三重膝丸櫓",
+        "description": "【常時】あなたがこのターン中に攻撃しているならば、このカードは使用できない。\r\n【即再起】あなたが終端を持つカードを使用する。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/18-O-S-2.webp"
@@ -9149,8 +9152,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "おおてたてなしもん\r\n大手楯無門",
+        "description": "終端\r\n追加札の「闘神」と手札のカード1枚を選び、それらを兵舎に徴兵済で置く。徴兵を1回行う。\r\n【使用済】あなたが兵舎から使用した《攻撃》カードによる《攻撃》は+1/+0となる。あなたが兵舎から使用した《対応》カードは終端を失う。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/18-O-S-3.webp"
@@ -9165,7 +9168,7 @@
       "kor": {
         "name": "투신",
         "type": "공격",
-        "description": "【상시】 부동 - 이번 턴 동안 현재 간격이 변화하지 않았다면, 이 《공격》은 +0/+1 된다.\r\n【공격후】 이 카드를 추가패로 되돌린다.",
+        "description": "【상시】 부동 - 이번 턴 동안 현재 간격이 변화하지 않았다면, 이 《공격》은 +0/+1 된다.\r\n【공격후】 이 카드를 추가패로 되돌린다.\r\n(이 카드는 여신 '코다마'의 카드로 취급한다.)",
         "imagePath": "/furuyoni/images/card/kor/18-O-S-3-Ex1.webp",
         "category": "비장패"
       },
@@ -9177,8 +9180,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-S-3-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とうしん\r\n闘神",
+        "description": "【常時】不動―このターン中に現在の間合が変化していないならば、この《攻撃》は+0/+1となる。\r\n【攻撃後】このカードを追加札に戻す。\r\n（このカードはコダマのカードとして扱う）",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/18-O-S-3-Ex1.webp"
@@ -9208,8 +9211,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "やましろみずきのときのこえ\r\n山城水津城の鬨の声",
+        "description": "【展開中】元々終端を持つあなたの通常札と兵員は終端を失う。\r\n【展開中】元々が《全力》であるあなたの通常札は《全力》を失い、終端を得る。",
         "type": "付与",
         "subType": "全力",
         "category": "切札",
@@ -9238,8 +9241,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-T-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "やりへい\r\n槍兵",
+        "description": "終端\r\n【常時】あなたが直前のターンに対応しているならば、この《攻撃》は+1/+0となる。",
         "type": "攻撃",
         "category": "兵士",
         "imagePath": "/furuyoni/images/card/jpn/18-O-T-1.webp"
@@ -9269,8 +9272,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-T-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "たてへい\r\n盾兵",
+        "description": "終端\r\n対応した《全力》でない《攻撃》は-1/+0となる。",
         "type": "行動",
         "subType": "対応",
         "category": "兵士",
@@ -9297,8 +9300,8 @@
         "imagePath": "/furuyoni/images/card/eng/18-O-T-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きへい\r\n騎兵",
+        "description": "終端\r\n【展開中】相手の《攻撃》は対応不可を失う。\r\n【破棄時】あなたは集中力を1得る。",
         "type": "付与",
         "category": "兵士",
         "imagePath": "/furuyoni/images/card/jpn/18-O-T-3.webp"
@@ -9325,8 +9328,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くうせん\r\n空閃",
+        "description": "【常時】あなたの土壌の種結晶が全て萌芽しているならば、この《攻撃》は+1/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-N-1.webp"
@@ -9354,8 +9357,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ちょうちゃく\r\n打擲",
+        "description": "【常時】あなたの付与札に種結晶があるならば、この《攻撃》は+1/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-N-2.webp"
@@ -9383,8 +9386,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "からうち\r\n殻打ち",
+        "description": "【攻撃後】このターンにあなたが次に使用する他のメガミの《付与》カードは生育2を得る。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-N-3.webp"
@@ -9414,8 +9417,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さおうがち\r\n棹穿ち",
+        "description": "【常時】この《攻撃》のダメージにより移動する桜花結晶は、ダストやフレアではなく間合に移動する。\r\n【攻撃後】あなたが付与札を出しているならば、このターンに相手が行う次の基本動作は効果を解決しない。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -9444,8 +9447,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あし\r\n葦",
+        "description": "生育1\r\n【展開時】ダスト→間合：1\r\n【展開中】現在の間合はX増加し、達人の間合はX大きくなる。Xはこの付与札の上の種結晶の個数に等しい。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-N-5.webp"
@@ -9472,8 +9475,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ほうせんか\r\n鳳仙花",
+        "description": "生育2　隙\r\n【展開中】相手のメインフェイズの開始時に攻撃『適正距離3-5、2/1』を行う。\r\nあなたのメインフェイズの開始時に攻撃『適正距離1-3、2/1』を行う。\r\n【破棄時】相手を畏縮させる。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-N-6.webp"
@@ -9502,8 +9505,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "のいばら\r\n野茨",
+        "description": "生育2\r\n【展開時/展開中】展開時とあなたの終了フェイズに基本動作を1回行ってもよい。\r\n【展開中】相手が各ターンに初めて間合にある桜花結晶を動かした時、ダスト→間合：1\r\n【展開中】相手のターンにこの付与札の上の桜花結晶は移動しない。",
         "type": "付与",
         "subType": "全力",
         "category": "通常札",
@@ -9531,8 +9534,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いんがりつのね\r\n因果律の根",
+        "description": "【攻撃後】あなたの土壌の種結晶を1つ萌芽させる。\r\n【再起】あなたの土壌に萌芽した種結晶がない。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-S-1.webp"
@@ -9563,8 +9566,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かのうせいのえだ\r\n可能性の枝",
+        "description": "生育1\r\n【常時】Xは《付与》カードの上にあるあなたの種結晶の個数の合計に等しい。\r\n【展開時】対応した《攻撃》は-X/+0となる。\r\n【展開中】相手の開始フェイズの開始時に攻撃『1-5、0/1、【常時】この攻撃は+X/+0となる』を行う。",
         "type": "付与",
         "subType": "対応",
         "category": "切札",
@@ -9593,8 +9596,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "けつまつのかじつ\r\n結末の果実",
+        "description": "【展開中】この付与札の上の桜花結晶はメインフェイズに移動しない。開始フェイズの処理であなたの他の付与札から桜花結晶がダストへと送られるならば、それは代わりにこの付与札へと移動する。\r\n【展開中】この付与札の上の種結晶が5個になったターンの終了フェイズに、攻撃『適正距離5、5/5、不可避、【常時】この《攻撃》は打ち消されない』を行い、このカードの上の桜花結晶を全てダストに送る。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-S-3.webp"
@@ -9622,8 +9625,8 @@
         "imagePath": "/furuyoni/images/card/eng/19-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "たきがわめぐみのたなごころ\r\n瀧河希の掌",
+        "description": "生育5\r\n【展開中】各ターンにあなたが初めて行うオーラへのダメージが3以下の《攻撃》は+1/+1となる。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/19-O-S-4.webp"
@@ -9651,8 +9654,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くうそう\r\n空想",
+        "description": "【常時】Xは現在の幕の値の半分（切り上げ）に等しい。\r\n【攻撃後】現在の幕の値が偶数ならば、間合⇔ダスト：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-N-1.webp"
@@ -9680,8 +9683,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きゃくほんか\r\n脚本化",
+        "description": "【攻撃後】追加札から構想カードを1枚準備してもよい。\r\n【常時】あなたの終了フェイズにこのカードを捨て札から山札の底に置いてもよい。そうした場合、相手は集中力を1得る。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-N-2.webp"
@@ -9709,8 +9712,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "えんしゅつか\r\n演出化",
+        "description": "【常時】現在の幕の色が紫ならば、この《攻撃》は+0/+1となる。\r\n【攻撃後】あなたはこのターンに構想を進められない。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-N-3.webp"
@@ -9738,8 +9741,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だんこう\r\n断行",
+        "description": "基本動作《纏い》を1回行ってもよい。その後、《纏い》以外の基本動作を1回行ってもよい。\r\n全力化：追加札または達成済から構想カードを1枚準備してもよい。相手を畏縮させる。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-N-4.webp"
@@ -9765,8 +9768,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ざんこう\r\n残光",
+        "description": "現在の幕の色が紫または緑ならば、相手の手札を見てその中から1枚を選び、それを山札の底に置く。\r\n相手は集中力を1得る。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-N-5.webp"
@@ -9794,8 +9797,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "そっきょう\r\n即興",
+        "description": "手札から他のメガミの全力でない《攻撃》カードを1枚使用してもよい。このカードが対応している《攻撃》があるならば、使用されたカードはそれに対応しているものと扱う。その後、現在の幕の色が緑かつそのカードが捨て札にあるならば、そのカードを手札に戻す。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -9822,8 +9825,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ふうさつ\r\n封殺",
+        "description": "【展開時】カードの名前を1つ宣言する。\r\n【展開中】相手のターン中、相手は宣言された名前を持つ切札を使用できない。現在の幕の色が赤ならば、宣言された名前を持つ通常札も使用できない。\r\n【破棄時】あなたは集中力を1得る。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-N-7.webp"
@@ -9850,8 +9853,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "たまゆらふみ",
+        "description": "追加札または達成済から構想カードを1枚準備する。達成済から準備したらこのカードを取り除く。\r\n【使用済】相手の開始フェイズの開始時に、あなたが直前のターンに構想を進めていないならば、このカードを未使用に戻す。そうした場合、相手は集中力を1得る。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-S-1.webp"
@@ -9878,8 +9881,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ほかげきらぼし",
+        "description": "【常時】Xは現在の幕の値に等しい。\r\n現在の幕の色が緑、赤、紫のいずれかならば、その効果を得る。\r\n【即再起】次の幕へ向かう。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-S-2.webp"
@@ -9908,8 +9911,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あたらよちよに",
+        "description": "【攻撃後】対応した切札でない《攻撃》を打ち消す。その《攻撃》が通常札ならば、そのカードを山札の上に置く。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -9939,8 +9942,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はらからのあまつそら",
+        "description": "あなたの手札から通常札を1枚公開し、それを取り除いてもよい。そうした場合、眼前構築で選んでいないあなたの通常札1枚を公開し、それを手札に加える。\r\nこのカードを取り除き、眼前構築で選んでいないあなたの切札1枚を未使用で得る。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/20-O-S-4.webp"
@@ -9967,8 +9970,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "殺陣",
+        "description": "このターンに《攻撃》か対応が合計2回以上行われた。\r\n（達成回数：2）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-1.webp"
@@ -9994,8 +9997,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "桜飛沫",
+        "description": "このターンに3個以上の桜花結晶が付与札以外の領域へ一度に移動した。\r\n（達成回数：1）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-2.webp"
@@ -10021,8 +10024,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "鼓動",
+        "description": "このターンにライフが変化した。\r\n（達成回数：2）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-3.webp"
@@ -10048,8 +10051,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "明転",
+        "description": "このターンに矢印効果を解決した。\r\n（達成回数：2）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-4.webp"
@@ -10075,8 +10078,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "粒立て",
+        "description": "このターンに準備されたのでなく、このターンに《全力》カードが使用された。\r\n（達成回数：1）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-5.webp"
@@ -10102,8 +10105,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "位置取り",
+        "description": "現在の間合がターン開始時の間合から2以上変化し、かつ8以下である。\r\n（達成回数：2）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-6.webp"
@@ -10129,8 +10132,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-1-WILL.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "殺陣",
+        "description": "このターンに《攻撃》か対応が合計5回以上行われた。\r\n（達成回数：1）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-1-WILL.webp"
@@ -10156,8 +10159,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-2-WILL.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "桜飛沫",
+        "description": "このターンに5個以上の桜花結晶が一度に移動した。\r\n（達成回数：1）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-2-WILL.webp"
@@ -10183,8 +10186,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-3-WILL.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "鼓動",
+        "description": "このターンにライフが一度に2以上変化した。\r\n（達成回数：1）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-3-WILL.webp"
@@ -10210,8 +10213,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-4-WILL.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "明転",
+        "description": "このターンに矢印効果を2回以上解決した。\r\n（達成回数：2）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-4-WILL.webp"
@@ -10237,8 +10240,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-5-WILL.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "粒立て",
+        "description": "このターンに準備されたのでなく、このターンに《全力》カードが使用された。\r\n（達成回数：2）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-5-WILL.webp"
@@ -10264,8 +10267,8 @@
         "imagePath": "/furuyoni/images/card/eng/20-O-P-6-WILL.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "位置取り",
+        "description": "現在の間合がターン開始時の間合から5以上変化している。\r\n（達成回数：1）",
         "type": "不定",
         "category": "構想",
         "imagePath": "/furuyoni/images/card/jpn/20-O-P-6-WILL.webp"
@@ -10291,8 +10294,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "こうじん\r\n紅刃",
+        "description": "(+1) 【常時】この《攻撃》は+1/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-N-1.webp"
@@ -10320,8 +10323,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さんげじん\r\n散華刃",
+        "description": "(+1) 【常時】この《攻撃》は+1/+0となる。\r\n(+1) 【攻撃後】相手のオーラが4以下ならば、相オーラ→自オーラ：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-N-2.webp"
@@ -10349,8 +10352,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しけんらんじん\r\n四剣乱刃",
+        "description": "(+1) 全力化：【攻撃後】攻撃『適正距離2-4、1/1』を3回行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-N-3.webp"
@@ -10380,8 +10383,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きりはらい\r\n斬り払い",
+        "description": "【常時】このカードは対応でしか使用できない。\r\n(+2) 【攻撃後】対応した《攻撃》のダメージを打ち消す。その《攻撃》が《全力》または切札であるなら禁忌ゲージを2上げる。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -10410,8 +10413,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とげぬい\r\n棘縫い",
+        "description": "現在の間合に応じて以下を行う。\r\n5以上…間合→ダスト：2\r\n2以上4以下…このターンにあなたが次に行う他のメガミによる切札でない《攻撃》は+1/+0となり、対応不可（通常札）を得る。\r\n1以下…ダスト→間合：2",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-N-5.webp"
@@ -10439,8 +10442,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "けっしょうらんりゅう\r\n血晶乱流",
+        "description": "以下から異なる2つを選び、上から順に行う。\r\n・攻撃『適正距離5-9、4/1』を行う。\r\n・現在の間合が5以上ならば、間合→ダスト：2\r\n・攻撃『適正距離2-4、2/2』を行う。\r\n・ダスト→自オーラ：2",
         "type": "行動",
         "subType": "全力",
         "category": "通常札",
@@ -10467,8 +10470,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ちしぶき\r\n血飛沫",
+        "description": "(+1) 【展開時】攻撃『適正距離3、2/2、不可避』を行う。\r\n隙\r\n【展開中】相手のオーラへと桜花結晶が移動するならば、それは代わりにダストへと移動する。そうした場合、このカードの上から桜花結晶を1つダストに送る。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-N-7.webp"
@@ -10495,8 +10498,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ともしび\r\n灯",
+        "description": "(+3) あなたのフレアにある桜花結晶全てをダストに送り、あなたのライフに1ダメージを与える。\r\n追加札から「暁」を未使用で得る。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-S-1.webp"
@@ -10523,8 +10526,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-S-1-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あかつき\r\n暁",
+        "description": "超克\r\n【常時】この《攻撃》が通常札に対応されたならば、それを解決する代わりに捨て札に置き、この《攻撃》を-1/+0する。切札に対応されたならば、それを解決する代わりに使用済にし、この《攻撃》を-1/-1する。\r\n【攻撃後】このカードを取り除く。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-S-1-Ex1.webp"
@@ -10541,7 +10544,7 @@
       "kor": {
         "name": "묘도",
         "type": "부여",
-        "description": "〔+1 【전개시】 공격 『적정거리 3-4, 3/3, 대응불가(통상패)』을 수행하고, 당신의 라이프에 1 데미지를 준다.〕\r\n【상시】 이 카드 위에 벚꽃결정이 놓여 있다면, 당신은 승리할 수 없다.",
+        "description": "〔+2 【전개시】 공격 『적정거리 3-4, 3/3, 대응불가(통상패)』을 수행하고, 당신의 라이프에 1 데미지를 준다.〕\r\n【상시】 이 카드 위에 벚꽃결정이 놓여 있다면, 당신은 승리할 수 없다.",
         "imagePath": "/furuyoni/images/card/kor/21-O-S-2.webp",
         "category": "비장패"
       },
@@ -10553,8 +10556,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はかみち\r\n阡",
+        "description": "(+2) 【展開時】攻撃『適正距離3-4、3/3、対応不可（通常札）』を行い、あなたのライフに1ダメージを与える。\r\n【常時】このカードの上に桜花結晶が置かれているならば、あなたは勝利できない。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-S-2.webp"
@@ -10584,8 +10587,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かたしろ\r\n尸",
+        "description": "【攻撃後】このターン中、このカードが対応した《攻撃》を行ったメガミのカードを相手が次に使用するならば、追加コストとして手札からそのメガミのカード1枚を捨て札にしなくてはならない。\r\n【即再起】あなたの禁忌ゲージが6の倍数になる。",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -10615,8 +10618,8 @@
         "imagePath": "/furuyoni/images/card/eng/21-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ことわり\r\n理",
+        "description": "以下を3回まで選ぶ。 同じものを複数回選んでもよい。\r\n・間合→ダスト：1\r\n・あなたのライフが8以下ならば、あなたの禁忌ゲージを1上げる。そうした場合、自オーラ→自ライフ：1",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/21-O-S-4.webp"
@@ -10631,7 +10634,7 @@
       "kor": {
         "name": "거짓 찌르기",
         "type": "공격",
-        "description": "위증\r\n【상시】 이 위증이 반증되지 않았다면, 이 카드를 공개해도 된다. 그것이 거짓이었다면, 상대는 오라 데미지를 선택할 수 없다.",
+        "description": "위증\r\n【상시】 이 위증이 반증되지 않았다면, 이 카드를 공개해도 된다. 그것이 거짓이었다면, 상대는 오라 데미지를 선택할 수 없다.\r\n(공개했다면 해결한 후에 버림패가 된다.)",
         "imagePath": "/furuyoni/images/card/kor/22-O-N-1.webp",
         "category": "통상패"
       },
@@ -10643,8 +10646,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "うそつき\r\n嘘突き",
+        "description": "偽証\r\n【常時】この偽証が反証されなかったならば、このカードを公開してもよい。それが偽物だったならば、相手はオーラへのダメージを選べない。\r\n（公開したならば解決後に捨て札になる）",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-O-N-1.webp"
@@ -10672,8 +10675,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "つどうち\r\n都度討ち",
+        "description": "偽証\r\n【常時】あなたの捨て札と付与札に通常札が合計3枚以上あるならば、この《攻撃》は+1/+0となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-O-N-2.webp"
@@ -10690,7 +10693,7 @@
         "name": "먹칠",
         "type": "공격",
         "subType": "대응",
-        "description": "위증\r\n【상시】 이번 턴 동안 더스트에서 벚꽃결정이 이동했다면, 대응한 《공격》에 아래를 수행한다.\r\n그 《공격》은 오라 데미지가 3 이상이라면 -1/+0, 그렇지 않다면 +0/-1 된다.",
+        "description": "위증 (대응으로는 위증을 수행할 수 없다.)\r\n【상시】 이번 턴 동안 더스트에서 벚꽃결정이 이동했다면, 대응한 《공격》에 아래를 수행한다.\r\n그 《공격》은 오라 데미지가 3 이상이라면 -1/+0, 그렇지 않다면 +0/-1 된다.",
         "imagePath": "/furuyoni/images/card/kor/22-O-N-3.webp",
         "category": "통상패"
       },
@@ -10703,8 +10706,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くろぬり\r\n玄塗り",
+        "description": "偽証（偽証は対応では行えない）\r\n【攻撃後】このターン中にダストから桜花結晶が移動しているならば、対応した《攻撃》に以下を行う。\r\nその《攻撃》はオーラへのダメージが3以上ならば-1/+0、そうでないならば+0/-1となる。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -10733,8 +10736,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "あおりたて\r\n煽り殺陣",
+        "description": "相手を畏縮させる。\r\nこのターン中に相手が反証に失敗しているならば、あなたの捨て札にある偽証を持つカード1枚を選び、手札に戻してもよい。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-O-N-4.webp"
@@ -10760,8 +10763,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くもぐい\r\n雲喰い",
+        "description": "偽証\r\nあなたの捨て札と付与札に通常札が合計3枚以上あるならば、相手は手札を1枚伏せ札にする。伏せ札にしようとした上で行えないならば、相手を畏縮させる。\r\n【常時】この偽証に反証されてこのカードが本物だったならば、相手は焦燥を1回でなく2回受ける。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-O-N-5.webp"
@@ -10776,7 +10779,7 @@
         "name": "낚시질",
         "type": "행동",
         "subType": "대응",
-        "description": "위증\r\n간격 → 자신 플레어 (1)",
+        "description": "위증 (대응으로는 위증을 수행할 수 없다.)\r\n간격 → 자신 플레어 (1)",
         "imagePath": "/furuyoni/images/card/kor/22-O-N-6.webp",
         "category": "통상패"
       },
@@ -10789,8 +10792,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "うおつり\r\n魚吊り",
+        "description": "偽証（偽証は対応では行えない）\r\n間合→自フレア：1",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -10817,8 +10820,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ひきがたり\r\n惹き騙り",
+        "description": "【展開時/破棄時】現在の間合が2以上ならば、間合→ダスト：1",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-O-N-7.webp"
@@ -10845,8 +10848,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "＝ナ＝＝ミ＝＝＝\r\nラナラロミレリラ",
+        "description": "【常時】このカードは対応でしか使用できない。\r\n相手の手札を見て、《全力》でない他のメガミのカード1枚を選んでもよい。そうした場合、そのカードを使用するか伏せ札にする。使用されたカードはこのカードが対応している《攻撃》に対応しているものと扱う。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/22-O-S-1.webp"
@@ -10877,8 +10880,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "＝ナ＝＝ミ＝＝＝\r\nラナラロミレリラ",
+        "description": "【常時】このカードは対応でしか使用できない。\r\n相手の手札を見て、《全力》でない他のメガミのカード1枚を選んでもよい。そうした場合、そのカードを使用するか伏せ札にする。使用されたカードはこのカードが対応している《攻撃》に対応しているものと扱う。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -10908,8 +10911,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "オ＝＝テ＝＝ル\r\nオリレテラレル",
+        "description": "眼前構築で選んでいないあなたの通常札から偽証を持つ1枚を公開し、それを使用する。その後、それを取り除く。このカードが対応している《攻撃》があるならば、使用されたカードはそれに対応しているものと扱う。\r\n【再起】あなたの捨て札と付与札に通常札が合計3枚以上ある。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -10937,8 +10940,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "よやまれんりのなれのはて\r\n夜山恋離のなれの果て",
+        "description": "終端\r\n【展開時】追加札から「刻まれし衣」を未使用で得る。\r\n【展開中】この付与札の上の桜花結晶はあなたの開始フェイズの処理でしか移動しない。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/22-O-S-4.webp"
@@ -10968,8 +10971,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-O-S-4-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きざまれしころも\r\n刻まれし衣",
+        "description": "【常時】このカードはあなたの「夜山恋離のなれの果て」の上の桜花結晶の個数に応じて、以下のカードの複製となる。\r\n3以上…「久遠ノ花」\r\n2…「完全論破」\r\n1…「望我」\r\n0…「御剱桐子の巫女神楽」",
         "type": "不定",
         "subType": "不定",
         "category": "切札",
@@ -10997,8 +11000,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-kiriko-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みつるぎきりこのみこかぐら\r\n御剱桐子の巫女神楽",
+        "description": "【使用済】あなたが剣舞により基本動作《纏い》を行うならば、代わりに基本動作《宿し》を行ってもよい。\r\n【使用済】あなたがこのターンに3回目の剣舞を行った時、このカードを使用してもよい。（消費は支払う）",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/22-kiriko-O-S-4.webp"
@@ -11029,8 +11032,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-A1-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ぎまんのきり\r\n欺瞞の霧",
+        "description": "【常時】このカードを、相手が眼前構築で選びうる他のメガミの《付与》でない通常札として通常の方法で使用を宣言しても よい。そうした場合、相手は相手の手札、伏せ札、捨て札からそのカードを公開できる。 公開されたならば、このカードは使用されずに捨て札となる。",
         "type": "不定",
         "subType": "不定",
         "category": "通常札",
@@ -11057,8 +11060,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-A1-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "しんじゅ\r\n神授",
+        "description": "この「神授」を山札の上に置き、その後に遺物にある通常札1枚と交換する。\r\n【常時】山札を再構成する直前にこの「神授」 が捨て札にあるならば、 このカードを使用してもよい。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-A1-N-6.webp"
@@ -11088,8 +11091,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-A1-N-6-Ex1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いつわりのぶき\r\n偽りの武器",
+        "description": "偽証設置　偽証　回帰\r\n【攻撃後】偽火―あなたがこのターンで3枚目に使うカードが 《攻撃》 カードならば、その《攻撃》は+0/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-A1-N-6-Ex1.webp"
@@ -11117,8 +11120,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-A1-N-6-Ex2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "やいばのほんしつ\r\n刃の本質",
+        "description": "偽証　回帰\r\n【常時】奉納―「ロルレロラルロ」の上に桜花結晶があるならば、この《攻撃》は+0/+1となる。\r\n【常時】このカードを回帰した時、相手の集中力は0になる。\r\n（このカードはザンカのカードとして扱う）",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-A1-N-6-Ex2.webp"
@@ -11146,8 +11149,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-A1-N-6-Ex3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さいしょのさくらすず\r\n最初の桜鈴",
+        "description": "偽証　回帰\r\n基本動作を1回行う。 このカードが反証されていないならば、さらにもう1回行う。\r\n光輝―ダストが5以下ならば伏せ札からカードを1枚選び、山札の一番下に置く。\r\n【常時】このカードが回帰した時、ダスト→自ライフ：1\r\n（このカードはヲウカのカードとして扱う）",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/22-A1-N-6-Ex3.webp"
@@ -11173,8 +11176,8 @@
         "imagePath": "/furuyoni/images/card/eng/22-A1-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "＝＝＝＝＝＝＝\r\nロルレロラルロ",
+        "description": "【使用済】あなたの終了フェイズに納3として、そのうちの1つをライフから納める形でこのカードを使用してもよい。\r\n【展開中】あなたのメインフェイズの開始時にカード を1枚引いてもよい。\r\n【展開中】相手が焦燥で受けるダメージが2/1になる。\r\n【展開中】あなたの偽証が反証されなかったならば、 そのカードを公開してもよい。それが偽物だったならば、集中力を1得る。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/22-A1-S-1.webp"
@@ -11195,15 +11198,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Abacus Beads",
+        "description": "After Attack: Choose one:\r\n・Gain 1 Vigor.\r\n・Divest.\r\n・Your Flare (1)↔ Your Flow",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/23-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "そろばんだま\r\n算盤玉",
+        "description": "【攻撃後】以下から1つを選ぶ。\r\n・あなたは集中力を１得る。\r\n・回収を行う。\r\n・自フレア⇔自フロー：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-N-1.webp"
@@ -11224,15 +11227,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Browbeat",
+        "description": "Investment\r\nForced: If you have more funds than your opponent, this attack gains +0/+1.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/23-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "どうかつ\r\n恫喝",
+        "description": "投資券\r\n【常時】あなたの資本が相手の資本より大きいならば、この《攻撃》は+0/+1となる。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-N-2.webp"
@@ -11253,15 +11256,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Barter",
+        "description": "Terminal\r\nAfter Attack: If you have at least 3 more funds than your opponent, choose up to 1 card from a non-Akina Megami in your played pile and put it in your hand.\r\nAfter Attack: If you have more funds than your opponent, you may perform a basic action.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/23-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "こうえき\r\n交易",
+        "description": "終端\r\n【攻撃後】あなたの資本が相手の資本より3以上大きいならば、捨て札にある他のメガミのカード１枚までを選び、手札に戻す。\r\n【攻撃後】あなたの資本が相手の資本より大きいならば、基本動作を1回行ってもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-N-3.webp"
@@ -11282,15 +11285,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Speculate",
+        "description": "Choose one:\r\n・Your Aura (2)→ Your Flow\r\n・Shadow (2)→ Your Aura",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/23-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "とうき\r\n投機",
+        "description": "以下から1つを選ぶ。\r\n・自オーラ→自フロー：2\r\n・ダスト→自オーラ：2",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-N-4.webp"
@@ -11305,21 +11308,21 @@
         "name": "산법",
         "type": "행동",
         "subType": "대응",
-        "description": "당신은 집중력을 1 얻는다.\r\n이번 턴 동안, 《공격》은 모든 적정거리가 1 감소한다.",
+        "description": "당신은 집중력을 1 얻는다.\r\n이번 턴 동안, 《공격》은 모든 적정거리가 1 감소한다.\r\n(예를 들어 3-4는 2-3이 된다)",
         "imagePath": "/furuyoni/images/card/kor/23-O-N-5.webp",
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Calculate",
+        "description": "Gain 1 Vigor.\r\nFor the rest of the turn, all Range values of attacks are reduced by 1.\r\n(For example, a Range of 3-4 becomes 2-3.)",
         "type": "Action",
         "subType": "Reaction",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/23-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "さんぽう\r\n算法",
+        "description": "あなたは集中力を1得る。\r\nこのターン中、《攻撃》は全ての適正距離が1減少する。\r\n（例えば3-4は2-3となる）",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -11339,15 +11342,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Contingency",
+        "description": "Range Restriction (0-3)\r\nInitialize: Opponent's Flare (2)→ Distance\r\nDisenchant: Distance (1)→ Opponent's Flare",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/23-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ばんくるわせ\r\n盤狂わせ",
+        "description": "間合制限（0-3）\r\n【展開時】相フレア→間合：2\r\n【破棄時】間合→相フレア：1",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-N-6.webp"
@@ -11368,16 +11371,16 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Direct Financing",
+        "description": "Unguarded    Investment\r\nInitialize: Opponent's Aura (1)→ Your Aura. You may spend 1 vigor. If you do, perform this arrow effect again.\r\nDisenchant: You may attack with 『Range: 2-5, Damage: 1/0』.",
         "type": "Enhancement",
         "subType": "Throughout",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/23-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ちょくせつきんゆう\r\n直接金融",
+        "description": "隙　投資券\r\n【展開時】相オーラ→自オーラ：1\r\n集中力を1支払ってもよい。 そうした場合、この矢印効果をもう1回行う。\r\n【破棄時】攻撃『適正距離2-5、1/0』を行ってもよい。",
         "type": "付与",
         "subType": "全力",
         "category": "通常札",
@@ -11393,20 +11396,20 @@
       "kor": {
         "name": "개방명식절취법",
         "type": "행동",
-        "description": "공격 『적정거리 0-10, -/1, 【상시】 이 《공격》이 대응되었다면, 이 《공격》은 무효화된다. 【상시】 이 《공격》의 데미지는 변화하지 않는다.』을 수행한다. 그 후, 당신의 자본이 상대의 자본보다 많다면, 이 카드를 사용한다.",
+        "description": "공격 『적정거리 0-10, -/1, 【상시】 이 《공격》이 대응되었다면, 이 《공격》은 무효화된다. 【상시】 이 《공격》의 데미지는 변화하지 않는다.』을 수행한다. 그 후, 당신의 자본이 상대의 자본보다 많다면, 이 카드를 사용한다.\r\n(소모값은 지불하며, 그 값은 시세 이외의 효과로는 변화하지 않는다)",
         "imagePath": "/furuyoni/images/card/kor/23-O-S-1.webp",
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Hostile Takeover",
+        "description": "You attack with 『Range: 0-10, Damage: -/1, Forced: If a Reaction is made to this attack, cancel this attack., Forced: This attack's Damage cannot be modified.』 Then, if you have more funds than your opponent, play this card (again, paying its cost).",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/23-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かいほうめいしききりとりほう\r\n開方冥式切取法",
+        "description": "攻撃『適正距離0-10　-/1、【常時】この《攻撃》が対応されたならば、この攻撃は打ち消される。【常時】この《攻撃》のダメージは変化しない』を行う。その後、あなたの資本が相手の資本より大きいならばこのカードを使用する。\r\n（消費は支払い、それは時価以外で変化しない）",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-S-1.webp"
@@ -11427,16 +11430,16 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Count Surfeit",
+        "description": "After Attack:\r\nYour Flare (1)→ Your Aura\r\nYour Flow (1)→ Your Aura\r\nYour Life (1)→ Your Aura",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/23-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "だいえんさんかてうちひょう\r\n大衍算顆手打表",
+        "description": "【攻撃後】自フレア→自オーラ：1\r\n自フロー→自オーラ：1\r\n自ライフ→自オーラ：1",
         "type": "攻撃",
         "subType": "対応",
         "category": "切札",
@@ -11459,15 +11462,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Protection Money",
+        "description": "Initialize: Move 4 Sakura tokens from your Life to your Flare.\r\nOngoing: Sakura tokens cannot leave this card except by this card's effects.\r\nOngoing: If you would lose the game when your Life is 0, instead move 4 Sakura tokens from your Flare to your Life, move all Sakura tokens from this card to Shadow, and remove this card from the game.",
         "type": "Enhancement",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/23-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "すいだちくちゅうもりりょうじゅつ\r\n衰垜逐肘守料術",
+        "description": "【展開時】あなたのライフからフレアへと桜花結晶を4つ移動させる。\r\n【展開中】このカードの効果以外でこの付与札の上の桜花結晶は移動しない。\r\n【展開中】あなたのライフが0の時にあなたが敗北するならば、代わりにあなたのフレアからライフへと桜花結晶を4つ移動させる。その後、この付与札の上の桜花結晶を全てダストに送り、このカードを取り除く。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-S-3.webp"
@@ -11488,15 +11491,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Akina's Revelatory Audit",
+        "description": "Range Restriction (0-7)    Investment\r\nYou may Divest. If you do, perform up to 2 Recover basic actions and remove this card from the game.\r\nDevoted: At the beginning of your main phase, you may perform a Focus basic action instead of divesting.",
         "type": "Action",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/23-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "みなかみあきなのごめいさん\r\n源上安岐那の御明算",
+        "description": "間合制限（0-7）　投資券\r\n回収を行ってもよい。そうした場合、基本動作《纏い》を2回まで行い、このカードを取り除く。\r\n【使用済】あなたのメインフェイズの開始時に、あなたは回収を行う代わりに基本動作《宿し》を1回行ってもよい。",
         "type": "行動",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/23-O-S-4.webp"
@@ -11516,14 +11519,14 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
+        "name": "Hack",
         "description": "",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/24-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
+        "name": "のこぎり\r\n鋸斬り",
         "description": "",
         "type": "攻撃",
         "category": "通常札",
@@ -11545,15 +11548,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Carve",
+        "description": "After Attack: You attack with 『Range: 2-3, Damage: {1/2}, Forced: If the number of your Laceration tokens on your opponent's Aura is greater than or equal to their Aura, your opponent cannot choose to take this attack's damage to Aura.』",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/24-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "きざみやいば\r\n刻み刃",
+        "description": "【攻撃後】攻撃『適正距離2-3、{1/2}、【常時】相手のオーラに置かれたあなたの裂傷トークンの個数が相手のオーラ以上ならば、相手はオーラへのダメージを選べない』を行う。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/24-O-N-2.webp"
@@ -11575,16 +11578,16 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Revolt",
+        "description": "Forced: This attack gains +1/+1 if you've taken damage this turn.\r\nAfter Attack: If you've taken damage twice or more this turn, perform a Recover basic action.",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/24-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はんらんげき\r\n反乱撃",
+        "description": "【常時】あなたがこのターン中にダメージを受けているならば、この《攻撃》は+1/+1となる。\r\n【攻撃後】あなたがこのターン中にダメージを2回以上受けているならば、基本動作《纏い》を1回行う。",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -11607,16 +11610,16 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Insurrection",
+        "description": "No Reactions\r\nAfter Attack: Flinch your opponent. Lacerate your Aura, Flare, or Life once.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/24-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "てっていこうせん\r\n徹底抗戦",
+        "description": "対応不可\r\n【攻撃後】相手を畏縮させ、あなたのオーラかライフかフレアに裂傷を1与える。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -11638,15 +11641,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Travail",
+        "description": "Distance (2)→ Shadow\r\nLacerate your Aura or Flare once. If the current Distance is 0, instead Lacerate your Life once.",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/24-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "いばらみち\r\n茨道",
+        "description": "間合→ダスト：2\r\nあなたのオーラかフレアに裂傷を1与える。現在の間合が0ならば、代わりにライフに裂傷を1与える。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/24-O-N-5.webp"
@@ -11665,15 +11668,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Fragile Mend",
+        "description": "Range Restriciton (0-4)\r\nPerform 2 Recover basic actions, then lacerate your Aura or Flare once.\r\nYour opponent chooses their Aura or Flare. Lacerate the chosen zone once.",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/24-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かなくずまとい\r\n金屑纏い",
+        "description": "間合制限（0-4）\r\n基本動作《纏い》を2回行う。あなたはあなたのオーラかフレアを選ぶ。相手は相手のオーラかフレアを選ぶ。選ばれた領域に裂傷を1ずつ与える。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/24-O-N-6.webp"
@@ -11693,16 +11696,16 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Ebon Nidana",
+        "description": "Choose up to X, where X is the number of times you've taken damage this turn. You may not choose the same option more than once.\r\n•The Attack this card was played as a reaction to gets +0/-1.\r\n•Flinch your opponent.\r\n•Your opponent must choose to lacerate their Aura, Flare, or Life once.",
         "type": "Action",
         "subType": "Reaction",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/24-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くろききずな\r\n黒き絆",
+        "description": "以下から異なるX個までを選ぶ。Xはあなたがこのターンにダメージを受けた回数に等しい。\r\n・対応した《攻撃》を +0/-1する。\r\n・相手を畏縮させる。\r\n・相手は相手のオーラかフレアかライフから1つ選ぶ。 あなたはそこに裂傷を1与える。",
         "type": "行動",
         "subType": "対応",
         "category": "通常札",
@@ -11723,16 +11726,16 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Seventh Circle - Padma",
+        "description": "Forced: If this card was played as a Reaction to an attack, resolve its effects after that attack resolves.\r\nChoose any number of zones. Apply the damage of your Laceration tokens in those zones in the order of your choosing. Then, you attack with 『Range: 1-4, Damage: 2/1, No Reactions (Normal), Forced: This attack gains +0/+X, where X is half the number of times you've taken damage this turn, rounded down.』",
         "type": "Action",
         "subType": "Reaction",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/24-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ハドマギリ",
+        "description": "【常時】このカードが対応している《攻撃》があるならば、その《攻撃》の解決後にこのカードの効果を解決する。\r\n任意の数の領域を選び、それらに置かれたあなたの裂傷トークンを任意の順でダメージ化する。その後、攻撃『適正距離1-4、2/1、対応不可（通常札）、【常時】この《攻撃》は+0/+Xとなる。Xはあなたがこのターン中にダメージを受けた回数の半分（切り上げ）に等しい』を行う。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -11753,15 +11756,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Sixth Circle - Utpala",
+        "description": "After Attack: If your opponent chose to take damage to Life, the Damage from your next attack this turn that has 2 or less Damage to Aura becomes Lacerated.\r\nResurgence: Your total Aura and Flare is 6 or less.",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/24-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ウバラザキ",
+        "description": "【攻撃後】相手がライフへのダメージを選んだならば、このターンにあなたが次に行うオーラへのダメージが2以下の《攻撃》のダメージは裂傷化する。\r\n【再起】あなたのオーラとフレアの合計が6以下である。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/24-O-S-2.webp"
@@ -11784,16 +11787,16 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "First Circle - Arbuda",
+        "description": "Cancel the damage of the attack you played this card as a Reaction to. If you did, Lacerate yourself for {X/Y}, where X and Y are the Damage values of that attack.\r\nImmediate Resurgence: You take damage for the third time in a turn.",
         "type": "Action",
         "subType": "Reaction",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/24-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "アブダグイ",
+        "description": "対応した《攻撃》のダメージを打ち消す。そうした場合、あなたは{X/Y}の裂傷を受ける。X/Yは打ち消したダメージの値に等しい。\r\n【即再起】あなたがこのターンに3回目のダメージを受ける。",
         "type": "行動",
         "subType": "対応",
         "category": "切札",
@@ -11815,16 +11818,16 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Shisui's Last Gasp",
+        "description": "Initialize: Move X Sakura tokens from your opponent's Flare to this card. If your opponent has more Flare than you, X is equal to the difference. Otherwise, X is 0.\r\nOngoing: You cannot lose the game.\r\nOngoing: As long as your Life is 0, your opponent can't spend Vigor.",
         "type": "Enhancement",
         "subType": "Throughout",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/24-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "くわはたしすいのしにどころ\r\n桑畑志水の死に所",
+        "description": "【展開時】このカードの上に桜花結晶をX個相手のフレアから置く。相手のフレアがあなたのフレアより大きいならば、Xはその差に等しい。そうでないならばXは0である。\r\n【展開中】あなたは敗北しない。\r\n【展開中】あなたのライフが0ならば、相手は集中力を支払えない。",
         "type": "付与",
         "subType": "全力",
         "category": "切札",
@@ -11846,15 +11849,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Fluent Shoot",
+        "description": "Forced: If your Aim is correct, this attack's damage to Aura becomes 「-」.\r\nAfter Attack: If the current Distance equals your aim: Shadow(1)→your Aura",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/25-O-N-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ゆみながし\r\n弓流し",
+        "description": "【常時】照準が合っているならば、この《攻撃》のオーラへのダメージは「-」になる。\r\n【攻撃後】現在の間合と照準が等しいならば、ダスト→自オーラ：1",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/25-O-N-1.webp"
@@ -11875,15 +11878,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Sharpstrike",
+        "description": "After Attack: You may increase or decrease your Aim by 1.",
         "type": "Attack",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/25-O-N-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ねらいげり\r\n狙い蹴り",
+        "description": "【攻撃後】あなたの照準を1増加させるか、1減少させてもよい。",
         "type": "攻撃",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/25-O-N-2.webp"
@@ -11905,16 +11908,16 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Ventilate",
+        "description": "After Attack: Peform the option below based on the difference between the current Distance and your Aim.\r\nIf Distance > your Aim: Distance(1)→Shadow\r\nIf Distance = your Aim: Shadow(1)→your Aura\r\nIf Distance < your Aim: Shadow(1)→Distance",
         "type": "Attack",
         "subType": "Reaction",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/25-O-N-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "かざあな\r\n風孔",
+        "description": "【攻撃後】現在の間合と照準を比べて以下のいずれかを行う。\r\n・現在の間合＞照準…間合→ダスト：1\r\n・現在の間合＝照準…ダスト→自オーラ：1\r\n・現在の間合＜照準…ダスト→間合：1",
         "type": "攻撃",
         "subType": "対応",
         "category": "通常札",
@@ -11937,16 +11940,16 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Twin Arrows",
+        "description": "Tracking\r\nAfter Attack: Your opponent must put an attack card from their hand into their played pile. If they cannot, they must reveal their hand, then put the top 3 cards of their deck into their discard pile.",
         "type": "Attack",
         "subType": "Throughout",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/25-O-N-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "はやおとや\r\n甲矢乙矢",
+        "description": "追尾\r\n【攻撃後】相手は手札から《攻撃》カード1枚を捨て札にする。それが行えない場合、相手は手札を公開し、相手の山札の上から3枚を伏せ札にする。",
         "type": "攻撃",
         "subType": "全力",
         "category": "通常札",
@@ -11968,15 +11971,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Honing",
+        "description": "Gain 1 vigor.\r\nYour next attack this turn from a non-Misora megami's normal attack card that doesn't have 「-」 damage to Aura gains \"+1/+1\" if your Aim is correct.",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/25-O-N-5.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "せいみつか\r\n精密化",
+        "description": "集中力を1得る。\r\nこのターンにあなたが次に行う他のメガミの通常札によるオーラへのダメージが「-」でない《攻撃》は、照準が合っているならば+1/+1となる。",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/25-O-N-5.webp"
@@ -11990,20 +11993,20 @@
       "kor": {
         "name": "추미격",
         "type": "행동",
-        "description": "안전구축에서 선택하지 않은 다른 여신의 카드 또는 덮음패에서, 《전력》이 아닌 《공격》 통상패를 1장 골라, 그 카드에 추적을 추가하여 사용한다.\r\n게임 바깥에서 사용한 카드가 영역을 이동한다면, 그 대신 뒷면으로 게임에서 제외한다.",
+        "description": "안전구축에서 선택하지 않은 다른 여신의 카드 또는 덮음패에서, 《전력》이 아닌 《공격》 통상패를 1장 골라, 그 카드에 추적을 추가하여 사용한다.\r\n게임 바깥에서 사용한 카드가 영역을 이동한다면, 그 대신 뒷면으로 게임에서 제외한다.\r\n(안전구축에서 선택하지 않은 상태로 돌아간다)",
         "imagePath": "/furuyoni/images/card/kor/25-O-N-6.webp",
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Tracking Strike",
+        "description": "Choose a non-Throughout Normal Attack card from the non-Misora Megami cards that you did not include in your deck during deck construction or from your discard pile.\r\nGive it Tracking and then play it. When a card is played from out of the game in this way changes zones, instead return it to \"outside of game\" face-up.",
         "type": "Action",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/25-O-N-6.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ついびげき\r\n追尾撃",
+        "description": "眼前構築で選んでいない他のメガミのカードまたは伏せ札のカードから、《全力》でない《攻撃》の通常札1枚を選び、それに追尾を与えて使用する。ゲーム外から使用したそのカードが領域を移動するならば、代わりに裏向きで取り除く。\r\n（このカードを右クリックすることで、眼前構築で選んでいないカードを取得可能。また、使用したカードを右クリックすることで取り除くことができる）",
         "type": "行動",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/25-O-N-6.webp"
@@ -12022,15 +12025,15 @@
         "category": "통상패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Wings of Sky",
+        "description": "Terminal\r\nInitialize: Opponent's Aura(2)→Distance\r\nDisenchant: For the rest of this turn, the current Distance is increased by 1 and the size of the Mastery Zone is increased by 1.",
         "type": "Enhancement",
         "category": "Normal",
         "imagePath": "/furuyoni/images/card/eng/25-O-N-7.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "そらのつばさ\r\n空の翼",
+        "description": "終端　間合制限（0-3）\r\n【展開時】相オーラ→間合：2\r\n【破棄時】このターン中、現在の間合は1増加し、達人の間合は1大きくなる。",
         "type": "付与",
         "category": "通常札",
         "imagePath": "/furuyoni/images/card/jpn/25-O-N-7.webp"
@@ -12050,15 +12053,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Beyond the Sight",
+        "description": "Tracking      No Reactions\r\nForced: X is 3 plus 2 times the number of Sakura tokens on this card.\r\nAfter Attack: If X is 7 or more, put your opponent's deck into their discard pile.\r\nDevoted: At the end of your turn, move a Sakura token from Shadow to this card, then turn this card face-down.",
         "type": "Attack",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/25-O-S-1.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ミハテヌハテ",
+        "description": "追尾　対応不可\r\n【常時】Xは3にこのカードの上の桜花結晶の数の2倍を加えた値に等しい。\r\n【攻撃後】Xが7以上ならば、相手の山札を全て伏せ札にする。\r\n【使用済】あなたの終了フェイズにこのカードの上にダストから1つ桜花結晶を置き、このカードを未使用に戻す。",
         "type": "攻撃",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/25-O-S-1.webp"
@@ -12080,15 +12083,15 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Crowded Clouds",
+        "description": "Ongoing: The current Distance becomes equal to your Aim if your Aim has a value.\r\nOngoing: You cannot perform the Forward Movement or Retreat basic actions.",
         "type": "Enhancement",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/25-O-S-2.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ツクモノクモ",
+        "description": "【展開中】照準があるならば、現在の問合は照準に等しくなる。\r\n【展開中】あなたは基本動作《前進》と《離脱》を行えない。",
         "type": "付与",
         "category": "切札",
         "imagePath": "/furuyoni/images/card/jpn/25-O-S-2.webp"
@@ -12110,16 +12113,16 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Illusionalize",
+        "description": "Initialize: Cancel the Normal attack card you played this card as a reaction to if your Aim is inside the attack's effective range values, then Seal it.\r\nDisenchant: Put the sealed card in your opponent's played pile.",
         "type": "Enhancement",
         "subType": "Reaction",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/25-O-S-3.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "カカゲルカゲ",
+        "description": "【展開時】対応した通常札による《攻撃》の適正距離があなたの照準を含むならば、対応した《攻撃》を打ち消し、そのカードをこのカードの下に封印する。\r\n【破棄時】このカードに封印されたカードを相手の捨て札に戻す。",
         "type": "付与",
         "subType": "対応",
         "category": "切札",
@@ -12142,16 +12145,16 @@
         "category": "비장패"
       },
       "eng": {
-        "name": "",
-        "description": "",
+        "name": "Misora's Sky",
+        "description": "Ongoing: Increase the current Distance by 5.\r\nDisenchant:\r\nOpponent's Life(1)→Distance\r\nOpponent's Aura(1)→Distance\r\nOpponent's Flare(1)→Distance\r\nDevoted: You cannot play this card.",
         "type": "Enhancement",
         "subType": "Throughout",
         "category": "Special",
         "imagePath": "/furuyoni/images/card/eng/25-O-S-4.webp"
       },
       "jpn": {
-        "name": "",
-        "description": "",
+        "name": "ミソラノソラ",
+        "description": "【展開中】現在の間合は5増加する。\r\n【破棄時】相ライフ→間合：1、相オーラ→間合：1、相フレア→間合：1\r\n【使用済】このカードは使用できない。",
         "type": "付与",
         "subType": "全力",
         "category": "切札",

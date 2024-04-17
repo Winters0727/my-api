@@ -54,7 +54,7 @@ export interface Character {
   eng: CharacterData;
   jpn: CharacterData;
   mode: CharacterMode[];
-  normalCards: CharacterCards | Card[];
-  specialCards: CharacterCards | Card[];
-  extraCards: CharacterCards | Card[];
+  normalCards: CharacterCards[] | Card[];
+  specialCards: CharacterCards[] | Card[];
+  extraCards: CharacterCards[] | Card[];
 }

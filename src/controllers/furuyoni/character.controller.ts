@@ -11,6 +11,8 @@ import type {
 } from "@customTypes/furuyoni/character.type";
 import type { Card } from "@customTypes/furuyoni/card.type";
 
+const CARD_EXCEPTION = ["NA-22-kiriko-O-S-4"];
+
 const sortCards = (cards: Card[]) =>
   cards.sort(
     (prev, next) =>
@@ -287,11 +289,17 @@ const getCharacter = async (req: Request, res: Response) => {
       if (detail === "true") {
         const { normalCards, specialCards } = character;
 
-        [normalCards as Card[], specialCards as Card[]].forEach(
+        [(normalCards as Card[], specialCards as Card[])].forEach(
           (cards: Card[]) => {
             sortCards(cards);
           }
         );
+
+        // TODO: 위에서 renri 카드에 왜 키리코 카드가 포함되는지 나중에 수정해야 함
+        if (char === "renri" && detail)
+          character.specialCards = character.specialCards.filter(
+            (card) => !CARD_EXCEPTION.includes((card as Card).fullCode)
+          ) as Card[];
       }
 
       return res.status(200).json({
