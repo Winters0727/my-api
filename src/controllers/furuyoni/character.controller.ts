@@ -206,6 +206,11 @@ const getCharacter = async (req: Request, res: Response) => {
                       {
                         $project: cardProjection,
                       },
+                      {
+                        $sort: {
+                          fullCode: 1,
+                        },
+                      },
                     ],
                     as: "normalCards",
                   },
@@ -228,6 +233,11 @@ const getCharacter = async (req: Request, res: Response) => {
                       {
                         $project: cardProjection,
                       },
+                      {
+                        $sort: {
+                          fullCode: 1,
+                        },
+                      },
                     ],
                     as: "specialCards",
                   },
@@ -249,6 +259,11 @@ const getCharacter = async (req: Request, res: Response) => {
                       },
                       {
                         $project: cardProjection,
+                      },
+                      {
+                        $sort: {
+                          fullCode: 1,
+                        },
                       },
                     ],
                     as: "extraCards",
