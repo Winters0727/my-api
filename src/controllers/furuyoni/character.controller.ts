@@ -13,12 +13,17 @@ import type { Card } from "@customTypes/furuyoni/card.type";
 
 const CARD_EXCEPTION = ["NA-22-kiriko-O-S-4"];
 
-const sortCards = (cards: Card[]) =>
-  cards.sort(
-    (prev, next) =>
-      parseInt(prev.code[(prev.code.length as number) - 1]) -
-      parseInt(next.code[(next.code.length as number) - 1])
-  );
+const parseCode = (code: string) => {
+  const [charCode, name, mode, category, cardIndex, ...rest] = code.split("-");
+  return {
+    charCode,
+    name,
+    mode,
+    category,
+    cardIndex,
+    rest,
+  };
+};
 
 const getCharacterList = async (req: Request, res: Response) => {
   try {
@@ -105,7 +110,6 @@ const getCharacterListWithModes = async (req: Request, res: Response) => {
       length: characters.length,
     });
   } catch (err: any) {
-    console.log(err);
     return res.status(500).json({
       result: "fail",
       error: "Internal Server Error",
@@ -302,13 +306,32 @@ const getCharacter = async (req: Request, res: Response) => {
 
     if (character) {
       if (detail === "true") {
-        const { normalCards, specialCards } = character;
+        (character.normalCards as Card[]).sort((prev, next) => {
+          const prevData = parseCode(prev.fullCode.replace("NA-", ""));
+          const nextData = parseCode(next.fullCode.replace("NA-", ""));
 
-        [(normalCards as Card[], specialCards as Card[])].forEach(
-          (cards: Card[]) => {
-            sortCards(cards);
+          return parseInt(prevData.cardIndex) - parseInt(nextData.cardIndex);
+        });
+
+        (character.specialCards as Card[]).sort((prev, next) => {
+          const prevData = parseCode(prev.fullCode.replace("NA-", ""));
+          const nextData = parseCode(next.fullCode.replace("NA-", ""));
+
+          return parseInt(prevData.cardIndex) - parseInt(nextData.cardIndex);
+        });
+
+        (character.extraCards as Card[]).sort((prev, next) => {
+          const prevData = parseCode(prev.fullCode.replace("NA-", ""));
+          const nextData = parseCode(next.fullCode.replace("NA-", ""));
+
+          if (prevData.category === nextData.category) {
+            if (prevData.cardIndex === nextData.cardIndex) {
+              return prevData.rest < nextData.rest ? -1 : 1;
+            }
+            return parseInt(prevData.cardIndex) - parseInt(nextData.cardIndex);
           }
-        );
+          return prevData.category < nextData.category ? -1 : 1;
+        });
 
         // TODO: 위에서 renri 카드에 왜 키리코 카드가 포함되는지 나중에 수정해야 함
         if (char === "renri" && detail)

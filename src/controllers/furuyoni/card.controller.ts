@@ -18,6 +18,18 @@ const toPascalCase = (str: string) => {
   return first.toUpperCase() + rest.join("").toLowerCase();
 };
 
+const parseCode = (code: string) => {
+  const [charCode, name, mode, category, cardIndex, ...rest] = code.split("-");
+  return {
+    charCode,
+    name,
+    mode,
+    category,
+    cardIndex,
+    rest,
+  };
+};
+
 const createSearchQuery = (query: Request["query"], lang: string) => {
   const { category, type, sub } = query;
 
@@ -405,17 +417,41 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
         .skip((currentPage - 1) * perPage)
         .limit(perPage)
         .project(cardProjection)
+        .sort({ fullCode: 1 })
         .toArray();
 
-      if (cards)
-        return res.status(200).json({
-          result: "success",
-          cards,
-          page: currentPage,
-          totalPage: totalPageCount,
-          length: cards.length,
-          totalLength: totalCardCount,
+      if (cards) {
+        cards.sort((prev, next) => {
+          const prevData = parseCode(prev.fullCode.replace("NA-", ""));
+          const nextData = parseCode(next.fullCode.replace("NA-", ""));
+
+          if (prevData.charCode === nextData.charCode) {
+            if (prevData.mode === nextData.mode) {
+              if (prevData.category === nextData.category) {
+                return (
+                  parseInt(prevData.cardIndex) - parseInt(nextData.cardIndex)
+                );
+              }
+              return prevData.category < nextData.category ? -1 : 1;
+            }
+            return prevData.mode === "O"
+              ? -1
+              : prevData.mode < nextData.mode
+              ? -1
+              : 1;
+          }
+          return parseInt(prevData.charCode) - parseInt(nextData.charCode);
         });
+      }
+
+      return res.status(200).json({
+        result: "success",
+        cards,
+        page: currentPage,
+        totalPage: totalPageCount,
+        length: cards.length,
+        totalLength: totalCardCount,
+      });
     }
 
     return res.status(404).json({
@@ -423,7 +459,6 @@ const getCardsByKeyword = async (req: Request, res: Response) => {
       error: "Not Found",
     });
   } catch (err: any) {
-    console.log(err);
     return res.status(500).json({
       result: "fail",
       error: "Internal Server Error",
