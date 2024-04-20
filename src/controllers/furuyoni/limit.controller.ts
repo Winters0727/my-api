@@ -309,4 +309,57 @@ const getLimitDates = async (req: Request, res: Response) => {
   }
 };
 
-export { getLimits, getLimitDates };
+const getLimitByDate = async (req: Request, res: Response) => {
+  try {
+    const currentTime = new Date();
+    const date =
+      req.params.date ||
+      `${currentTime.getFullYear()}-${(currentTime.getMonth() + 1)
+        .toString()
+        .padStart(2, "0")}`;
+    const lang = req.query.lang as Language | undefined;
+
+    const limitCollection = getCollection("furuyoni", "limit");
+
+    const langQuery = (lang && lang.toLowerCase()) || DEFAULT_LANG;
+
+    const limits = await limitCollection
+      .aggregate([
+        {
+          $match: {
+            limitAt: date,
+          },
+        },
+        {
+          $unwind: {
+            path: "$limitInfo",
+          },
+        },
+        {
+          $project: {
+            _id: 0,
+            fullCode: "$limitInfo.fullCode",
+            season: "$limitInfo.season",
+            for: `$limitInfo.${langQuery}.for`,
+          },
+        },
+      ])
+      .toArray();
+
+    return res.status(200).json({
+      result: "success",
+      limit: {
+        limitAt: date,
+        limits: limits,
+      },
+      length: limits.length,
+    });
+  } catch (err: any) {
+    return res.status(500).json({
+      result: "fail",
+      error: "Internal Server Error",
+    });
+  }
+};
+
+export { getLimits, getLimitDates, getLimitByDate };
